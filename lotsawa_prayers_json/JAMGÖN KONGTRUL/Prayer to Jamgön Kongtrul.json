@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-wangpo/prayer-to-jamgon-kongtrul",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཇམ་མགོན་ཀོང་སྤྲུལ་གྱི་གསོལ་འདེབས།",
+    "en": "Prayer to Jamgön Kongtrul1"
+  },
+  "text": [
+    {
+      "bo": "ཤེས་བྱ་ཀུན་གཟིགས་ཡོན་ཏན་རྒྱ་མཚོའི་གཏེར། །",
+      "en": "Seer of all that is knowable, treasury of an ocean of qualities,",
+      "en-trans": "sheja künzik yönten gyatsö ter"
+    },
+    {
+      "bo": "རྒྱལ་བས་ལུང་བསྟན་བློ་གྲོས་མཐའ་ཡས་ཏེ། །",
+      "en": "Lodrö Thayé, who was prophesied by the Conqueror,",
+      "en-trans": "gyalwé lungten lodrö tayé té"
+    },
+    {
+      "bo": "རིགས་ཀུན་ཁྱབ་བདག་པདྨ་གར་གྱི་དབང་། །",
+      "en": "Pema Garwang, lord of all buddha families,",
+      "en-trans": "rik künkhyab dak pema gar gyi wang"
+    },
+    {
+      "bo": "འཛམ་གླིང་ཤིང་རྟ་ཆེན་པོར་གསོལ་བ་འདེབས། །",
+      "en": "Great pioneer of the teachings in this world, to you I pray.",
+      "en-trans": "dzamling shingta chenpor solwa deb"
+    }
+  ]
+}

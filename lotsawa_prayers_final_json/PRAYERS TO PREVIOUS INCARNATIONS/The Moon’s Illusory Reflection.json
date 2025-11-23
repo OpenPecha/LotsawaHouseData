@@ -1,0 +1,776 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-chokyi-lodro/moons-illusory-reflection",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །སྐྱེས་རབས་གསོལ་འདེབས་ཆུ་ཟླའི་རྫུན་རིས་མོས་ལྡན་དགའ་བྱེད་ཅེས་བྱ་བ་བཞུགས་སོ། །",
+    "en": "The Moon’s Illusory Reflection to Gladden the Devoted"
+  },
+  "text": [
+    {
+      "bo": "ན་མོ་མཉྫ་ཤཱི་ཡེ།",
+      "en": "Namo Mañjuśriye.",
+      "en-trans": "namo manjushri ye"
+    },
+    {
+      "bo": "མཁའ་ཁྱབ་རྒྱལ་བ་ཀུན་གྱི་ཡེ་ཤེས་སྐུ། །",
+      "en": "Embodiment of the wisdom of all the buddhas throughout space,",
+      "en-trans": "khakhyab gyalwa kün gyi yeshe ku"
+    },
+    {
+      "bo": "རྒྱལ་བའི་ཡབ་གཅིག་རྗེ་བཙུན་མཁྱེན་པའི་གཏེར། །",
+      "en": "Only father of the victorious ones, noble treasury of knowledge,",
+      "en-trans": "gyalwé yab chik jetsün khyenpé ter"
+    },
+    {
+      "bo": "རྨོངས་པའི་དྲྭ་བ་མཐའ་དག་འདུལ་མཛད་པ། །",
+      "en": "Who dismantles the entanglements of delusion—",
+      "en-trans": "mongpé drawa tadak dul dzepa"
+    },
+    {
+      "bo": "བཅོམ་ལྡན་འཇམ་པའི་དབྱངས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Transcendent conqueror Mañjughoṣa, to you I pray.",
+      "en-trans": "chomden jampé yang la solwa deb"
+    },
+    {
+      "bo": "ཤཱཀྱའི་རྒྱལ་པོའི་གསུང་གི་སྲས་ཀྱི་མཆོག །",
+      "en": "Supreme heir to the speech of the King of Śākyas,",
+      "en-trans": "shakyé gyalpö sung gi sé kyi chok"
+    },
+    {
+      "bo": "མི་ཡི་མཆོག་གྱུར་ལི་ཙཱ་བི་ཞེས་གྲགས། །",
+      "en": "Best of men, famed as the Licchavi,",
+      "en-trans": "mi yi chokgyur litsawi zhé drak"
+    },
+    {
+      "bo": "གཞོན་ནུ་མཐོང་ན་དགའ་བའི་མཚན་གྱིས་སྙན། །",
+      "en": "Known as Priyadarśana the Youthful—",
+      "en-trans": "zhönnu tong na gawé tsen gyi nyen"
+    },
+    {
+      "bo": "དྲི་མེད་གྲགས་པའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Vimalakīrti, at your feet I pray.",
+      "en-trans": "drimé drakpé zhab la solwa deb"
+    },
+    {
+      "bo": "དགའ་རབ་དཔའ་བོའི་ཐུགས་ཀྱི་སྲས་ཆེན་པོ། །",
+      "en": "Great heart-son of the heroic Garab Dorje,",
+      "en-trans": "garab pawö tuk kyi sé chenpo"
+    },
+    {
+      "bo": "མཁྱེན་རབ་མཐའ་ཡས་བློ་གྲོས་ཆེན་པོའི་གཏེར། །",
+      "en": "Treasure of vast intelligence and limitless wisdom,",
+      "en-trans": "khyen rab tayé lodrö chenpö ter"
+    },
+    {
+      "bo": "སྡེ་གསུམ་ཀློང་དགུའི་བསྟན་པའི་ཤིང་རྟ་ཆེ། །",
+      "en": "Magnificent pioneer of the teachings of the three classes and nine spaces—",
+      "en-trans": "dé sum long gü tenpé shingta ché"
+    },
+    {
+      "bo": "མཉྫུ་མི་ཏྲའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Mañjuśrīmitra, at your feet I pray.",
+      "en-trans": "mandzu mitré zhab la solwa deb"
+    },
+    {
+      "bo": "སྣང་བཞིའི་མཐར་སོན་རིག་པ་འོད་སྐུར་སྨིན། །",
+      "en": "Perfecter of the four visions who matured into a body of awareness-light,",
+      "en-trans": "nang zhi tar sön rigpa ökur min"
+    },
+    {
+      "bo": "རྡོ་རྗེའི་སྐུ་བརྙེས་རི་བོ་རྩེ་ལྔར་བཞུགས། །",
+      "en": "Inhabiter of indestructible vajra form at the Five-Peaked Mountain,",
+      "en-trans": "dorjé ku nyé riwo tsé ngar zhuk"
+    },
+    {
+      "bo": "སྤྲུལ་པས་སྙིང་པོའི་བསྟན་པ་གསལ་བར་བྱེད། །",
+      "en": "Elucidator of the essential teachings through various emanations—",
+      "en-trans": "trulpé nyingpö tenpa salwar jé"
+    },
+    {
+      "bo": "བི་མ་མི་ཏྲའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Vimalamitra, at your feet I pray.",
+      "en-trans": "bima mitré zhab la solwa deb"
+    },
+    {
+      "bo": "བདེ་བ་མཆོག་གི་གྲུབ་པ་བརྙེས་པའི་ཕུལ། །",
+      "en": "Preeminent among those who have accomplished Supreme Bliss,",
+      "en-trans": "dewa chok gi drubpa nyepé pul"
+    },
+    {
+      "bo": "སྲིད་ཞིའི་ཆོས་ཀུན་འཁོར་ལོ་ཆེན་པོར་སྡོམ། །",
+      "en": "Binder of all the phenomena of saṃsāra and nirvāṇa within the great circle,1",
+      "en-trans": "sizhi chö kün khorlo chenpor dom"
+    },
+    {
+      "bo": "ཡུམ་སྲས་དང་བཅས་མཁའ་སྤྱོད་གནས་སུ་གཤེགས། །",
+      "en": "You travelled to the celestial realm together with your consort and son—",
+      "en-trans": "yumsé dangché khachö né su shek"
+    },
+    {
+      "bo": "རྡོ་རྗེ་དྲིལ་བུ་པ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Vajraghaṇṭapāda, to you I pray.",
+      "en-trans": "dorjé drilbupa la solwa deb"
+    },
+    {
+      "bo": "གནས་ལྔ་རིག་པ་རྒྱ་མཚོའི་ཕ་མཐར་སོན། །",
+      "en": "You reached the limits of fivefold scientific knowledge,",
+      "en-trans": "né nga rigpa gyatsö patar sön"
+    },
+    {
+      "bo": "སྔགས་ཀྱི་ལམ་ལས་དངོས་གྲུབ་མཆོག་བརྙེས་ཤིང་། །",
+      "en": "Gained supreme accomplishment through the path of mantra,",
+      "en-trans": "ngak kyi lam lé ngödrub chok nyé shing"
+    },
+    {
+      "bo": "འཕགས་ཡུལ་མཁས་པ་དུ་མས་ཕྱག་བྱས་པ། །",
+      "en": "And were lauded by the learned ones of the noble land—",
+      "en-trans": "pakyul khepa dumé chak jepa"
+    },
+    {
+      "bo": "པཎ་ཆེན་སྒོ་མཐའ་ཡས་པར་གསོལ་བ་འདེབས། །",
+      "en": "Great paṇḍita Anantamukhamati, to you I pray.2",
+      "en-trans": "penchen go tayepar solwa deb"
+    },
+    {
+      "bo": "འཇམ་དཔལ་དབྱངས་ཉིད་གངས་ཅན་རྒྱལ་པོར་སྤྲུལ། །",
+      "en": "Mañjughoṣa himself emanating as a sovereign of the Land of Snows,",
+      "en-trans": "jampal yang nyi gangchen gyalpor trul"
+    },
+    {
+      "bo": "གཙུག་ལག་ཁང་བཞེངས་མདོ་སྔགས་བསྟན་པ་སྤེལ། །",
+      "en": "You constructed the great temple and spread the sūtra and mantra teachings,",
+      "en-trans": "tsuklakhang zheng do ngak tenpa pel"
+    },
+    {
+      "bo": "བདེར་འདུས་བཀའ་བབས་ཐུགས་བསྐྱེད་རྨད་དུ་བྱུང་། །",
+      "en": "And received the transmission of Assembly of Sugatas with marvellous aspiration—",
+      "en-trans": "der dü kabab tukkyé mé du jung"
+    },
+    {
+      "bo": "ཁྲི་སྲོང་ལྡེ་བཙན་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Tri Songdetsen, at your feet I pray.",
+      "en-trans": "trisong dé tsen zhab la solwa deb"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་རྒྱལ་པོའི་རིགས་སུ་སྐུ་འཁྲུངས་ཤིང་། །",
+      "en": "Born into the family of the dharma-king,",
+      "en-trans": "chö kyi gyalpö rik su ku trung shing"
+    },
+    {
+      "bo": "གུ་རུའི་ཐུགས་ཟིན་བཀའ་འདུས་གཉེར་དུ་གཏད། །",
+      "en": "Cared for by the guru and entrusted with the Gathering of Transmitted Precepts,3",
+      "en-trans": "gurü tuk zin ka dü nyer du té"
+    },
+    {
+      "bo": "སྐྱེ་བ་བཅུ་གསུམ་བསྟན་འགྲོའི་དོན་ཆེན་སྒྲུབ། །",
+      "en": "You accomplished great benefit for teachings and beings in thirteen lifetimes—",
+      "en-trans": "kyewa chusum ten drö dönchen drub"
+    },
+    {
+      "bo": "རྒྱལ་སྲས་ལྷ་རྗེའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Gyalse Lharje, at your feet I pray.",
+      "en-trans": "gyalsé lharjé zhab la solwa deb"
+    },
+    {
+      "bo": "གནུབས་ཀྱི་རིགས་ལས་པདྨའི་ཐུགས་ཀྱི་སྲས། །",
+      "en": "Padma’s heart-son from the family of Nub,",
+      "en-trans": "nub kyi rik lé pemé tuk kyi sé"
+    },
+    {
+      "bo": "ཡང་དག་གྲུབ་བརྙེས་ཉི་མའི་ཟེར་ལ་ཆིབ། །",
+      "en": "You gained genuine accomplishment and rode on the rays of the sun,",
+      "en-trans": "yangdak drub nyé nyimé zer la chib"
+    },
+    {
+      "bo": "མངའ་བདག་ཚངས་པའི་བླ་ཡི་མཆོད་གནས་མཛད། །",
+      "en": "Becoming a court chaplain for Ngadak Tsangpa—4",
+      "en-trans": "ngadak tsangpé la yi chöné dzé"
+    },
+    {
+      "bo": "ནམ་མཁའི་སྙིང་པོའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Namkhai Nyingpo, at your feet I pray.",
+      "en-trans": "namkhé nyingpö zhab la solwa deb"
+    },
+    {
+      "bo": "སློབ་དཔོན་ཆེན་པོས་རྗེས་བཟུང་ཐུགས་ཀྱི་སྲས། །",
+      "en": "Heart son who was cared for by the great master,",
+      "en-trans": "lobpön chenpö jezung tuk kyi sé"
+    },
+    {
+      "bo": "ལང་གྲོ་ལོ་ཙཱ་ཐོག་ཆེན་མདའ་ལྟར་འཕེན། །",
+      "en": "Langdro Lotsāwa, you shot thunderbolts like arrows,",
+      "en-trans": "lang dro lotsa tok chen da tar pen"
+    },
+    {
+      "bo": "མཐུ་སྟོབས་ཕྲིན་ལས་ནུས་པའི་རྩལ་འཆང་བ། །",
+      "en": "And possessed the skill and power of magical activity—",
+      "en-trans": "tutob trinlé nüpé tsal changwa"
+    },
+    {
+      "bo": "དཀོན་མཆོག་འབྱུང་གནས་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Könchok Jungne, at your feet I pray.",
+      "en-trans": "könchok jungné zhab la solwa deb"
+    },
+    {
+      "bo": "མར་པའི་ཐུགས་སྲས་གཏུམ་མོའི་བཀའ་བབས་ཤིང་། །",
+      "en": "Heart-son of Marpa and recipient of the transmission oftummopractice,",
+      "en-trans": "marpé tuksé tummö kabab shing"
+    },
+    {
+      "bo": "དཀའ་སྤྱད་ཆེན་པོས་ཚེ་འདིར་མཆོག་དངོས་གྲུབ། །",
+      "en": "Who, through extreme hardship gained supreme accomplishment in a single life,",
+      "en-trans": "kaché chenpö tsé dir chok ngödrub"
+    },
+    {
+      "bo": "མཚན་ཐོས་ངན་སོང་འཇིགས་ལས་རྣམ་གྲོལ་བ། །",
+      "en": "Even to hear your name liberates from the terrors of the lower realms—",
+      "en-trans": "tsen tö ngensong jik lé namdrolwa"
+    },
+    {
+      "bo": "མི་ལ་བཞད་པ་རྡོ་རྗེར་གསོལ་བ་འདེབས། །",
+      "en": "Mila Shepa Dorje, to you I pray.5",
+      "en-trans": "mi la zhepa dorjér solwa deb"
+    },
+    {
+      "bo": "ཉང་གི་རིགས་ལས་སྐུ་འཁྲུངས་ཟབ་གཏེར་བདག །",
+      "en": "Master of profound terma born in the family of Nyang,",
+      "en-trans": "nyang gi rik lé ku trung zabter dak"
+    },
+    {
+      "bo": "མཐོན་མཐིང་རལ་པའི་ཅོད་པན་འཆང་བའི་རྗེ། །",
+      "en": "Lord who possesses a diadem of blue-black locks,",
+      "en-trans": "tönting ralpé chöpen changwé jé"
+    },
+    {
+      "bo": "མཁོ་འཐིང་ལ་སོགས་ཟབ་གཏེར་རྒྱ་མཚོ་འབྱིན། །",
+      "en": "You brought forth an ocean of profound treasures at Khoting and elsewhere—",
+      "en-trans": "kho ting lasok zabter gyatso jin"
+    },
+    {
+      "bo": "ཉི་མ་འོད་ཟེར་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Nyima Özer, at your feet I pray.6",
+      "en-trans": "nyima özer zhab la solwa deb"
+    },
+    {
+      "bo": "བསིལ་ལྡན་ཁ་བའི་ལྗོངས་ཀྱི་སྐྱེ་བོ་རྣམས། །",
+      "en": "Protector of beings in this chilly Land of Snows",
+      "en-trans": "silden khawé jong kyi kyewo nam"
+    },
+    {
+      "bo": "ཉོན་མོངས་སྡུག་བསྔལ་རྒྱུ་འབྲས་ལས་སྐྱོབས་པ། །",
+      "en": "Against the causes and effects of mental afflictions and suffering,",
+      "en-trans": "nyönmong dukngal gyundré lé kyobpa"
+    },
+    {
+      "bo": "སྨན་པའི་རྒྱལ་པོ་མི་ཡི་ཤ་ཚུགས་ཅན། །",
+      "en": "The king of physicians in ordinary human form—",
+      "en-trans": "menpé gyalpo mi yi shatsuk chen"
+    },
+    {
+      "bo": "ཡོན་ཏན་མགོན་པོའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Yönten Gönpo, at your feet I pray.7",
+      "en-trans": "yönten gönpö zhab la solwa deb"
+    },
+    {
+      "bo": "ཁྲི་སྲོང་སྤྲུལ་པ་ངུར་སྨྲིག་འཆང་བའི་གཙོ། །",
+      "en": "Emanation of Tri Song, foremost of the saffron-robed,",
+      "en-trans": "trisong trulpa ngurmik changwé tso"
+    },
+    {
+      "bo": "ཀླུ་སྒྲུབ་དངོས་བྱོན་སྒྲུབ་བརྒྱུད་བསྟན་པའི་བདག །",
+      "en": "Nāgārjuna in person, master of the teachings of the practice lineage,",
+      "en-trans": "ludrub ngö jön drubgyü tenpé dak"
+    },
+    {
+      "bo": "འགྲོ་དོན་འཛམ་གླིང་ཐ་གྲུར་ཁྱབ་པའི་རྗེ། །",
+      "en": "Lord whose benefit to beings extends throughout this vast world—",
+      "en-trans": "dro dön dzamling tadrur khyabpé jé"
+    },
+    {
+      "bo": "སྐྱོབས་པ་རིན་ཆེན་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Kyobpa Rinchen, at your feet I pray.8",
+      "en-trans": "kyobpa rinchen zhab la solwa deb"
+    },
+    {
+      "bo": "འཁོན་གྱི་རིགས་འཁྲུངས་མཁས་བཙུན་བཟང་པོའི་ཕུལ། །",
+      "en": "Born into the Khön family, preeminent among the learned, ethical and kind,",
+      "en-trans": "khön gyi rik trung khé tsün zangpö pul"
+    },
+    {
+      "bo": "གདུལ་དཀའི་འགྲོ་བ་མཐའ་དག་འདུལ་མཛད་ཅིང་། །",
+      "en": "You disciplined all those beings who are difficult to train,",
+      "en-trans": "dul ké drowa tadak dul dzé ching"
+    },
+    {
+      "bo": "དྲེགས་ལྡན་གཙུག་གི་ནོར་བུས་ཕྱག་བྱས་པ། །",
+      "en": "And were worshipped by the haughty with the jewels of their crowns—",
+      "en-trans": "drekden tsuk gi norbü chak jepa"
+    },
+    {
+      "bo": "ཆོས་རྒྱལ་འཕགས་པའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Chögyal Pakpa, at your feet I pray.9",
+      "en-trans": "chögyal pakpé zhab la solwa deb"
+    },
+    {
+      "bo": "གློ་བོར་སྐུ་འཁྲུངས་ལོ་ཙཱ་མཁས་པར་མཁྱེན། །",
+      "en": "Born in Lowo, you became a wise and learned lotsāwa,",
+      "en-trans": "lowor ku trung lo tsa khepar khyen"
+    },
+    {
+      "bo": "འཇམ་དཔལ་དམར་པོའི་གྲུབ་པ་མཐོན་པོར་གཤེགས། །",
+      "en": "Gained advanced realization through Red Mañjuśrī,",
+      "en-trans": "jampal marpö drubpa tönpor shek"
+    },
+    {
+      "bo": "མཁས་དང་གྲུབ་པའི་ཡོན་ཏན་མཐའ་ཡས་པ། །",
+      "en": "With limitless qualities of learning and accomplishment—",
+      "en-trans": "khé dang drubpé yönten tayepa"
+    },
+    {
+      "bo": "ཤེས་རབ་རིན་ཆེན་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Sherab Rinchen, at your feet I pray.10",
+      "en-trans": "sherab rinchen zhab la solwa deb"
+    },
+    {
+      "bo": "མཚན་མཆོག་གསུམ་ལྡན་འཇམ་དབྱངས་ས་སྐྱ་པ། །",
+      "en": "Jamyang Sakyapa possessing the three supreme names,11",
+      "en-trans": "tsen chok sumden jamyang sakyapa"
+    },
+    {
+      "bo": "བཤད་སྒྲུབ་ཕྲིན་ལས་ནམ་མཁའི་མཐར་ཁྱབ་ཅིང་། །",
+      "en": "You extended teaching, practice and activity to the far reaches of space,",
+      "en-trans": "shedrub trinlé namkhé tar khyab ching"
+    },
+    {
+      "bo": "མཁྱེན་བརྩེ་ནུས་པ་རྒྱ་མཚོའི་གཏེར་ཆེན་པོ། །",
+      "en": "Vast treasury of oceanic knowledge, love and capacity—",
+      "en-trans": "khyen tsé nüpa gyatsö ter chenpo"
+    },
+    {
+      "bo": "བསོད་ནམས་རྒྱལ་མཚན་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Sonam Gyaltsen, at your feet I pray.12",
+      "en-trans": "sönam gyaltsen zhab la solwa deb"
+    },
+    {
+      "bo": "ཕྱི་ནང་གཞུང་ལུགས་རྒྱ་མཚོའི་ཕ་མཐར་སོན། །",
+      "en": "You reached the distant shore of oceanic learning in outer and inner scriptural traditions",
+      "en-trans": "chinang zhungluk gyatsö patar sön"
+    },
+    {
+      "bo": "ཀུན་ཏུ་བཟང་པོའི་དགོངས་པའི་རྩལ་ཆེན་རྫོགས། །",
+      "en": "And perfected the great strength of Samantabhadra’s realization,",
+      "en-trans": "kuntuzangpö gongpé tsal chen dzok"
+    },
+    {
+      "bo": "འོད་གསལ་རྡོ་རྗེ་རྩེ་མོའི་ཤིང་རྟ་ཆེ། །",
+      "en": "Great pioneer of the pinnacle of Vajra Luminosity—",
+      "en-trans": "ösal dorjé tsemö shingta ché"
+    },
+    {
+      "bo": "ཀློང་ཆེན་རབ་འབྱམས་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Longchen Rabjam, at your feet I pray.",
+      "en-trans": "longchen rabjam zhab la solwa deb"
+    },
+    {
+      "bo": "ཀུན་མཁྱེན་དོལ་པོ་སླར་ཡང་སྤྲུལ་པའི་སྐུར། །",
+      "en": "Further incarnation of the omniscient Dolpopa,",
+      "en-trans": "künkhyen dolpo lar yang trulpé kur"
+    },
+    {
+      "bo": "བཞེངས་ནས་པདྨས་རྗེས་བཟུང་བོད་ཁམས་སྐྱོང་། །",
+      "en": "You were guided by Padma and looked after Tibet,",
+      "en-trans": "zheng né pemé jezung bö kham kyong"
+    },
+    {
+      "bo": "བརྟུལ་ཞུགས་གྲུབ་པ་ཡོངས་ཀྱི་གཙུག་གི་རྒྱན། །",
+      "en": "Crown ornament of all masters of unconventional conduct—",
+      "en-trans": "tulzhuk drubpa yong kyi tsuk gi gyen"
+    },
+    {
+      "bo": "ཐང་སྟོང་རྒྱལ་པོའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Thangtong Gyalpo, at your feet I pray.13",
+      "en-trans": "tangtong gyalpö zhab la solwa deb"
+    },
+    {
+      "bo": "ཀུན་མཁྱེན་ཀུན་དགའ་བཟང་པོའི་ཐུགས་ཀྱི་སྲས། །",
+      "en": "Heart-son of the omniscient Kunga Zangpo,",
+      "en-trans": "künkhyen künga zangpö tuk kyi sé"
+    },
+    {
+      "bo": "འཁོར་ལོ་སྡོམ་པ་ངུར་སྨྲིག་གར་བསྒྱུར་ཞིང་། །",
+      "en": "Cakrasaṃvara emanating in saffron robes,",
+      "en-trans": "khorlo dompa ngurmik gar gyur zhing"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་གཉིས་འབྱོངས་པ་ཀུན་གྱི་རྗེ། །",
+      "en": "Lord of all who have mastered twofold bodhicitta—",
+      "en-trans": "changchub sem nyi jongpa kün gyi jé"
+    },
+    {
+      "bo": "དཀོན་མཆོག་རྒྱལ་མཚན་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Könchok Gyaltsen, at your feet I pray.14",
+      "en-trans": "könchok gyaltsen zhab la solwa deb"
+    },
+    {
+      "bo": "ཕྱི་ལྟར་རྣམ་གསུམ་གཙང་མའི་གོས་ཀྱིས་བཀླུབས། །",
+      "en": "Outwardly, you wore the robes of threefold purity,",
+      "en-trans": "chitar nam sum tsangmé gö kyi lub"
+    },
+    {
+      "bo": "ནང་དུ་བྱང་ཆུབ་སེམས་ཀྱིས་ཐུགས་རྒྱུད་གཏམས། །",
+      "en": "Inwardly, your being was suffused with bodhicitta,",
+      "en-trans": "nang du changchub sem kyi tukgyü tam"
+    },
+    {
+      "bo": "གསང་བ་རྡོ་རྗེ་འཛིན་པའི་ས་མཆོག་བརྙེས། །",
+      "en": "Secretly, you reached the supreme level of Vajradhara—",
+      "en-trans": "sangwa dorjé dzinpé sa chok nyé"
+    },
+    {
+      "bo": "ཞྭ་ལུ་མཁྱེན་རབ་ཆོས་རྗེར་གསོལ་བ་འདེབས། །",
+      "en": "Zhalu Khyenrab Chöje, to you I pray.15",
+      "en-trans": "zhalu khyenrab chöjer solwa deb"
+    },
+    {
+      "bo": "རཏྣ་གླིང་པའི་ཐུགས་གསུང་བྱིན་བརླབས་སྲས། །",
+      "en": "Blessed heir to Ratna Lingpa’s speech and mind,",
+      "en-trans": "ratna lingpé tuk sung jinlab sé"
+    },
+    {
+      "bo": "བརྒྱ་དང་བཅུ་བཞུགས་ཟབ་གཏེར་བསྟན་པ་སྐྱོང་།",
+      "en": "You lived to a hundred and ten and sustained the profound terma teachings,",
+      "en-trans": "gya dang chu zhuk zabter tenpa kyong"
+    },
+    {
+      "bo": "རིག་སྔགས་གྲུབ་པ་བསྟན་དང་འགྲོ་བའི་མགོན། །",
+      "en": "Accomplished invidyāmantra, protector of the teachings and beings—",
+      "en-trans": "rik ngak drubpa ten dang drowé gön"
+    },
+    {
+      "bo": "ཚེ་དབང་གྲགས་པའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Tsewang Drakpa, at your feet I pray.",
+      "en-trans": "tsewang drakpé zhab la solwa deb"
+    },
+    {
+      "bo": "ས་སྐྱ་པཎ་ཆེན་བསམ་བཞིན་སྤྲུལ་པའི་སྐུ། །",
+      "en": "Deliberate incarnation of the great Sakya Paṇḍita,",
+      "en-trans": "sakya penchen samzhin trulpé ku"
+    },
+    {
+      "bo": "བཻ་རོའི་སྤྲུལ་པར་པདྨའི་ལུང་གིས་བརྙེས། །",
+      "en": "Whom Padma foretold as an emanation of Vairotsana,",
+      "en-trans": "bairö trulpar pemé lung gi nyé"
+    },
+    {
+      "bo": "གནས་ལྔ་རིག་པ་ས་སྐྱ་ལོ་ཙཱ་ཞེས། །",
+      "en": "Skilled in the five sciences, the one known as Sakya Lotsāwa—",
+      "en-trans": "né nga rigpa sakya lotsa zhé"
+    },
+    {
+      "bo": "འཇམ་པའི་རྡོ་རྗེའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Jampé Dorje, at your feet I pray.16",
+      "en-trans": "jampé dorjé zhab la solwa deb"
+    },
+    {
+      "bo": "མངའ་བདག་རྒྱལ་པོའི་ཡོན་ཏན་རྣམ་པར་འཕྲུལ། །",
+      "en": "Emanation of the sovereign ruler’s enlightened qualities,",
+      "en-trans": "ngadak gyalpö yönten nampar trul"
+    },
+    {
+      "bo": "མངའ་རིས་གློ་བོ་མ་ཐང་སྐུ་བལྟམས་ཤིང་། །",
+      "en": "You were born in Lowo Matang in Ngari,",
+      "en-trans": "ngari lowo matang ku tam shing"
+    },
+    {
+      "bo": "རིས་མེད་བསྟན་པ་རྒྱ་མཚོར་གསན་སྦྱོང་མཛད། །",
+      "en": "And impartially studied and practised an ocean of teachings—",
+      "en-trans": "rimé tenpa gyatsor sen jong dzé"
+    },
+    {
+      "bo": "པདྨ་དབང་རྒྱལ་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Pema Wangyal, at your feet I pray.17",
+      "en-trans": "pema wanggyal zhab la solwa deb"
+    },
+    {
+      "bo": "འ་ཞའི་རིགས་འཁྲུངས་ཚར་ཆེན་ཐུགས་སྲས་མཆོག །",
+      "en": "Born in the Azha family, you were Tsarchen’s supreme heart-son,",
+      "en-trans": "a zhé rik trung tsar chen tuksé chok"
+    },
+    {
+      "bo": "མཁྱེན་རབ་འཇམ་དཔལ་དབྱངས་དང་གཉིས་སུ་མེད། །",
+      "en": "Inseparable in your wisdom from Mañjughoṣa himself",
+      "en-trans": "khyen rab jampal yang dang nyisumé"
+    },
+    {
+      "bo": "རྩ་གསུམ་ལྷག་པའི་ལྷ་ཡིས་བྱིན་གྱིས་བརླབས། །",
+      "en": "And blessed by the supreme deities of the Three Roots—",
+      "en-trans": "tsa sum lhakpé lha yi jin gyi lab"
+    },
+    {
+      "bo": "མཁྱེན་བརྩེའི་དབང་ཕྱུག་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Khyentse Wangchuk, at your feet I pray.18",
+      "en-trans": "khyentsé wangchuk zhab la solwa deb"
+    },
+    {
+      "bo": "གསང་བའི་བདག་པོ་གོས་དཀར་འཆང་བར་སྟོན། །",
+      "en": "The Lord of Secrets manifesting as a white-robed householder,",
+      "en-trans": "sangwé dakpo gö kar changwar tön"
+    },
+    {
+      "bo": "དྲག་སྔགས་བཀའ་བབས་རིག་སྔགས་འཆང་བའི་རྗེ། །",
+      "en": "A recipient of fierce mantras and lord of vidyā mantras,",
+      "en-trans": "drakngak kabab rik ngak changwé jé"
+    },
+    {
+      "bo": "མ་རུང་གདུག་པ་ཅན་རྣམས་འདུལ་མཛད་པ། །",
+      "en": "You subjugated unruly and malevolent forces—",
+      "en-trans": "ma rung dukpachen nam dul dzepa"
+    },
+    {
+      "bo": "བཀྲ་ཤིས་སྟོབས་རྒྱལ་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Tashi Tobgyal, at your feet I pray.19",
+      "en-trans": "tashi tobgyal zhab la solwa deb"
+    },
+    {
+      "bo": "བི་མའི་སྤྲུལ་པ་དག་སྣང་འབྱམས་ཀླས་ཤིང་། །",
+      "en": "Emanation of Vimalamitra, infinitely pure of perception,",
+      "en-trans": "bimé trulpa daknang jam lé shing"
+    },
+    {
+      "bo": "བརྟུལ་ཞུགས་གྲུབ་པ་རྣམས་ཀྱི་འཁོར་ལོས་སྒྱུར། །",
+      "en": "Universal monarch among masters of unconventional conduct,",
+      "en-trans": "tulzhuk drubpa nam kyi khorlö gyur"
+    },
+    {
+      "bo": "ཧེ་རུ་ཀ་དཔལ་ལྷ་བཙུན་དཔའ་བོ་ཆེ། །",
+      "en": "Glorious heruka, great warrior Lhatsün—",
+      "en-trans": "heruka pal lhatsün pawo ché"
+    },
+    {
+      "bo": "ནམ་མཁའ་འཇིགས་མེད་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Namkha Jigme, at your feet I pray.20",
+      "en-trans": "namkha jikme zhab la solwa deb"
+    },
+    {
+      "bo": "མདོ་རྒྱུད་རྣམས་ལས་རྒྱལ་བས་ལུང་གིས་བསྔགས། །",
+      "en": "Prophesied by the Buddha in sūtras and tantras",
+      "en-trans": "dogyü nam lé gyalwé lung gi ngak"
+    },
+    {
+      "bo": "བྱང་ཕྱོགས་སྐྱོང་བའི་སྐྱོབས་པ་མཆོག་གྱུར་པ། །",
+      "en": "As a supreme guardian to oversee the northern land,",
+      "en-trans": "jangchok kyongwé kyobpa chokgyur pa"
+    },
+    {
+      "bo": "འཛམ་གླིང་རྒྱན་གཅིག་ལྷ་མིས་མཆོད་འོས་གྱུར། །",
+      "en": "Sole ornament of this world, revered by gods and men alike—",
+      "en-trans": "dzamling gyen chik lhami chö ö gyur"
+    },
+    {
+      "bo": "ངག་དབང་བློ་བཟང་རྒྱ་མཚོར་གསོལ་བ་འདེབས། །",
+      "en": "Ngawang Lobzang Gyatso, to you I pray.21",
+      "en-trans": "ngawang lobzang gyatsor solwa deb"
+    },
+    {
+      "bo": "འགྱུར་མེད་རྡོ་རྗེའི་སྐུ་ཡི་སྲས་སུ་བལྟམས། །",
+      "en": "Born as the physical heir of Gyurme Dorje,22",
+      "en-trans": "gyurmé dorjé ku yi sé su tam"
+    },
+    {
+      "bo": "རྟ་མགྲིན་གྲུབ་བརྙེས་དབང་ཆེན་གསུང་གི་རིགས། །",
+      "en": "You accomplished Hayagrīva and joined the family of the Mighty One’s speech;",
+      "en-trans": "tamdrin drub nyé wangchen sung gi rik"
+    },
+    {
+      "bo": "བློ་གྲོས་ཆེན་པོས་ཤེས་བྱ་རབ་འབྱམས་མཁྱེན། །",
+      "en": "With your vast intelligence you understood infinite fields of knowledge—",
+      "en-trans": "lodrö chenpö sheja rabjam khyen"
+    },
+    {
+      "bo": "པདྨ་འགྱུར་མེད་རྒྱ་མཚོར་གསོལ་བ་འདེབས། །",
+      "en": "Pema Gyurme Gyatso, to you I pray.23",
+      "en-trans": "pema gyurmé gyatsor solwa deb"
+    },
+    {
+      "bo": "དེ་ཡི་ཡང་སྲིད་མྱོས་རིགས་དཔའ་བོ་ཆེ། །",
+      "en": "Further incarnation, great hero of the Nyö clan,",
+      "en-trans": "dé yi yangsi nyö rik pawo ché"
+    },
+    {
+      "bo": "ལྷར་བཅས་སྐྱེ་རྒུས་མཐོང་ན་རབ་དགའ་ཞིང་། །",
+      "en": "You brought delight to all who saw you, even the gods,",
+      "en-trans": "lhar ché kyegü tong na rabga zhing"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའ་གཞན་ལ་ཕན་པའི་མཆོག །",
+      "en": "And were a supreme bodhisattva benefitting others—",
+      "en-trans": "changchub sempa zhen la penpé chok"
+    },
+    {
+      "bo": "ཚངས་དབྱངས་རྒྱ་མཚོའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Tsangyang Gyatso, at your feet I pray.24",
+      "en-trans": "tsang yang gyatsö zhab la solwa deb"
+    },
+    {
+      "bo": "ལང་གྲོའི་སྐྱེ་མཐའ་ཟབ་གཏེར་བསྟན་པ་འཛིན། །",
+      "en": "Final birth of Langdro Lotsāwa, holder of profound terma teachings,",
+      "en-trans": "langdrö kyé ta zabter tenpa dzin"
+    },
+    {
+      "bo": "པདྨ་དྲག་པོའི་སྐུ་གྲུབ་སྡེ་བརྒྱད་འདུལ། །",
+      "en": "You accomplished the form of Padma Drakpo and subjugated the eight classes,",
+      "en-trans": "pema drakpö ku drub dé gyé dul"
+    },
+    {
+      "bo": "སྙིགས་དུས་འབྱུང་པོ་འདུལ་བའི་གཤེད་དུ་གྱུར། །",
+      "en": "Becoming a conqueror to subdue elemental spirits in this degenerate age—",
+      "en-trans": "nyikdü jungpo dulwé shé du gyur"
+    },
+    {
+      "bo": "ཀློང་གསལ་སྙིང་པོའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Longsal Nyingpo, at your feet I pray.25",
+      "en-trans": "longsal nyingpö zhab la solwa deb"
+    },
+    {
+      "bo": "ཐེག་པ་ཆེན་པོའི་རིགས་མཆོག་ཡོངས་སུ་སད། །",
+      "en": "Your supreme affinity for the great vehicle was fully awakened,",
+      "en-trans": "tekpa chenpö rik chok yongsu sé"
+    },
+    {
+      "bo": "རྩ་ཡི་མདུད་གྲོལ་ཆོས་རྣམས་ཀློང་ནས་རྡོལ། །",
+      "en": "Knots in your channels were undone, teachings poured forth from your expansive realization,",
+      "en-trans": "tsa yi dü drol chö nam long né dol"
+    },
+    {
+      "bo": "དགོངས་གཏེར་ནམ་མཁའ་མཛོད་ལ་མངའ་དབང་སྒྱུར། །",
+      "en": "And you took control of the sky-like treasury of mind terma—",
+      "en-trans": "gongter namkha dzö la nga wang gyur"
+    },
+    {
+      "bo": "འཇིགས་མེད་གླིང་པའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Jigme Lingpa, at your feet I pray.",
+      "en-trans": "jikme lingpé zhab la solwa deb"
+    },
+    {
+      "bo": "དྲི་མེད་བཤེས་གཉེན་དགེ་སྦྱོང་ཚུལ་བསྟན་ནས། །",
+      "en": "Vimalamitra manifesting in the form of a renunciant,",
+      "en-trans": "drimé shenyen gejong tsul ten né"
+    },
+    {
+      "bo": "སྐྱེ་བ་བདུན་དུ་བསྟན་འགྲོའི་དོན་ཆེན་སྒྲུབ། །",
+      "en": "Who, over seven lifetimes, brought vast benefit to the teachings and beings,",
+      "en-trans": "kyewa dün du ten drö dön chen drub"
+    },
+    {
+      "bo": "ཕྱིར་མི་ལྡོག་པའི་རྟགས་འཆང་བཞི་པ་ནི། །",
+      "en": "And was the fourth holder of the signs of irreversibility—",
+      "en-trans": "chirmidokpé tak chang zhipa ni"
+    },
+    {
+      "bo": "མི་འགྱུར་ནམ་མཁའི་རྡོ་རྗེར་གསོལ་བ་འདེབས། །",
+      "en": "Mingyur Namkhé Dorje, to you I pray.26",
+      "en-trans": "mingyur namkhé dorjér solwa deb"
+    },
+    {
+      "bo": "ཡེ་ཤེས་རྡོ་རྗེའི་སྐུ་དང་ཀུན་དགའི་གསུང་། །",
+      "en": "To the great emanation of the body of Yeshe Dorje,",
+      "en-trans": "yeshe dorjé ku dang küngé sung"
+    },
+    {
+      "bo": "དབང་མཆོག་ཐུགས་སྤྲུལ་བློ་གསལ་ཡོན་ཏན་དང་། །",
+      "en": "The speech of Kunga, mind of Wangchok,",
+      "en-trans": "wang chok tuktrul losal yönten dang"
+    },
+    {
+      "bo": "འཇམ་དཔལ་དབྱངས་དངོས་མཁྱེན་བརྩེའི་དབང་པོ་ཡི། །",
+      "en": "Qualities of Losal and activity of Khyentse Wangpo,",
+      "en-trans": "jampal yang ngö khyentsé wangpo yi"
+    },
+    {
+      "bo": "ཕྲིན་ལས་རྣམ་འཕྲུལ་ཆེན་པོར་གསོལ་བ་འདེབས། །",
+      "en": "Who was Mañjughoṣa in person, I pray.",
+      "en-trans": "trinlé namtrul chenpor solwa deb"
+    },
+    {
+      "bo": "མཁྱེན་བརྩེའི་དབང་པོའི་ཕྲིན་ལས་སྤྲུལ་པའི་སྐུ། །",
+      "en": "Emanation of Khyentse Wangpo’s activity,",
+      "en-trans": "khyentsé wangpö trinlé trulpé ku"
+    },
+    {
+      "bo": "བཀའ་དྲིན་གསུམ་ལྡན་ཁྱབ་བདག་འཁོར་ལོའི་མགོན། །",
+      "en": "All-pervasive lord of the maṇḍala with threefold kindness,27",
+      "en-trans": "kadrin sumden khyabdak khorlö gön"
+    },
+    {
+      "bo": "སྙིགས་མའི་འགྲོ་འདུལ་མཛད་པ་བསམ་མི་ཁྱབ། །",
+      "en": "Inconceivable in your deeds to train beings of this degenerate age—",
+      "en-trans": "nyikmé drodul dzepa sam mikhyab"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་བློ་གྲོས་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Chökyi Lodrö, at your feet I pray.",
+      "en-trans": "chökyi lodrö zhab la solwa deb"
+    },
+    {
+      "bo": "མ་འོངས་བྱང་ཕྱོགས་ས་སྤྱོད་སྤྲུལ་པའི་ཞིང་། །",
+      "en": "In future, in the emanated realm to the north,",
+      "en-trans": "ma ong jangchok sachö trulpé zhing"
+    },
+    {
+      "bo": "ཤམྦྷ་ལ་ཡི་ཕོ་བྲང་ཀ་ལ་པར། །",
+      "en": "In Shambhala, in the palace of the Kalapa Court,",
+      "en-trans": "shambha la yi podrang kala par"
+    },
+    {
+      "bo": "རིགས་ལྡན་དྲག་པོ་འཁོར་ལོ་ཕྱག་ན་འཆང་། །",
+      "en": "May I be inseparable from Kulika Raudracakrin,",
+      "en-trans": "rikden drakpo khorlo chak na chang"
+    },
+    {
+      "bo": "རྣམ་པར་རྒྱལ་བ་ཅན་དང་དབྱེར་མེད་ཤོག །",
+      "en": "The victorious one with a wheel in his hand.",
+      "en-trans": "nampar gyalwachen dang yermé shok"
+    },
+    {
+      "bo": "གསོལ་འདེབས་བུ་ལ་བརྩེ་བས་རབ་དགོངས་ཏེ། །",
+      "en": "Turn your loving attention to this prayerful child.",
+      "en-trans": "soldeb bu la tsewé rab gong té"
+    },
+    {
+      "bo": "དེང་ནས་བཟུང་སྟེ་ཚེ་རབས་ཐམས་ཅད་དུ། །",
+      "en": "And, from now on, in all my future lives,",
+      "en-trans": "deng né zung té tserab tamché du"
+    },
+    {
+      "bo": "རྗེ་བཙུན་བླ་མ་མཆོག་གིས་རྗེས་བཟུང་ཞིང་། །",
+      "en": "O supreme and noble master, guide and care for me,",
+      "en-trans": "jetsün lama chok gi jezung zhing"
+    },
+    {
+      "bo": "རང་གཞན་དོན་གཉིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "And inspire me to accomplish my own and others’ benefit.",
+      "en-trans": "rangzhen dön nyi drubpar jingyi lob"
+    },
+    {
+      "bo": "འཇམ་དབྱངས་བླ་མའི་ཞབས་པད་ཡུན་དུ་བརྟན། །",
+      "en": "May the life of the Mañjughoṣa Guru long remain secure,",
+      "en-trans": "jamyang lamé zhabpé yündu ten"
+    },
+    {
+      "bo": "བསྟན་དང་བསྟན་འཛིན་དར་ཞིང་རྒྱས་པ་དང་། །",
+      "en": "May the teachings and those who uphold them spread far and wide,",
+      "en-trans": "ten dang tendzin dar zhing gyepa dang"
+    },
+    {
+      "bo": "བོད་ཁམས་དུས་ཀྱི་རྒུད་པ་ཀུན་ཞི་ནས། །",
+      "en": "May all the current misery in the land of Tibet be pacified,",
+      "en-trans": "bö kham dü kyi güpa kün zhi né"
+    },
+    {
+      "bo": "འཇིག་རྟེན་བདེ་དགའི་དཔལ་གྱིས་འབྱོར་གྱུར་ཅིག །",
+      "en": "And may the splendour of happiness and joy enrich the entire world.",
+      "en-trans": "jikten dé gé pal gyi jor gyur chik"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:070BA356-C145-11F0-B0EC-07BF6E1F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Prayer to Jamyang Khyentse Wangpo</text>
+  </docTitle>
+  <docAuthor>
+    <text>ཀཿཐོག་སི་ཏུ་ཆོས་ཀྱི་རྒྱ་མཚོ།</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch1" playOrder="1">
+      <navLabel>
+        <text>ཐམས་ཅད་མཁྱེན་ཅིང་གཟིགས་པ་འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོའི་རྣམ་ཐར་གསོལ་འདེབས་མདོར་བསྡུས།</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/mipham/prayer-to-smritijnanakirti",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །སྨྲི་ཏིའི་ཛྙཱ་ནའི་གསོལ་འདེབས།",
+    "en": "Prayer to Smṛtijñānakīrti"
+  },
+  "text": [
+    {
+      "bo": "འཕགས་ཡུལ་མཁས་དང་གྲུབ་པའི་ཁྱུ་མཆོག་ནི། །",
+      "en": "Chief among the learned and accomplished of the noble land,",
+      "en-trans": "pakyul khé dang drubpé khyuchok ni"
+    },
+    {
+      "bo": "མཁྱེན་བརྩེ་ནུས་པ་མཚུངས་མེད་ཆོས་ཀྱི་རྗེ། །",
+      "en": "Lord of Dharma, unparalleled in wisdom, love and power,",
+      "en-trans": "khyen tsé nü pa tsungmé chö kyi jé"
+    },
+    {
+      "bo": "དྲན་པས་བྱིན་རླབས་བདུད་རྩིའི་ཆར་འབེབ་པ། །",
+      "en": "The thought of whom brings a nectar-like rain of blessings—",
+      "en-trans": "drenpé jinlab dütsi char bebpa"
+    },
+    {
+      "bo": "སྨྲི་ཏི་ཛྙཱ་ནའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Smṛtijñānakīrti, at your feet I pray!",
+      "en-trans": "smiti jnané zhab la solwa deb"
+    }
+  ]
+}

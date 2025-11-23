@@ -1,0 +1,511 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/jamgon-kongtrul/auspicious-spiral-chokgyur-lingpa-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །སྤྲུལ་པའི་གཏེར་ཆེན་མཆོག་གྱུར་གླིང་པའི་རྣམ་ཐར་གསོལ་འདེབས་བཀྲ་ཤིས་འཁྱིལ་བའི་དབྱངས་སྙན་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+    "en": "A Prayer Based on the Liberation Life of the Great Emanated Tertön Chokgyur Lingpa"
+  },
+  "text": [
+    {
+      "bo": "ཀུན་ཁྱབ་བདེ་ཆེན་འོད་གསལ་ཆོས་ཀྱི་སྐུ། །",
+      "en": "All-pervasive luminous dharmakāya of great bliss,",
+      "en-trans": "künkhyap dechen ösel chö kyi ku"
+    },
+    {
+      "bo": "འཁོར་འདས་སྙིང་པོ་མི་ཤིགས་ཐིག་ལེ་ཆེ། །",
+      "en": "Great indestructible sphere, the essence of saṃsāra and nirvāṇa,",
+      "en-trans": "khordé nyingpo mishik tiklé ché"
+    },
+    {
+      "bo": "དངོས་པོ་ཀུན་གྱི་ཁྱབ་བདག་གདོད་མའི་མགོན། །",
+      "en": "Primordial protector, sovereign who is present in all things,",
+      "en-trans": "ngöpo kün gyi khyapdak dömé gön"
+    },
+    {
+      "bo": "རྗེ་བཙུན་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Noble guru, at your feet I pray.",
+      "en-trans": "jetsün lamé zhap la sölwa dep"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་སངས་རྒྱས་གཉིས་པའི་ཐུགས་ཀྱི་སྲས། །",
+      "en": "Heir to the wisdom mind of the Oḍḍiyāna Guru, the second buddha,",
+      "en-trans": "orgyen sangyé nyipé tuk kyi sé"
+    },
+    {
+      "bo": "གཏེར་འབྱིན་གྲུབ་ཐོབ་རྒྱ་མཚོའི་འཁོར་ལོས་སྒྱུར། །",
+      "en": "Universal ruler of oceanic adepts and revealers of treasure,",
+      "en-trans": "ter jin druptop gyamtsö khorlö gyur"
+    },
+    {
+      "bo": "རྣམ་ཐར་བསམ་ཡས་སྙིགས་དུས་བསྟན་འགྲོའི་མགོན། །",
+      "en": "Guardian of the teachings and beings in this degenerate age, your liberated life beyond imagining—",
+      "en-trans": "namtar samyé nyikdü ten drö gön"
+    },
+    {
+      "bo": "མཆོག་གྱུར་གླིང་པའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Chokgyur Lingpa, at your feet I pray.",
+      "en-trans": "chokgyur lingpé zhap la sölwa dep"
+    },
+    {
+      "bo": "གདོད་ནས་རབ་ཞིའི་བདུད་རྩི་བརྙེས་གྱུར་ཀྱང༌། །",
+      "en": "Although you discovered the nectar of perfect peace at the outset,",
+      "en-trans": "döné rapzhi dütsi nyé gyur kyang"
+    },
+    {
+      "bo": "སྐུ་དང་ཞིང་ཁམས་རྒྱ་མཚོའི་སྤྲིན་བཀོད་དེ། །",
+      "en": "Still you arranged vast, ocean-like clouds of kāyas and pure realms,",
+      "en-trans": "ku dang zhingkham gyamtsö trin kö dé"
+    },
+    {
+      "bo": "བཟོ་སྐྱེ་མཆོག་གི་སྤྲུལ་སྐུ་མཐའ་ཡས་པས། །",
+      "en": "And with infinite nirmāṇakāyas—in art, through rebirth and supreme—",
+      "en-trans": "zo kyé chok gi tulku tayepé"
+    },
+    {
+      "bo": "འདུལ་བཞིའི་ཆོ་འཕྲུལ་སྟོན་ལ་གསོལ་བ་འདེབས། །",
+      "en": "You revealed the miraculous display of fourfold training—to you I pray.",
+      "en-trans": "dül zhi chotrül tön la sölwa dep"
+    },
+    {
+      "bo": "ཁྱད་པར་གངས་ཅན་མངའ་བདག་ཁྲི་སྲོང་རྗེའི། །",
+      "en": "In the Land of Snows in particular, you adopted the guise",
+      "en-trans": "khyepar gangchen ngadak trisong jé"
+    },
+    {
+      "bo": "སྲས་ཀྱི་ཚུལ་བཟུང་མཆོག་གི་དངོས་གྲུབ་བརྙེས། །",
+      "en": "Of the son of Lord Tri Song and attained supreme siddhi,",
+      "en-trans": "sé kyi tsül zung chok gi ngödrup nyé"
+    },
+    {
+      "bo": "སངས་རྒྱས་གླིང་སོགས་ངོ་མཚར་རྨད་བྱུང་བའི། །",
+      "en": "Then manifested as Sangye Lingpa and the rest, a hundred",
+      "en-trans": "sangyé ling sok ngotsar mejung wé"
+    },
+    {
+      "bo": "སྒྱུ་འཕྲུལ་གར་བརྒྱས་རོལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Wondrous and amazing dance-like forms—to you I pray.",
+      "en-trans": "gyutrül gar gyé röl la sölwa dep"
+    },
+    {
+      "bo": "ཐུགས་བསྐྱེད་ཁྱད་འཕགས་སྙིགས་མའི་འགྲོ་ལ་དགོངས། །",
+      "en": "With pre-eminent magnanimity, you consider the beings of this degenerate age;",
+      "en-trans": "tukkyé khyé pak nyikmé dro la gong"
+    },
+    {
+      "bo": "ཕྲིན་ལས་ཁྱད་འཕགས་གང་འདུལ་དེར་མཐུན་སྟོན། །",
+      "en": "With pre-eminent activity, you appear according to the needs of those to be trained;",
+      "en-trans": "trinlé khyé pak gang dül der tün tön"
+    },
+    {
+      "bo": "རྣམ་ཐར་ཁྱད་འཕགས་སྔོན་མེད་གསང་མཛོད་འཆང༌། །",
+      "en": "With a pre-eminent life of liberation, you hold an unprecedented secret treasury—",
+      "en-trans": "namtar khyé pak ngönmé sangdzö chang"
+    },
+    {
+      "bo": "ཁྱད་པར་སུམ་ལྡན་ཁྱོད་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you, the one who is pre-eminent in these three ways, I pray.",
+      "en-trans": "khyepar sumden khyö la sölwa dep"
+    },
+    {
+      "bo": "མདོ་སྟོད་ས་ཡི་ཐིག་ལེར་བསམ་བཞིན་དུ། །",
+      "en": "Intentionally, you took birth in the heart of Upper Dokham,",
+      "en-trans": "do tö sa yi tiklér samzhin du"
+    },
+    {
+      "bo": "སྐྱེ་བ་བཞེས་ནས་གཞོན་ནུའི་སྐབས་སུ་ཡང༌། །",
+      "en": "And even in youth transcended the realm of the ordinary,",
+      "en-trans": "kyewa zhé né zhönnü kapsu yang"
+    },
+    {
+      "bo": "ཕལ་པའི་ཡུལ་འདས་དམ་པའི་རྣམ་ཐར་སད། །",
+      "en": "As you awakened an affinity for the noble life of liberation—",
+      "en-trans": "pelpé yül dé dampé namtar sé"
+    },
+    {
+      "bo": "དད་ལྡན་སྤྲོ་བ་བསྐྱེད་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you who brought inspiration to those with faith, I pray.",
+      "en-trans": "deden trowa kyé la sölwa dep"
+    },
+    {
+      "bo": "བཅུ་གསུམ་བཞེས་ཚེ་ཨོ་རྒྱན་དངོས་སུ་མཇལ། །",
+      "en": "In your thirteenth year you met the Oḍḍiyāna Guru directly.",
+      "en-trans": "chusum zhé tsé orgyen ngö su jel"
+    },
+    {
+      "bo": "ཟབ་གཏེར་རྗེས་གནང་བསྩལ་ནས་བྱིན་གྱིས་བརླབས། །",
+      "en": "He authorized your profound treasures and conferred his blessings.",
+      "en-trans": "zapter jenang tsel né jin gyi lap"
+    },
+    {
+      "bo": "ལྷ་སྲས་ཐུགས་དམ་རྟེན་སོགས་དངོས་གྲུབ་ཐོབ། །",
+      "en": "You received attainments, including the Prince’s sādhana supports.",
+      "en-trans": "lhasé tukdam ten sok ngödrup top"
+    },
+    {
+      "bo": "དགོངས་གཏེར་ཀློང་ནས་བརྡོལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you, the one who brought forth treasures of the mind, I pray.",
+      "en-trans": "gongter long né döl la sölwa dep"
+    },
+    {
+      "bo": "ཀར་འབྲུག་འབྲི་སྟག་ཡབ་སྲས་གཙོར་གྱུར་པའི། །",
+      "en": "Without sectarian bias you followed numerous authentic masters,",
+      "en-trans": "kar druk dri tak yapsé tsor gyurpé"
+    },
+    {
+      "bo": "རིས་མེད་ཚད་མའི་སྐྱེས་ཆེན་དུ་མ་བསྟེན། །",
+      "en": "Primarily from the Karma, Drukpa, Drikung and Taklung Kagyü,",
+      "en-trans": "rimé tsemé kyé chen duma ten"
+    },
+    {
+      "bo": "མཉེས་པ་གསུམ་གྱིས་མདོ་སྔགས་བདུད་རྩིའི་བཅུད། །",
+      "en": "Delighted them in the three ways1and imbibed the essential nectar",
+      "en-trans": "nyepa sum gyi do ngak dütsi chü"
+    },
+    {
+      "bo": "ཐུགས་ཀྱི་དཔལ་བེར་བསྐྱིལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Of sūtra and mantra into the glorious knot of your heart—to you I pray.",
+      "en-trans": "tuk kyi pel ber kyil la sölwa dep"
+    },
+    {
+      "bo": "པད་འབྱུང་དངོས་སྣང་པདྨ་དབང་ཆེན་དང༌། །",
+      "en": "Pema Wangchen,2an actual manifestation of Padmasambhava,",
+      "en-trans": "pejung ngö nang pema wangchen dang"
+    },
+    {
+      "bo": "དཔལ་ལྡན་དཔའ་བོ་གཙུག་ལག་ཆོས་རྒྱལ་གྱིས། །",
+      "en": "And the glorious Pawo Tsuklak Chökyi Gyalpo3both",
+      "en-trans": "pelden pawo tsuklak chögyel gyi"
+    },
+    {
+      "bo": "བརྡའ་ཡིས་ལུང་བསྟན་དོན་གྱི་བརྒྱུད་པ་གཏད། །",
+      "en": "Issued symbolic prophecies and entrusted you with the ultimate lineage.",
+      "en-trans": "da yi lungten dön gyi gyüpa té"
+    },
+    {
+      "bo": "བགེགས་སེལ་དངོས་གྲུབ་བརྙེས་ལ་གསོལ་བ་འདེབས།",
+      "en": "To you, the one who banished obstacles and gained accomplishment, I pray.",
+      "en-trans": "gek sel ngödrup nyé la sölwa dep"
+    },
+    {
+      "bo": "ཁྱད་པར་འཇམ་མགོན་མཁྱེན་བརྩེའི་དབང་པོ་དང༌། །",
+      "en": "Through activating your master-disciple connection",
+      "en-trans": "khyepar jam gön khyentsé wangpo dang"
+    },
+    {
+      "bo": "ཡབ་སྲས་འབྲེལ་བའི་ལས་ཀྱི་འཕྲོ་སད་ནས། །",
+      "en": "With the gentle lord Khyentse Wangpo in particular,",
+      "en-trans": "yapsé drelwé lé kyi tro sé né"
+    },
+    {
+      "bo": "ཐུགས་ཡིད་གཅིག་འདྲེས་ངོ་མཚར་རྟེན་འབྲེལ་གྱི། །",
+      "en": "Your minds merged as one, and you unlocked a hundred doors",
+      "en-trans": "tuk yi chik dré ngotsar tendrel gyi"
+    },
+    {
+      "bo": "སྒོ་འཕར་བརྒྱ་ཕྲག་ཕྱེས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Of wondrous interdependent connection—to you I pray.",
+      "en-trans": "gopar gyatrak ché la sölwa dep"
+    },
+    {
+      "bo": "སྐྱེ་བས་ཐོབ་པའི་དྲི་མེད་ཡེ་ཤེས་སྤྱན། །",
+      "en": "To the faultless wisdom-vision you gained at birth",
+      "en-trans": "kyewé toppé drimé yeshé chen"
+    },
+    {
+      "bo": "དྲང་ངེས་ཆོས་ལ་ལྐོག་ཏུ་མ་གྱུར་བས། །",
+      "en": "No dharma, provisional or definitive, was concealed,",
+      "en-trans": "drang ngé chö la kok tu magyurwé"
+    },
+    {
+      "bo": "མཁས་དང་གྲུབ་པར་རློམ་ཀུན་ཟིལ་ནོན་པའི། །",
+      "en": "And with the full strength of twofold wisdom, you outshone",
+      "en-trans": "khé dang druppar lom kün zil nönpé"
+    },
+    {
+      "bo": "མཁྱེན་གཉིས་རྩལ་ཆེན་རྫོགས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "All who considered themselves learned or accomplished—to you I pray.",
+      "en-trans": "khyen nyi tsel chen dzok la sölwa dep"
+    },
+    {
+      "bo": "ས་སྤྱོད་གསུང་གི་འཁོར་ལོ་ལ་སོགས་པར། །",
+      "en": "At the earthly centre of enlightened speech4and elsewhere,",
+      "en-trans": "sachö sung gi khorlo lasokpar"
+    },
+    {
+      "bo": "བསྐྱེད་རྫོགས་རྫོགས་ཆེན་རྣལ་འབྱོར་མཐར་ཕྱིན་ཏེ། །",
+      "en": "You completed the yogas of generation, perfection and Great Perfection,",
+      "en-trans": "kyedzok dzogchen neljor tarchin té"
+    },
+    {
+      "bo": "འཁྲུལ་པ་ཞིག་ཅིང་ལས་བཞིར་རང་དབང་འབྱོར། །",
+      "en": "Destroyed delusion and gained proficiency in the four types of activity,5",
+      "en-trans": "trülpa zhik ching lé zhir rangwang jor"
+    },
+    {
+      "bo": "གྲུབ་པའི་གཙུག་རྒྱན་གྱུར་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you, an ornament upon the crowns of adepts, I pray.",
+      "en-trans": "druppé tsukgyen gyur la sölwa dep"
+    },
+    {
+      "bo": "དག་པའི་སྣང་བར་པདྨ་འོད་ཞིང་དུ། །",
+      "en": "In pure visions you often travelled to the realm of Lotus Light,",
+      "en-trans": "dakpé nangwar pema ö zhing du"
+    },
+    {
+      "bo": "ཡང་ཡང་ཕེབས་ནས་བླ་མ་སྐུ་གསུམ་དང༌། །",
+      "en": "Where you practised fourfold approach and accomplishment6",
+      "en-trans": "yangyang pep né lama ku sum dang"
+    },
+    {
+      "bo": "རྗེ་འབངས་ཚོགས་བཅས་བསྙེན་སྒྲུབ་རྣམ་བཞི་མཛད། །",
+      "en": "Together with the three-kāya Guru and hosts of disciples,",
+      "en-trans": "jebang tsok ché nyendrup nam zhi dzé"
+    },
+    {
+      "bo": "དབང་བསྐུར་ལུང་བསྟན་ཐོབ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "And received empowerments and prophecies—to you I pray.",
+      "en-trans": "wangkur lungten top la sölwa dep"
+    },
+    {
+      "bo": "རྒྱལ་བ་སྲས་བཅས་ཡི་དམ་དཔག་མེད་གཟིགས། །",
+      "en": "You beheld countless victors, their heirs and yidam deities,",
+      "en-trans": "gyelwa sé ché yidam pakmé zik"
+    },
+    {
+      "bo": "མཁའ་འགྲོ་རྣམས་དང་ཚོགས་ཀྱི་འདུ་བར་རོལ། །",
+      "en": "And participated in feast gatherings together with ḍākinīs,",
+      "en-trans": "khandro nam dang tsok kyi duwar röl"
+    },
+    {
+      "bo": "དམ་ཅན་གཏེར་སྲུང་དཀར་ཕྱོགས་སྐྱོང་རྣམས་ཀྱིས། །",
+      "en": "While oath-bound treasure guardians and virtuous protectors",
+      "en-trans": "damchen tersung karchok kyong nam kyi"
+    },
+    {
+      "bo": "ཅི་བཅོལ་བཀའ་བཞིན་སྒྲུབ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Carried out whatever actions you commanded—to you I pray.",
+      "en-trans": "chi chöl ka zhin drup la sölwa dep"
+    },
+    {
+      "bo": "བླ་མ་སྐོར་གསུམ་སྒྲུབ་སྡེ་ཞི་དང་ཁྲོ། །",
+      "en": "The Three Cycles of the Guru, peaceful and wrathful sādhanas,",
+      "en-trans": "lama korsum drupdé zhi dang tro"
+    },
+    {
+      "bo": "མཉམ་སྦྱོར་མདོ་སྒྱུ་རྫོགས་ཆེན་སྡེ་གསུམ་སོགས། །",
+      "en": "TheUnion,Scripture,Illusion,Three Sections of the Great Perfection, and more—",
+      "en-trans": "nyamjor do gyu dzogchen dé sum sok"
+    },
+    {
+      "bo": "སྔོན་ཆད་ས་སྟེང་མ་བྱོན་ཆོས་རྟེན་གྱི། །",
+      "en": "To you, the one who revealed a vast treasury of Dharma jewels,",
+      "en-trans": "ngönché sateng majön chö ten gyi"
+    },
+    {
+      "bo": "ནོར་བུའི་མཛོད་ཆེན་ཕྱུང་ལ་གསོལ་བ་འདེབས། །",
+      "en": "The likes of which had not been seen before upon this earth, I pray.",
+      "en-trans": "norbü dzö chen chung la sölwa dep"
+    },
+    {
+      "bo": "མདོ་ཁམས་གནས་ཆེན་ཉེར་ལྔ་གཙོར་གྱུར་པའི། །",
+      "en": "You directly encountered a hundred supremely sacred places,",
+      "en-trans": "dokham né chen nyernga tsor gyurpé"
+    },
+    {
+      "bo": "གནས་མཆོག་བརྒྱ་རྩའི་ཞལ་རས་དངོས་བརྒྱུད་ནས། །",
+      "en": "With the twenty-five major sites of Dokham foremost among them.",
+      "en-trans": "né chok gya tsé zhelré ngö gyü né"
+    },
+    {
+      "bo": "སྣང་བར་མཛད་ཅིང་སྐྱེ་རྒུ་མཐའ་ཡས་པ། །",
+      "en": "You are the one who brought them all to light—",
+      "en-trans": "nangwar dzé ching kyegu tayepa"
+    },
+    {
+      "bo": "ཐར་པའི་ཁ་ལོ་སྒྱུར་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Great captain guiding infinite beings to liberation, to you I pray.",
+      "en-trans": "tarpé khalo gyur la sölwa dep"
+    },
+    {
+      "bo": "ཀར་འབྲུག་ཡབ་སྲས་སྔ་འགྱུར་བསྟན་འཛིན་མཆོག །",
+      "en": "The great teachers of every tradition without sectarian bias,",
+      "en-trans": "kar druk yapsé ngagyur tendzin chok"
+    },
+    {
+      "bo": "གངས་ཅན་དཔལ་མགོན་རྣམས་ཀྱིས་གཙོར་མཛད་པའི། །",
+      "en": "Especially the glorious protectors of the Land of Snows,",
+      "en-trans": "gangchen pelgön nam kyi tsor dzepé"
+    },
+    {
+      "bo": "རིས་མེད་སྐྱེས་ཆེན་ཀུན་གྱིས་ཞབས་ལ་བཏུད། །",
+      "en": "The fathers and sons of the Karma and Drukpa and supreme holders of the Ancient Translations teachings,",
+      "en-trans": "rimé kyé chen kün gyi zhap la tü"
+    },
+    {
+      "bo": "བླ་མའི་བླ་མར་གྱུར་ལ་གསོལ་བ་འདེབས། །",
+      "en": "All bowed down before your feet—master of masters, to you I pray.",
+      "en-trans": "lamé lamar gyur la sölwa dep"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་རྡོ་རྗེའི་ལུང་གིས་བསྔགས་པ་ཡི། །",
+      "en": "As foretold in the vajra prophecies of the Oḍḍiyāna Guru,",
+      "en-trans": "orgyen dorjé lung gi ngakpa yi"
+    },
+    {
+      "bo": "རྩ་བའི་ཆོས་བདག་རྣམ་བཅུས་ཐོག་དྲངས་ཏེ། །",
+      "en": "Ten principal custodians of your teachings took the lead",
+      "en-trans": "tsawé chödak nam chü tok drang té"
+    },
+    {
+      "bo": "མངའ་རིས་དབུས་གཙང་མདོ་ཁམས་མཐའ་དབུས་སུ། །",
+      "en": "In extending the sphere of your profound treasury activity",
+      "en-trans": "ngari wütsang dokham ta wü su"
+    },
+    {
+      "bo": "ཟབ་གཏེར་ཕྲིན་ལས་སྤེལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Throughout the whole of Ngari, Ü, Tsang and Dokham—to you I pray.",
+      "en-trans": "zapter trinlé pel la sölwa dep"
+    },
+    {
+      "bo": "གནས་མཆོག་རྣམས་ལ་རྡོ་རྗེའི་བྱིན་ཆེན་ཕབ། །",
+      "en": "You showered down a rain of vajra blessings upon supremely sacred places,",
+      "en-trans": "né chok nam la dorjé jin chen pap"
+    },
+    {
+      "bo": "སྡེ་བརྒྱད་འབྱུང་པོར་བཀའ་ནན་རབ་བརྗིད་བསྩལ། །",
+      "en": "Suppressed the eight classes of spirits and demons, and conferred magnificence.",
+      "en-trans": "dé gyé jungpor ka nen rap ji tsel"
+    },
+    {
+      "bo": "ས་གནད་ཀུན་ཏུ་ཕྱི་ནང་རྟེན་འབྲེལ་བསྒྲིགས། །",
+      "en": "Everywhere throughout the land you arranged outer and inner auspiciousness,",
+      "en-trans": "sa né küntu chinang tendrel drik"
+    },
+    {
+      "bo": "སྙིགས་མའི་སྐལ་ངན་ཟློག་ལ་གསོལ་བ་འདེབས། །",
+      "en": "And averted the misfortune of this degenerate age—to you I pray.",
+      "en-trans": "nyikmé kel ngen dok la sölwa dep"
+    },
+    {
+      "bo": "ཐུན་མོང་ཐུན་མོང་མིན་པའི་སྨིན་གྲོལ་དང༌། །",
+      "en": "You bestowed common and uncommon empowerments and instructions,",
+      "en-trans": "tünmong tünmong minpé mindröl dang"
+    },
+    {
+      "bo": "སྒྲུབ་ཆེན་གར་འཆམ་མྱོང་གྲོལ་སྦྱིན་པ་སོགས། །",
+      "en": "Performed grand accomplishment rites and dances, granted liberation upon taste,",
+      "en-trans": "drupchen gar cham nyongdröl jinpa sok"
+    },
+    {
+      "bo": "ཕྱོགས་མེད་སྩལ་པས་སྐྱེ་རྒུ་གྲངས་མེད་པ། །",
+      "en": "And in these and other ways, you impartially benefitted countless beings.",
+      "en-trans": "chokmé tselpé kyegu drangmepa"
+    },
+    {
+      "bo": "འབྲེལ་ཚད་དོན་ལྡན་མཛད་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you who made every connection a meaningful one, I pray.",
+      "en-trans": "dreltsé dönden dzé la sölwa dep"
+    },
+    {
+      "bo": "རྟག་འཛིན་ཅན་རྣམས་དགེ་ལ་བསྐུལ་བ་དང༌། །",
+      "en": "To encourage virtue among those who might cling to permanence,",
+      "en-trans": "tak dzinchen nam gé la külwa dang"
+    },
+    {
+      "bo": "དོན་མཆོག་རྒྱ་ཆེན་གཞན་ལ་གཟིགས་ནས་ཀྱང༌། །",
+      "en": "And since you perceived another mission of vast significance,",
+      "en-trans": "dön chok gyachen zhen la zik né kyang"
+    },
+    {
+      "bo": "སྐལ་ལྡན་སྣང་ངོར་ཆོ་འཕྲུལ་དུ་མར་བཅས། །",
+      "en": "You departed, together with miracles perceived by the fortunate,",
+      "en-trans": "kelden nang ngor chotrül dumar ché"
+    },
+    {
+      "bo": "པདྨ་འོད་དུ་གཤེགས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "For the realm of Lotus Light—to you I pray.",
+      "en-trans": "pema ö du shek la sölwa dep"
+    },
+    {
+      "bo": "པདྨས་ཡོངས་སུ་ཁེབས་པའི་ཞིང་ཁམས་སུ། །",
+      "en": "In the pure realm that is Wholly Covered in Lotuses,",
+      "en-trans": "pemé yongsu kheppé zhingkham su"
+    },
+    {
+      "bo": "པདྨའི་འོད་ཟེར་རྒྱལ་བའི་སྲས་མཆོག་ནི། །",
+      "en": "You are the supreme son of the victorious one Rays of Lotus Light,",
+      "en-trans": "pemé özer gyelwé sé chok ni"
+    },
+    {
+      "bo": "པདྨའི་མྱུ་གུ་ལ་སོགས་ཕྱོགས་བཅུ་ན། །",
+      "en": "Who displays infinite emanations throughout the ten directions,",
+      "en-trans": "pemé nyugu lasok chok chu na"
+    },
+    {
+      "bo": "རྣམ་འཕྲུལ་མཐའ་ཡས་སྟོན་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Including one called Lotus Essence—to you I pray.",
+      "en-trans": "namtrül tayé tön la sölwa dep"
+    },
+    {
+      "bo": "སྒོ་གསུམ་གུས་པས་གསོལ་འདེབས་བུ་རྣམས་ལ། །",
+      "en": "Confer the blessings of enlightened body, speech and mind",
+      "en-trans": "go sum güpé söldep bu nam la"
+    },
+    {
+      "bo": "སྐུ་གསུང་ཐུགས་ཀྱི་བྱིན་རླབས་སྩོལ་བ་དང༌། །",
+      "en": "Upon your heirs, who pray with devotion of the three doors.",
+      "en-trans": "ku sung tuk kyi jinlap tsölwa dang"
+    },
+    {
+      "bo": "སྐྱེ་བ་ཀུན་ཏུ་འབྲལ་མེད་རྗེས་བཟུང་ནས། །",
+      "en": "Guide and care for us inseparably in all our lives to come,",
+      "en-trans": "kyewa küntu drelmé jezung né"
+    },
+    {
+      "bo": "དག་པའི་ཞིང་ཁམས་མཆོག་ཏུ་དྲང་དུ་གསོལ། །",
+      "en": "And lead us to the supreme of pure realms, we pray.",
+      "en-trans": "dakpé zhingkham chok tu drang du söl"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སྒྲུབ་པའི་འགལ་རྐྱེན་ཀུན་ཞི་ཞིང༌། །",
+      "en": "Pacify all circumstances that hinder our attainment of awakening,",
+      "en-trans": "jangchup druppé gelkyen kün zhi zhing"
+    },
+    {
+      "bo": "གནས་སྐབས་བསམ་དོན་ཆོས་བཞིན་འགྲུབ་པ་དང༌། །",
+      "en": "Cause short-term aspirations to be fulfilled according to the Dharma,",
+      "en-trans": "nekap samdön chö zhin druppa dang"
+    },
+    {
+      "bo": "རིག་འཛིན་རྣམ་བཞིའི་གོ་འཕང་བདེ་བླག་བགྲོད། །",
+      "en": "Help us to traverse with ease the four stages of the vidyādharas,",
+      "en-trans": "rigdzin nam zhi gopang delak drö"
+    },
+    {
+      "bo": "མཐར་ཐུག་བདེ་ཆེན་རྡོ་རྗེ་སེམས་འགྲུབ་ཤོག །",
+      "en": "And ultimately attain the state of the Vajrasattva of Great Bliss.",
+      "en-trans": "tartuk dechen dorjé sem drup shok"
+    },
+    {
+      "bo": "ཟབ་གཏེར་བསྟན་པ་འཛམ་གླིང་ཀུན་ཏུ་ཁྱབ། །",
+      "en": "May the profound treasure teachings spread throughout this world,",
+      "en-trans": "zapter tenpa dzamling küntu khyap"
+    },
+    {
+      "bo": "དེ་འཛིན་སྐྱེས་མཆོག་སྐུ་ཚེ་བསྐལ་བརྒྱར་བརྟན། །",
+      "en": "May the sublime masters who uphold them live for a hundred aeons,",
+      "en-trans": "dé dzin kyechok kutsé kel gyar ten"
+    },
+    {
+      "bo": "ཕྲིན་ལས་རྟག་ཅིང་ཁྱབ་པའི་དགེ་ལེགས་ཀྱིས། །",
+      "en": "And may the virtuous excellence of this constant, far-reaching activity",
+      "en-trans": "trinlé tak ching khyappé gelek kyi"
+    },
+    {
+      "bo": "བཀྲ་ཤིས་ཉི་མས་ས་གསུམ་སྣང་གྱུར་ཅིག །",
+      "en": "Cause the sun of auspiciousness to shine throughout the three worlds.",
+      "en-trans": "tashi nyimé sa sum nang gyur chik"
+    }
+  ]
+}

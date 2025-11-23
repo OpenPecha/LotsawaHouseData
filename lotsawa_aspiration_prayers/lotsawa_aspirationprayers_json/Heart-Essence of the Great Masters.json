@@ -1,0 +1,971 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/heart-essence-of-great-masters",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །གདམས་ངག་གནད་བསྡུས་ཀྱི་སྨོན་ལམ་དམ་པའི་སྙིང་བཅུད་ཅེས་བྱ་བ་བཞུགས་སོ། །",
+    "en": "An Aspiration Encapsulating the Key Points of the Oral Instructions"
+  },
+  "text": [
+    {
+      "bo": "བསླུ་མེད་གཏན་གྱི་སྐྱབས་གཅིག་འཁོར་ལོའི་མགོན། །",
+      "en": "Root guru, precious and most kind,",
+      "en-trans": "lumé ten gyi kyab chik khorlö gön"
+    },
+    {
+      "bo": "དྲིན་ཆེན་རྩ་བའི་བླ་མ་རིན་པོ་ཆེ། །",
+      "en": "Lord of the mandala,Sole, unfailing, lasting refuge,",
+      "en-trans": "drinchen tsawé lama rinpoche"
+    },
+    {
+      "bo": "འཆི་བ་མ་དྲན་ཚེ་འདི་སྒྲུབ་པ་ཡི། །",
+      "en": "With your compassion, take hold of me:Working only for this life, not keeping death in mind,",
+      "en-trans": "chiwa ma dren tsé di drubpa yi"
+    },
+    {
+      "bo": "དལ་འབྱོར་སྟོང་ཟད་བདག་ལ་ཐུགས་རྗེས་ཟུང་། །",
+      "en": "Wasting this free, well-favored human birth.",
+      "en-trans": "daljor tong zé dak la tukjé zung"
+    },
+    {
+      "bo": "རྨི་ལམ་འདྲ་བའི་མི་ཚེ་ཡད་ཡུད་འདི།།",
+      "en": "Human life, lasting an instant, like a dream—",
+      "en-trans": "milam drawé mitsé yé yü di"
+    },
+    {
+      "bo": "སྐྱིད་ཀྱང་རུང་ལ་སྡུག་ཀྱང་རུང་བས་ན། །",
+      "en": "It might be happy; it might be sad.",
+      "en-trans": "kyi kyang rung la duk kyang rungwé na"
+    },
+    {
+      "bo": "སྐྱིད་སྡུག་གནས་ལ་ཡིད་སྨོན་མི་བྱེད་པར། །",
+      "en": "Not wishing for joy; not avoiding sadness,",
+      "en-trans": "kyiduk né la yimön mi jepar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "རླུང་གསེབ་མར་མེ་འདྲ་བའི་མི་ཚེ་འདི།",
+      "en": "This human life, like a butter-lamp set out in the wind—",
+      "en-trans": "lung seb marmé drawé mitsé di"
+    },
+    {
+      "bo": "རིང་ཡང་རུང་ལ་ཐུང་ཡང་རུང་བས་ན། །",
+      "en": "It might last a long time, or it might not.",
+      "en-trans": "ring yang rung la tung yang rungwé na"
+    },
+    {
+      "bo": "བདག་འཛིན་དམ་པོར་ཁ་བསྣོན་མི་འདེབས་པར། །",
+      "en": "Not letting ego's hold tighten further,",
+      "en-trans": "dakdzin dampor kha nön mi debpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "སླུ་བྱེད་སྒྱུ་མ་འདྲ་བའི་རྣམ་དཔྱོད་འདི། །",
+      "en": "A life of luxury, like a bewitching apparition—",
+      "en-trans": "lu jé gyuma drawé namchö di"
+    },
+    {
+      "bo": "འགྲིགས་ཀྱང་རུང་ལ་མ་འགྲིགས་ཀྱང་རུང་བས། །",
+      "en": "It might come to pass, or it might not.",
+      "en-trans": "drik kyang rung la ma drik kyang rungwé"
+    },
+    {
+      "bo": "ཆོས་བརྒྱད་ཁྱེར་ཀ་རྩྭ་ལྟར་དོར་ནས་སུ། །",
+      "en": "With the ways of the eight worldly dharmas cast away like chaff,",
+      "en-trans": "chö gyé khyer ka tsa tar dor né su"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཤིང་ཁའི་བྱ་ཚོགས་འདྲ་བའི་འཁོར་གཡོག་འདི། །",
+      "en": "All these underlings, like a bunch of birds in a tree—",
+      "en-trans": "shing kheja tsok drawé khoryok di"
+    },
+    {
+      "bo": "འདུས་ཀྱང་རུང་ལ་འབྲལ་ཡང་རུང་བས་ན། །",
+      "en": "They might surround me; they might not.",
+      "en-trans": "dü kyang rung la dral yang rungwé na"
+    },
+    {
+      "bo": "སྣ་ཐག་རང་གི་མགོ་ལ་དཀྲི་བ་ཡིས། །",
+      "en": "Not letting others lead me around by the nose,",
+      "en-trans": "natak rang gi go la triwa yi"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ལོ་བརྒྱའི་ཁང་རུལ་འདྲ་བའི་སྒྱུ་ལུས་འདི། །",
+      "en": "This illusory body, like a rotting, hundred-year-old house—",
+      "en-trans": "lo gyé khang rul drawé gyulü di"
+    },
+    {
+      "bo": "འཚོ་ཡང་རུང་ལ་འགྱེལ་ཡང་རུང་བས་ན། །",
+      "en": "It might last; it might fall into dust.",
+      "en-trans": "tso yang rung la gyel yang rungwé na"
+    },
+    {
+      "bo": "ཟས་གོས་སྨན་གྱི་རྩོལ་བས་མི་འཆིང་བར། །",
+      "en": "Not caught up in efforts to get food or clothes or medicines,",
+      "en-trans": "zegö men gyi tsolwé mi chingwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "བྱིས་པའི་རྩེད་མོ་འདྲ་བའི་ཆོས་ཚུགས་འདི། །",
+      "en": "This dharma behavior, like a child's game—",
+      "en-trans": "jipé tsemo drawé chö tsuk di"
+    },
+    {
+      "bo": "ཟིན་ཡང་རུང་ལ་ཤོར་ཡང་རུང་བས་ན། །",
+      "en": "It might go on, or it might stop.",
+      "en-trans": "zin yang rung la shor yang rungwé na"
+    },
+    {
+      "bo": "ཟར་ཟིར་མང་པོས་རང་མགོ་མི་བསྐོར་བར། །",
+      "en": "Undeceived by things that don't really matter,",
+      "en-trans": "zar zir mangpö rang go mi korwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "མེ་ལོང་གཟུགས་བརྙན་འདྲ་བའི་ལྷ་འདྲེ་འདིས། །",
+      "en": "All these gods and spirits, like a mirror's reflections—",
+      "en-trans": "melong zuknyen drawé lha dré di"
+    },
+    {
+      "bo": "ཕན་ཡང་རུང་ལ་གནོད་ཀྱང་རུང་བས་ན། །",
+      "en": "They might give help; they might do harm.",
+      "en-trans": "pen yang rung la nö kyang rungwé na"
+    },
+    {
+      "bo": "རང་སྣང་འཁྲུལ་པ་དགྲ་རུ་མི་བལྟ་བར། །",
+      "en": "Not seeing my own deluded visions to be enemies,",
+      "en-trans": "rangnang trulpa dra ru mi tawar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "རྗེས་མེད་བྲག་ཅ་འདྲ་བའི་འཁྲུལ་གཏམ་འདི། །",
+      "en": "All this confused chatter, traceless as an echo—",
+      "en-trans": "jemé drakcha drawé trul tam di"
+    },
+    {
+      "bo": "སྙན་ཀྱང་རུང་ལ་མ་སྙན་ཀྱང་རུང་བས། །",
+      "en": "It might be interesting, or it might not.",
+      "en-trans": "nyen kyang rung la ma nyen kyang rungwé"
+    },
+    {
+      "bo": "དཀོན་མཆོག་གསུམ་དང་རང་སེམས་དཔང་བཞག་ནས། །",
+      "en": "With the Three Jewels and my own mind bearing witness,",
+      "en-trans": "könchok sum dang rangsem pang zhak né"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཤ་བའི་རྭ་འདྲ་དགོས་དུས་མི་ཕན་པ། །",
+      "en": "Things that, like a deer's antlers, may prove useless in a time of real need—",
+      "en-trans": "shawé ra dra gö dü mi penpa"
+    },
+    {
+      "bo": "ཤེས་ཀྱང་རུང་ལ་མ་ཤེས་ཀྱང་རུང་བས། །",
+      "en": "I might know them, or I might not.",
+      "en-trans": "shé kyang rung la ma shé kyang rungwé"
+    },
+    {
+      "bo": "རིག་གནས་ཙམ་ལ་བློ་གཏད་མི་འཆའ་བར། །",
+      "en": "Not placing my confidence merely in the arts and sciences,",
+      "en-trans": "rikné tsam la lo té mi chawar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "བཙན་དུག་ཧ་ལ་འདྲ་བའི་དཀོར་རྫས་འདི། །",
+      "en": "These gifts and money given by the faithful, like deadly poison—",
+      "en-trans": "tsen duk hala drawé kor dzé di"
+    },
+    {
+      "bo": "བྱུང་ཡང་རུང་ལ་མ་བྱུང་ཡང་རུང་བས། །",
+      "en": "I might receive them; I might not.",
+      "en-trans": "jung yang rung la ma jung yang rungwé"
+    },
+    {
+      "bo": "ལོག་འཚོའི་སྡིག་ལ་མི་ཚེ་མི་བསྐྱལ་བར། །",
+      "en": "Not spending my life trying to accumulate evil earnings,",
+      "en-trans": "loktsö dik la mitsé mi kyalwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཁྱི་ལུད་དར་བསྟུམས་འདྲ་བའི་ཆེ་གཟུགས་འདི། །",
+      "en": "This lofty station, like dogshit wrapped up in satin—",
+      "en-trans": "khyi lü dar tum drawé ché zuk di"
+    },
+    {
+      "bo": "ཐོབ་ཀྱང་རུང་ལ་མ་ཐོབ་ཀྱང་རུང་བས། །",
+      "en": "I might have it; I might not.",
+      "en-trans": "tob kyang rung la ma tob kyang rungwé"
+    },
+    {
+      "bo": "རང་མགོ་རུལ་བ་སྣ་ཡིས་ཚོར་ནས་སུ། །",
+      "en": "Knowing my own rottenness at first hand,",
+      "en-trans": "rang go rulwa na yi tsor né su"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཚོང་འདུས་མགྲོན་པོ་འདྲ་བའི་གཉེན་འབྲེལ་འདི། །",
+      "en": "Friends and family, like travellers who come together for a fair—",
+      "en-trans": "tsongdü drönpo drawé nyen drel di"
+    },
+    {
+      "bo": "མཛའ་ཡང་རུང་ལ་འཁོན་ཀྱང་རུང་བས་ན། །",
+      "en": "They might be vicious; they might be loving.",
+      "en-trans": "dza yang rung la khön kyang rungwé na"
+    },
+    {
+      "bo": "ཞེན་པའི་གདོས་ཐག་སྙིང་ནས་བཅད་པ་ཡིས། །",
+      "en": "Cutting attachment's tough cord from the heart,",
+      "en-trans": "zhenpé dö tak nying né chepa yi"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "རྨི་ལམ་ནོར་རྙེད་འདྲ་བའི་ཟང་ཟིང་འདི༎",
+      "en": "All these possessions, like the wealth found in a dream—",
+      "en-trans": "milam nor nyé drawé zangzing di"
+    },
+    {
+      "bo": "ཡོད་ཀྱང་རུང་ལ་མེད་ཀྱང་རུང་བས་ན། །",
+      "en": "I might own them; I might not.",
+      "en-trans": "yö kyang rung lamé kyang rungwé na"
+    },
+    {
+      "bo": "མཐུན་འཇུག་ངོ་དགས་གཞན་མགོ་མི་བསྐོར་བར། །",
+      "en": "Not using tact and flattery to turn others' heads",
+      "en-trans": "tün juk ngo gé zhen go mi korwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "བྱིའུ་ཆུང་ཤིང་རྩེར་བབ་འདྲའི་གོ་ས་འདི། །",
+      "en": "This rank in the hierarchy, like a tiny bird perched on a branch—",
+      "en-trans": "ji'u chung shing tser bab dré gosa di"
+    },
+    {
+      "bo": "མཐོ་ཡང་རུང་ལ་དམའ་ཡང་རུང་བས་ན། །",
+      "en": "It might be high; it might be low.",
+      "en-trans": "to yang rung la ma yang rungwé na"
+    },
+    {
+      "bo": "རང་སྡུག་གནས་ལ་ཡིད་སྨོན་མི་བྱེད་པར། །",
+      "en": "Without making myself miserable wishing for a better position,",
+      "en-trans": "rang duk né la yimön mi jepar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "མཚོན་ཆ་འདྲ་བའི་ངན་སྔགས་ལས་སྦྱོར་འདི། །",
+      "en": "Practicing the spells of black magic, like deadly weapons—",
+      "en-trans": "tsön cha drawé ngen ngak lé jor di"
+    },
+    {
+      "bo": "འགྲུབ་ཀྱང་རུང་ལ་མ་འགྲུབ་ཀྱང་རུང་ས་བས། །",
+      "en": "I might be able to cast them, or I might not.",
+      "en-trans": "drub kyang rung la ma drub kyang rung sawé"
+    },
+    {
+      "bo": "རང་སྲོག་གཅོད་པའི་སྤུ་གྲི་མི་ཉོ་བར། །",
+      "en": "Not buying the knife that cuts my own throat open,",
+      "en-trans": "rang sokchöpé pudri mi nyowar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ནེ་ཙོའི་ཡིག་དྲུག་འདྲ་བའི་འདོན་བརྗོད་འདི། །",
+      "en": "Doing prayers, like a parrot saying 'om mani peme hung'—",
+      "en-trans": "né tsö yik druk drawé dön jö di"
+    },
+    {
+      "bo": "བྱས་ཀྱང་རུང་ལ་མ་བྱས་ཀྱང་རུང་བས། །",
+      "en": "I might do them; I might not.",
+      "en-trans": "jé kyang rung la ma jé kyang rungwé"
+    },
+    {
+      "bo": "བྱས་བྱས་མང་པོའི་རྣམ་གྲངས་མི་བགྲང་བར། །",
+      "en": "Without boasting about whatever I do,",
+      "en-trans": "jé jé mangpö namdrang mi drangwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "རི་བོའི་འབབ་ཆུ་འདྲ་བའི་བཤད་ཡམས་ཆོས། །",
+      "en": "The way one teaches the dharma, like flowing water—",
+      "en-trans": "riwö babchu drawé shé yam chö"
+    },
+    {
+      "bo": "མཁས་ཀྱང་རུང་ལ་མ་མཁས་ཀྱང་རུང་བས། །",
+      "en": "I might be expert, or I might not.",
+      "en-trans": "khé kyang rung la ma khé kyang rungwé"
+    },
+    {
+      "bo": "ཁ་བཤད་མཁས་ལ་ཆོས་སུ་མི་བསྒོམ་པར། །",
+      "en": "Without thinking that mere eloquence is dharma,",
+      "en-trans": "kha shé khé la chö su mi gompar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཕག་པའི་སྣ་འདྲ་དཔྱད་པ་མྱུར་བའི་བློ། །",
+      "en": "Intellect that makes quick discriminations, like a rooting pig—",
+      "en-trans": "pakpé na dra chepa nyurwé lo"
+    },
+    {
+      "bo": "རྣོ་ཡང་རུང་ལ་རྟུལ་ཡང་རུང་བས་ན། །",
+      "en": "It might be dull; it might be sharp.",
+      "en-trans": "no yang rung la tul yang rungwé na"
+    },
+    {
+      "bo": "དོན་མེད་ཆགས་སྡང་ཟེགས་མ་མི་སློང་བར། །",
+      "en": "Not allowing the barbs of pointless anger and attachment to arise,",
+      "en-trans": "dönmé chakdang zekma mi longwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "དབྱར་གྱི་རྐ་ཆུ་འདྲ་བའི་རྣལ་འབྱོར་ཉམས༑ །",
+      "en": "Meditation experiences, like well-water in summer—",
+      "en-trans": "yar gyi ka chu drawé naljor nyam"
+    },
+    {
+      "bo": "འཕེལ་ཡང་རུང་ལ་འགྲིབ་ཀྱང་རུང་བས་ན། །",
+      "en": "They may increase; they may lessen.",
+      "en-trans": "pel yang rung la drib kyang rungwé na"
+    },
+    {
+      "bo": "བྱིས་པ་འཇའ་ཚོན་རྗེས་སུ་མི་འདེད་པར། །",
+      "en": "Without doing as children do, chasing after rainbows,",
+      "en-trans": "jipa jatsön jesu mi depar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "རི་འགོའི་ཆར་པ་འདྲ་བའི་དག་སྣང་འདི། །",
+      "en": "This pure perception, like rain on a mountaintop—",
+      "en-trans": "ri gö charpa drawé daknang di"
+    },
+    {
+      "bo": "ཤར་ཡང་རུང་ལ་མ་ཤར་ཡང་རུང་བས།།",
+      "en": "It might arise, or it might not.",
+      "en-trans": "shar yang rung la mashar yang rungwé"
+    },
+    {
+      "bo": "འཁྲུལ་པའི་ཉམས་ལ་བདེན་པར་མི་བཟུང་བར། །",
+      "en": "Without taking deluded experience to be real,",
+      "en-trans": "trulpé nyam la denpar mi zungwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཡིད་བཞིན་ནོར་བུ་ལྟ་བུའི་དལ་འབྱོར་འདི། །",
+      "en": "These freedoms and favorable conditions, like a wishing-jewel—",
+      "en-trans": "yizhin norbu tabü daljor di"
+    },
+    {
+      "bo": "མ་ཐོབ་དམ་ཆོས་སྒྲུབ་ཐབས་མི་འདུག་པས། །",
+      "en": "If they are lacking, there is no way to accomplish the holy dharma.",
+      "en-trans": "ma tob damchö drubtab mi dukpé"
+    },
+    {
+      "bo": "རང་ལག་ཡོད་དུས་ཆུད་ཟོས་མི་གཏོང་བར། །",
+      "en": "Not throwing away what's already in my own hand,",
+      "en-trans": "rang lak yö dü chüzö mi tongwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཐར་ལམ་སྒྲོན་མེ་དཔལ་ལྡན་བླ་མ་འདི། །",
+      "en": "The glorious guru, like a lamp that lights the way to liberation—",
+      "en-trans": "tarlam drönmé palden lama di"
+    },
+    {
+      "bo": "མ་འཇལ་གནས་ལུགས་རྟོགས་ཐབས་མི་འདུག་པས། །",
+      "en": "If I cannot meet him, there is no way to realize the true nature.",
+      "en-trans": "ma jal neluk tok tab mi dukpé"
+    },
+    {
+      "bo": "གར་འགྲོ་ཤེས་དུས་གཡང་ལ་མི་མཆོང་བར། །",
+      "en": "Not jumping off a cliff when I know the path to go on,",
+      "en-trans": "gar dro shé dü yang la mi chongwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ནད་སེལ་སྨན་དང་འདྲ་བའི་དམ་ཆོས་འདི། །",
+      "en": "The holy dharma, like a medicine to cure disease—",
+      "en-trans": "né sel men dang drawé damchö di"
+    },
+    {
+      "bo": "མ་ཐོས་སྤང་བླང་ཤེས་ཐབས་མི་འདུག་པས། །",
+      "en": "If I don't hear it, there is no way to know what should be done and not done.",
+      "en-trans": "ma tö panglang shé tab mi dukpé"
+    },
+    {
+      "bo": "ཕན་གནོད་ཤེས་དུས་བཙན་དུག་མི་འགམ་པར། །",
+      "en": "Not swallowing poison when I can tell benefit from harm,",
+      "en-trans": "pennö shé dü tsen duk mi gampar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "དབྱར་དགུན་རེས་འདྲའི་སྐྱིད་སྡུག་འགྱུར་ལྡོག་འདི། །",
+      "en": "The changing cycle of joy and sorrow, like the changing seasons—",
+      "en-trans": "yar gün ré dré kyiduk gyur dok di"
+    },
+    {
+      "bo": "མ་མཐོང་ངེས་པར་འབྱུང་ཐབས་མི་གདའ་བས། །",
+      "en": "If this isn't seen, there is no way to achieve renunciation.",
+      "en-trans": "ma tong ngepar jung tab mi dawé"
+    },
+    {
+      "bo": "སྡུག་རེས་རང་ལ་འཁོར་བར་ཐག་ཆོད་ནས། །",
+      "en": "As it's sure that a time of suffering will come round to me,",
+      "en-trans": "duk ré rang la khorwar takchö né"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཆུ་རྡོ་ཆུ་གཏིང་བྱིང་འདྲའི་འཁོར་བ་འདི། །",
+      "en": "Samsara, like a stone fallen deep into water—",
+      "en-trans": "chu do chu ting jing dré khorwa di"
+    },
+    {
+      "bo": "ད་རེས་མ་བསྐྱུར་ཕྱི་ནས་མི་ཐར་བས། །",
+      "en": "If I don't get out now, I won't get out later.",
+      "en-trans": "daré ma kyur chi né mi tarwé"
+    },
+    {
+      "bo": "དཀོན་མཆོག་ཐུགས་རྗེའི་དཔྱད་ཐག་ལ་འཇུས་ནས། །",
+      "en": "Pulling myself out by the rope of the compassionate Three Jewels,",
+      "en-trans": "könchok tukjé ché tak la jü né"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ནོར་བུའི་གླིང་འདྲ་ཐར་བའི་ཡོན་ཏན་འདི། །",
+      "en": "Liberation's good qualities, like an island of jewels—",
+      "en-trans": "norbü ling dra tarwé yönten di"
+    },
+    {
+      "bo": "མ་ཤེས་བརྩོན་འགྲུས་རྩོམ་ཐབས་མི་འདུག་པས། །",
+      "en": "If they aren't known, there is no way to begin to make efforts.",
+      "en-trans": "ma shé tsöndrü tsom tab mi dukpé"
+    },
+    {
+      "bo": "གཏན་དུ་རྒྱལ་བའི་ཁེ་གསང་མཐོང་ནས་སུ། །",
+      "en": "Having seen the advantage of permanent victory,",
+      "en-trans": "tendu gyalwé khé sang tong né su"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "བདུད་རྩིའི་བཅུད་འདྲ་དམ་པའི་རྣམ་ཐར་འདི། །",
+      "en": "The life stories of the great masters, like the essence of amrita—",
+      "en-trans": "dütsi chü dra dampé namtar di"
+    },
+    {
+      "bo": "མ་མཇལ་ཡིད་ཆེས་སྐྱེ་ཐབས་མི་འདུག་པས། །",
+      "en": "If they aren't known, there is no way for confidence to arise.",
+      "en-trans": "ma jal yiché kyé tab mi dukpé"
+    },
+    {
+      "bo": "ཕམ་རྒྱལ་ཤེས་དུས་རང་སྡུག་མི་ཉོ་བར། །",
+      "en": "Not choosing self-destruction when I can tell victory from defeat,",
+      "en-trans": "pam gyal shé dü rang duk mi nyowar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཞིང་ས་གཤིན་པོ་འདྲ་བའི་བྱང་སེམས་འདི། །",
+      "en": "Bodhicitta, like a fertile field—",
+      "en-trans": "zhingsa shinpo drawé changsem di"
+    },
+    {
+      "bo": "མ་སྐྱེས་སངས་རྒྱས་ཐོབ་ཐབས་མི་འདུག་པས། །",
+      "en": "Until it is born, there is no way to achieve enlightenment.",
+      "en-trans": "makyé sangye tob tab mi dukpé"
+    },
+    {
+      "bo": "དོན་ཆེན་སྒྲུབ་ལ་བཏང་སྙོམས་མི་འཇོག་པར། །",
+      "en": "Not staying idle when there is a great aim to be accomplished,",
+      "en-trans": "dön chen drub la tangnyom mi jokpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཅོལ་ཆུང་སྤྲེའུ་འདྲ་བའི་རང་སེམས་འདི། །",
+      "en": "My own mind, like a monkey's nonsense—",
+      "en-trans": "chol chung pé'u drawé rangsem di"
+    },
+    {
+      "bo": "མ་བསྲུང་ཉོན་མོངས་སྤང་ཐབས་མི་འདུག་པས། །",
+      "en": "Without keeping guard, there is no way to avoid the conflicting emotions.",
+      "en-trans": "ma sung nyönmong pang tab mi dukpé"
+    },
+    {
+      "bo": "སྨྱོན་པའི་ལད་མོ་ཅི་བདེར་མི་བྱེད་པར། །",
+      "en": "Not acting without restraint, like a lunatic,",
+      "en-trans": "nyönpé lemo chi der mi jepar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ལྷན་སྐྱེས་གྲིབ་མ་འདྲ་བའི་བདག་འཛིན་འདི། །",
+      "en": "Ego, like a shadow one is born with—",
+      "en-trans": "lhenkyé dribma drawé dakdzin di"
+    },
+    {
+      "bo": "མ་སྤངས་བདེ་སར་ཕྱིན་ཐབས་མི་འདུག་པས། །",
+      "en": "Until it's abandoned, there is no way to reach a place of real joy.",
+      "en-trans": "ma pang dé sar chin tab mi dukpé"
+    },
+    {
+      "bo": "དགྲ་བོ་ཟིན་དུས་བཤེས་སུ་མི་བསྟེན་པར། །",
+      "en": "When the enemy is in my clutches, why treat him as a friend?",
+      "en-trans": "drawo zin dü shé su mi tenpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཐལ་གསེབ་མེ་མདག་འདྲ་བའི་དུག་ལྔ་འདི། །",
+      "en": "The five poisons, like hot embers among ashes—",
+      "en-trans": "tal seb medak drawé duk nga di"
+    },
+    {
+      "bo": "མ་ཆོམ་སེམས་ཉིད་རྣལ་དུ་མི་གནས་པས། །",
+      "en": "Until they're destroyed, one can't remain at rest in the natural state.",
+      "en-trans": "ma chom semnyi nal du mi nepé"
+    },
+    {
+      "bo": "དུག་སྦྲུལ་ཕྲུ་གུ་རུམ་དུ་མི་གསོ་བར། །",
+      "en": "Not raising baby vipers in my pockets,",
+      "en-trans": "dukdrul trugu rum du mi sowar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "སྣུམ་ཀོག་གྱོང་པོ་འདྲ་བའི་རང་རྒྱུད་འདི། །",
+      "en": "This mindstream, like the tough hide of a butter-bag—",
+      "en-trans": "num kok gyongpo drawé ranggyü di"
+    },
+    {
+      "bo": "མ་དུལ་ཆོས་དང་རང་སེམས་མི་འདྲེ་བས། །",
+      "en": "If it's not tamed and softened, one can't mix mind with dharma.",
+      "en-trans": "ma dul chö dang rangsem mi drewé"
+    },
+    {
+      "bo": "རང་སྐྱེས་ཕྲུ་གུ་སྐྱག་ལང་མི་བཏང་བར། །",
+      "en": "Without spoiling the child that is born of itself,",
+      "en-trans": "rang kyé trugu kyak lang mi tangwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཆུ་ཀླུང་འབབ་འདྲ་བག་ཆགས་ངན་གོམས་འདི། །",
+      "en": "These ingrained bad habits, karmic traces, like the strong currents of a river—",
+      "en-trans": "chulung bab dra bakchak ngen gom di"
+    },
+    {
+      "bo": "མ་བཅད་ཆོས་མིན་སྤྱོད་དང་མི་འབྲལ་བས། །",
+      "en": "If they aren't cut, one can't avoid acting contrary to dharma.",
+      "en-trans": "ma ché chö min chö dang mindral wé"
+    },
+    {
+      "bo": "མཚོན་ཆ་དགྲ་བོའི་ལག་ཏུ་མི་འཚོང་བར། །",
+      "en": "Without selling weapons to my enemies,",
+      "en-trans": "tsöncha drawö lak tu mi tsongwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ཟིན་མེད་ཆུ་་་གཉེར་ལྟ་བུའི་རྣམ་གཡེང་འདི། །",
+      "en": "These distractions, like never-ending waves—",
+      "en-trans": "zinmé chu nyer tabü namyeng di"
+    },
+    {
+      "bo": "མ་སྤངས་བརྟན་པ་ཐོབ་ཐབས་མི་གདའ་བས། །",
+      "en": "If they aren't given up, there is no way to become stable.",
+      "en-trans": "ma pang tenpa tob tab mi dawé"
+    },
+    {
+      "bo": "ཅི་བྱས་ཆོག་དུས་འཁོར་བ་མི་་་་བསྒྲུབ་པར། །",
+      "en": "When I can do as I like, why practice samsara?",
+      "en-trans": "chi jé chok dü khorwa mi drubpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "ས་ཆུ་དྲོས་འདྲ་བླ་མའི་བྱིན་རླབས་འདི། །",
+      "en": "The lama's blessings, like spring warming up soil and water—",
+      "en-trans": "sa chu drö dra lamé jinlab di"
+    },
+    {
+      "bo": "མ་ཞུགས་རང་ངོ་འཕྲོད་ཐབས་མི་གདའ་བས། །",
+      "en": "If they don't enter into me, there is no way to be introduced to the nature of mind.",
+      "en-trans": "ma zhuk rang ngotrö tab mi dawé"
+    },
+    {
+      "bo": "ཉེ་ལམ་སླེབ་དུས་ས་རྒྱ་མི་བསྐོར་བར། །",
+      "en": "When there is a short-cut, why take the long way round?",
+      "en-trans": "nyelam leb dü sa gyami korwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "དབྱར་གྱི་སྨན་ལྗོངས་འདྲ་བའི་དབེན་ས་འདི། །",
+      "en": "This retreat in the wilderness, like summer in a lush place where herbs grow—",
+      "en-trans": "yar gyi men jong drawé wen sa di"
+    },
+    {
+      "bo": "མ་བསྟེན་ཡོན་ཏན་སྐྱེ་ཐབས་མི་གདའ་བས། །",
+      "en": "If I don't remain here, there is no way for good qualities to be born.",
+      "en-trans": "ma ten yönten kyé tab mi dawé"
+    },
+    {
+      "bo": "རི་ལ་གནས་དུས་གྲོང་ནག་མི་འགྲིམ་པར། །",
+      "en": "When staying high up in the mountains, don't drift back down into low towns.",
+      "en-trans": "ri la nedü drong nak mi drimpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "བསེ་རག་ཕུགས་སུ་ཞུགས་འདྲའི་སྐྱིད་འདོད་འདི། །",
+      "en": "Desire for pleasure, like a bad-luck spirit entering the house—",
+      "en-trans": "sé rak puk su zhuk dré kyi dö di"
+    },
+    {
+      "bo": "མ་ཕྲལ་སྡུག་བསྔལ་རྩོལ་སྒྲུབ་མི་ཆད་པས། །",
+      "en": "If I'm not free of it, I'll never stop working toward suffering.",
+      "en-trans": "ma tral dukngal tsoldrub michepé"
+    },
+    {
+      "bo": "ལྟོག་འགོང་ཕུག་གི་ལྷ་རུ་མི་མཆོད་པར། །",
+      "en": "Not making offerings to voracious ghosts as my personal gods,",
+      "en-trans": "tok gong puk gi lha ru mi chöpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "མཁར་གྱི་སྒོ་ལྕགས་འདྲ་བའི་དྲན་ཤེས་འདི། །",
+      "en": "Mindfulness, like the lock on a castle gate—",
+      "en-trans": "khar gyi go chak drawé dren shé di"
+    },
+    {
+      "bo": "མ་བསྟེན་འཁྲུལ་པའི་རྒྱུ་འགྲུལ་མི་ཆད་པས། །",
+      "en": "If it is lacking, one can't stop the movements of illusion.",
+      "en-trans": "ma ten trulpé gyundrul michepé"
+    },
+    {
+      "bo": "རྐུན་མ་ཡོང་དུས་སྒོ་ཆ་མི་ཀློད་པར། །",
+      "en": "When the thief is surely coming, why forget to bar the door?",
+      "en-trans": "künma yong dü go cha mi löpar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "འགྱུར་མེད་ནམ་མཁའ་ལྟ་བུའི་གནས་ལུགས་འདི། །",
+      "en": "The true nature, unchanging, like the sky—",
+      "en-trans": "gyurmé namkha tabü neluk di"
+    },
+    {
+      "bo": "མ་རྟོགས་ལྟ་བའི་གཞི་རྩ་མི་ཆོད་པས། །",
+      "en": "Until it's realized, one can't completely resolve doubts as to the view.",
+      "en-trans": "ma tok tawé zhi tsa mi chöpé"
+    },
+    {
+      "bo": "རང་གིས་རང་ཉིད་ལྕགས་སུ་མི་བཅུག་པར། །",
+      "en": "Not letting myself be chained by theories",
+      "en-trans": "rang gi rangnyi chak su mi chukpar"
+    },
+    {
+      "bo": "དམ་པའི་་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "དྲི་མེད་ཤེལ་གོང་འདྲ་བའི་རིག་པ་འདི། །",
+      "en": "Awareness, like a flawless piece of crystal—",
+      "en-trans": "drimé shelgong drawé rigpa di"
+    },
+    {
+      "bo": "མ་མཐོང་སྒོམ་པའི་འཛིན་རྩོལ་མི་ཞིག་པས། །",
+      "en": "Until it's seen, intentional meditation cannot dissolve.",
+      "en-trans": "ma tong gompé dzin tsol mi zhikpé"
+    },
+    {
+      "bo": "འབྲལ་མེད་འགྲོགས་དུས་གཞན་ལ་མི་ཚོལ་བར།།",
+      "en": "When there's an inseparable companion, why go off looking for another?",
+      "en-trans": "dralmé drok dü zhen la mi tsolwar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "སྔར་འདྲིས་གྲོགས་འདྲ་ཐ་མལ་ཤེས་པའི་ངོ༌། །",
+      "en": "The face of ordinary mind, like an old friend—",
+      "en-trans": "ngar dri drok dra tamal shepé ngo"
+    },
+    {
+      "bo": "མ་འཕྲོད་བྱས་ཚད་བསླུ་བའི་ཆོས་ཡིན་པས། །",
+      "en": "If it's not seen, all that one does is misleading.",
+      "en-trans": "ma trö jé tsé luwé chö yinpé"
+    },
+    {
+      "bo": "མིག་བུ་བཙུམས་ནས་སྤར་ཚོད་མི་བྱེད་པར། །",
+      "en": "Without groping in the darkness of my own closed eyes,",
+      "en-trans": "mik bu tsum né par tsö mi jepar"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ལ་ནན་ཏན་བྱེད་པར་ཤོག །",
+      "en": "May I truly practice the sublime teachings.",
+      "en-trans": "dampé chö la nenten jepar shok"
+    },
+    {
+      "bo": "མདོར་ན་ཚེ་འདིའི་བྱ་བ་མ་བཏང་ན། །",
+      "en": "In short, without giving up this life's preoccupations,",
+      "en-trans": "dorna tsé di jawa ma tang na"
+    },
+    {
+      "bo": "ཕྱི་མའི་དམ་ཆོས་འགྲུབ་ཐབས་མི་གདའ་བས། །",
+      "en": "There's no way to accomplish the sacred teachings after death.",
+      "en-trans": "chimé damchö drub tab mi dawé"
+    },
+    {
+      "bo": "རང་དྲིན་རང་ལ་ཆེ་བ་གྲོས་བཏབ་ནས། །",
+      "en": "Having decided to show myself great kindness,",
+      "en-trans": "rang drin rang la chewa drö tab né"
+    },
+    {
+      "bo": "བྱས་ཚད་དམ་པའི་ཆོས་སུ་འགྲོ་བར་ཤོག །",
+      "en": "May all that I do be toward the dharma.",
+      "en-trans": "jé tsé dampé chö su drowar shok"
+    },
+    {
+      "bo": "ཆོས་བཞིན་གདམས་ན་བླ་མར་ལོག་ལྟ་དང་། །",
+      "en": "May I not have wrong views toward the lama who, in accord with the dharma, has given instruction.",
+      "en-trans": "chö zhin dam na lamar lokta dang"
+    },
+    {
+      "bo": "ལས་ངན་ལྷོངས་ཚེ་ལྷ་ལ་ཡི་ཆད་དང་། །",
+      "en": "May I not lose faith in the yidam when misfortunes occur.",
+      "en-trans": "lé ngen lhong tsé lha la yiché dang"
+    },
+    {
+      "bo": "འགལ་རྐྱེན་བྱུང་ན་སྒྲུབ་པ་བཤོལ་བ་སོགས། །",
+      "en": "May I not put off practice when circumstances are hard.",
+      "en-trans": "galkyen jung na drubpa sholwa sok"
+    },
+    {
+      "bo": "དངོས་གྲུབ་ཐོབ་ཀར་བར་ཆད་མ་གྱུར་ཅིག །",
+      "en": "May there be no obstacles to attaining siddhi.",
+      "en-trans": "ngödrub tob kar barché magyur chik"
+    },
+    {
+      "bo": "བྱས་ཚད་ཐམས་ཅད་དོན་མེད་ས་སྟོང་བསྐོར། །",
+      "en": "All these activities are pointless, like making a grand tour of a wasteland.",
+      "en-trans": "jé tsé tamché dönmé satong kor"
+    },
+    {
+      "bo": "འབད་ཚད་ཐམས་ཅད་རང་རྒྱུད་རེངས་པའི་་རྒྱུ། །",
+      "en": "All this trying just makes my mindstream more rigid.",
+      "en-trans": "bé tsé tamché ranggyü rengpé gyu"
+    },
+    {
+      "bo": "དྲན་ཚད་ཐམས་ཅད་འཁྲུལ་པའི་ཁ་སྣོན་བཏབ། །",
+      "en": "All this thinking only adds on confusion to confusion.",
+      "en-trans": "dren tsé tamché trulpé kha nön tab"
+    },
+    {
+      "bo": "སོ་སྐྱེས་ཆོས་སུ་རློམ་ཀུན་རང་འཆིང་རྒྱུ། །",
+      "en": "All that passes for dharma to ordinary people only makes for further binding.",
+      "en-trans": "sokyé chö su lom kün rang ching gyu"
+    },
+    {
+      "bo": "བྱ་རྒྱུ་མང་ལ་་གྲུབ་འབྲས་གཅིག་ཀྱང་མེད། །",
+      "en": "So much activity; nothing comes of it.",
+      "en-trans": "ja gyu mang la drub dré chik kyangmé"
+    },
+    {
+      "bo": "དྲན་རྒྱུ་མང་ལ་གཏད་སོ་ཅི་ཡང་མེད། །",
+      "en": "So much thinking; no point to it.",
+      "en-trans": "dren gyu mang la teso chiyang mé"
+    },
+    {
+      "bo": "དགོས་དགོས་མང་ལ་འཛོམ་དུས་མེད་པ་ཡི། །",
+      "en": "So much wanting; no time for it.",
+      "en-trans": "gö gö mang la dzom dü mepa yi"
+    },
+    {
+      "bo": "བྱ་བ་བཏང་ནས་གདམས་ངག་བསྒོམ་ནུས་ཤོག །",
+      "en": "Having given this up, may I be able to practice according to instructions.",
+      "en-trans": "jawa tang né damngak gom nü shok"
+    },
+    {
+      "bo": "བྱའོ་བསམ་ན་རྒྱལ་གསུང་དཔང་པོར་ཚུགས། །",
+      "en": "If I must do something—let Buddha's teachings bear it witness.",
+      "en-trans": "ja o sam na gyal sung pangpor tsuk"
+    },
+    {
+      "bo": "བྱེད་དོ་བསམ་ན་རང་རྒྱུད་ཆོས་དང་སྲེས། །",
+      "en": "If I must do something—mix mindstream and dharma.",
+      "en-trans": "jé do sam na ranggyü chö dang sé"
+    },
+    {
+      "bo": "སྒྲུབ་བོ་བསམ་ན་གོང་མའི་རྣམ་ཐར་ལྟོས། །",
+      "en": "If I must accomplish something—read the life stories of past masters.",
+      "en-trans": "drubwo sam na gongmé namtar tö"
+    },
+    {
+      "bo": "ལང་ཤོར་ཁྱོད་ལ་བྱ་བ་གཞན་གྱིས་ཅི། །",
+      "en": "What's the use of other things? Spoiled brat!",
+      "en-trans": "lang shor khyö la jawa zhen gyi chi"
+    },
+    {
+      "bo": "དམན་ས་ཟིན་ཅིང་ཆོག་ཤེས་ནོར་གྱིས་ཕྱུག །",
+      "en": "Take a low seat, and become rich with contentment.",
+      "en-trans": "men sa zin ching chok shé nor gyi chuk"
+    },
+    {
+      "bo": "ཆོས་བརྒྱད་འཆིང་གྲོལ་སྒྲུབ་ལ་སྙིང་རུས་སྲ། །",
+      "en": "Try hard to get free of the eight worldly dharmas.",
+      "en-trans": "chö gyé ching drol drub la nyingrü sa"
+    },
+    {
+      "bo": "བླ་མའི་བྱིན་ཞུགས་རྟོགས་པ་མཁའ་དང་མཉམ། །",
+      "en": "May the lama's blessings enter into me;May my realization become equal to the sky.",
+      "en-trans": "lamé jin zhuk tokpa kha dang nyam"
+    },
+    {
+      "bo": "ཀུན་བཟང་རྒྱལ་རབས་ཟིན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant blessings that I may reach Kuntuzangpo's throne.",
+      "en-trans": "kunzang gyalrab zinpar jingyi lob"
+    }
+  ]
+}

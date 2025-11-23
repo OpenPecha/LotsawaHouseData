@@ -1,0 +1,781 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/rigdzin-godem/prayer-of-kuntuzangpo",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅༔ ༔རྫོགས་པ་ཆེན་པོ་ཀུན་ཏུ་བཟང་པོའི་དགོངས་པ་ཟང་ཐལ་དུ་བསྟན་པའི་རྒྱུད་ལས༔ སྨོན་ལམ་སྟོབས་པོ་ཆེ་བཞུགས་སོ༔",
+    "en": "FromThe Tantra of the Great Perfection That Reveals the All-Penetrating Wisdom Mind of Samantabhadra"
+  },
+  "text": [
+    {
+      "bo": "ཧོ༔ སྣང་སྲིད་འཁོར་འདས་ཐམས་ཅད་ཀུན༔",
+      "en": "Ho! All that appears and exists, saṃsāra and nirvāṇa,",
+      "en-trans": "ho, nangsi khordé tamché kün"
+    },
+    {
+      "bo": "གཞི་གཅིག་ལམ་གཉིས་འབྲས་བུ་གཉིས༔",
+      "en": "Has one ground, two paths and two forms of fruition,",
+      "en-trans": "zhi chik lam nyi drebu nyi"
+    },
+    {
+      "bo": "རིག་དང་མ་རིག་ཆོ་འཕྲུལ་ཏེ༔",
+      "en": "The magical displays of awareness and unawareness.",
+      "en-trans": "rik dang marik chotrul té"
+    },
+    {
+      "bo": "ཀུན་ཏུ་བཟང་པོའི་སྨོན་ལམ་གྱིས༔",
+      "en": "Through this, Samantabhadra’s prayer of aspiration,",
+      "en-trans": "kuntuzangpö mönlam gyi"
+    },
+    {
+      "bo": "ཐམས་ཅད་ཆོས་དབྱིངས་ཕོ་བྲང་དུ༔",
+      "en": "May all attain complete and perfect awakening",
+      "en-trans": "tamché chöying podrang du"
+    },
+    {
+      "bo": "མངོན་པར་རྫོགས་ཏེ་འཚང་རྒྱ་ཤོག༔",
+      "en": "Within the palace of dharmadhātu, the absolute sphere.",
+      "en-trans": "ngönpar dzok té tsang gya shok"
+    },
+    {
+      "bo": "ཀུན་གྱི་གཞི་ནི་འདུས་མ་བྱས༔",
+      "en": "The basis of everything is uncompounded,",
+      "en-trans": "kün gyi zhi ni dümajé"
+    },
+    {
+      "bo": "རང་བྱུང་ཀློང་ཡངས་བརྗོད་དུ་མེད༔",
+      "en": "A self-originating expanse, vast and inexpressible,",
+      "en-trans": "rangjung long yang jö du mé"
+    },
+    {
+      "bo": "འཁོར་འདས་གཉིས་ཀའི་མིང་མེད་དོ༔",
+      "en": "Beyond the names ‘saṃsāra’ and ‘nirvāṇa’.",
+      "en-trans": "khordé nyiké ming mé do"
+    },
+    {
+      "bo": "དེ་ཉིད་རིག་ན་སངས་རྒྱས་ཏེ༔",
+      "en": "This itself, when seen, is awakening.",
+      "en-trans": "denyi rik na sangye té"
+    },
+    {
+      "bo": "མ་རིག་སེམས་ཅན་འཁོར་བར་འཁྱམས༔",
+      "en": "But in their ignorance beings wander in saṃsāra.",
+      "en-trans": "marik semchen khorwar khyam"
+    },
+    {
+      "bo": "ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་ཀྱིས༔",
+      "en": "May all sentient beings throughout the three realms",
+      "en-trans": "kham sum semchen tamché kyi"
+    },
+    {
+      "bo": "བརྗོད་མེད་གཞི་དོན་རིག་པར་ཤོག༔",
+      "en": "Realise the meaning of the ineffable ground!",
+      "en-trans": "jömé zhi dön rikpar shok"
+    },
+    {
+      "bo": "ཀུན་ཏུ་བཟང་པོ་ང་ཡིས་ཀྱང་༔",
+      "en": "I, Samantabhadra, know the ground’s reality,",
+      "en-trans": "kuntuzangpo nga yi kyang"
+    },
+    {
+      "bo": "རྒྱུ་རྐྱེན་མེད་པ་གཞི་ཡི་དོན༔",
+      "en": "Which is without cause or condition;",
+      "en-trans": "gyukyen mepa zhi yi dön"
+    },
+    {
+      "bo": "དེ་ཉིད་གཞི་ལ་རང་བྱུང་རིག༔",
+      "en": "It originates by itself within this very ground,",
+      "en-trans": "denyi zhi la rangjung rik"
+    },
+    {
+      "bo": "ཕྱི་ནང་སྒྲོ་སྐུར་སྐྱོན་མ་བཏགས༔",
+      "en": "Is unspoilt by perspective,1supposition or denial,",
+      "en-trans": "chinang drokur kyön matak"
+    },
+    {
+      "bo": "དྲན་མེད་མུན་པའི་སྒྲིབ་མ་གོས༔",
+      "en": "And unstained by the darkness of unmindful delusion.",
+      "en-trans": "drenmé münpé drib ma gö"
+    },
+    {
+      "bo": "དེ་ཕྱིར་རང་སྣང་སྐྱོན་མ་གོས༔",
+      "en": "That which is self-manifest is thus without fault.",
+      "en-trans": "dechir rangnang kyön magö"
+    },
+    {
+      "bo": "རང་རིག་སོ་ལ་གནས་པ་ལ༔",
+      "en": "When abiding in genuine intrinsic awareness,",
+      "en-trans": "rangrig so la nepa la"
+    },
+    {
+      "bo": "སྲིད་གསུམ་འཇིག་ཀྱང་དངངས་སྐྲག་མེད༔",
+      "en": "There is no fear, even at the triple world’s demise.2",
+      "en-trans": "si sum jik kyang ngang trakmé"
+    },
+    {
+      "bo": "འདོད་ཡོན་ལྔ་ལ་ཆགས་པ་མེད༔",
+      "en": "Nor is there attachment to the five sensory delights.",
+      "en-trans": "döyön nga la chakpamé"
+    },
+    {
+      "bo": "རྟོག་མེད་ཤེས་པ་རང་བྱུང་ལ༔",
+      "en": "In self-originating awareness free of concepts,",
+      "en-trans": "tokmé shepa rangjung la"
+    },
+    {
+      "bo": "རྡོས་པའི་གཟུགས་དང་དུག་ལྔ་མེད༔",
+      "en": "There is neither solid form nor the five poisons.3",
+      "en-trans": "döpé zuk dang duk nga mé"
+    },
+    {
+      "bo": "རིག་པའི་གསལ་ཆ་མ་འགགས་པ༔",
+      "en": "The unobstructed clarity of awareness",
+      "en-trans": "rigpé salcha magakpa"
+    },
+    {
+      "bo": "ངོ་བོ་གཅིག་ལ་ཡེ་ཤེས་ལྔ༔",
+      "en": "Is one in essence and fivefold in wisdom.",
+      "en-trans": "ngowo chik la yeshe nga"
+    },
+    {
+      "bo": "ཡེ་ཤེས་ལྔ་པོ་སྨིན་པ་ལས༔",
+      "en": "Through the ripening of the five wisdoms,",
+      "en-trans": "yeshe ngapo minpa lé"
+    },
+    {
+      "bo": "ཐོག་མའི་སངས་རྒྱས་རིགས་ལྔ་བྱུང༔",
+      "en": "The five original buddha families arise.",
+      "en-trans": "tokmé sangye rik nga jung"
+    },
+    {
+      "bo": "དེ་ལས་ཡེ་ཤེས་མཐའ་རྒྱས་པས༔",
+      "en": "And through wisdom’s further expansion",
+      "en-trans": "dé lé yeshe ta gyepé"
+    },
+    {
+      "bo": "སངས་རྒྱས་བཞི་བཅུ་རྩ་གཉིས་བྱུང་༔",
+      "en": "The forty-two peaceful buddhas emerge.4",
+      "en-trans": "sangye zhibchu tsanyi jung"
+    },
+    {
+      "bo": "ཡེ་ཤེས་ལྔ་ཡི་རྩལ་ཤར་བས༔",
+      "en": "With the upsurge of fivefold wisdom’s power,",
+      "en-trans": "yeshe nga yi tsal sharwé"
+    },
+    {
+      "bo": "ཁྲག་འཐུང་དྲུག་ཅུ་ཐམ་པ་བྱུང་༔",
+      "en": "The sixty blood-drinking herukas appear.",
+      "en-trans": "traktung drukchu tampa jung"
+    },
+    {
+      "bo": "དེ་ཕྱིར་གཞི་རིག་འཁྲུལ་མ་མྱོང་༔",
+      "en": "Thus, ground awareness has never known delusion.",
+      "en-trans": "dechir zhi rik trul manyong"
+    },
+    {
+      "bo": "ཐོག་མའི་སངས་རྒྱས་ང་ཡིན་པས༔",
+      "en": "I am the primordial buddha and therefore",
+      "en-trans": "tokmé sangye nga yinpé"
+    },
+    {
+      "bo": "ང་ཡི་སྨོན་ལམ་བཏབ་པ་ཡིས༔",
+      "en": "Through this, my prayer of aspiration,",
+      "en-trans": "nga yi mönlam tabpa yi"
+    },
+    {
+      "bo": "ཁམས་གསུམ་འཁོར་བའི་སེམས་ཅན་གྱིས༔",
+      "en": "May beings of saṃsāra’s three realms",
+      "en-trans": "kham sum khorwé semchen gyi"
+    },
+    {
+      "bo": "རང་བྱུང་རིག་པ་ངོ་ཤེས་ནས༔",
+      "en": "Recognise self-originating awareness,",
+      "en-trans": "rangjung rigpa ngoshé né"
+    },
+    {
+      "bo": "ཡེ་ཤེས་ཆེན་པོ་མཐའ་རྒྱས་ཤོག༔",
+      "en": "So that vast wisdom may be perfected.",
+      "en-trans": "yeshe chenpo ta gyé shok"
+    },
+    {
+      "bo": "ང་ཡི་སྤྲུལ་པ་རྒྱུན་མི་ཆད༔",
+      "en": "Continuously my emanations will appear",
+      "en-trans": "ngayi trulpa gyün miché"
+    },
+    {
+      "bo": "བྱེ་བ་ཕྲག་བརྒྱ་བསམ་ཡས་འགྱེད༔",
+      "en": "In their many billions, beyond imagining,",
+      "en-trans": "jewa trak gya samyé gyé"
+    },
+    {
+      "bo": "གང་ལ་གང་འདུལ་སྣ་ཚོགས་སྟོན༔",
+      "en": "Manifest in varied ways according to need.",
+      "en-trans": "gangla gang dul natsok tön"
+    },
+    {
+      "bo": "ང་ཡི་ཐུགས་རྗེའི་སྨོན་ལམ་གྱིས༔",
+      "en": "Through this, my compassionate aspiration,",
+      "en-trans": "nga yi tukjé mönlam gyi"
+    },
+    {
+      "bo": "ཁམས་གསུམ་འཁོར་བའི་སེམས་ཅན་ཀུན༔",
+      "en": "May all the beings of saṃsāra’s three realms",
+      "en-trans": "kham sum khorwé semchen kün"
+    },
+    {
+      "bo": "རིགས་དྲུག་གནས་ནས་འཐོན་པར་ཤོག༔",
+      "en": "Escape their plight among the six classes.",
+      "en-trans": "rik druk né né tönpar shok"
+    },
+    {
+      "bo": "དང་པོ་སེམས་ཅན་འཁྲུལ་པ་རྣམས༔",
+      "en": "From the very first, since awareness does not dawn",
+      "en-trans": "dangpo semchen trulpa nam"
+    },
+    {
+      "bo": "གཞི་ལ་རིག་པ་མ་ཤར་བས༔",
+      "en": "For deluded beings within the ground,",
+      "en-trans": "zhi la rigpa masharwé"
+    },
+    {
+      "bo": "ཅི་ཡང་དྲན་མེད་ཐོམ་མེ་བ༔",
+      "en": "They are entirely mindless and confused.",
+      "en-trans": "chiyang drenmé tomme wa"
+    },
+    {
+      "bo": "དེ་ཀ་མ་རིག་འཁྲུལ་པའི་རྒྱུ༔",
+      "en": "This itself is unawareness, delusion’s cause.",
+      "en-trans": "deka marik trulpé gyu"
+    },
+    {
+      "bo": "དེ་ལ་ཧད་ཀྱིས་བརྒྱལ་བ་ལས༔",
+      "en": "And then, as if out of a sudden daze,",
+      "en-trans": "dé la hé kyi gyalwa lé"
+    },
+    {
+      "bo": "དངངས་སྐྲག་ཤེས་པ་ཟ་ཟི་འགྱུས༔",
+      "en": "There is anxiety and mental disquiet,",
+      "en-trans": "ngang trak shepa za zi gyü"
+    },
+    {
+      "bo": "དེ་ལས་བདག་གཞན་དགྲར་འཛིན་སྐྱེས༔",
+      "en": "From which notions of self and other and enmity appear.",
+      "en-trans": "dé lé dakzhen drar dzin kyé"
+    },
+    {
+      "bo": "བག་ཆགས་རིམ་བཞིན་བརྟས་པ་ལས༔",
+      "en": "As this habitual tendency is then reinforced,",
+      "en-trans": "bakchak rimzhin tepa lé"
+    },
+    {
+      "bo": "འཁོར་བ་ལུགས་སུ་འཇུག་པ་བྱུང་༔",
+      "en": "Saṃsāra unfolds in its regular progression.",
+      "en-trans": "khorwa luk su jukpa jung"
+    },
+    {
+      "bo": "དེ་ལས་ཉོན་མོངས་དུག་ལྔ་རྒྱས༔",
+      "en": "Thus, mind’s afflictions, the five poisons, develop,",
+      "en-trans": "dé lé nyönmong duk nga gyé"
+    },
+    {
+      "bo": "དུག་ལྔའི་ལས་ལ་རྒྱུན་ཆད་མེད༔",
+      "en": "And actions born of these five poisons never end.",
+      "en-trans": "duk ngé lé la gyün chemé"
+    },
+    {
+      "bo": "དེ་ཕྱིར་སེམས་ཅན་འཁྲུལ་པའི་གཞི༔",
+      "en": "Therefore, since the basis for beings’ delusion",
+      "en-trans": "dechir semchen trulpé zhi"
+    },
+    {
+      "bo": "དྲན་མེད་མ་རིག་ཡིན་པའི་ཕྱིར༔",
+      "en": "Is a lack of mindfulness, an absence of awareness,",
+      "en-trans": "drenmé marik yinpé chir"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "ཀུན་གྱི་རིག་པ་རང་ཤེས་ཤོག༔",
+      "en": "May all beings recognise their own awareness.",
+      "en-trans": "kün gyi rigpa rang shé shok"
+    },
+    {
+      "bo": "ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ༔",
+      "en": "The unawareness that is co-emergent",
+      "en-trans": "lhenchik kyepé marikpa"
+    },
+    {
+      "bo": "ཤེས་པ་དྲན་མེད་ཡེངས་པ་ཡིན༔",
+      "en": "Is a state of mindlessness, distraction.",
+      "en-trans": "shepa drenmé yengpa yin"
+    },
+    {
+      "bo": "ཀུན་ཏུ་བཏགས་པའི་མ་རིག་པ༔",
+      "en": "The unawareness that designates",
+      "en-trans": "küntu takpé marikpa"
+    },
+    {
+      "bo": "བདག་གཞན་གཉིས་སུ་འཛིན་པ་ཡིན༔",
+      "en": "Is dualistic clinging to self and other.",
+      "en-trans": "dakzhen nyisu dzinpa yin"
+    },
+    {
+      "bo": "ལྷན་ཅིག་ཀུན་བཏགས་མ་རིག་གཉིས༔",
+      "en": "These two, co-emergent and designating unawareness,",
+      "en-trans": "lhenchik küntak marik nyi"
+    },
+    {
+      "bo": "སེམས་ཅན་ཀུན་གྱི་འཁྲུལ་གཞི་ཡིན༔",
+      "en": "Provide the basis for the delusion of all beings.",
+      "en-trans": "semchen kün gyi trul zhi yin"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "འཁོར་བའི་སེམས་ཅན་ཐམས་ཅད་ཀྱི༔",
+      "en": "May the dark and murky gloom of mindlessness",
+      "en-trans": "khorwé semchen tamché kyi"
+    },
+    {
+      "bo": "དྲན་མེད་འཐིབ་པའི་མུན་པ་སངས༔",
+      "en": "Among all sentient beings in saṃsāra be dispelled;",
+      "en-trans": "drenmé tibpé münpa sang"
+    },
+    {
+      "bo": "གཉིས་སུ་འཛིན་པའི་ཤེས་པ་དྭངས༔",
+      "en": "May their dualistic perceptions be purified;",
+      "en-trans": "nyi su dzinpé shepa dang"
+    },
+    {
+      "bo": "རིག་པའི་རང་ངོ་ཤེས་པར་ཤོག༔",
+      "en": "And may they recognise their very own awareness.",
+      "en-trans": "rigpé rang ngoshepar shok"
+    },
+    {
+      "bo": "གཉིས་འཛིན་བློ་ནི་ཐེ་ཚོམ་སྟེ༔",
+      "en": "A mind of dualistic clinging is one of doubt.",
+      "en-trans": "nyidzin lo ni tetsom té"
+    },
+    {
+      "bo": "ཞེན་པ་ཕྲ་མོ་སྐྱེས་པ་ལས༔",
+      "en": "From subtle attachment, once it has arisen,",
+      "en-trans": "zhenpa tramo kyepa lé"
+    },
+    {
+      "bo": "བག་ཆགས་འཐུག་པོ་རིམ་གྱིས་བརྟས༔",
+      "en": "Habitual tendencies gradually gain strength.",
+      "en-trans": "bakchak tukpo rimgyi té"
+    },
+    {
+      "bo": "ཟས་ནོར་གོས་དང་གནས་དང་གྲོགས༔",
+      "en": "Food, wealth, clothing, home and companions,",
+      "en-trans": "zé nor gö dang né dang drok"
+    },
+    {
+      "bo": "འདོད་ཡོན་ལྔ་དང་བྱམས་པའི་གཉེན༔",
+      "en": "The pleasures of the five senses, or dear relations—",
+      "en-trans": "döyön nga dang jampé nyen"
+    },
+    {
+      "bo": "ཡིད་འོང་ཆགས་པའི་འདོད་པས་གདུངས༔",
+      "en": "Whatever is attractive brings the torment of desire.",
+      "en-trans": "yi ong chakpé döpé dung"
+    },
+    {
+      "bo": "དེ་དག་འཇིག་རྟེན་འཁྲུལ་པ་སྟེ༔",
+      "en": "These are the delusions of the world.",
+      "en-trans": "dedak jikten trulpa té"
+    },
+    {
+      "bo": "གཟུང་འཛིན་ལས་ལ་ཟད་མཐའ་མེད༔",
+      "en": "Actions based on dualistic clinging are unending.",
+      "en-trans": "zungdzin lé la zé tamé"
+    },
+    {
+      "bo": "ཞེན་པའི་འབྲས་བུ་སྨིན་པའི་ཚེ༔",
+      "en": "When the fruits of attachment come to ripen,",
+      "en-trans": "zhenpé drebu minpé tsé"
+    },
+    {
+      "bo": "རྐམ་ཆགས་གདུང་བའི་ཡི་དྭགས་སུ༔",
+      "en": "They bring birth as apretatormented by desire.",
+      "en-trans": "kam chak dungwé yidak su"
+    },
+    {
+      "bo": "སྐྱེས་ནས་བཀྲེས་སྐོམ་ཡ་རེ་ང་༔",
+      "en": "How wretched are the pains of hunger and thirst!",
+      "en-trans": "kyé né trekom ya re nga"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "འདོད་ཆགས་ཞེན་པའི་སེམས་ཅན་རྣམས༔",
+      "en": "May beings beset by craving and attachment",
+      "en-trans": "döchak zhenpé semchen nam"
+    },
+    {
+      "bo": "འདོད་པའི་གདུང་བ་ཕྱིར་མ་སྤངས༔",
+      "en": "Neither cast aside the torment of desire",
+      "en-trans": "döpé dungwa chir mapang"
+    },
+    {
+      "bo": "འདོད་ཆགས་ཞེན་པ་ཚུར་མ་བླང་༔",
+      "en": "Nor pursue the craving of attachment.",
+      "en-trans": "döchak zhenpa tsur malang"
+    },
+    {
+      "bo": "ཤེས་པ་རང་སོར་ཀློད་པ་ཡིས༔",
+      "en": "But by allowing the mind to relax just as it is,",
+      "en-trans": "shepa rang sor löpa yi"
+    },
+    {
+      "bo": "རིག་པ་རང་སོ་ཟིན་གྱུར་ནས༔",
+      "en": "May they capture the natural state of awareness",
+      "en-trans": "rigpa rang so zin gyur né"
+    },
+    {
+      "bo": "ཀུན་རྟོག་ཡེ་ཤེས་ཐོབ་པར་ཤོག༔",
+      "en": "And gain the wisdom of perfect discernment.",
+      "en-trans": "küntok yeshe tobpar shok"
+    },
+    {
+      "bo": "ཕྱི་རོལ་ཡུལ་གྱི་སྣང་བ་ལ༔",
+      "en": "Through the subtle stirrings of anxiety and fear",
+      "en-trans": "chirol yul gyi nangwa la"
+    },
+    {
+      "bo": "འཇིགས་སྐྲག་ཤེས་པ་ཕྲ་མོ་འགྱུས༔",
+      "en": "Towards the appearance of external objects",
+      "en-trans": "jiktrak shepa tramo gyü"
+    },
+    {
+      "bo": "སྡང་བའི་བག་ཆགས་བརྟས་པ་ལས༔",
+      "en": "Habitual tendencies of aversion are reinforced,",
+      "en-trans": "dangwé bakchak tepa lé"
+    },
+    {
+      "bo": "དགྲར་འཛིན་བརྡེག་གསོད་ཧྲག་པ་སྐྱེས༔",
+      "en": "Opening the way to enmity, injury and slaughter.",
+      "en-trans": "drar dzin dek sö hrakpa kyé"
+    },
+    {
+      "bo": "ཞེ་སྡང་འབྲས་བུ་སྨིན་པའི་ཚེ༔",
+      "en": "When the fruits of aggression come to ripen,",
+      "en-trans": "zhedang drebu minpé tsé"
+    },
+    {
+      "bo": "དམྱལ་བའི་བཙོ་བསྲེག་སྡུག་རེ་བསྔལ༔",
+      "en": "How harrowing will be the boilings and burnings of hell!",
+      "en-trans": "nyalwé tso sek duk ré ngal"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡིས་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "འགྲོ་དྲུག་སེམས་ཅན་ཐམས་ཅད་ཀྱི༔",
+      "en": "May all the sentient beings of the six realms",
+      "en-trans": "dro druk semchen tamché kyi"
+    },
+    {
+      "bo": "ཞེ་སྡང་དྲག་པོ་སྐྱེས་པའི་ཚེ༔",
+      "en": "Whenever they are beset by intense aggression,",
+      "en-trans": "zhedang drakpo kyepé tsé"
+    },
+    {
+      "bo": "སྤང་བླང་མི་བྱ་རང་སོར་ཀློད༔",
+      "en": "Neither reject nor indulge it, but relax therein,",
+      "en-trans": "panglang mija rang sor lö"
+    },
+    {
+      "bo": "རིག་པ་རང་སོ་ཟིན་གྱུར་ནས༔",
+      "en": "Capture the natural state of their own awareness,",
+      "en-trans": "rigpa rang so zin gyur né"
+    },
+    {
+      "bo": "གསལ་བའི་ཡེ་ཤེས་ཐོབ་པར་ཤོག༔",
+      "en": "And gain the wisdom of lucid clarity.",
+      "en-trans": "salwé yeshe tobpar shok"
+    },
+    {
+      "bo": "རང་སེམས་ཁེངས་པར་གྱུར་པ་ལ༔",
+      "en": "When the mind grows conceited",
+      "en-trans": "rangsem khengpar gyurpa la"
+    },
+    {
+      "bo": "གཞན་ལ་འགྲན་སེམས་སྨད་པའི་བློ༔",
+      "en": "It brings thoughts of rivalry and disdain,",
+      "en-trans": "zhen la drensem mepé lo"
+    },
+    {
+      "bo": "ང་རྒྱལ་དྲག་པོའི་སེམས་སྐྱེས་པས༔",
+      "en": "And the arising of intense pride",
+      "en-trans": "ngagyal drakpö sem kyepé"
+    },
+    {
+      "bo": "བདག་གཞན་འཐབ་རྩོད་སྡུག་བསྔལ་མྱོང༔",
+      "en": "Leads to the suffering of quarrels and disputes.",
+      "en-trans": "dakzhen tabtsö dukngal nyong"
+    },
+    {
+      "bo": "ལས་དེའི་འབྲས་བུ་སྨིན་པའི་ཚེ༔",
+      "en": "When the fruits of such karma come to ripen",
+      "en-trans": "lé dé drebu minpé tsé"
+    },
+    {
+      "bo": "འཕོ་ལྟུང་མྱོང་བའི་ལྷ་རུ་སྐྱེ༔",
+      "en": "They bring birth as adevasubject to passage and fall.",
+      "en-trans": "po tung nyongwé lha ru kyé"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "ཁེངས་སེམས་སྐྱེས་པའི་སེམས་ཅན་རྣམས༔",
+      "en": "May all sentient beings in whom conceit is born",
+      "en-trans": "khengsem kyepé semchen nam"
+    },
+    {
+      "bo": "དེ་ཚེ་ཤེས་པ་རང་སོར་ཀློད༔",
+      "en": "Relax their minds there and then,",
+      "en-trans": "detsé shepa rang sor lö"
+    },
+    {
+      "bo": "རིག་པ་རང་སོ་ཟིན་གྱུར་ནས༔",
+      "en": "Capture the natural state of their own awareness",
+      "en-trans": "rigpa rang so zin gyur né"
+    },
+    {
+      "bo": "མཉམ་པ་ཉིད་ཀྱི་དོན་རྟོགས་ཤོག༔",
+      "en": "And realise the true meaning of equality.5",
+      "en-trans": "nyampa nyi kyi dön tok shok"
+    },
+    {
+      "bo": "གཉིས་འཛིན་བརྟས་པའི་བག་ཆགས་ཀྱིས༔",
+      "en": "Habitual tendencies of intense dualistic clinging",
+      "en-trans": "nyidzin tepé bakchak kyi"
+    },
+    {
+      "bo": "བདག་བསྟོད་གཞན་སྨོད་ཟུག་རྔུ་ལས༔",
+      "en": "Bring about the pain of self-flattery and contempt,",
+      "en-trans": "dak tö zhen mö zuk ngu lé"
+    },
+    {
+      "bo": "འཐབ་རྩོད་འགྲན་སེམས་བརྟས་པ་ལས༔",
+      "en": "And by inflaming conflict, dispute and competition,",
+      "en-trans": "tabtsö drensem tepa lé"
+    },
+    {
+      "bo": "གསོད་གཅོད་ལྷ་མིན་གནས་སུ་སྐྱེ༔",
+      "en": "Lead to birth in theasurarealm of slaughter and mutilation,",
+      "en-trans": "sö chö lhamin né su kyé"
+    },
+    {
+      "bo": "འབྲས་བུ་དམྱལ་བའི་གནས་སུ་ལྟུང་༔",
+      "en": "Which in turn results in descent to the domains of hell.",
+      "en-trans": "drebu nyalwé né su tung"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "འགྲན་སེམས་འཐབ་རྩོད་སྐྱེས་པ་རྣམས༔",
+      "en": "May those in whom rivalry and antagonism take root",
+      "en-trans": "drensem tabtsö kyepa nam"
+    },
+    {
+      "bo": "དགྲར་འཛིན་མི་བྱ་རང་སོར་ཀློད༔",
+      "en": "Not regard them as enemies but relax there and then,",
+      "en-trans": "drar dzin mija rang sor lö"
+    },
+    {
+      "bo": "ཤེས་པ་རང་སོ་ཟིན་གྱུར་ནས༔",
+      "en": "Capture the natural state of their own awareness",
+      "en-trans": "shepa rang so zin gyur né"
+    },
+    {
+      "bo": "ཕྲིན་ལས་ཐོགས་མེད་ཡེ་ཤེས་ཤོག༔",
+      "en": "And gain the wisdom of unimpeded activity.",
+      "en-trans": "trinlé tokmé yeshe shok"
+    },
+    {
+      "bo": "དྲན་མེད་བཏང་སྙོམས་ཡེངས་པ་ཡིས༔",
+      "en": "Mindlessness, indifference, distraction,",
+      "en-trans": "drenmé tangnyom yengpa yi"
+    },
+    {
+      "bo": "འཐིབས་དང་རྨུགས་དང་བརྗེད་པ་དང་༔",
+      "en": "Dullness, drowsiness, oblivion,",
+      "en-trans": "tib dang muk dang jepa dang"
+    },
+    {
+      "bo": "བརྒྱལ་དང་ལེ་ལོ་གཏི་མུག་པས༔",
+      "en": "Insensibility, laziness and stupidity",
+      "en-trans": "gyal dang lelo timukpé"
+    },
+    {
+      "bo": "འབྲས་བུ་སྐྱབས་མེད་བྱོལ་སོང་འཁྱམས༔",
+      "en": "Result in helpless animal wandering.",
+      "en-trans": "drebu kyabmé jolsong khyam"
+    },
+    {
+      "bo": "སངས་རྒྱས་ང་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Now through this, my aspiration as a buddha,",
+      "en-trans": "sangye nga yi mönlam gyi"
+    },
+    {
+      "bo": "གཏི་མུག་བྱིང་པའི་མུན་པ་ལ༔",
+      "en": "May the light of clear cognizance arise",
+      "en-trans": "timuk jingpé münpa la"
+    },
+    {
+      "bo": "དྲན་པ་གསལ་བའི་མདངས་ཤར་བས༔",
+      "en": "In those plunged into stupidity’s gloom,",
+      "en-trans": "drenpa salwé dang sharwé"
+    },
+    {
+      "bo": "རྟོག་མེད་ཡེ་ཤེས་ཐོབ་པར་ཤོག༔",
+      "en": "And may they gain wisdom free of thought.",
+      "en-trans": "tokmé yeshe tobpar shok"
+    },
+    {
+      "bo": "ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་ཀུན༔",
+      "en": "All sentient beings throughout the three realms",
+      "en-trans": "kham sum semchen tamché kün"
+    },
+    {
+      "bo": "ཀུན་གཞི་སངས་རྒྱས་ང་དང་མཉམ༔",
+      "en": "Are equal to me, the buddha, in the ground of all,",
+      "en-trans": "künzhi sangye nga dang nyam"
+    },
+    {
+      "bo": "དྲན་མེད་འཁྲུལ་པའི་གཞི་རུ་སོང་༔",
+      "en": "Yet for them it is but a base of mindless delusion.",
+      "en-trans": "drenmé trulpé zhi ru song"
+    },
+    {
+      "bo": "ད་ལྟ་དོན་མེད་ལས་ལ་སྤྱོད༔",
+      "en": "And now they engage in meaningless pursuits,",
+      "en-trans": "danta dönmé lé la chö"
+    },
+    {
+      "bo": "ལས་དྲུག་རྨི་ལམ་འཁྲུལ་པ་འདྲ༔",
+      "en": "With sixfold karma as if deceived by a dream.",
+      "en-trans": "lé druk milam trulpa dra"
+    },
+    {
+      "bo": "ང་ནི་སངས་རྒྱས་ཐོག་མ་ཡིན༔",
+      "en": "Yet I am the primordial buddha,",
+      "en-trans": "nga ni sangye tokma yin"
+    },
+    {
+      "bo": "འགྲོ་དྲུག་སྤྲུལ་པས་འདུལ་བའི་ཕྱིར༔",
+      "en": "Guide to the six classes through my emanations.",
+      "en-trans": "dro druk trulpé dulwé chir"
+    },
+    {
+      "bo": "ཀུན་ཏུ་བཟང་པོའི་སྨོན་ལམ་གྱིས༔",
+      "en": "Through this, Samantabhadra’s prayer of aspiration,",
+      "en-trans": "kuntuzangpö mönlam gyi"
+    },
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་མ་ལུས་པ༔",
+      "en": "May all sentient beings without exception",
+      "en-trans": "semchen tamché malüpa"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་དབྱིངས་སུ་འཚང་རྒྱ་ཤོག༔",
+      "en": "Awaken within the dharmadhātu, the absolute sphere.",
+      "en-trans": "chö kyi ying su tsang gya shok"
+    },
+    {
+      "bo": "ཨ་ཧོ༔",
+      "en": "Aho!",
+      "en-trans": "a ho"
+    },
+    {
+      "bo": "ཕྱིན་ཆད་རྣལ་འབྱོར་སྟོབས་ཅན་གྱིས༔",
+      "en": "Henceforth, whenever a powerful yogi,",
+      "en-trans": "chinché naljor tobchen gyi"
+    },
+    {
+      "bo": "འཁྲུལ་མེད་རིག་པ་རང་གསལ་ནས༔",
+      "en": "With naturally clear, undeluded awareness,",
+      "en-trans": "trulmé rigpa rangsal né"
+    },
+    {
+      "bo": "སྨོན་ལམ་སྟོབས་ཅན་འདི་བཏབ་པས༔",
+      "en": "Recites this powerful aspiration,",
+      "en-trans": "mönlam tobchen di tabpé"
+    },
+    {
+      "bo": "འདི་ཐོས་སེམས་ཅན་ཐམས་ཅད་ཀུན༔",
+      "en": "All sentient beings who hear it",
+      "en-trans": "di tö semchen tamché kün"
+    },
+    {
+      "bo": "སྐྱེ་བ་གསུམ་ནས་མངོན་འཚང་རྒྱ༔",
+      "en": "Will awaken within the course of three lives.",
+      "en-trans": "kyewa sum né ngön tsang gya"
+    },
+    {
+      "bo": "ཉི་ཟླ་གཟའ་ཡིས་ཟིན་པའམ༔",
+      "en": "When Rāhu seizes the sun or moon,6",
+      "en-trans": "nyida za yi zinpa am"
+    },
+    {
+      "bo": "སྒྲ་དང་ས་གཡོས་བྱུང་བའམ༔",
+      "en": "Whenever the earth rumbles or quakes,",
+      "en-trans": "dra dang sayö jungwa am"
+    },
+    {
+      "bo": "ཉི་མ་ལྡོག་འགྱུར་ལོ་འཕོ་དུས༔",
+      "en": "At the solstices or close of the year,",
+      "en-trans": "nyima dok gyur lopo dü"
+    },
+    {
+      "bo": "རང་ཉིད་ཀུན་ཏུ་བཟང་པོར་བསྐྱེད༔",
+      "en": "Visualize yourself as Samantabhadra,",
+      "en-trans": "rangnyi kuntuzangpor kyé"
+    },
+    {
+      "bo": "ཀུན་གྱིས་ཐོས་སར་འདི་བརྗོད་ན༔",
+      "en": "And chant this aloud so all may hear.",
+      "en-trans": "kün gyi tö sar di jö na"
+    },
+    {
+      "bo": "ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་ལ༔",
+      "en": "Then all the beings of the three realms",
+      "en-trans": "kham sum semchen tamché la"
+    },
+    {
+      "bo": "རྣལ་འབྱོར་དེ་ཡི་སྨོན་ལམ་གྱིས༔",
+      "en": "Will, through the yogi’s prayer of aspiration,",
+      "en-trans": "naljor dé yi mönlam gyi"
+    },
+    {
+      "bo": "སྡུག་བསྔལ་རིམ་བཞིན་གྲོལ་ནས་ཀྱང་༔",
+      "en": "Gradually be freed from their suffering",
+      "en-trans": "dukngal rimzhin drol né kyang"
+    },
+    {
+      "bo": "མཐའ་རུ་སངས་རྒྱས་ཐོབ་པར་འགྱུར༔",
+      "en": "And ultimately awaken as a buddha.7",
+      "en-trans": "ta ru sangye tobpar gyur"
+    }
+  ]
+}

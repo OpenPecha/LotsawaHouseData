@@ -1,0 +1,119 @@
+p.eng-verse, p.eng-note, h1.eng, h2.eng, h3.eng, h4.eng, h5.eng, h6.eng {
+	font-family:jGaramond, "Book Antigua", "Palatino", "Palatino Linotype", serif;
+}
+
+p.eng-note {
+	font-size: small; 
+	font-style: italic;
+}
+p.eng-verse {
+	margin-bottom: 0.5em; 
+	margin-top:0em; 
+	padding: 0em; 
+	line-height: 1.3em; 
+	font-size: 125%;
+}
+p.pho-verse {
+	display:block;
+	font-weight:bold; 
+	margin-bottom: 0em; 
+	margin-top: 0em; 
+	padding: 0em; 
+	line-height: 1.3em; 
+}
+p.pho-mantra {
+	font-weight:bold;
+	line-height:1.3em;
+	margin-bottom: 0.5em;
+	margin-top: 0em; 
+	page-break-inside: avoid;
+}
+p.right {
+	text-align: right;
+}
+.indent {
+	opacity:.65;
+}
+p.b-space {
+	padding-bottom: 0.5em;
+}
+
+h4.eng {
+	font-style: italic; 
+	font-weight: normal;
+}
+
+ol.footnotes {
+   font-size: 70%;
+}
+
+.tib em, .tib-verse em, p.tib-mantra em, .tib-note, .eng-note, p.pho-verse em.yichung {
+	color: #004a4a;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #004a4a;
+	page-break-after: avoid;
+}
+
+div.nobreak { page-break-inside: avoid }
+
+p.image {
+	text-align:center;
+	margin-bottom: 1em;
+	line-height: 1.7em;
+}
+img.full-img {
+	width: 95%;
+	align: middle;
+}
+
+img.inline {
+	height: 1em;
+}
+
+div.pagebreak {
+	page-break-before:always;
+}
+
+div.blk { display:inline-block; white-space:nowrap }
+
+hr { border: 1px solid gray; height: 1px; }
+img { border: 0; }
+ul, ol { margin-left: 2em; padding: 0; }
+blockquote { margin: 1em .5em 1em 1.5em; }
+h1 { font-size: 1.3em; font-weight: bold; margin: 1.3em 0 1em 0; }
+h2 { font-size: 1.1em; font-weight: bold; }
+h3 { font-size: 1em; font-weight: bold; }
+h4 { font-size: 1em; }
+h2, h3, h4 { margin: 1.5em 0 .5em 0; }
+p { margin: 0 0 1em 0; padding: 0; }
+
+/* 
+ol.Footnote { font-size:10pt; font-style:italic; line-height:1.2em;  margin-bottom:0cm; margin-top:0cm;}
+a.footnote { font-size: smaller; vertical-align:super; }
+*/
+
+a.Noline, a:hover.Noline { text-decoration: none }
+
+
+/* Dom 18-May-2013 new InlineImage feature tests */
+img.InlineImage { height: 1.25em; width: auto; vertical-align:baseline; position:relative; top:0.33em; }
+p.rteindent1 { margin-left: 2.5em }
+
+/* epub footer page */
+div.footer1 { text-align:center; padding-top:3em }
+div.footer1 img { border: none }
+div.copyright { margin-top:5em; margin-bottom:0.2em; }
+p.license-txt { font-size:80% }
+p.generated-txt { margin-top:2em; font-size:80% }
+
+/* epub header page */
+div.toptop { padding-top:6em }
+p.title_title { font-size:140%; font-variant:small-caps; text-align:center }
+p.title_author { font-size:120%; font-style:italic; margin-top:.5em; text-align:center }
+
+/* epub cover page */
+p.cover_title { font-size:260%; text-align:center }
+
+div.intro-end { page-break-before:always }
+

@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/mipham/tara-prayer-with-root-mantra",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཕགས་མ་སྒྲོལ་མ་ལ་གསོལ་འདེབས་རྩ་སྔགས་བཅས།",
+    "en": "Prayer to Tārā, Combined with Her Mantra"
+  },
+  "text": [
+    {
+      "bo": "ཨོཾ་ཕྱག་འཚལ་རྗེ་བཙུན་ཏཱ་རེ་ལྷ་མོ། །",
+      "en": "Oṃ! We pay homage to you, reverend goddessTārā,",
+      "en-trans": "om chaktsal jetsün taré lhamo"
+    },
+    {
+      "bo": "ཏུཏྟཱ་རེ་ཞེས་གདུང་བ་ཀུན་སྐྱོབ། །",
+      "en": "WithTuttāre, you protect us from suffering,",
+      "en-trans": "tuttaré zhé dungwa kün kyob"
+    },
+    {
+      "bo": "ཐུགས་རྗེ་ཐོགས་མེད་ཏུ་རེ་དཔའ་མོས། །",
+      "en": "Your compassion is unobstructed,Turé, swift lady warrior,",
+      "en-trans": "tukjé tokmé turé pamö"
+    },
+    {
+      "bo": "བདག་ལ་གྲུབ་མཆོག་སྩོལ་ཅིག་སྭཱ་ཧཱ། །",
+      "en": "Grant us the supreme accomplishment,svāhā.",
+      "en-trans": "dak la drub chok tsol chik soha"
+    }
+  ]
+}

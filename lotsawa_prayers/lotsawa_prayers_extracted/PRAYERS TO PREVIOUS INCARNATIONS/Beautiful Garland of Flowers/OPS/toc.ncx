@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:09490A9A-C11E-11F0-B8EF-2B936E1F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Beautiful Garland of Flowers</text>
+  </docTitle>
+  <docAuthor>
+    <text>རྡོ་གྲུབ་ཆེན་འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར།</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch1" playOrder="1">
+      <navLabel>
+        <text>རྫོགས་ཆེན་པ་བྱང་ཆུབ་རྡོ་རྗེའི་སྐྱེ་ཕྲེང་གསོལ་འདེབས་ཉུང་བསྡུས་མེ་ཏོག་ཕྲེང་མཛེས།</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+  </navMap>
+</ncx>

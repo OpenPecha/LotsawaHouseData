@@ -1,0 +1,756 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/lelung-shepe-dorje/magical-lasso-aspiration",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །མཁའ་སྤྱོད་འགྲུབ་པའི་སྨོན་ལམ་འཕྲུལ་གྱི་ཞགས་པ་ཞེས་བྱ་བ་བཞུགས་སོ།  །",
+    "en": "A Prayer of Aspiration to Accomplish Khecara"
+  },
+  "text": [
+    {
+      "bo": "ཨེ་མ་ཧོ།",
+      "en": "Emaho!",
+      "en-trans": "emaho"
+    },
+    {
+      "bo": "སྣང་གྲགས་འགྱུ་བའི་ཆོས་རྣམས་ཀུན། །",
+      "en": "All phenomena which appear, resound, and pass through the mind",
+      "en-trans": "nang drak gyuwé chö nam kün"
+    },
+    {
+      "bo": "འཇོ་སྒེག་ལྷ་མོའི་རྣམ་འགྱུར་དུ། །",
+      "en": "Are the appearances of the charming goddess,",
+      "en-trans": "jogek lhamö namgyur du"
+    },
+    {
+      "bo": "ཅིར་ཡང་རོལ་པའི་སྒྱུ་འཕྲུལ་ཅན། །",
+      "en": "Who magically displays as anything whatsoever:",
+      "en-trans": "chiryang rolpé gyutrul chen"
+    },
+    {
+      "bo": "རང་རིག་ཕྱག་རྒྱ་ཆེན་མོར་འདུད། །",
+      "en": "To the reflexive awareness of the Great Seal Mahāmudrā, I bow down.",
+      "en-trans": "rangrig chakgya chenmor dü"
+    },
+    {
+      "bo": "ཐོག་མཐའ་མེད་པའི་རྡོ་རྗེའི་སེམས། །",
+      "en": "Through the vajra mind, which has neither beginning nor end",
+      "en-trans": "tokta mepé dorjé sem"
+    },
+    {
+      "bo": "འཁོར་འདས་ཀུན་ལ་ཁྱབ་པ་ཡིས། །",
+      "en": "And which pervades the whole of saṃsāra and nirvāṇa,",
+      "en-trans": "khordé kün la khyabpa yi"
+    },
+    {
+      "bo": "འཆིང་དང་གྲོལ་མཛད་དེ་དང་དེར། །",
+      "en": "You manifest in untold ways for those who are bound and set free—",
+      "en-trans": "ching dang drol dzé dé dang der"
+    },
+    {
+      "bo": "ཅིར་ཡང་འཆར་བའི་ལྷ་ཚོགས་དགོངས། །",
+      "en": "Assembly of deities, please consider me!",
+      "en-trans": "chiryang charwé lhatsok gong"
+    },
+    {
+      "bo": "བདག་ནི་ཐོག་མ་མེད་པ་ནས། །",
+      "en": "Throughout beginningless time,",
+      "en-trans": "dak ni tokma mepa né"
+    },
+    {
+      "bo": "ཀུན་ནས་དཀྲིས་པས་རྣམ་པར་དཀྲུགས། །",
+      "en": "I have been plagued by my [mental] entanglements,",
+      "en-trans": "künné tripé nampar truk"
+    },
+    {
+      "bo": "ལས་ཉོན་སྲ་བའི་ཞགས་པས་བཅིངས། །",
+      "en": "And the intractable lasso of karma and afflictions has tightened around me,",
+      "en-trans": "lé nyön sawé zhakpé ching"
+    },
+    {
+      "bo": "ཉམ་ཐག་འཁོར་བའི་གནས་སུ་འཁྱམས། །",
+      "en": "As I wander through the destitute abodes of saṃsāra.",
+      "en-trans": "nyamtak khorwé né su khyam"
+    },
+    {
+      "bo": "ད་ནི་འཇིགས་པས་ཡིད་གདུངས་ཏེ། །",
+      "en": "Now my mind is tortured by fear,",
+      "en-trans": "dani jikpé yi dung té"
+    },
+    {
+      "bo": "སྐྱབས་གནས་ཁྱེད་རྣམས་མ་ལགས་པའི། །",
+      "en": "So from the depth of my heart, I take refuge in you,",
+      "en-trans": "kyabné khyé nam malakpé"
+    },
+    {
+      "bo": "གཙོ་བོ་གཞན་དུ་སྐྱབས་མ་མཆིས། །",
+      "en": "For there are no principal protectors other than you,",
+      "en-trans": "tsowo zhendu kyab ma chi"
+    },
+    {
+      "bo": "སྙིང་ནས་ཁྱོད་ལ་སྐྱབས་སུ་མཆི། །",
+      "en": "The sources of refuge!",
+      "en-trans": "nying né khyö la kyab su chi"
+    },
+    {
+      "bo": "གདུང་བའི་མིག་ནས་མཆི་མ་འཁྲུག །",
+      "en": "Tears flood from my despairing eyes;",
+      "en-trans": "dungwé mik né chima truk"
+    },
+    {
+      "bo": "སྐྱོ་བའི་སྨྲེ་སྔགས་ཤུགས་རིང་འབྱིན། །",
+      "en": "I cry out in sorrow and sigh deeply;",
+      "en-trans": "kyowé mengak shuk ring jin"
+    },
+    {
+      "bo": "བཟོད་མེད་སྙིང་རླུང་ཁོང་ནས་ལངས། །",
+      "en": "And an unbearable melancholy arises from within;",
+      "en-trans": "zömé nying lung khong né lang"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་པ་འདི་གཟིགས་སམ། །",
+      "en": "Can you not perceive this supplication of mine?",
+      "en-trans": "solwa debpa di zik sam"
+    },
+    {
+      "bo": "ཀྱེ་མ་བདག་ནི་ཁྱོད་བསམས་ནས། །",
+      "en": "Alas, I have been thinking of you",
+      "en-trans": "kyema dak ni khyö sam né"
+    },
+    {
+      "bo": "ཉིན་མཚན་ལེ་བར་མ་མཆིས་པར། །",
+      "en": "Uninterruptedly, day and night.",
+      "en-trans": "nyintsen lewar machipar"
+    },
+    {
+      "bo": "གདུང་བས་སྐྱབས་སུ་རེ་བ་ལ། །",
+      "en": "And so, will you not compassionately consider",
+      "en-trans": "dungwé kyab su rewa la"
+    },
+    {
+      "bo": "ཐུགས་རྗེས་དགོངས་པར་མི་མཛད་དམ། །",
+      "en": "My yearning hope for refuge?",
+      "en-trans": "tukjé gongpar mi dzé dam"
+    },
+    {
+      "bo": "གཏིང་མཐའ་མེད་པའི་རྒྱ་མཚོ་འདིར། །",
+      "en": "In this bottomless and boundless ocean,",
+      "en-trans": "ting ta mepé gyatso dir"
+    },
+    {
+      "bo": "གནས་བཅས་འཇིགས་པས་གཙེས་པའི་དུས། །",
+      "en": "When its inhabitants are oppressed by fear,",
+      "en-trans": "né ché jikpé tsepé dü"
+    },
+    {
+      "bo": "དབུགས་དབྱུང་གཟེངས་བསྟོད་མི་མཛད་ན། །",
+      "en": "If you do not provide respite and encouragement,",
+      "en-trans": "ukyung zengtö mi dzé na"
+    },
+    {
+      "bo": "ཁྱོད་ཀྱི་ཐུགས་རྗེས་ཅི་ཞིག་བྱ། །",
+      "en": "What is the use of your compassion?",
+      "en-trans": "khyö kyi tukjé chizhik ja"
+    },
+    {
+      "bo": "ཡུན་རིང་དུས་ནས་བསྒྲུབས་པ་ཡིས། །",
+      "en": "As I have engaged in your practice for a long time,",
+      "en-trans": "yün ring dü né drubpa yi"
+    },
+    {
+      "bo": "མ་གཅིག་ལྷ་མོ་ཁྱེད་རྣམས་ཀྱི། །",
+      "en": "Sole mother goddess,",
+      "en-trans": "ma chik lhamo khyé nam kyi"
+    },
+    {
+      "bo": "མཛེས་ཞལ་ནམ་མཁའི་རྗེས་འགྲོ་བ། །",
+      "en": "Will you not deign to reveal just a tiny portion of",
+      "en-trans": "dzé zhal namkhé jé drowa"
+    },
+    {
+      "bo": "ཟུར་ཙམ་སྟོན་པར་མི་གནང་ངམ། །",
+      "en": "Your exquisite face that resembles the sky?",
+      "en-trans": "zur tsam tönpar mi nang ngam"
+    },
+    {
+      "bo": "ལས་ཉོན་སྲ་བའི་དཔྱང་ཐག་འདི། །",
+      "en": "This tight collar of karma and mental afflictions,",
+      "en-trans": "lé nyön sawé chang tak di"
+    },
+    {
+      "bo": "ཕན་མཛད་ཐུགས་རྗེའི་རལ་གྲི་ཡིས། །",
+      "en": "If you do not swiftly act to sever it",
+      "en-trans": "pen dzé tukjé raldri yi"
+    },
+    {
+      "bo": "མྱུར་དུ་གཅོད་པར་མི་མཛད་ན། །",
+      "en": "With the beneficial sword of compassion,",
+      "en-trans": "nyurdu chöpar mi dzé na"
+    },
+    {
+      "bo": "ཁྱོད་ཀྱི་ཐུགས་དམ་མི་ཉམས་སམ། །",
+      "en": "Would this not undermine your sacred commitments?",
+      "en-trans": "khyö kyi tukdam mi nyam sam"
+    },
+    {
+      "bo": "ཁྱོད་ཀྱང་སྔོན་གྱི་དུས་ཀྱི་ཚེ། །",
+      "en": "When even in your previous lives,",
+      "en-trans": "khyö kyang ngön gyi dü kyi tsé"
+    },
+    {
+      "bo": "བདག་ལྟར་རྨོངས་པ་ཞིག་ལགས་ན། །",
+      "en": "You were once deluded like me;",
+      "en-trans": "dak tar mongpa zhik lak na"
+    },
+    {
+      "bo": "སྒོ་གསུམ་མི་ཤེས་བག་མེད་པས། །",
+      "en": "If, through unawareness and carelessness of my three doors,",
+      "en-trans": "go sum mi shé bakmepé"
+    },
+    {
+      "bo": "ནོངས་པར་ཐུགས་ཀྱང་འཁྲུག་མི་འཚལ། །",
+      "en": "I make mistakes, there is no need to be upset.",
+      "en-trans": "nongpar tuk kyang truk mi tsal"
+    },
+    {
+      "bo": "ཤིན་ཏུ་བཙོག་པའི་རྐྱལ་པ་ལ། །",
+      "en": "How could the excellent nature arise",
+      "en-trans": "shintu tsokpé kyalpa la"
+    },
+    {
+      "bo": "རང་བཞིན་བཟང་པོ་ཅི་ལ་འཆར། །",
+      "en": "In such a filthy leather bag [as this body]?",
+      "en-trans": "rangzhin zangpo chi la char"
+    },
+    {
+      "bo": "དེ་ཕྱིར་བདག་གིས་ནོངས་པ་རྣམས། །",
+      "en": "Compassionate one, for this reason,",
+      "en-trans": "dechir dak gi nongpa nam"
+    },
+    {
+      "bo": "བཟོད་པར་བཞེས་ཤིག་ཐུགས་རྗེ་ཅན། །",
+      "en": "Please be patient with the mistakes I have made!",
+      "en-trans": "zöpar zhé shik tukjé chen"
+    },
+    {
+      "bo": "རྩ་གསུམ་ལྷ་ཡི་འཁོར་ལོ་ནས། །",
+      "en": "Bless me so that I may be benefitted",
+      "en-trans": "tsa sum lha yi khorlo né"
+    },
+    {
+      "bo": "བེམ་པོའི་རྣམ་འགྱུར་ཚུན་ཆད་ཀྱིས། །",
+      "en": "By whatever manifestations are appropriate,",
+      "en-trans": "bempö namgyur tsünché kyi"
+    },
+    {
+      "bo": "བཀོད་པ་གང་ལ་གང་འཚམས་པས། །",
+      "en": "From the maṇḍalas of Three Root deities",
+      "en-trans": "köpa gang la gang tsampé"
+    },
+    {
+      "bo": "བདག་ལ་ཕན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Down to expressions of inanimate form!",
+      "en-trans": "dak la penpar jingyi lob"
+    },
+    {
+      "bo": "གཟུགས་སུ་སྣང་བའི་དངོས་པོ་ཀུན། །",
+      "en": "As all things which visibly appear",
+      "en-trans": "zuk su nangwé ngöpo kün"
+    },
+    {
+      "bo": "མཐོང་བ་ཙམ་གྱིས་ཡིད་འཕྲོག་པའི། །",
+      "en": "Arise as the display of the lovely and beautiful goddess,",
+      "en-trans": "tongwa tsam gyi yitrok pé"
+    },
+    {
+      "bo": "མཛེས་སྡུག་ལྷ་མོའི་རོལ་པར་ཤར། །",
+      "en": "Whose mere glance is enchanting;",
+      "en-trans": "dzé duk lhamö rolpar shar"
+    },
+    {
+      "bo": "བདེ་ཆེན་འབར་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Please bless me that the great bliss blazes forth!",
+      "en-trans": "dechen barwar jingyi lob"
+    },
+    {
+      "bo": "ཟིན་དང་མ་ཟིན་སྒྲ་རྣམས་ཀུན། །",
+      "en": "As all sounds, whether natural or deliberately produced,",
+      "en-trans": "zin dang ma zin dra nam kün"
+    },
+    {
+      "bo": "གྲག་སྟོང་སྔགས་ཀྱི་འཁོར་ལོར་འབྱོངས། །",
+      "en": "Manifest as the wheel of mantra—sound and emptiness,",
+      "en-trans": "drak tong ngak kyi khorlor jong"
+    },
+    {
+      "bo": "རླུང་སྔགས་གཉིས་སུ་མི་ཕྱེད་པའི། །",
+      "en": "Please bless me so that the power of",
+      "en-trans": "lung ngak nyi su michepé"
+    },
+    {
+      "bo": "ནུས་པ་འབབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "The indivisibility of prāṇa and mantra arises!",
+      "en-trans": "nüpa babpar jingyi lob"
+    },
+    {
+      "bo": "རྟོག་ཚོགས་གང་ཤར་སྣང་བ་ཀུན། །",
+      "en": "Let whatever conceptual patterns arise, all appearances,",
+      "en-trans": "toktsok gangshar nangwa kün"
+    },
+    {
+      "bo": "སྔོན་བསུ་རྗེས་གཅོད་མེད་པར་དེངས། །",
+      "en": "Dissipate without being anticipated or pursued;",
+      "en-trans": "ngönsu jechö mepar deng"
+    },
+    {
+      "bo": "རང་སར་བཞག་པས་ཆོས་སྐུར་གྲོལ། །",
+      "en": "And as I allow them to rest in their own place, so that they are liberated in the dharmakāya,",
+      "en-trans": "rang sar zhakpé chökur drol"
+    },
+    {
+      "bo": "རྟོགས་པ་འབར་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Please bless me so that realisation may blaze forth!",
+      "en-trans": "tokpa barwar jingyi lob"
+    },
+    {
+      "bo": "གནས་གསུམ་མཁའ་འགྲོ་མ་ལུས་པ། །",
+      "en": "May all ḍākinīs of the three worlds",
+      "en-trans": "né sum khandro ma lüpa"
+    },
+    {
+      "bo": "རང་དབང་མེད་པར་གྲོགས་སུ་ཁུག །",
+      "en": "Be summoned irresistibly as companions;",
+      "en-trans": "rangwang mepar drok su khuk"
+    },
+    {
+      "bo": "ཡིད་ཀྱི་རེ་བ་སྐོང་བྱེད་པའི། །",
+      "en": "Please bless me that they may grant the attainments",
+      "en-trans": "yi kyi rewa kong jepé"
+    },
+    {
+      "bo": "དངོས་གྲུབ་སྩོལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "That fulfil the hopes within my mind!",
+      "en-trans": "ngödrub tsolwar jingyi lob"
+    },
+    {
+      "bo": "དམ་ཅན་རྒྱ་མཚོ་མ་ལུས་པས། །",
+      "en": "Let the ocean of oath-bound ones, without exception,",
+      "en-trans": "damchen gyatso malüpé"
+    },
+    {
+      "bo": "འགལ་རྐྱེན་བར་ཆད་ཐམས་ཅད་སེལ། །",
+      "en": "Clear away all adversity and obstacles.",
+      "en-trans": "galkyen barché tamché sel"
+    },
+    {
+      "bo": "རབ་འབྱམས་འཕྲིན་ལས་རྣམ་པ་བཞི། །",
+      "en": "Please bless me that they may accomplish, without hindrance,",
+      "en-trans": "rabjam trinlé nampa zhi"
+    },
+    {
+      "bo": "ཐོགས་མེད་བསྒྲུབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "The infinite array of the four types of enlightened activity!",
+      "en-trans": "tokmé drubpar jingyi lob"
+    },
+    {
+      "bo": "བཟང་ངན་རྐྱེན་གྱི་བྱེ་བྲག་ཀུན། །",
+      "en": "Let the variety of good and bad conditions",
+      "en-trans": "zang ngen kyen gyi jedrak kün"
+    },
+    {
+      "bo": "ཐམས་ཅད་རོ་གཅིག་རྒྱན་དུ་ཤར། །",
+      "en": "Arise as the ornament of one taste.",
+      "en-trans": "tamché ro chik gyen du shar"
+    },
+    {
+      "bo": "འདེམས་ངོའི་དགག་སྒྲུབ་མེད་པ་ཡི། །",
+      "en": "Please bless me to practice the yogic conduct",
+      "en-trans": "dem ngö gak drub mepa yi"
+    },
+    {
+      "bo": "བརྟུལ་ཞུགས་སྤྱོད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "In which there is no preference for cultivating or rejecting.",
+      "en-trans": "tulzhuk chöpar jingyi lob"
+    },
+    {
+      "bo": "སྣང་བ་སྟོང་པའི་རྩལ་དུ་ཤར། །",
+      "en": "As appearances arise as the dynamic expression of emptiness,",
+      "en-trans": "nangwa tongpé tsal du shar"
+    },
+    {
+      "bo": "སྟོང་པ་རྟེན་འབྲེལ་ཉིད་དུ་ངེས། །",
+      "en": "And emptiness is ascertained as dependent arising itself,",
+      "en-trans": "tongpa tendrel nyi du ngé"
+    },
+    {
+      "bo": "ཟུང་འཇུག་ཅོག་བཞག་ཆེན་པོར་འབྱམས། །་",
+      "en": "Please bless me [to attain] the Great Perfection",
+      "en-trans": "zungjuk chok zhak chenpor jam"
+    },
+    {
+      "bo": "རྫོགས་པ་ཆེན་པོར་བྱིན་གྱིས་རློབས། །",
+      "en": "And merge into the great, freely resting union.",
+      "en-trans": "dzogpachenpor jingyi lob"
+    },
+    {
+      "bo": "དབྱིངས་རིག་ཀ་དག་ཆེན་པོ་དང་། །",
+      "en": "The great primordial purity of space-awareness",
+      "en-trans": "yingrik kadak chenpo dang"
+    },
+    {
+      "bo": "རྩལ་སྣང་ལྷུན་གྲུབ་ཐོད་རྒལ་གཉིས། །",
+      "en": "And the spontaneously accomplished manifestation of dynamic energy, Leaping Over—",
+      "en-trans": "tsalnang lhündrub tögal nyi"
+    },
+    {
+      "bo": "རེས་འཇོག་ཕྱོགས་རེར་མ་གོལ་བའི། །",
+      "en": "Please bless me that I may practice the excellent path",
+      "en-trans": "rejok chokrer magolwé"
+    },
+    {
+      "bo": "ལམ་བཟང་སྤྱོད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "That does not stray into favouring one practice over another.",
+      "en-trans": "lamzang chöpar jingyi lob"
+    },
+    {
+      "bo": "དང་པོར་ཆོས་ཉིད་སྣང་བ་ཤར། །",
+      "en": "First, the vision of dharmatā arises,",
+      "en-trans": "dangpor chönyi nangwa shar"
+    },
+    {
+      "bo": "བར་དུ་སྣང་བས་ཕྱོགས་ཀུན་ཁྱབ། །",
+      "en": "Then, the visions extend in all directions,",
+      "en-trans": "bardu nangwé chok künkhyab"
+    },
+    {
+      "bo": "ཐ་མར་ཀུན་ཀྱང་དབྱིངས་སུ་ཐིམ། །",
+      "en": "Finally, everything dissolves into space;",
+      "en-trans": "tamar kün kyang ying su tim"
+    },
+    {
+      "bo": "གྲོལ་སར་ཕྱིན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Please bless me to reach the state of liberation!",
+      "en-trans": "drol sar chinpar jingyi lob"
+    },
+    {
+      "bo": "གནས་མཆོག་པདྨོ་བཀོད་ལ་སོགས། །",
+      "en": "In the naturally manifesting buddha-fields of Akaniṣṭha",
+      "en-trans": "né chok pemo kö lasok"
+    },
+    {
+      "bo": "གནས་གསུམ་མཁའ་འགྲོ་ཀུན་འདུ་བའི། །",
+      "en": "And places where all ḍākinīs of the three worlds gather,",
+      "en-trans": "né sum khandro kün duwé"
+    },
+    {
+      "bo": "རང་སྣང་འོག་མིན་ཞིང་རྣམས་སུ། །",
+      "en": "Supreme holy sites, such as Pemokö,",
+      "en-trans": "rangnang womin zhing nam su"
+    },
+    {
+      "bo": "འགྲོ་དོན་སྐྱོང་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Please bless me to attend to beings’ benefit!",
+      "en-trans": "dro dön kyongwar jingyi lob"
+    },
+    {
+      "bo": "དུས་གསུམ་རྒྱལ་བ་ཐམས་ཅད་ཀྱིས། །",
+      "en": "Please bless me that I may tame",
+      "en-trans": "dü sum gyalwa tamché kyi"
+    },
+    {
+      "bo": "མངོན་སུམ་འདུལ་བར་མ་ནུས་པའི། །",
+      "en": "All beings of lesser fortune, however many there are,",
+      "en-trans": "ngönsum dulwar ma nüpé"
+    },
+    {
+      "bo": "སྐལ་དམན་སྐྱེ་བོ་ཇི་སྙེད་པ། །",
+      "en": "Those whom all the victorious ones of the three times",
+      "en-trans": "kal men kyewo jinyepa"
+    },
+    {
+      "bo": "བདག་གིས་འདུལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Are incapable of taming directly!",
+      "en-trans": "dak gi dulwar jingyi lob"
+    },
+    {
+      "bo": "ནམ་མཁའ་ཟད་པར་མ་གྱུར་པར། །",
+      "en": "Please bless me that I may carry out the benefit of beings,",
+      "en-trans": "namkha zepar magyur par"
+    },
+    {
+      "bo": "སྐྱོ་ངལ་མེད་པའི་སྤྱོད་པ་ཡིས། །",
+      "en": "Tirelessly and without discouragement,",
+      "en-trans": "kyo ngal mepé chöpa yi"
+    },
+    {
+      "bo": "འཕེལ་འགྲིབ་མེད་པ་འགྲོ་བའི་དོན། །",
+      "en": "Without my actions waxing and waning,",
+      "en-trans": "peldrib mepa drowé dön"
+    },
+    {
+      "bo": "བདག་གིས་སྤྱོད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Until space itself fades away!",
+      "en-trans": "dak gi chöpar jingyi lob"
+    },
+    {
+      "bo": "བདག་ནི་མཐོང་དང་ཐོས་པ་དང་། །",
+      "en": "May all those who see or hear me,",
+      "en-trans": "dak ni tong dang töpa dang"
+    },
+    {
+      "bo": "མིང་ཙམ་འཛིན་པར་བྱེད་པ་ཡང་། །",
+      "en": "Or even merely recall my name,",
+      "en-trans": "ming tsam dzinpar jepa yang"
+    },
+    {
+      "bo": "ཁམས་གསུམ་འཁོར་བ་དོང་སྤྲུགས་ཏེ། །",
+      "en": "Be delivered from the depths of saṃsāra’s three realms.",
+      "en-trans": "kham sum khorwa dongtruk té"
+    },
+    {
+      "bo": "ཆམ་གཅིག་གྲོལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me that I may simultaneously liberate them all!",
+      "en-trans": "cham chik drolwar jin gyi lob"
+    },
+    {
+      "bo": "གང་ཞིག་ཕན་པར་སེམས་པ་དང་། །",
+      "en": "Bless me to train those whose minds are altruistic,",
+      "en-trans": "gangzhik penpar sempa dang"
+    },
+    {
+      "bo": "བཏང་སྙོམས་བར་མ་དག་ཀྱང་རུང་། །",
+      "en": "As well as those with feelings of indifference,",
+      "en-trans": "tangnyom barma dak kyang rung"
+    },
+    {
+      "bo": "བརྙས་སྨོད་བརྡེག་འཚོག་མཚང་འབྲུ་བ། །",
+      "en": "And especially those who would disparage others,",
+      "en-trans": "nyé mö dek tsok tsang druwa"
+    },
+    {
+      "bo": "ལྷག་པར་འདུལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Or abuse them and expose their hidden faults.",
+      "en-trans": "lhakpar dulwar jingyi lob"
+    },
+    {
+      "bo": "དུག་གསུམ་དྲག་པོས་རྒྱུད་སྦགས་ཤིང་། །",
+      "en": "The beings whose mind streams are sullied by the intense three poisons,",
+      "en-trans": "duk sum drakpö gyü bak shing"
+    },
+    {
+      "bo": "ངན་སོང་གསུམ་དང་ཁྱད་པར་དུ། །",
+      "en": "And those who experience the suffering of the three lower realms,",
+      "en-trans": "ngensong sum dang khyepardu"
+    },
+    {
+      "bo": "བར་དོའི་སྡུག་བསྔལ་ལ་སྤྱོད་པའི། །",
+      "en": "And in particular the suffering of the intermediate state;",
+      "en-trans": "bardö dukngal la chöpé"
+    },
+    {
+      "bo": "འགྲོ་བ་འདུལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Please bless me so that I may tame them all!",
+      "en-trans": "drowa dulwar jingyi lob"
+    },
+    {
+      "bo": "རིག་འཛིན་པདྨ་འབྱུང་གནས་དང་། །",
+      "en": "Please bless me so that my mind may be of one taste",
+      "en-trans": "rigdzin pema jungné dang"
+    },
+    {
+      "bo": "ཐུགས་ཀྱི་དགོངས་པར་རོ་གཅིག་པས། །",
+      "en": "With the enlightened wisdom mind of Vidyādhara Padmasambhava,",
+      "en-trans": "tuk kyi gongpar ro chikpé"
+    },
+    {
+      "bo": "རྣམ་ཐར་མཉམ་པར་སྤྱོད་པ་ཡི། །",
+      "en": "And I may thereby accomplish the two aims",
+      "en-trans": "namtar nyampar chöpa yi"
+    },
+    {
+      "bo": "དོན་གཉིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Through conduct that is comparable to his life of liberation!",
+      "en-trans": "dön nyi drubpar jingyi lob"
+    },
+    {
+      "bo": "བདག་ནི་གལ་ཏེ་ཚེ་འདི་ལ། །",
+      "en": "If I do not seize",
+      "en-trans": "dak ni galté tsé di la"
+    },
+    {
+      "bo": "བཙན་ས་ཟིན་པར་མ་གྱུར་ན། །",
+      "en": "The citadel [of enlightenment] in this life,",
+      "en-trans": "tsensa zinpar magyur na"
+    },
+    {
+      "bo": "ནམ་ཞིག་འཆི་བའི་དུས་ཀྱི་ཚེ། །",
+      "en": "Then, when I reach the moment of death,",
+      "en-trans": "namzhik chiwé dü kyi tsé"
+    },
+    {
+      "bo": "ཁྱེད་རྣམས་བསུ་བའི་ཕྱིར་གཤེགས་ཤིག །",
+      "en": "May you all come back to welcome me.",
+      "en-trans": "khyé nam suwé chir shek shik"
+    },
+    {
+      "bo": "ཞལ་གྱི་དཀྱིལ་འཁོར་གསལ་པོར་སྟོན། །",
+      "en": "May you clearly reveal the maṇḍala of your face,",
+      "en-trans": "zhal gyi kyilkhor salpor tön"
+    },
+    {
+      "bo": "དབུགས་དབྱུང་གསུང་གི་སྣང་བ་སྩོལ། །",
+      "en": "Bestow the elucidation of your comforting speech,",
+      "en-trans": "ukyung sung gi nangwa tsol"
+    },
+    {
+      "bo": "བརྩེ་གདུང་མཛའ་བའི་ཐུགས་རྗེས་བཟུང་། །",
+      "en": "Embrace me with your compassion of love, affection, and friendliness,",
+      "en-trans": "tsedung dzawé tukjé zung"
+    },
+    {
+      "bo": "འོད་གསལ་བདེ་བ་ཆེན་པོར་དྲོངས། །",
+      "en": "And lead me to the great bliss of luminosity.",
+      "en-trans": "ösal dewa chenpor drong"
+    },
+    {
+      "bo": "འཁྲུལ་བའི་སྣང་བར་ཨ་འཐས་པའི། །",
+      "en": "When the terrors of the intermediate state arise",
+      "en-trans": "trulwé nangwar até pé"
+    },
+    {
+      "bo": "བར་དོའི་འཇིགས་སྐྲག་ཤར་བ་ན། །",
+      "en": "As deluded perception solidifies,",
+      "en-trans": "bardö jiktrak sharwa na"
+    },
+    {
+      "bo": "མདུན་བསུས་རྒྱབ་སྐྱོར་མཐའ་ནས་བརྟེན། །",
+      "en": "Be a welcome in front, a support behind, and an assistance all around.",
+      "en-trans": "dün sü gyab kyor ta né ten"
+    },
+    {
+      "bo": "འཁྲུལ་པ་ཐམས་ཅད་རང་སར་སྐྱོངས། །",
+      "en": "Keep all delusions in their own place!",
+      "en-trans": "trulpa tamché rang sar kyong"
+    },
+    {
+      "bo": "བར་དོར་གྲོལ་བར་མ་གྱུར་ན། །",
+      "en": "If I am not liberated in the intermediate state,",
+      "en-trans": "bardor drolwar magyur na"
+    },
+    {
+      "bo": "སྤྲུལ་པའི་ཞིང་ཁམས་སྣ་ཚོགས་སུ། །",
+      "en": "May I be born on the stem of a lotus",
+      "en-trans": "trulpé zhingkham natsok su"
+    },
+    {
+      "bo": "པདྨའི་སྡོང་པོ་ལས་སྐྱེས་ཏེ། །",
+      "en": "In various emanated pure lands,",
+      "en-trans": "pemé dongpo lé kyé té"
+    },
+    {
+      "bo": "མཚན་དང་ལྡན་པའི་ལུས་ཐོབ་ཤོག །",
+      "en": "And may I obtain a body endowed with the marks of enlightenment!",
+      "en-trans": "tsen dang denpé lü tob shok"
+    },
+    {
+      "bo": "སྤྱན་དང་མངོན་ཤེས་གཟུངས་སྤོབས་སོགས། །",
+      "en": "Through the limitless gates of meditative absorption,",
+      "en-trans": "chen dang ngönshé zung pob sok"
+    },
+    {
+      "bo": "ཏིང་འཛིན་སྒོ་བརྒྱ་མཐའ་ཡས་པས། །",
+      "en": "Including the divine eye, clairvoyance, retention, and eloquence,",
+      "en-trans": "tingdzin go gya tayepé"
+    },
+    {
+      "bo": "བདག་རྒྱུད་ལྷག་པར་ཕྱུག་པ་དང་། །",
+      "en": "May my mind stream become abundantly enriched,",
+      "en-trans": "dak gyü lhakpar chukpa dang"
+    },
+    {
+      "bo": "འཕྲིན་ལས་རྣམ་བཞིར་དབང་འབྱོར་ཤོག །",
+      "en": "And may I gain mastery over the four kinds of enlightened activity!",
+      "en-trans": "trinlé nam zhir wangjor shok"
+    },
+    {
+      "bo": "འབྱུང་བཞིའི་གནོད་པས་མི་བརྫི་ཞིང་། །",
+      "en": "May I not fall victim to harm from the four elements,",
+      "en-trans": "jung zhi nöpé mi dzi zhing"
+    },
+    {
+      "bo": "འཆི་མེད་རྡོ་རྗེའི་སྐུ་གྲུབ་སྟེ། །",
+      "en": "And may I accomplish the deathless vajra-body,",
+      "en-trans": "chimé dorjé ku drub té"
+    },
+    {
+      "bo": "རྡོ་རྗེ་ཐེག་པའི་རྣལ་འབྱོར་གྱི། །",
+      "en": "And thus complete the paths and stages of maturation and liberation",
+      "en-trans": "dorjé tekpé naljor gyi"
+    },
+    {
+      "bo": "སྨིན་གྲོལ་ས་ལམ་མཐར་ཕྱིན་ཤོག །",
+      "en": "Of the Vajrayāna yoga!",
+      "en-trans": "mindrol salam tarchin shok"
+    },
+    {
+      "bo": "མདོར་ན་གནས་སྐབས་ཐམས་ཅད་དུ། །",
+      "en": "In brief, may the ocean of ḍākinīs grant their blessings,",
+      "en-trans": "dorna nekab tamché du"
+    },
+    {
+      "bo": "རང་དང་གཞན་གྱི་དོན་གང་ཡིན། །",
+      "en": "That I may accomplish",
+      "en-trans": "rang dang zhen gyi dön gang yin"
+    },
+    {
+      "bo": "ཐམས་ཅད་མཁའ་འགྲོ་རྒྱ་མཚོ་ཡིས། །",
+      "en": "All that is beneficial to myself and others",
+      "en-trans": "tamché khandro gyatso yi"
+    },
+    {
+      "bo": "གཡེལ་མེད་བསྒྲུབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "In all circumstances without ever wavering!",
+      "en-trans": "yelmé drubpar jingyi lob"
+    },
+    {
+      "bo": "དུས་གསུམ་བསགས་པའི་དགེ་ཚོགས་དང་། །",
+      "en": "Through the accumulation of virtue gathered throughout the three times,",
+      "en-trans": "dü sum sakpé gé tsok dang"
+    },
+    {
+      "bo": "ཁྱད་པར་རྩ་གསུམ་ལྷ་ཚོགས་ཀྱི། །",
+      "en": "And in particular, the power of the truth of the inconceivable compassion",
+      "en-trans": "khyepar tsa sum lhatsok kyi"
+    },
+    {
+      "bo": "ཐུགས་རྗེ་བསམ་གྱིས་མི་ཁྱབ་པའི། །",
+      "en": "Of the Three Roots and the assembly of the deities,",
+      "en-trans": "tukjé sam gyi mi khyabpé"
+    },
+    {
+      "bo": "བདེན་མཐུས་སྨོན་ལམ་མྱུར་འགྲུབ་ཤོག །",
+      "en": "May these aspirations be swiftly accomplished!",
+      "en-trans": "den tü mönlam nyur drub shok"
+    },
+    {
+      "bo": "ཆོས་ཉིད་བསམ་གྱིས་མི་ཁྱབ་ཀྱང་། །",
+      "en": "Although dharmatā is inconceivable,",
+      "en-trans": "chönyi sam gyi mi khyab kyang"
+    },
+    {
+      "bo": "ཆོས་ཅན་རྟེན་འབྲེལ་མི་སླུ་བས། །",
+      "en": "The truth never changes,",
+      "en-trans": "chöchen tendrel mi luwé"
+    },
+    {
+      "bo": "བདེན་པ་འགྱུར་བ་མེད་པ་དེས། །",
+      "en": "Since the dependent arising of conditioned phenomena is infallible;",
+      "en-trans": "denpa gyurwa mepa dé"
+    },
+    {
+      "bo": "ཅི་བཏབ་སྨོན་ལམ་འགྲུབ་པར་ཤོག །",
+      "en": "Thus, may any aspirations I have formulated be accomplished!",
+      "en-trans": "chi tab mönlam drubpar shok"
+    }
+  ]
+}

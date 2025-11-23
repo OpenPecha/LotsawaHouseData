@@ -1,0 +1,631 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/khenpo-chime-rigdzin/lament-of-faith",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །བླ་མ་ཡིད་བཞིན་ནོར་བུའི་རྗེས་དྲན་གསོལ་འདེབས་ཉུང་ངུ་དད་པའི་གདུང་དབྱངས་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+    "en": "A Short Remembrance of, and Prayer to, My Guru, the Wish-Fulfilling Jewel"
+  },
+  "text": [
+    {
+      "bo": "འཇིགས་མེད་རྩོད་འཆད་རྩོམ་པའི་གཏེར་ལ་དབང་། །",
+      "en": "Master over the treasury of fearless debate, exposition, and composition,",
+      "en-trans": "jikme tsö ché tsompé ter la wang"
+    },
+    {
+      "bo": "ཕུན་ཚོགས་བསླབ་པ་གསུམ་གྱི་ཡོན་ཏན་རྫོགས། །",
+      "en": "With all the qualities of the three trainings perfectly complete,",
+      "en-trans": "püntsok labpa sum gyi yönten dzok"
+    },
+    {
+      "bo": "དཔག་ཡས་ཕན་བདེའི་འབྱུང་གནས་རིན་པོ་ཆེ། །",
+      "en": "Precious source of unfathomable benefit and happiness—",
+      "en-trans": "pakyé pendé jungné rinpoche"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!1",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "བློ་ཁ་ཆོས་ལ་ཕྱོགས་པ་བླ་མའི་དྲིན། །",
+      "en": "The guru’s kindness turned my mind toward the Dharma,",
+      "en-trans": "lokha chö la chokpa lamé drin"
+    },
+    {
+      "bo": "ཆོས་ལ་དགའ་བ་སྐྱེས་པ་བླ་མའི་དྲིན། །",
+      "en": "The guru’s kindness caused me to take delight in Dharma,",
+      "en-trans": "chö la gawa kyepa lamé drin"
+    },
+    {
+      "bo": "ཆོས་གཟུགས་མ་བོར་ཙམ་འདི་བླ་མའི་དྲིན། །",
+      "en": "And if I haven’t abandoned the outward guise of a dharma practitioner—that too is the guru’s kindness.",
+      "en-trans": "chö zuk mawor tsam di lamé drin"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "ཚེ་གཅིག་སངས་རྒྱས་སྒྲུབ་པའི་ལམ་གྱི་གནད། །",
+      "en": "Having determined that the vital point for achieving enlightenment in a single lifetime",
+      "en-trans": "tsé chik sangye drubpé lam gyi né"
+    },
+    {
+      "bo": "ཚུལ་ཁྲིམས་མ་ཡིན་ཤེས་རབ་བརྩོན་འགྲུས་མིན། །",
+      "en": "Isn’t ethics, nor joyous effort, nor wisdom,",
+      "en-trans": "tsultrim mayin sherab tsöndrü min"
+    },
+    {
+      "bo": "བླ་མའི་མོས་གུས་ཁོ་ནར་ཐག་ཆོད་ནས། །",
+      "en": "But that awakening is won only through devotion to the guru—",
+      "en-trans": "lamé mögü khonar takchö né"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "ཆོས་ལ་སྦྱངས་བརྩོན་རྡུལ་ཙམ་མ་བྱས་ཀྱང་། །",
+      "en": "Through the auspicious connection of strong devotion to a realized guru,",
+      "en-trans": "chö la jang tsön dul tsam ma jé kyang"
+    },
+    {
+      "bo": "རྟོགས་ལྡན་བླ་མར་དད་པའི་རྟེན་འབྲེལ་གྱིས། །",
+      "en": "It’s possible to experience the highest wisdom",
+      "en-trans": "tokden lamar depé tendrel gyi"
+    },
+    {
+      "bo": "དགོངས་པ་ལྷ་དང་མཉམ་པའི་ཆེ་བ་ཡོད། །",
+      "en": "Without the slightest effort at practice.",
+      "en-trans": "gongpa lha dang nyampé chewa yö"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "སྡིག་ཅན་ཤན་པ་སྨད་འཚོང་ཚུལ་འཆལ་སོགས། །",
+      "en": "Persons considered evil and immoral, like butchers and prostitutes,",
+      "en-trans": "dikchen shenpa metsong tsul chal sok"
+    },
+    {
+      "bo": "ཐེག་པ་གཞན་གྱི་གདུལ་བྱར་མ་བྱར་པ། །",
+      "en": "Are not suitable for salvation in the lesser vehicles.",
+      "en-trans": "tekpa zhen gyi duljar majarpa"
+    },
+    {
+      "bo": "མོས་གུས་ལམ་གྱིས་གྲོལ་བའི་གྲུབ་ཐོབ་མང་། །",
+      "en": "Yet, many such adepts have been liberated through the path of guru devotion.",
+      "en-trans": "mögü lam gyi drolwé drubtob mang"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "མཁའ་འགྲོའི་གསང་མཛོད་སྒྲུབ་བརྒྱུད་ཤིང་རྟ་བརྒྱད། །",
+      "en": "The secret treasury of the ḍākinīs and the eight chariots of accomplishment",
+      "en-trans": "khandrö sangdzö drubgyü shingta gyé"
+    },
+    {
+      "bo": "ཀུན་ཀྱང་ཞལ་མཐུན་ཀུན་གྱི་གསང་བའི་གནད། །",
+      "en": "Are of a single voice in proclaiming reliance on guru yoga",
+      "en-trans": "kün kyang zhal tün kün gyi sangwé né"
+    },
+    {
+      "bo": "བླ་མའི་རྣལ་འབྱོར་ཁོ་ནར་རག་ལས་པས། །",
+      "en": "As the secret and most crucial point of practice.",
+      "en-trans": "lamé naljor khonar raklepé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "མོས་གུས་ལམ་གྱི་རྩ་བ་མ་ཚུགས་ན། །",
+      "en": "You may spend your life behaving ethically and acting with restraint,",
+      "en-trans": "mögü lam gyi tsawa ma tsuk na"
+    },
+    {
+      "bo": "ཚེ་གང་འདུལ་ཁྲིམས་གཙང་མས་རྒྱུད་བསྡམས་ཀྱང་། །",
+      "en": "But unless you’ve established the vital point of practice, the very root of the path, devotion to the guru,",
+      "en-trans": "tsé gang dul trim tsangmé gyü dam kyang"
+    },
+    {
+      "bo": "སེམས་རྒྱུད་ཐ་མལ་མི་ལས་མི་འཕགས་པས། །",
+      "en": "You’ll remain no better than an ordinary person.",
+      "en-trans": "semgyü tamal mi lé mi pakpé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "བརྒྱུད་གསུམ་བླ་མའི་བྱིན་རླབས་མ་ཞུགས་ན། །",
+      "en": "You may be learned in the sūtras, tantras and various sciences,",
+      "en-trans": "gyü sum lamé jinlab ma zhuk na"
+    },
+    {
+      "bo": "མདོ་སྔགས་རིག་གནས་ཀུན་ལ་མཁས་ན་ཡང་། །",
+      "en": "But, unless you’ve received the blessing of a guru who holds the three lineages,",
+      "en-trans": "do ngak rikné kün la khé na yang"
+    },
+    {
+      "bo": "དོན་བརྒྱུད་རྟོགས་པ་འཕོ་རྒྱུ་མི་འདུག་པས། །",
+      "en": "The realization of the ultimate meaning will not transfer to you.",
+      "en-trans": "dön gyü tokpa po gyu mi dukpé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "བླ་མ་ལྷ་རུ་ཁོ་ཐག་མ་ཆོད་ན། །",
+      "en": "You may recite many billions of mantras,",
+      "en-trans": "lama lha ru kho tak ma chö na"
+    },
+    {
+      "bo": "བསྙེན་པ་དུང་ཕྱུར་གྲངས་མང་བཟླས་ན་ཡང་། །",
+      "en": "But, unless you realize the guru and deity to be inseparable,",
+      "en-trans": "nyenpa dungchur drang mang dé na yang"
+    },
+    {
+      "bo": "མཆོག་གི་དངོས་གྲུབ་ཚེ་འདིར་མི་ཐོབ་པས། །",
+      "en": "You’ll not achieve the supreme accomplishment in this lifetime.",
+      "en-trans": "chok gi ngödrub tsé dir mi tobpé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "དད་པའི་གྲོགས་དང་ཡུན་དུ་མ་འགྲོག་ན། །",
+      "en": "You may have been introduced to the genuine nature, the natural state of mind;",
+      "en-trans": "depé drok dang yündu ma drok na"
+    },
+    {
+      "bo": "སེམས་ཉིད་གཉུག་མའི་གནས་ལུགས་ངོ་འཕྲོད་ཀྱང་། །",
+      "en": "However, unless this recognition is supported by faith as a constant companion,",
+      "en-trans": "semnyi nyukmé neluk ngotrö kyang"
+    },
+    {
+      "bo": "ཉམས་རྟོགས་རྩ་ལ་ཁ་ཕྱོགས་མེད་མི་རྒྱས་པས། །",
+      "en": "The power and expression of your experience and realization will lack direction and won’t increase.",
+      "en-trans": "nyamtok tsa lakha chokmé mi gyepé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "བླ་མ་སངས་རྒྱས་ཉིད་དུ་མ་ཤེས་ན། །",
+      "en": "You may offer prostrations, construct stūpas, and engage in many other virtuous deeds,",
+      "en-trans": "lama sangye nyi duma shé na"
+    },
+    {
+      "bo": "ཕྱག་མཆོད་རྟེན་བཞེངས་དགེ་སྦྱོར་ཅི་བྱས་ཀྱང་། །",
+      "en": "But, unless you know the guru to be Buddha in person,",
+      "en-trans": "chakchö ten zheng gejor chi jé kyang"
+    },
+    {
+      "bo": "ཚེ་གཅིག་གདོད་མའི་རྒྱལ་ས་མི་ཟིན་པས། །",
+      "en": "You won’t be able to capture the primordial stronghold in this lifetime.",
+      "en-trans": "tsé chik dömé gyalsa mi zinpé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "སྙན་པས་ས་ཁྱབ་ཆེ་དགུའི་རྩེར་སོན་ཀྱང་། །",
+      "en": "You may have been born in opulence and heard your praises resounding throughout the world,",
+      "en-trans": "nyenpé sa khyab chegü tser sön kyang"
+    },
+    {
+      "bo": "བླ་མའི་བཀའ་དྲིན་ཡང་ཡང་མ་དྲན་ན། །",
+      "en": "But, unless you continually recall the guru’s kindness,",
+      "en-trans": "lamé kadrin yangyang ma dren na"
+    },
+    {
+      "bo": "རྣམ་དག་ལྷ་ཆོས་ལམ་དུ་མི་འགྲོ་བས། །",
+      "en": "You’ll not progress on the path of the pure, divine Dharma.",
+      "en-trans": "namdak lha chö lam du mi drowé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "རྐྱེན་ངན་ཐོག་བབས་དམན་པའི་སར་ལྷུངས་ཀྱང་། །",
+      "en": "Unless you know how to revive yourself through faith,",
+      "en-trans": "kyen ngen tok bab menpé sar lhung kyang"
+    },
+    {
+      "bo": "དད་པའི་ཁམས་འདུས་གསོ་ཚུལ་མ་ཤེས་ན། །",
+      "en": "A sudden onset of negative circumstances could send you on errant ways,",
+      "en-trans": "depé kham dü so tsul ma shé na"
+    },
+    {
+      "bo": "སྐྱོ་གདུང་ཡིད་ཆད་སེལ་མཁན་མི་འདུག་པས། །",
+      "en": "And there will be nothing to clear the pain, remorse and suffering.",
+      "en-trans": "kyo dung yi ché sel khen mi dukpé"
+    },
+    {
+      "bo": "འདྲེན་མཆོག་དཔལ་ལྡན་བླ་མར་གསོལ་བ་འདེབས། །",
+      "en": "Supreme guide, glorious guru, I pray to you!",
+      "en-trans": "dren chok palden lamar solwa deb"
+    },
+    {
+      "bo": "ད་རེས་རང་གིས་རང་ཉིད་མ་བསླུས་ན། །",
+      "en": "Now I’ll not deceive myself:",
+      "en-trans": "daré rang gi rangnyi ma lü na"
+    },
+    {
+      "bo": "སངས་རྒྱས་དངོས་འདྲའི་བླ་མའི་ཐུགས་རྗེས་ཟིན། །",
+      "en": "My guru, you who are the Buddha in person, hold me in your compassion!",
+      "en-trans": "sangye ngö dré lamé tukjé zin"
+    },
+    {
+      "bo": "སེམས་ཀྱི་གཏད་ས་བརྟན་བརྗིད་རི་ལས་བརླིང་། །",
+      "en": "You are the focal point of my life, stronger and more majestic even than a mountain.",
+      "en-trans": "sem kyi tesa ten ji ri lé ling"
+    },
+    {
+      "bo": "མཁྱེན་ནོ་མཁྱེན་ནོ་དྲིན་ཅན་བླ་མ་མཁྱེན། །",
+      "en": "Care for me! Care for me! Gracious guru, care for me!",
+      "en-trans": "khyen no khyen no drinchen lama khyen"
+    },
+    {
+      "bo": "ཟ་ཟིའི་རྨི་ལམ་ནང་ནས་ཁྱེད་ཞལ་རེ། །",
+      "en": "As if in a blurry dream, I find myself continually waiting to behold your face.",
+      "en-trans": "za zi milam nang né khyé zhal ré"
+    },
+    {
+      "bo": "ཡང་ཡང་མཇལ་བར་སྒུག་པའི་བུ་ང་ལ། །",
+      "en": "Whatever befalls me, be it pleasant or otherwise,",
+      "en-trans": "yangyang jalwar gukpé bu nga la"
+    },
+    {
+      "bo": "སྐྱིད་སྡུག་ཅི་བྱུང་རེ་ས་གཞན་མེད་པས། །",
+      "en": "I have no other hope but you.",
+      "en-trans": "kyiduk chi jung resa zhen mepé"
+    },
+    {
+      "bo": "མཁྱེན་ནོ་མཁྱེན་ནོ་ཡིད་བཞིན་ནོར་བུ་མཁྱེན། །",
+      "en": "Care for me! Care for me! Wish-fulfilling Jewel, care for me!",
+      "en-trans": "khyen no khyen no yizhin norbu khyen"
+    },
+    {
+      "bo": "ཐོས་པ་ཆེ་ཡང་གྲུབ་པའི་ཉམས་རྟོགས་ཕྲ། །",
+      "en": "There are those who study extensively yet lack practice and accomplishment,",
+      "en-trans": "töpa ché yang drubpé nyamtok tra"
+    },
+    {
+      "bo": "རྟོགས་པ་མཐོ་ཡང་ཆོས་ལ་སྦྱངས་བ་ཆུང་། །",
+      "en": "Or who display high realization but have no thorough training in Dharma.",
+      "en-trans": "tokpa to yang chö la jangwa chung"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་མཁས་གྲུབ་གཉིས་ལྡན་པའི། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né khedrub nyiden pé"
+    },
+    {
+      "bo": "རྒྱན་དྲུག་མཆོག་གཉིས་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You who, like the six ornaments and two supreme ones, combine both learning and accomplishment.",
+      "en-trans": "gyen druk chok nyi drawé lama dren"
+    },
+    {
+      "bo": "བསྟན་འགྲོར་མི་སེམས་རང་དོན་ཞི་བ་གཉེར། །",
+      "en": "Some do not consider sentient beings or the teachings but pursue their own comfort.",
+      "en-trans": "ten dror mi sem rangdön zhiwa nyer"
+    },
+    {
+      "bo": "རང་རྒྱུད་མ་སྨིན་གཞན་དོན་སྒྲུབ་བློ་བྱེད། །",
+      "en": "Their minds are not yet matured but they claim to act with genuine altruism.",
+      "en-trans": "ranggyü ma min zhendön drub lo jé"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་དོན་གཉིས་ལྷུན་འགྲུབ་པའི། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né dön nyi lhündrub pé"
+    },
+    {
+      "bo": "རྫོགས་པའི་སངས་རྒྱས་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You who, like the perfect Buddha, spontaneously fulfilled the dual purpose.",
+      "en-trans": "dzokpé sangye drawé lama dren"
+    },
+    {
+      "bo": "འདུལ་ཁྲིམས་མཆོག་བཟུང་སྔགས་ལ་མོས་པ་ཆུང་། །",
+      "en": "Some see monastic discipline as supreme, and show little interest in mantra.",
+      "en-trans": "dul trim chok zung ngak la möpa chung"
+    },
+    {
+      "bo": "སྔགས་ལ་ཞུགས་ནས་འདུལ་བར་གུས་པ་ལྷོད། །",
+      "en": "Others enter the path of mantra and then allow all other vows to lapse.",
+      "en-trans": "ngak la zhuk né dulwar güpa lhö"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་གསུམ་ལྡན་རྡོ་རྗེ་འཛིན། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né sumden dorjé dzin"
+    },
+    {
+      "bo": "པདྨ་དཀར་པོ་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You, a vajra-holder with the three vows, just like Pema Karpo.",
+      "en-trans": "pema karpo drawé lama dren"
+    },
+    {
+      "bo": "རབ་བྱུང་རྗེས་བཟུང་ཁྱིམ་པའི་ཆོས་སྐལ་ཆད། །",
+      "en": "For some, following a monastic life means giving up the lot of a lay person;",
+      "en-trans": "rabjung jezung khyimpé chö kal ché"
+    },
+    {
+      "bo": "ཁྱིམ་པ་རྗེས་བཟུང་མཁས་པའི་བུ་སློབ་མེད། །",
+      "en": "While remaining a lay person precludes becoming a disciple of the learned.",
+      "en-trans": "khyimpa jezung khepé bulob mé"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་འཁོར་ཚོགས་རྣམ་བཞིའི་མགོན། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né khor tsok nam zhi gön"
+    },
+    {
+      "bo": "ཀུན་ཕན་ཟླ་བ་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You, protector of the four groups of disciples, benefactor of all, just like the moon.",
+      "en-trans": "kün pen dawa drawé lama dren"
+    },
+    {
+      "bo": "བཀའ་མ་ཤེས་ཀྱང་གཏེར་གྱི་ཆོས་སྐལ་མེད། །",
+      "en": "Some know the long lineage ofkama, but lack the fortune to receive the short lineage of terma;",
+      "en-trans": "kama shé kyang ter gyi chö kalmé"
+    },
+    {
+      "bo": "གཏེར་ཆོས་མང་ཡང་བཀའ་མའི་བརྒྱུད་པ་མེད། །",
+      "en": "Whereas others hold many termas but do not possess the lineage of kama.",
+      "en-trans": "terchö mang yang kamé gyüpamé"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་བཀའ་གཏེར་ཀུན་འཛོམས་པའི། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né kater kün dzompé"
+    },
+    {
+      "bo": "འདོད་འབྱུང་བུམ་བཟང་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You who resemble a wish-fulfilling vase filled entirely with kama and terma teachings.",
+      "en-trans": "dö jung bum zang drawé lama dren"
+    },
+    {
+      "bo": "རང་ལུགས་མཆོག་བཟུང་གཞན་གྱི་ཆོས་ལ་སྨོད། །",
+      "en": "Some consider their own way to be supreme, and belittle the ways of others;",
+      "en-trans": "rang luk chok zung zhen gyi chö la mö"
+    },
+    {
+      "bo": "གཞན་ལུགས་རྗེས་བརྗོད་བརྒྱུད་པའི་ཆོས་སྐལ་བོར། །",
+      "en": "They parrot others’ ideas while casting the Dharma of the lineage aside.",
+      "en-trans": "zhen luk jé jö gyüpé chö kalwor"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་བསྟན་པ་ཡོངས་ཀྱི་གཉེན། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né tenpa yong kyi nyen"
+    },
+    {
+      "bo": "འཛམ་གླིང་ཉི་མ་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You who care for all teachings, like the sun of the world.",
+      "en-trans": "dzamling nyima drawé lama dren"
+    },
+    {
+      "bo": "སྙན་གྲགས་ཆེ་ཡང་རྒྱུད་ལ་ཉམས་རྟོགས་མེད། །",
+      "en": "Fame and renown can entail a lack of experience and realization,",
+      "en-trans": "nyendrak ché yang gyü la nyamtok mé"
+    },
+    {
+      "bo": "རྟོགས་པ་མཐོ་ཡང་མཛད་པའི་གྲགས་རྒྱ་ཆུང་། །",
+      "en": "Whilst high realization doesn’t always mean recognition is forthcoming.",
+      "en-trans": "tokpa to yang dzepé drak gya chung"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་ཁམས་གསུམ་དབང་བསྡུས་པའི། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né kham sum wangdü pé"
+    },
+    {
+      "bo": "འཁོར་ལོས་བསྒྱུར་རྒྱལ་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You, like a wheel-turning monarch, in control of the three worlds.",
+      "en-trans": "khorlö gyur gyal drawé lama dren"
+    },
+    {
+      "bo": "ཆོས་པ་བཟང་ཡང་འཇིག་རྟེན་ཤེས་རྒྱ་ཆུང་། །",
+      "en": "There can be a fine Dharma practitioner who yet lacks worldly skill,",
+      "en-trans": "chöpa zang yang jikten shé gya chung"
+    },
+    {
+      "bo": "འཇིག་རྟེན་མཁས་ཀྱང་ཆོས་ཀྱི་ཉམས་ལེན་ཕྲ། །",
+      "en": "Or a worldly person with great skill who yet has very little Dharma.",
+      "en-trans": "jikten khé kyang chö kyi nyamlen tra"
+    },
+    {
+      "bo": "དེ་འདྲ་བསམ་ནས་ལུགས་གཉིས་ཀུན་འཛོམས་པའི། །",
+      "en": "Reflecting on this makes me remember you, my guru—",
+      "en-trans": "dendra sam né luk nyi kün dzompé"
+    },
+    {
+      "bo": "དེད་དཔོན་བཟང་པོ་འདྲ་བའི་བླ་མ་དྲན། །",
+      "en": "You, like a fine captain, well versed and skilled in both Dharma and the world.",
+      "en-trans": "depön zangpo drawé lama dren"
+    },
+    {
+      "bo": "བྱིན་རླབས་རྟགས་མཚན་ཡོད་ཀྱང་མེད་ཀྱང་རུང་། །",
+      "en": "No matter the circumstance, I completely accept your guidance",
+      "en-trans": "jinlab taktsen yö kyangmé kyang rung"
+    },
+    {
+      "bo": "དངོས་གྲུབ་སྐལ་བ་ཐོབ་རུང་མ་ཐོབ་རུང་། །",
+      "en": "And will act on whatever advice you have given me, my protector.",
+      "en-trans": "ngödrub kalwa tob rung ma tob rung"
+    },
+    {
+      "bo": "འདུན་མའི་རྩེ་བརྒྱ་མགོན་པོ་ཁྱེད་ལ་གཏད། །",
+      "en": "Whether or not the signs of blessing are manifest,",
+      "en-trans": "dünmé tsé gya gönpo khyé la té"
+    },
+    {
+      "bo": "ལམ་སྣེ་གང་ལ་འཁོར་ཡང་འགྱོད་པ་མེད། །",
+      "en": "And whether or not the fortune of accomplishment is won, I shall have no regret.",
+      "en-trans": "lam né gangla khor yang gyöpamé"
+    },
+    {
+      "bo": "སྐྱིད་ན་བླ་མའི་བྱིན་རླབས་ཉིད་དུ་བསམ། །",
+      "en": "If I’m happy and my circumstances good, this is simply your blessing, my guru.",
+      "en-trans": "kyi na lamé jinlab nyi du sam"
+    },
+    {
+      "bo": "གུ་ཡངས་ཉམས་གླུ་ལེན་བཞིན་གསོལ་བ་འདེབས། །",
+      "en": "When relaxed, I may sing a little song of realization and prayer.",
+      "en-trans": "guyang nyam lulen zhin solwa deb"
+    },
+    {
+      "bo": "ཕན་བདེ་འགྲོ་ལ་བསྔོ་བཞིན་གསོལ་བ་འདེབས། །",
+      "en": "I pray to you, and dedicate everything to the benefit and happiness of all.",
+      "en-trans": "pendé dro la ngo zhin solwa deb"
+    },
+    {
+      "bo": "བྱམས་དང་སྙིང་རྗེ་སྐྱེ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that I may develop genuine love and compassion.",
+      "en-trans": "jam dang nyingjé kyewar jingyi lob"
+    },
+    {
+      "bo": "སྡུག་ན་སྒྲིབ་སྦྱོང་དངོས་གྲུབ་ཉིད་དུ་ཤེས། །",
+      "en": "If I’m unhappy and in difficulty, I see this as accomplishment, as former misdeeds purified.",
+      "en-trans": "duk na drib jong ngödrub nyi du shé"
+    },
+    {
+      "bo": "ཉམས་ལེན་རྩལ་སྦྱོང་བྱེད་བཞིན་གསོལ་བ་འདེབས། །",
+      "en": "I pray to you, my guru: may I perfect my practice!",
+      "en-trans": "nyamlen tsal jongjé zhin solwa deb"
+    },
+    {
+      "bo": "འཁོར་བའི་སྡུག་བསྔལ་བསམ་བཞིན་གསོལ་བ་འདེབས། །",
+      "en": "I pray to you: may I see the dissatisfactory nature of things.",
+      "en-trans": "khorwé dukngal samzhin solwa deb"
+    },
+    {
+      "bo": "སྐྱོ་ཤས་ངེས་འབྱུང་སྐྱེ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that I may develop weariness with saṃsāra, and strong renunciation.",
+      "en-trans": "kyoshé ngejung kyewar jingyi lob"
+    },
+    {
+      "bo": "བསྐྱེད་པའི་ལྷ་བསྒོམ་བཟླས་པའི་སྔགས་བགྲང་ཀུན། །",
+      "en": "All the practices of creation-phase yoga, deity meditation, mantra recitation and counting, and the rest—",
+      "en-trans": "kyepé lha gom depé ngak drang kün"
+    },
+    {
+      "bo": "བླ་མའི་མོས་གུས་གསོལ་འདེབས་ཁོ་ན་རུ། །",
+      "en": "They’re all to be found in the simple practice of guru devotion.",
+      "en-trans": "lamé mögü soldeb khona ru"
+    },
+    {
+      "bo": "སྲོག་སྡོམ་གཟེར་བཞིའི་གནད་འགགས་གཅིག་དྲིལ་ན། །",
+      "en": "Herein lie all the crucial points of the four nails that secure the life-force of the practice.",
+      "en-trans": "sok dom zer zhi né gak chik dril na"
+    },
+    {
+      "bo": "གང་སྣང་ལྷ་རུ་འཆར་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that I may see whatever appears as divine.",
+      "en-trans": "gang nang lha ru charwar jingyi lob"
+    },
+    {
+      "bo": "དྭངས་མའི་ཧཾ་ཡིག་བདེ་ཆེན་བླ་མའི་ཐུགས། །",
+      "en": "The subtle essence,haṃ, is none other than the great bliss of my guru’s heart.",
+      "en-trans": "dangmé hang yik dechen lamé tuk"
+    },
+    {
+      "bo": "མོས་གུས་གཏུམ་མོས་བསྐུལ་བའི་ཐུགས་རྗེ་ལས། །",
+      "en": "Moved by thetummoof devotion and compassionately flowing,",
+      "en-trans": "mögü tum mö kulwé tukjé lé"
+    },
+    {
+      "bo": "གནས་ཡུལ་མཁའ་འགྲོའི་གྲོགས་དང་ལྷན་ཅིག་ཏུ། །",
+      "en": "It befriends the ḍākinīs of the sacred places and simultaneously brings forth the experience of bliss and emptiness conjoined.",
+      "en-trans": "neyul khandrö drok dang lhenchik tu"
+    },
+    {
+      "bo": "བདེ་སྟོང་ཉམས་རྩལ་རྫོགས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that I may perfect the practice.",
+      "en-trans": "detong nyam tsaldzokpar jingyi lob"
+    },
+    {
+      "bo": "ཚིག་ལ་བརྟེན་པས་གོ་བའི་དོན་མི་རྟོགས། །",
+      "en": "I may understand the words but fail to realize the meaning;",
+      "en-trans": "tsik la tenpé gowé dön mi tok"
+    },
+    {
+      "bo": "རྩོལ་བས་བཅིང་བའི་སྒོམ་པས་ས་མི་ཆོད། །",
+      "en": "Through effort-based meditation I remain bound, can’t realize the bhūmis.",
+      "en-trans": "tsolwé chingwé gompé sa mi chö"
+    },
+    {
+      "bo": "བཟོ་བཅོས་སྤྲོས་དང་སྤང་བླངས་མི་དགོས་པར། །",
+      "en": "Bless me, that I may do without contrived elaborations,",
+      "en-trans": "zochö trö dang pang lang mi göpar"
+    },
+    {
+      "bo": "ཉིན་མཚན་སྒོམ་དང་འདྲེས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Able to meditate continuously, without acceptance or rejection, day and night.",
+      "en-trans": "nyintsen gom dang drepar jingyi lob"
+    },
+    {
+      "bo": "དེང་ནས་མགོན་ཁྱོད་དགྱེས་ཞལ་ནམ་མཇལ་ཚེ། །",
+      "en": "Henceforth, whenever I think of your smiling face, my protector,",
+      "en-trans": "deng né gön khyö gyé zhal nam jal tsé"
+    },
+    {
+      "bo": "སྔོན་བྱོན་གྲུབ་ཐོབ་གོང་མའི་རྣམ་ཐར་བཞིན། །",
+      "en": "I will think back to the life stories of the realized masters.",
+      "en-trans": "ngön jön drubtob gongmé namtar zhin"
+    },
+    {
+      "bo": "ཐ་མལ་མི་ཡི་སྣང་བ་མི་འཆར་བར། །",
+      "en": "May I never behold you as an ordinary person—",
+      "en-trans": "tamal mi yi nangwa mi charwar"
+    },
+    {
+      "bo": "ལྷག་པའི་ལྷ་རུ་མཐོང་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that I may see you as the supreme deity.",
+      "en-trans": "lhakpé lha ru tongwar jingyi lob"
+    },
+    {
+      "bo": "མདོར་ན་འདི་ནས་སྐྱེ་བའི་ཕྲེང་བ་རུ། །",
+      "en": "Essentially, from now on and in all lives to come,",
+      "en-trans": "dorna di né kyewé trengwa ru"
+    },
+    {
+      "bo": "མགོན་པོ་ཁྱེད་ཀྱིས་དགྱེས་བཞིན་རྗེས་བཟུང་ནས། །",
+      "en": "May I follow and please you, my protector;",
+      "en-trans": "gönpo khyé kyi gyé zhin jezung né"
+    },
+    {
+      "bo": "ཚེ་དང་ཆོས་ལ་བར་ཆད་མི་འབྱུང་བར། །",
+      "en": "May there be no obstacles in my Dharma or in life;",
+      "en-trans": "tsé dang chö la barché minjung bar"
+    },
+    {
+      "bo": "ཐུགས་ཡིད་དབྱེར་མེད་འདྲེས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Bless me, that my mind may merge indivisibly with your wisdom.",
+      "en-trans": "tuk yi yermé drepar jingyi lob"
+    }
+  ]
+}

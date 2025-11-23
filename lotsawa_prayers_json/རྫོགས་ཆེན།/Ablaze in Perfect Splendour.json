@@ -1,0 +1,486 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/longchen-rabjam/ablaze-in-perfect-splendour",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །རྫོགས་ཆེན་དོན་གྱི་གསོལ་འདེབས་སྐུ་གསུམ་དག་པ་ཕུན་ཚོགས་དཔལ་འབར་ཞེས་བྱ་བ་བཞུགས།",
+    "en": "A Prayer on the Theme of the Great Perfection"
+  },
+  "text": [
+    {
+      "bo": "ཨོཾ་ཨཱཿཧཱུྃ།",
+      "en": "oṃ āḥ hūṃ",
+      "en-trans": "om ah hung"
+    },
+    {
+      "bo": "སྐུ་གསུམ་དག་པའི་ཞིང་ཁམས་སུ། །",
+      "en": "In the pure realms of the three kāyas,",
+      "en-trans": "ku sum dakpé zhing kham su"
+    },
+    {
+      "bo": "བྱིན་རླབས་དངོས་གྲུབ་ཕུན་སུམ་ཚོགས། །",
+      "en": "Blessings and attainments are in perfect abundance.",
+      "en-trans": "chinlap ngödrup punsum tsok"
+    },
+    {
+      "bo": "རྒྱལ་བ་དགོངས་བརྒྱུད་བླ་མ་ལ། །",
+      "en": "To the gurus of the victorious ones' mind-direct transmission,",
+      "en-trans": "gyalwa gong gyü lama la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "དུར་ཁྲོད་ཆེན་པོའི་གནས་མཆོག་ཏུ། །",
+      "en": "In the supreme places of the great charnel grounds,",
+      "en-trans": "durtrö chenpö né chok tu"
+    },
+    {
+      "bo": "མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་བརྙེས། །",
+      "en": "You gained supreme and ordinary attainments.",
+      "en-trans": "chok dang tünmong ngödrup nyé"
+    },
+    {
+      "bo": "རིག་འཛིན་བརྡ་བརྒྱུད་བླ་མ་ལ། །",
+      "en": "To the gurus of the vidyādharas' sign transmission,",
+      "en-trans": "rigdzin dagyü lama la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "དངོས་གྲུབ་འབྱུང་བའི་སྒྲུབ་གནས་སུ། །",
+      "en": "In places of accomplishment, sources of attainment,",
+      "en-trans": "ngödrup jungwé drup né su"
+    },
+    {
+      "bo": "རང་གཞན་དོན་གཉིས་ཕུན་སུམ་ཚོགས། །",
+      "en": "Your own and others' welfare is perfectly secured.",
+      "en-trans": "rang zhen dön nyi punsum tsok"
+    },
+    {
+      "bo": "གང་ཟག་སྙན་བརྒྱུད་བླ་མ་ལ། །",
+      "en": "To the gurus of the individuals' whispered transmission,",
+      "en-trans": "gangzak nyengyü lama la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "སྟུག་པོ་བཀོད་པའི་ཞིང་ཁམས་སུ། །",
+      "en": "In the realm of Ghanavyūha, 'Dense Array',",
+      "en-trans": "tukpo köpé zhing kham su"
+    },
+    {
+      "bo": "ཐམས་ཅད་སྐུ་དང་ཡེ་ཤེས་དང༌། །",
+      "en": "Everything appears as kāyas and wisdoms.",
+      "en-trans": "tamché ku dang yeshe dang"
+    },
+    {
+      "bo": "ཡི་དམ་ཞི་ཁྲོ་རབ་འབྱམས་ལ། །",
+      "en": "To the infinite yidam deities, peaceful and wrathful,",
+      "en-trans": "yidam zhi tro rabjam la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "གནས་དང་ཉེ་བའི་ཞིང་ཁམས་སུ། །",
+      "en": "In sacred places and associated realms,",
+      "en-trans": "né dang nyéwé zhing kham su"
+    },
+    {
+      "bo": "དངོས་གྲུབ་ཡིད་བཞིན་ཆར་འབེབས་པའི། །",
+      "en": "You bring a wish-granting rain of accomplishments.",
+      "en-trans": "ngödrup yizhin char bebpé"
+    },
+    {
+      "bo": "བདེ་ཆེན་མཁའ་འགྲོ་རིགས་ལྔ་ལ། །",
+      "en": "To the five families of the ḍākinīs of great bliss,",
+      "en-trans": "dechen khandro rik nga la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "རྣམ་དག་སྒྲུབ་པའི་ཞིང་ཁམས་སུ། །",
+      "en": "In realms of utterly pure accomplishment,",
+      "en-trans": "namdak drubpé zhing kham su"
+    },
+    {
+      "bo": "མཐུ་སྟོབས་རྫུ་འཕྲུལ་དཔག་ཏུ་མེད། །",
+      "en": "Your power, strength and miraculous abilities are beyond measure.",
+      "en-trans": "tu tob dzutrul paktu mé"
+    },
+    {
+      "bo": "མཁའ་འགྲོ་དམ་ཅན་རྒྱ་མཚོ་ལ། །",
+      "en": "To the hosts of ḍākinīs and oath-bound guardians,",
+      "en-trans": "khandro damchen gyatso la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "གདོད་ནས་དག་པ་ཆོས་ཀྱི་དབྱིངས། །",
+      "en": "To the primordially puredharmadhātu,",
+      "en-trans": "dö né dakpa chö kyi ying"
+    },
+    {
+      "bo": "འགྱུར་མེད་རིག་པའི་ཀློང་ཡངས་སུ། །",
+      "en": "The vast expanse of changeless awareness,",
+      "en-trans": "gyurmé rigpé long yang su"
+    },
+    {
+      "bo": "གནས་རང་སྣང་འོད་གསལ་འོག་མིན་ལ། །",
+      "en": "In which the Akaniṣṭha realm of clear light naturally appears,",
+      "en-trans": "né rang nang ösal omin la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "རང་རིག་གདོད་ནས་སངས་རྒྱས་ལ། །",
+      "en": "In our own pure awareness, primordially enlightened,",
+      "en-trans": "rang rig dö né sangyé la"
+    },
+    {
+      "bo": "སྐུ་དང་ཡེ་ཤེས་ལྷུན་གྱིས་གྲུབ། །",
+      "en": "The kāyas and wisdoms are spontaneously present.",
+      "en-trans": "ku dang yeshe lhun gyi drup"
+    },
+    {
+      "bo": "སྟོན་པ་ཡེ་ནས་ཕུན་ཚོགས་ལ། །",
+      "en": "To this teacher, perfect from the beginning,",
+      "en-trans": "tönpa yé né puntsok la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "ཅིར་སྣང་རང་བྱུང་ཡེ་ཤེས་ངང༌། །",
+      "en": "To the state in which whatever appears is self-arising wisdom,",
+      "en-trans": "chir nang rangjung yeshe ngang"
+    },
+    {
+      "bo": "རང་སྣང་རིག་པ་ཚོམ་བུར་བཅས། །",
+      "en": "Naturally manifest awareness is complete with maṇḍala gatherings,",
+      "en-trans": "rang nang rigpa tsombur ché"
+    },
+    {
+      "bo": "འཁོར་ཀུན་ཡེ་ནས་ལྷུན་རྫོགས་ལ། །",
+      "en": "And all that surrounds us is, and always has been, spontaneously perfect,",
+      "en-trans": "khor kun yé né lhun dzok la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "མཉམ་རྫོགས་བྱང་ཆུབ་སེམས་ཀྱི་ངང༌། །",
+      "en": "To this perfect equality, the state of awakening mind,",
+      "en-trans": "nyam dzok chang chub sem kyi ngang"
+    },
+    {
+      "bo": "ཡེ་ནས་ལྷུན་གྲུབ་རྒྱུ་འབྲས་འདས། །",
+      "en": "Spontaneously and primordially present, beyond cause and effect,",
+      "en-trans": "yé né lhundrup gyudré dé"
+    },
+    {
+      "bo": "ཆོས་ཀུན་ཡེ་ནས་རྫོགས་ཆེན་ལ། །",
+      "en": "Wherein all phenomena are, and always have been, the Great Perfection:",
+      "en-trans": "chö kun yé né dzogchen la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "ཐམས་ཅད་འགྱུར་མེད་དག་པའི་ཀློང༌། །",
+      "en": "The pure expanse wherein all is unchanging,",
+      "en-trans": "tamché gyurmé dakpé long"
+    },
+    {
+      "bo": "རྟག་པ་རྒྱུན་གྱི་འཁོར་ལོའི་གཞི། །",
+      "en": "The ground of continuously present eternity —",
+      "en-trans": "takpa gyün gyi khorlö zhi"
+    },
+    {
+      "bo": "དུས་བཞི་རྒྱུན་གྱི་འཁོར་ལོ་ལ། །",
+      "en": "To this fourth time, forever unfolding,",
+      "en-trans": "dü zhi gyün gyi khorlo la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with your blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "ཅིར་སྣང་སྐུ་དང་ཡེ་ཤེས་དང༌། །",
+      "en": "Whatever appears manifests as kāyas and wisdoms,",
+      "en-trans": "chir nang ku dang yeshé dang"
+    },
+    {
+      "bo": "གྲགས་སྟོང་སྐྱེ་མེད་ཆོས་ཀྱི་སྒྲ། །",
+      "en": "Emptiness is heard as the unborn sound of Dharma,",
+      "en-trans": "drak tong kyé mé chö kyi dra"
+    },
+    {
+      "bo": "དྲན་རིག་ཡེ་ནས་སངས་རྒྱས་ཐུགས། །",
+      "en": "And thoughts are the primordially awakened wisdom mind.",
+      "en-trans": "dren rig yé né sangyé tuk"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "To such a state, we pray: inspire us with blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "རང་སྣང་རིག་པའི་ཀློང་ཆེན་འདིར། །",
+      "en": "In this great expanse of naturally manifesting awareness,",
+      "en-trans": "rang nang rigpé longchen dir"
+    },
+    {
+      "bo": "སྣང་སྲིད་སྣོད་བཅུད་རྣམ་དག་པས། །",
+      "en": "Appearance and existence are the pure vessel and its contents,",
+      "en-trans": "nangsi nöchü namdakpé"
+    },
+    {
+      "bo": "འཁོར་བ་མ་སྤངས་དོང་སྤྲུགས་སུ། །",
+      "en": "And saṃsāra is not rejected but emptied from its very depths.",
+      "en-trans": "khorwa ma pang dongtruk su"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "To such a state, we pray: inspire us with blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "རང་རིག་མཁའ་མཉམ་ཀློང་ཆེན་དུ། །",
+      "en": "In the great, sky-like expanse of our own awareness,",
+      "en-trans": "rang rig kha nyam longchen du"
+    },
+    {
+      "bo": "སྐུ་གསུམ་མ་བཙལ་ཡེ་རྫོགས་པས། །",
+      "en": "The three kāyas are not to be sought, but are already perfect,",
+      "en-trans": "ku sum ma tsal yé dzokpé"
+    },
+    {
+      "bo": "མྱང་འདས་མ་སྒྲུབ་ལྷུན་གྲུབ་ལ། །",
+      "en": "And nirvāṇa, even without being cultivated, is spontaneously present.",
+      "en-trans": "nyangdé ma drup lhundrup la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "To such a state, we pray: inspire us with blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "ཆོས་ཀུན་བྱང་ཆུབ་སེམས་ཀྱི་ཀློང༌། །",
+      "en": "All dharmas within the expanse of awakening mind",
+      "en-trans": "chö kun changchup sem kyi long"
+    },
+    {
+      "bo": "མ་སྦྱངས་མ་བགྲོད་ལྷུན་གྱིས་གྲུབ། །",
+      "en": "Are neither purified nor gradually attained, but spontaneously perfect.",
+      "en-trans": "ma jang ma drö lhun gyi drup"
+    },
+    {
+      "bo": "ཐམས་ཅད་ཡེ་ནས་སངས་རྒྱས་ལ། །",
+      "en": "To this state, in which all is buddhahood from the very beginning,",
+      "en-trans": "tamché yé né sangyé la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "We pray: inspire us with blessings!",
+      "en-trans": "solwa depso chin gyi lop"
+    },
+    {
+      "bo": "རིག་པ་ཀ་དག་ཆོས་སྐུའི་ཀློང༌། །",
+      "en": "To primordially pure awareness, the expanse of dharmakāya,",
+      "en-trans": "rigpa kadak chökü long"
+    },
+    {
+      "bo": "ཟང་ཐང་རྗེན་པར་གསོལ་བ་འདེབས། །",
+      "en": "Which is transparent and nakedly clear, we pray!",
+      "en-trans": "zangtal jenpar solwa dep"
+    },
+    {
+      "bo": "རྒྱ་གྲོལ་བར་མེད་ཕྱལ་པའི་ངང༌། །",
+      "en": "A state that is unbounded, uninterrupted and pervasive —",
+      "en-trans": "gyadrol barmé chalwé ngang"
+    },
+    {
+      "bo": "རྫོགས་པ་ཆེན་པོར་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the Great Perfection!",
+      "en-trans": "dzokpa chenpor chin gyi lop"
+    },
+    {
+      "bo": "ཡེ་ཤེས་ལྷུན་གྲུབ་འོད་གསལ་ཀློང༌། །",
+      "en": "Spontaneously present wisdom, the expanse of clear light —",
+      "en-trans": "yeshé lhundrup ösal long"
+    },
+    {
+      "bo": "དབྱིངས་སྣང་དག་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the pure manifestations of absolute space!",
+      "en-trans": "ying nang dakpar chin gyi lop"
+    },
+    {
+      "bo": "འཆར་གཞི་མ་འགགས་སྤྲུལ་པའི་ཀློང༌། །",
+      "en": "The expanse of manifestation that is the basis for ceaseless arising —",
+      "en-trans": "char zhi ma gak trulpé long"
+    },
+    {
+      "bo": "གཟུང་འཛིན་དག་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the purity of dualistic grasping!",
+      "en-trans": "zung dzin dakpar chin gyi lop"
+    },
+    {
+      "bo": "ཆོས་ཀུན་རང་བྱུང་རིག་པའི་ཀློང༌། །",
+      "en": "The expanse in which all phenomena are self-arising, pure awareness —",
+      "en-trans": "chö kun rangjung rigpé long"
+    },
+    {
+      "bo": "འབད་མེད་ཡོངས་གྲོལ་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the total freedom that is beyond all effort!",
+      "en-trans": "bé mé yongdrol chin gyi lop"
+    },
+    {
+      "bo": "རྒྱུ་འབྲས་བླང་དོར་བྱ་རྩོལ་འདས། །",
+      "en": "Transcending cause and effect, adoption or avoidance, effort or exertion —",
+      "en-trans": "gyudré langdor chatsol dé"
+    },
+    {
+      "bo": "གཞི་རྫོགས་ཆོས་སྐུར་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the perfect ground of dharmakāya!",
+      "en-trans": "zhi dzok chökur chin gyi lop"
+    },
+    {
+      "bo": "ཐམས་ཅད་མཉམ་རྫོགས་བྱང་ཆུབ་ཀློང༌། །",
+      "en": "The expanse of awakening in which all is perfect equality —",
+      "en-trans": "tamché nyam dzok changchub long"
+    },
+    {
+      "bo": "ཁམས་གསུམ་ཡོངས་གྲོལ་བྱིན་གྱིས་རློབས། །",
+      "en": "Inspire us to realize the complete liberation of the three realms!",
+      "en-trans": "kham sum yongdrol chin gyi lop"
+    },
+    {
+      "bo": "བླ་མ་ཡི་དམ་མཁའ་འགྲོ་ལ། །",
+      "en": "To the gurus, yidam deities and ḍākinīs,",
+      "en-trans": "lama yidam khandro la"
+    },
+    {
+      "bo": "རང་གཞན་དོན་དུ་གསོལ་བ་འདེབས། །",
+      "en": "For our own and others' sake, we pray:",
+      "en-trans": "rangzhen dön du solwa dep"
+    },
+    {
+      "bo": "དགོངས་པ་ཆོས་ཉིད་ཟད་སར་སྐྱོལ། །",
+      "en": "Inspire us to reach the realization in which all dissolves intodharmatā,",
+      "en-trans": "gongpa chönyi zésar kyol"
+    },
+    {
+      "bo": "དོན་གཉིས་རྫོགས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "And thereby to perfect the twofold benefit of ourselves and others!",
+      "en-trans": "dön nyi dzokpar chin gyi lop"
+    },
+    {
+      "bo": "དབྱིངས་ཀ་ནས་དག་པ་ཆོས་ཟད་ངང༌། །",
+      "en": "The space of primordial purity, wherein ordinary phenomena are exhausted,",
+      "en-trans": "ying ka né dakpa chö zé ngang"
+    },
+    {
+      "bo": "བློ་འདས་ཆོས་སྐུར་ཟང་ཐལ་ལེ། །",
+      "en": "Dharmakāya beyond the conceptual mind, in which all is transparent and clear —",
+      "en-trans": "lo dé chökur zangtal lé"
+    },
+    {
+      "bo": "བཀའ་བརྒྱུད་བླ་མས་བྱིན་གྱིས་རློབས། །",
+      "en": "Gurus of the oral lineage: inspire us with your blessings!",
+      "en-trans": "kagyü lamé chin gyi lop"
+    },
+    {
+      "bo": "རྩ་བའི་བླ་མས་ཐུགས་རྗེས་ཟུངས། །",
+      "en": "Root guru, hold us in your compassion!",
+      "en-trans": "tsawé lamé tukjé zung"
+    },
+    {
+      "bo": "རང་སྣང་འོད་གསལ་ལོངས་སྐུའི་ཞིང༌། །",
+      "en": "The sambhogakāya realm of self-appearing luminosity,",
+      "en-trans": "rang nang ösal longkü zhing"
+    },
+    {
+      "bo": "སྐུ་དང་ཐིག་ལེ་མེ་རེ་རེ། །",
+      "en": "Wherein the buddha-forms and light-spheres shimmer and glow —",
+      "en-trans": "ku dang tiklé mé ré ré"
+    },
+    {
+      "bo": "བཀའ་བརྒྱུད་བླ་མས་བྱིན་གྱིས་རློབས། །",
+      "en": "Gurus of the oral lineage: inspire us with your blessings!",
+      "en-trans": "kagyü lamé chin gyi lop"
+    },
+    {
+      "bo": "རྩ་བའི་བླ་མས་ཐུགས་རྗེས་ཟུངས། །",
+      "en": "Root guru, hold us in your compassion!",
+      "en-trans": "tsawé lamé tukjé zung"
+    },
+    {
+      "bo": "དབྱིངས་རིག་མཁའ་ལྟར་དག་པའི་ཀློང༌། །",
+      "en": "The immaculate, sky-like expanse of space and awareness,",
+      "en-trans": "ying rig kha tar dakpé long"
+    },
+    {
+      "bo": "འོད་གསལ་རླུང་སེམས་རྣམ་དག་ཏུ། །",
+      "en": "The clear light in whichprāṇa-mind is utterly pure —",
+      "en-trans": "ösal lung sem namdak tu"
+    },
+    {
+      "bo": "བཀའ་བརྒྱུད་བླ་མས་བྱིན་གྱིས་རློབས། །",
+      "en": "Gurus of the oral lineage: inspire us with your blessings!",
+      "en-trans": "kagyü lamé chin gyi lop"
+    },
+    {
+      "bo": "རྩ་བའི་བླ་མས་ཐུགས་རྗེས་ཟུངས། །",
+      "en": "Root guru, hold us in your compassion!",
+      "en-trans": "tsawé lamé tukjé zung"
+    },
+    {
+      "bo": "ཐམས་ཅད་ཟབ་མོའི་ཆོས་ཉིད་ཀློང༌། །",
+      "en": "So that all may reach the profound expanse ofdharmatā,",
+      "en-trans": "tamché zabmö chönyi long"
+    },
+    {
+      "bo": "ཅི་བསམ་ཡིད་བཞིན་ལྷུན་གྲུབ་ཏུ། །",
+      "en": "Wherein each and every wish is spontaneously fulfilled,",
+      "en-trans": "chi sam yizhin lhundrup tu"
+    },
+    {
+      "bo": "བཀའ་བརྒྱུད་བླ་མས་བྱིན་གྱིས་རློབས། །",
+      "en": "Lamas of the oral lineage: inspire us with your blessings!",
+      "en-trans": "kagyü lamé chin gyi lop"
+    },
+    {
+      "bo": "རྩ་བའི་བླ་མས་ཐུགས་རྗེས་ཟུངས། །",
+      "en": "Root guru, hold us in your compassion!",
+      "en-trans": "tsawé lamé tukjé zung"
+    }
+  ]
+}

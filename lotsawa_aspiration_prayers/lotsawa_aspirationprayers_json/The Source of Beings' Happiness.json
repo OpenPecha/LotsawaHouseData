@@ -1,0 +1,331 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/ngorchen-kunga-zangpo/source-of-beings-happiness-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འགྲོ་ལ་བདེ་སྐྱིད་མ་བཞུགས་སོ།།",
+    "en": "The Source of Beings' Happiness"
+  },
+  "text": [
+    {
+      "bo": "འགྲོ་ལ་བདེ་སྐྱིད་འབྱུང་བའི་སྒོ་གཅིག་པུ། །",
+      "en": "May the sole source of happiness among beings,",
+      "en-trans": "dro la dekyi jungwé go chikpu"
+    },
+    {
+      "bo": "ཀུན་མཁྱེན་རྒྱལ་བའི་བསྟན་པ་རིན་པོ་ཆེ། །",
+      "en": "The Omniscient Conqueror's precious teachings,",
+      "en-trans": "künkhyen gyalwé tenpa rinpoche"
+    },
+    {
+      "bo": "ཡུལ་དུས་གནས་སྐབས་ཀུན་ཏུ་མི་ཉམས་པར། །",
+      "en": "Never decline in any place or at any time,",
+      "en-trans": "yul dü nekab küntu mi nyampar"
+    },
+    {
+      "bo": "ཕྱོགས་མཐར་དར་ཞིང་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "But flourish and spread to the farthest reaches of the world!",
+      "en-trans": "chok tar dar zhing gyepar dzé du sol"
+    },
+    {
+      "bo": "ཚད་མེད་མཁྱེན་དང་བརྩེ་བའི་དཔལ་མངའ་ཞིང་། །",
+      "en": "May those who possess boundless wisdom and love,",
+      "en-trans": "tsemé khyen dang tsewé pal nga zhing"
+    },
+    {
+      "bo": "རྒྱལ་བའི་བསྟན་པ་སྲོག་བས་གཅེས་འཛིན་པའི། །",
+      "en": "Who cherish the Conqueror's teachings more dearly than life itself,",
+      "en-trans": "gyalwé tenpa sok wé chedzin pé"
+    },
+    {
+      "bo": "མཚུངས་མེད་བླ་མ་དགེ་བའི་བཤེས་གཉེན་རྣམས། །",
+      "en": "The gurus and spiritual guides who are without equal,",
+      "en-trans": "tsungmé lama gewé shenyen nam"
+    },
+    {
+      "bo": "སྐུ་ཚེ་རིང་ཞིང་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "Enjoy a long, extensive span of life!",
+      "en-trans": "kutsé ring zhing gyepar dzé du sol"
+    },
+    {
+      "bo": "འགྲོ་ལ་དགེ་བའི་ལམ་བཟང་སྣང་མཛད་ཅིང་། །",
+      "en": "May those who reveal to beings the noble path of virtue,",
+      "en-trans": "dro la gewé lamzang nang dzé ching"
+    },
+    {
+      "bo": "འཆད་དང་སྒྲུབ་པའི་བྱ་བ་ལྷུར་ལེན་པའི། །",
+      "en": "And who devote themselves to teaching and practice,",
+      "en-trans": "ché dang drubpé jawa lhurlenpé"
+    },
+    {
+      "bo": "ཆོས་བྱེད་དགེ་འདུན་དེ་དག་ཞབས་བརྟན་ཅིང་། །",
+      "en": "The saṅgha of Dharma practitioners, steadily endure,",
+      "en-trans": "chö jé gendün dé dak zhabten ching"
+    },
+    {
+      "bo": "ཕྲིན་ལས་ཕྱོགས་བཅུར་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "And may their activity extend in every direction!",
+      "en-trans": "trinlé chok chur gyepar dzé du sol"
+    },
+    {
+      "bo": "མི་རྣམས་ན་རྒ་འཆི་བའི་འཇིགས་མེད་ཅིང་། །",
+      "en": "May people be unafraid of sickness, ageing and death",
+      "en-trans": "mi nam na ga chiwé jikme ching"
+    },
+    {
+      "bo": "འཇིག་རྟེན་ཡང་དག་ལྟ་བ་དང་ལྡན་པས། །",
+      "en": "And hold only correct views about the world,",
+      "en-trans": "jikten yangdak tawa dang denpé"
+    },
+    {
+      "bo": "ཕན་ཚུན་བྱམས་པའི་ཡིད་དང་ལྡན་གྱུར་ཅིང་། །",
+      "en": "May their minds be full of loving kindness for one another,",
+      "en-trans": "pentsün jampé yi dang den gyur ching"
+    },
+    {
+      "bo": "ཚད་མེད་དགའ་བ་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "So that their joy expands and knows no bounds!",
+      "en-trans": "tsemé gawa gyepar dzé du sol"
+    },
+    {
+      "bo": "གྲོང་རྣམས་འཇམ་པོའི་རླུང་གིས་གཡོ་བ་ཡི། །",
+      "en": "May towns and cities everywhere be beautifully garlanded",
+      "en-trans": "drong nam jampö lung gi yowa yi"
+    },
+    {
+      "bo": "བ་དན་དཀར་པོའི་ཕྲེང་བས་རབ་མཛེས་ཤིང་། །",
+      "en": "With white prayer flags that flutter in the gentle breeze;",
+      "en-trans": "baden karpö trengwé rab dzé shing"
+    },
+    {
+      "bo": "གོས་བཟང་རིན་ཆེན་རྒྱན་གྱིས་སྤྲས་པ་ཡི། །",
+      "en": "And may all their inhabitants be prosperous,",
+      "en-trans": "gö zang rinchen gyen gyi trepa yi"
+    },
+    {
+      "bo": "འབྱོར་ལྡན་སྐྱེ་བོས་གང་བར་མཛད་དུ་གསོལ། །",
+      "en": "Finely dressed and adorned with jewels.",
+      "en-trans": "jorden kyewö gangwar dzé du sol"
+    },
+    {
+      "bo": "མཁའ་ལ་གློག་ཕྲེང་རྒྱུ་བའི་སྤྲིན་མཛེས་ཤིང་། །",
+      "en": "As clouds that flash with lightning embellish the sky,",
+      "en-trans": "kha la lok treng gyuwé trin dzé shing"
+    },
+    {
+      "bo": "ས་ལ་རྨ་བྱ་དགའ་བའི་གར་མཛེས་པ། །",
+      "en": "And peacocks brighten the earth with their joyous dance,",
+      "en-trans": "sa la mabja gawé gar dzepa"
+    },
+    {
+      "bo": "ཟིམ་བུ་དལ་གྱིས་འབབ་པའི་ཆར་རྒྱུན་གྱིས། །",
+      "en": "May showers of gentle rain continuously descend",
+      "en-trans": "zimbu dalgyi babpé char gyün gyi"
+    },
+    {
+      "bo": "འགྲོ་རྣམས་དགའ་བ་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "To bring increasing delight to living beings!",
+      "en-trans": "dro nam gawa gyepar dzé du sol"
+    },
+    {
+      "bo": "རི་རྣམས་རྩྭ་དང་མེ་ཏོག་འབབ་ཆུས་བརྒྱན། །",
+      "en": "May mountains be adorned with meadows, flowers and streams,",
+      "en-trans": "ri nam tsa dang metok babchü gyen"
+    },
+    {
+      "bo": "ཀླུང་རྣམས་སྣ་ཚོགས་འབྲུ་དང་ཕྱུགས་ཀྱིས་གང་། །",
+      "en": "And valleys overflow with crops of grain and herds of livestock,",
+      "en-trans": "lung nam natsok dru dang chuk kyi gang"
+    },
+    {
+      "bo": "མི་རྣམས་རབ་ཏུ་དགའ་བའི་གླུ་ལེན་ཅིང་། །",
+      "en": "May people sing out in perfect joy,",
+      "en-trans": "mi nam rabtu gawé lulen ching"
+    },
+    {
+      "bo": "དྲེགས་དང་འཐབ་རྩོད་མེད་པར་མཛད་དུ་གསོལ། །",
+      "en": "And all arrogance and quarrelling cease!",
+      "en-trans": "drek dang tabtsö mepar dzé du sol"
+    },
+    {
+      "bo": "རྒྱལ་པོ་ཆབ་སྲིད་ཞི་བས་ལེགས་སྐྱོང་ཞིང་། །",
+      "en": "May kings and rulers govern peacefully and well,",
+      "en-trans": "gyalpo chabsi zhiwé lek kyong zhing"
+    },
+    {
+      "bo": "འབངས་རྣམས་རྒྱལ་པོའི་བཀའ་ལུང་གུས་ལེན་པས། །",
+      "en": "As their subjects obey the laws with due respect;",
+      "en-trans": "bang nam gyalpö kalung gü lenpé"
+    },
+    {
+      "bo": "ཕྱི་དང་ནང་གི་འཁྲུག་རྩོད་ཉེར་ཞི་ནས། །",
+      "en": "Thus may outer and inner conflict be pacified",
+      "en-trans": "chi dang nang gi truktsö nyerzhi né"
+    },
+    {
+      "bo": "རྫོགས་ལྡན་བཞིན་དུ་བདེ་བར་མཛད་དུ་གསོལ། །",
+      "en": "And happiness reign just as in the golden age!",
+      "en-trans": "dzokden zhindu dewar dzé du sol"
+    },
+    {
+      "bo": "གཙུག་ལག་ཁང་རྣམས་རྒྱལ་བའི་སྐུ་གཟུགས་དང་། །",
+      "en": "May temples be adorned with the conquerors' images",
+      "en-trans": "tsuklakhang nam gyalwé kuzuk dang"
+    },
+    {
+      "bo": "དམ་ཆོས་གླེགས་བམ་དུ་མས་རབ་མཛེས་ཤིང་། །",
+      "en": "And filled with many volumes of the noble Dharma,",
+      "en-trans": "damchö lekbam dumé rab dzé shing"
+    },
+    {
+      "bo": "ལྷ་རྫས་མཆོད་པའི་སྤྲིན་ཚོགས་དཔག་མེད་ཀྱིས། །",
+      "en": "While vast clouds of divine gifts beyond measure",
+      "en-trans": "lhadzé chöpé trin tsok pakmé kyi"
+    },
+    {
+      "bo": "མཆོད་པའི་ཆར་ཆེན་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "Cause great cascades of offerings to rain down!",
+      "en-trans": "chöpé char chen gyepar dzé du sol"
+    },
+    {
+      "bo": "དགོན་གནས་ཐམས་ཅད་ཐུབ་བསྟན་སྐྱོང་བྱེད་པའི། །",
+      "en": "May all monasteries be filled with saffron-robed guides,",
+      "en-trans": "gönné tamché tubten kyong jepé"
+    },
+    {
+      "bo": "བཤེས་གཉེན་ངུར་སྨྲིག་འཛིན་པས་ཡོངས་གང་སྟེ། །",
+      "en": "Who safeguard the teachings of the great Sage;",
+      "en-trans": "shenyen ngurmik dzinpé yong gang té"
+    },
+    {
+      "bo": "འཆད་རྩོད་རྩོམ་པའི་བྱ་བས་དུས་འདའ་ཞིང་། །",
+      "en": "May they devote their time to teaching, debating and writing,",
+      "en-trans": "ché tsö tsompé jawé dü da་zhing"
+    },
+    {
+      "bo": "ཀློག་དང་ཁ་ཏོན་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "So that scriptural study and recitation thrive!",
+      "en-trans": "lok dang khatön gyepar dzé du sol"
+    },
+    {
+      "bo": "དགེ་བསྙེན་དགེ་ཚུལ་དགེ་སློང་ཕ་མ་རྣམས། །",
+      "en": "May lay practitioners, novices and fully ordained monks and nuns",
+      "en-trans": "genyen getsul gelong pama nam"
+    },
+    {
+      "bo": "དྲི་མ་མེད་པའི་ཚུལ་ཁྲིམས་དང་ལྡན་ཞིང་། །",
+      "en": "Possess ethical discipline that remains untainted;",
+      "en-trans": "drima mepé tsultrim dangden zhing"
+    },
+    {
+      "bo": "རྣམ་དག་ཐོས་བསམ་སྒོམ་པའི་བྱ་བ་ཡིས། །",
+      "en": "And through pure study, contemplation and meditation,",
+      "en-trans": "namdak tö sam gompé jawa yi"
+    },
+    {
+      "bo": "བདེ་གཤེགས་བསྟན་པ་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "May the teachings of the sugatas spread far and wide!",
+      "en-trans": "deshek tenpa gyepar dzé du sol"
+    },
+    {
+      "bo": "སྒྲུབ་པ་པོ་རྣམས་གཡེང་བ་ཀུན་སྤངས་ཏེ། །",
+      "en": "May practitioners abandon every form of distraction,",
+      "en-trans": "drubpapo nam yengwa künpang té"
+    },
+    {
+      "bo": "འཚེ་བ་ཀུན་བྲལ་འདུ་འཛིས་རབ་དབེན་པའི། །",
+      "en": "Forsake all harm and stay far away from commotion;",
+      "en-trans": "tsewa kündral dudzi rab wenpé"
+    },
+    {
+      "bo": "ཞི་བའི་གནས་སུ་སྤོང་བ་ལྷུར་ལེན་པས། །",
+      "en": "In places of tranquility, may they cultivate renunciation,",
+      "en-trans": "zhiwé né su pongwa lhurlenpé"
+    },
+    {
+      "bo": "རྟོགས་པའི་ཡོན་ཏན་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "So that their qualities of realization develop and increase!",
+      "en-trans": "tokpé yönten gyepar dzé du sol"
+    },
+    {
+      "bo": "ལྷག་པར་དད་པས་གསོལ་བ་འདེབས་བྱེད་པ། །",
+      "en": "May those who faithfully offer prayer in particular,",
+      "en-trans": "lhakpar depé solwa deb jepa"
+    },
+    {
+      "bo": "སྒྲུབ་པོ་བདག་ཅག་འཁོར་དང་བཅས་རྣམས་ལ། །",
+      "en": "We practitioners and all those around us,",
+      "en-trans": "drubpo dakchak khor dangché nam la"
+    },
+    {
+      "bo": "ལོག་འཚོ་བྲལ་བའི་དཔལ་འབྱོར་ཕུན་ཚོགས་དང་། །",
+      "en": "Enjoy prosperity that is untainted by wrong livelihood,",
+      "en-trans": "loktso dralwé paljor püntsok dang"
+    },
+    {
+      "bo": "ཚེ་དང་དམ་ཆོས་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "And may our lifespan and mastery of the Dharma increase!",
+      "en-trans": "tsé dang damchö gyepar dzé du sol"
+    },
+    {
+      "bo": "སྦྱིན་དང་ཚུལ་ཁྲིམས་བཟོད་དང་བརྩོན་འགྲུས་དང་། །",
+      "en": "May we gain all the attributes of the buddhas,",
+      "en-trans": "jin dang tsultrim zö dang tsöndrü dang"
+    },
+    {
+      "bo": "བསམ་གཏན་ཤེས་རབ་བླ་ན་མེད་སོགས་ཀྱིས། །",
+      "en": "Including unsurpassable generosity, discipline,",
+      "en-trans": "samten sherab lanamé sok kyi"
+    },
+    {
+      "bo": "རང་ལ་སངས་རྒྱས་ཆོས་རྣམས་ཡོངས་རྫོགས་ནས། །",
+      "en": "Patience, diligence, concentration and wisdom,",
+      "en-trans": "rang la sangye chö nam yongdzok né"
+    },
+    {
+      "bo": "ལུང་རྟོགས་ཡོན་ཏན་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "And may our qualities of learning and realization grow!",
+      "en-trans": "lungtok yönten gyepar dzé du sol"
+    },
+    {
+      "bo": "སྦྱིན་དང་སྙན་པར་སྨྲ་བས་འཁོར་བསྡུས་ནས། །",
+      "en": "By attracting disciples with our generosity and pleasant speech,",
+      "en-trans": "jin dang nyenpar mawé khor dü né"
+    },
+    {
+      "bo": "དོན་སྤྱོད་དམ་ཆོས་ཚུལ་བཞིན་བཤད་པའི་མཐུས། །",
+      "en": "Through the purposeful act of teaching the Dharma correctly,",
+      "en-trans": "dönchö damchö tsulzhin shepé tü"
+    },
+    {
+      "bo": "རང་གཞན་དོན་མཐུན་ཆོས་ལ་ལེགས་སྦྱར་ནས། །",
+      "en": "And through perfectly coordinating our own and others' aims,1",
+      "en-trans": "rangzhen döntün chö la lek jar né"
+    },
+    {
+      "bo": "གཞན་དོན་ཆོས་བཞིན་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "May benefit to others in accordance with the Dharma increase!",
+      "en-trans": "zhendön chö zhin gyepar dzé du sol"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་འགལ་རྐྱེན་མཐའ་དག་ཉེར་ཞི་ཞིང་། །",
+      "en": "May all that hinders and obstructs the Dharma be pacified",
+      "en-trans": "chö kyi galkyen tadak nyerzhi zhing"
+    },
+    {
+      "bo": "མཐུན་རྐྱེན་མ་ལུས་ཕུན་སུམ་ཚོགས་གྱུར་ནས། །",
+      "en": "And every form of favourable circumstance abound,",
+      "en-trans": "tünkyen malü pün sum tsok gyur né"
+    },
+    {
+      "bo": "གང་དང་གང་ལ་ཐུབ་པས་རབ་བསྔགས་པའི། །",
+      "en": "So that all these virtues, lauded by the Sage himself,",
+      "en-trans": "gang dang gangla tubpé rab ngakpé"
+    },
+    {
+      "bo": "དགེ་བ་འདི་དག་རྒྱས་པར་མཛད་དུ་གསོལ། །",
+      "en": "May prevail and flourish in each and every way!",
+      "en-trans": "gewa didak gyepar dzé du sol"
+    }
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/pema-lingpa/yeshe-tsogyals-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །མ་ཧཱ་གུ་རུ་གསོལ་འདེབས། །",
+    "en": "The Mahāguru Prayer"
+  },
+  "text": [
+    {
+      "bo": "ན་མོ་གུ་རུ༔",
+      "en": "Namo Guru: homage to the Guru!",
+      "en-trans": "namo guru"
+    },
+    {
+      "bo": "མ་ཧཱ་གུ་རུའི་བྱིན་རླབས་ཀྱིས༔",
+      "en": "Mahā Guru, bless me",
+      "en-trans": "maha gurü jinlab kyi"
+    },
+    {
+      "bo": "བདག་ཀྱང་ཚེ་རབས་ཐམས་ཅད་དུ༔",
+      "en": "That in all my lives to come,",
+      "en-trans": "dak kyang tserab tamché du"
+    },
+    {
+      "bo": "ཞིང་ཁམས་དག་པའི་ཕོ་བྲང་དུ༔",
+      "en": "In the palace in your pure land,",
+      "en-trans": "zhingkham dakpé podrang du"
+    },
+    {
+      "bo": "བླ་མ་འབྲལ་མེད་བསྟེན་པར་ཤོག༔",
+      "en": "Inseparable from you, master, I will always be.",
+      "en-trans": "lama dralmé tenpar shok"
+    },
+    {
+      "bo": "མོས་གུས་ལྟེམས་རྐྱང་མེད་པ་ཡིས༔",
+      "en": "And with zeal and devotion,",
+      "en-trans": "mögü tem kyang mepa yi"
+    },
+    {
+      "bo": "མཉེས་པའི་ཞབས་ཏོག་འགྲུབ་པ་དང་༔",
+      "en": "I will serve you and please you,",
+      "en-trans": "nyepé zhabtok drubpa dang"
+    },
+    {
+      "bo": "དགོངས་པ་ཟབ་མོ་ཐུགས་ཀྱི་བཅུད༔",
+      "en": "And receive the transmission of your nectar-like blessing:",
+      "en-trans": "gongpa zabmo tuk kyi chü"
+    },
+    {
+      "bo": "བྱིན་རླབས་བདུད་རྩིའི་ལུང་ཐོབ་ཤོག༔",
+      "en": "Your profound realization, the very essence of your wisdom mind.",
+      "en-trans": "jinlab dütsi lung tob shok"
+    },
+    {
+      "bo": "སྐུ་གསུང་ཐུགས་ཀྱི་བྱིན་རླབས་ཀྱིས༔",
+      "en": "Let the blessing of your enlightened body, speech and mind,",
+      "en-trans": "ku sung tuk kyi jinlab kyi"
+    },
+    {
+      "bo": "ལུས་ངག་ཡིད་གསུམ་སྨིན་པ་དང་༔",
+      "en": "Ripen my own body, speech and mind,",
+      "en-trans": "lü ngak yi sum minpa dang"
+    },
+    {
+      "bo": "ཟབ་མོའི་བསྐྱེད་རྫོགས་རྣམ་གཉིས་ལ༔",
+      "en": "So that I gain mastery over the profound",
+      "en-trans": "zabmö kyedzok nam nyi la"
+    },
+    {
+      "bo": "དབང་ཐོབ་སྒྲུབ་པ་བྱེད་པར་ཤོག༔",
+      "en": "Generation and completion stages.",
+      "en-trans": "wang tob drubpa jepar shok"
+    },
+    {
+      "bo": "ལོག་རྟོག་བདུད་ཀྱི་ཚོགས་རྣམས་དང་༔",
+      "en": "May I eliminate completely the demons of wrong views,",
+      "en-trans": "loktok dü kyi tsok nam dang"
+    },
+    {
+      "bo": "ནད་གདོན་བར་ཆད་ཞི་བ་དང་༔",
+      "en": "Along with illness, harmful influence and obstacles,",
+      "en-trans": "nedön barché zhiwa dang"
+    },
+    {
+      "bo": "འཁོར་དང་ལོངས་སྤྱོད་རྒྱས་པ་ཡིས༔",
+      "en": "And may good companions and resources multiply,",
+      "en-trans": "khor dang longchö gyepa yi"
+    },
+    {
+      "bo": "བསམ་པ་ཡིད་བཞིན་འགྲུབ་པར་ཤོག༔",
+      "en": "So that my wishes are all fulfilled, just as I desire.",
+      "en-trans": "sampa yizhin drubpar shok"
+    },
+    {
+      "bo": "དུར་ཁྲོད་རི་ཁྲོད་གངས་ཁྲོད་སོགས༔",
+      "en": "In charnel grounds, hermitages, retreats amid the snows,",
+      "en-trans": "durtrö ritrö gang trö sok"
+    },
+    {
+      "bo": "ཕུན་སུམ་ཚོགས་པའི་གནས་ཉིད་དུ༔",
+      "en": "And other secluded places with all perfect qualities,",
+      "en-trans": "pünsum tsokpé né nyi du"
+    },
+    {
+      "bo": "ཏིང་འཛིན་ཟབ་མོའི་དགོངས་བཅུད་ལ༔",
+      "en": "Let the quintessence of deep samādhi meditation",
+      "en-trans": "tingdzin zabmö gong chü la"
+    },
+    {
+      "bo": "རྟག་ཏུ་སྒྲུབ་པ་བྱེད་པར་ཤོག༔",
+      "en": "Be my constant practice.",
+      "en-trans": "taktu drubpa jepar shok"
+    },
+    {
+      "bo": "སྒྲུབ་པ་བྱས་པའི་འབྲས་བུ་ཡིས༔",
+      "en": "And as the result of this practice,",
+      "en-trans": "drubpa jepé drebu yi"
+    },
+    {
+      "bo": "ཕྲིན་ལས་རྣམ་བཞི་འགྲུབ་པ་དང་༔",
+      "en": "May I accomplish the four activities,",
+      "en-trans": "trinlé nam zhi drubpa dang"
+    },
+    {
+      "bo": "ལྷ་སྲིན་བྲན་དུ་ཁོལ་ནས་ཀྱང་༔",
+      "en": "Turn even gods andrākṣasasinto my servants,",
+      "en-trans": "lhasin dren du khol né kyang"
+    },
+    {
+      "bo": "སངས་རྒྱས་བསྟན་པ་བསྲུང་བར་ཤོག༔",
+      "en": "And so be able to protect the teachings of Buddha.",
+      "en-trans": "sangyé tenpa sungwar shok"
+    },
+    {
+      "bo": "སྟོན་པས་གསུངས་པའི་དམ་ཆོས་རྣམས༔",
+      "en": "May all the sublime teachings taught by Buddha",
+      "en-trans": "tönpé sungpé damchö nam"
+    },
+    {
+      "bo": "རྩོལ་མེད་རྒྱུད་ལ་འཆར་བར་ཤོག༔",
+      "en": "Appear, with no effort, within my mind;",
+      "en-trans": "tsolmé gyü la charwar shok"
+    },
+    {
+      "bo": "མཁྱེན་པ་མཆོག་ལ་མངའ་བརྙེས་ནས༔",
+      "en": "And, through mastering supreme knowledge such as this,",
+      "en-trans": "khyenpa chok la nga nyé né"
+    },
+    {
+      "bo": "རྟོགས་པ་མཆོག་དང་ལྡན་པར་ཤོག༔",
+      "en": "May I attain supreme realization.",
+      "en-trans": "tokpa chok dang denpar shok"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་ཀྱི་རྟེན་འབྲེལ་གྱིས༔",
+      "en": "Through bodhicitta’s causes and conditions,",
+      "en-trans": "changchub sem kyi tendrel gyi"
+    },
+    {
+      "bo": "སྐྱེ་འགྲོ་མ་ལུས་དབང་བསྡུས་ནས༔",
+      "en": "May I reach and magnetize every single living being,",
+      "en-trans": "kyendro malü wang dü né"
+    },
+    {
+      "bo": "ཐོགས་མེད་ཡིད་བཞིན་ནོར་བུའི་མཐུས༔",
+      "en": "And through the power of my actions, unbounded like a wish-granting gem,",
+      "en-trans": "tokmé yizhin norbü tü"
+    },
+    {
+      "bo": "འབྲེལ་ཚད་དོན་དང་ལྡན་པར་ཤོག༔",
+      "en": "May any connection we have be of deepest benefit and meaning.",
+      "en-trans": "dreltsé dön dang denpar shok"
+    },
+    {
+      "bo": "སངས་རྒྱས་བསྟན་པ་དར་བའི་མཐུས༔",
+      "en": "May I cause the teachings of Buddha to spread,",
+      "en-trans": "sangyé tenpa darwé tü"
+    },
+    {
+      "bo": "བརྒྱུད་འཛིན་ཆོས་སྟོན་རྒྱས་པ་དང་༔",
+      "en": "So that lineage holders and teachers of Dharma increase,",
+      "en-trans": "gyü dzin chö tön gyepa dang"
+    },
+    {
+      "bo": "འགྲོ་ཀུན་བདེ་ལ་འཁོད་ནས་ཀྱང་༔",
+      "en": "All beings are brought to bliss,",
+      "en-trans": "dro kün dé la khö né kyang"
+    },
+    {
+      "bo": "ཞིང་ཁམས་ཐམས་ཅད་དག་པར་ཤོག༔",
+      "en": "And all realms are purified into buddha fields.",
+      "en-trans": "zhingkham tamché dakpar shok"
+    },
+    {
+      "bo": "བདག་གི་ལུས་ངག་ཡིད་གསུམ་གྱིས༔",
+      "en": "From my body, speech and mind,",
+      "en-trans": "dak gi lü ngak yi sum gyi"
+    },
+    {
+      "bo": "གདུལ་བྱ་སོ་སོའི་བློ་ཡུལ་དུ༔",
+      "en": "Let infinite emanations appear,",
+      "en-trans": "dulja sosö lo yul du"
+    },
+    {
+      "bo": "གང་ལ་གང་འདུལ་སྤྲུལ་པའི་སྐུ༔",
+      "en": "To benefit each of those to be trained,",
+      "en-trans": "gang la gang dul trulpé ku"
+    },
+    {
+      "bo": "དཔག་ཏུ་མེད་པར་འབྱུང་བར་ཤོག༔",
+      "en": "Every one according to their needs.",
+      "en-trans": "pak tu mepar jungwar shok"
+    },
+    {
+      "bo": "མདོར་ན་འཁོར་འདས་མ་ལུས་ཀུན༔",
+      "en": "May I realize the entirety of saṃsāra and nirvāṇa",
+      "en-trans": "dorna khordé malü kün"
+    },
+    {
+      "bo": "གུ་རུ་ཉིད་དང་དབྱེར་མེད་ཅིང་༔",
+      "en": "Is your manifestation, Guru, inseparable from you,",
+      "en-trans": "guru nyi dang yermé ching"
+    },
+    {
+      "bo": "སྐུ་གསུམ་འདུ་འབྲལ་མེད་པ་ཡི༔",
+      "en": "And by understanding the three kāyas to be forever indivisible,",
+      "en-trans": "ku sum dudral mepa yi"
+    },
+    {
+      "bo": "རྣམ་མཁྱེན་སངས་རྒྱས་མྱུར་ཐོབ་ཤོག༔",
+      "en": "May I swiftly attain the omniscience of buddhahood.",
+      "en-trans": "namkhyen sangyé nyur tob shok"
+    },
+    {
+      "bo": "སེམས་ཅན་གསོལ་བ་འདེབས་པར་ཤོག༔",
+      "en": "May sentient beings offer their prayers,",
+      "en-trans": "semchen solwa debpar shok"
+    },
+    {
+      "bo": "བླ་མས་བྱིན་གྱིས་རློབས་པར་ཤོག༔",
+      "en": "May the masters grant their blessings,",
+      "en-trans": "lamé jingyi lob par shok"
+    },
+    {
+      "bo": "ཡི་དམ་དངོས་གྲུབ་སྟེར་བར་ཤོག༔",
+      "en": "Mayyidamdeities grant attainments,",
+      "en-trans": "yidam ngödrub terwar shok"
+    },
+    {
+      "bo": "མཁའ་འགྲོས་ལུང་བསྟན་བྱེད་པར་ཤོག༔",
+      "en": "May ḍākinīs grant predictions,",
+      "en-trans": "khandrö lungten jepar shok"
+    },
+    {
+      "bo": "ཆོས་སྐྱོང་བར་ཆད་བསལ་བར་ཤོག༔",
+      "en": "May Dharma protectors dispel obstacles,",
+      "en-trans": "chökyong barché salwar shok"
+    },
+    {
+      "bo": "སངས་རྒྱས་བསྟན་པ་དར་ཞིང་རྒྱས་པར་ཤོག༔",
+      "en": "May the Buddha’s teaching spread and grow,",
+      "en-trans": "sangyé tenpa dar zhing gyepar shok"
+    },
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་བདེ་ཞིང་སྐྱིད་པར་ཤོག༔",
+      "en": "May all beings enjoy happiness and well-being,",
+      "en-trans": "semchen tamché dé zhing kyipar shok"
+    },
+    {
+      "bo": "ཉིན་དང་མཚན་དུ་ཆོས་ལ་སྤྱོད་པར་ཤོག༔",
+      "en": "May they live out the Dharma day and night,",
+      "en-trans": "nyin dang tsen du chö la chöpar shok"
+    },
+    {
+      "bo": "རང་གཞན་དོན་གཉིས་ལྷུན་གྱིས་གྲུབ་པར་ཤོག༔",
+      "en": "May our own and others’ aims be spontaneously accomplished.",
+      "en-trans": "rangzhen dön nyi lhün gyi drubpar shok"
+    },
+    {
+      "bo": "རང་བཞིན་དག་པའི་དགེ་བ་འདིས༔",
+      "en": "Through this merit, pure by its very nature,",
+      "en-trans": "rangzhin dakpé gewa di"
+    },
+    {
+      "bo": "འཁོར་བ་ངན་སོང་དོང་སྤྲུག་ནས༔",
+      "en": "Let saṃsāra’s depths, the lower realms, be emptied,",
+      "en-trans": "khorwa ngensong dong truk né"
+    },
+    {
+      "bo": "སྲིད་མཚོར་སླར་ཡང་མི་གནས་ཤིང་༔",
+      "en": "So no longer we remain in this ocean of existence,",
+      "en-trans": "si tsor lar yang mi né shing"
+    },
+    {
+      "bo": "ཕྱམ་གཅིག་སྐུ་གསུམ་མངོན་གྱུར་ཤོག༔",
+      "en": "But actualize the three kāyas, together—all as one.",
+      "en-trans": "chamchik ku sum ngön gyur shok"
+    },
+    {
+      "bo": "རྒྱལ་བ་ཀུན་གྱི་གསང་ཆེན་མཛོད༔",
+      "en": "Great secret treasure of all the buddhas,",
+      "en-trans": "gyalwa kün gyi sang chen dzö"
+    },
+    {
+      "bo": "བླ་མེད་མཆོག་གི་བསྟན་པ་འདི༔",
+      "en": "Supreme, unsurpassed teaching of Dzogpachenpo,",
+      "en-trans": "lamé chok gi tenpa di"
+    },
+    {
+      "bo": "ཇི་ལྟར་མཁའ་ལ་ཉི་ཤར་བཞིན༔",
+      "en": "Like a sun rising in the sky,",
+      "en-trans": "jitar kha la nyishar zhin"
+    },
+    {
+      "bo": "རྒྱལ་ཁམས་ཡོངས་ལ་དར་རྒྱས་ཤོག༔",
+      "en": "Shine and spread through the entire world!",
+      "en-trans": "gyalkham yong la dargyé shok"
+    },
+    {
+      "bo": "བདག་གི་དགེ་བའི་རྩ་བ་འདི་དང་དགེ་བའི་རྩ་བ་གཞན་དག་ཀྱང་བསྐྱེད་ནས༔",
+      "en": "May this merit and my other roots of virtue grow,",
+      "en-trans": "dak gi gewé tsawa di dang gewé tsawa zhendak kyang kyé né"
+    },
+    {
+      "bo": "དཔལ་ལྡན་བླ་མའི་ཐུགས་དགོངས་ཡོངས་སུ་རྫོགས་པའི་ཡོན་ཏན་དང་ལྡན་པར་གྱུར་ཅིག༔",
+      "en": "So that I embody all the precious qualities that fulfil the wishes of the perfect master,",
+      "en-trans": "palden lamé tukgong yongsu dzokpé yönten dang denpar gyur chik"
+    },
+    {
+      "bo": "སངས་རྒྱས་ཀྱི་བསྟན་པ་རིན་པོ་ཆེ་དར་ཞིང་རྒྱས་པར་བྱེད་པའི་སྐྱེས་བུ་སྟོབས་ལྡན་དུ་གྱུར་ཅིག༔",
+      "en": "I possess the power to spread and expand the Buddha’s precious teachings,",
+      "en-trans": "sangyé kyi tenpa rinpoché dar zhing gyepar jepé kyebu tobden du gyur chik"
+    },
+    {
+      "bo": "མཁྱེན་པ་དང་བརྩེ་བ་ནུས་པ་གསུམ་མཐར་ཕྱིན་ནས་རྫོགས་པའི་སངས་རྒྱས་སུ་གྱུར་ཅིག༔",
+      "en": "I realize ultimate wisdom, love and capacity, and so become perfectly enlightened,",
+      "en-trans": "khyenpa dang tsewa nüpa sum tarchin né dzokpé sangyé su gyur chik"
+    },
+    {
+      "bo": "འགྲོ་བ་རིགས་དྲུག་ན་གནས་པའི་སེམས་ཅན་ཐམས་ཅད་འཁོར་བ་སྡུག་བསྔལ་གྱི་རྒྱ་མཚོ་ལས་བསྒྲལ་ཏེ་མྱུར་དུ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པར་གྱུར་ཅིག༔",
+      "en": "And all sentient beings in the six realms are freed from saṃsāra’s great ocean of suffering, and quickly attain complete and perfect buddhahood.",
+      "en-trans": "drowa rik druk na nepé semchen tamché khorwa dukngal gyi gyatso lé dral té nyurdu ngönpar dzokpar sangyé par gyur chik"
+    }
+  ]
+}

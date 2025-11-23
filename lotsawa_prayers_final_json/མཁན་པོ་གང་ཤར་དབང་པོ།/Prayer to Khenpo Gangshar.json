@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/dilgo-khyentse/prayer-to-khenpo-gangshar",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །མཁན་ཆེན་གང་ཤར་དབང་པོའི་གསོལ་འདེབས།",
+    "en": "Supplication to the Great Khenpo Gangshar Wangpo"
+  },
+  "text": [
+    {
+      "bo": "སྦྱངས་བ་མཐར་ཕྱིན་མཁས་པའི་ཕུལ་དུ་ཕྱིན། །",
+      "en": "With your studies complete, your knowledge is as vast as the sky;",
+      "en-trans": "jangwa tarchin khepé pul du chin"
+    },
+    {
+      "bo": "ཉམས་རྟོགས་མཐར་ཕྱིན་ནང་གི་དེ་ཉིད་རྟོགས། །",
+      "en": "With experience and understanding mastered, you realised inner reality;",
+      "en-trans": "nyamtok tarchin nang gi denyi tok"
+    },
+    {
+      "bo": "གཞན་ཕན་མཐར་ཕྱིན་འབྲེལ་ཚན་དོན་དང་ལྡན། །",
+      "en": "And, with altruism perfected, any connection with you becomes truly meaningful.",
+      "en-trans": "zhenpen tarchin drel tsen dön dangden"
+    },
+    {
+      "bo": "བྱང་ཆུབ་རྡོ་རྗེའི་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Changchub Dorje, at your feet I pray.",
+      "en-trans": "changchub dorjé zhab la solwa deb"
+    }
+  ]
+}

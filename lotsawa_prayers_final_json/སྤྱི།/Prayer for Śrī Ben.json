@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-III/prayer-to-padma-longchenpa-jigme-lingpa",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །པདྨ་འབྱུང་གནས་སོགས་ཀྱི་གསོལ་གདེབས།",
+    "en": "Prayer to Padmasambhava, Longchenpa and Jigme Lingpa"
+  },
+  "text": [
+    {
+      "bo": "འཇིགས་བྲལ་འཆི་མེད་སྐུ་ཅན་པདྨ་འབྱུང་། །",
+      "en": "Padmasambhava, fearless possessor of immortal form,",
+      "en-trans": "jikdral chimé kuchen pema jung"
+    },
+    {
+      "bo": "ཐེག་མཆོག་བསྟན་པའི་ཤིང་རྟ་ཀློང་ཆེན་པ། །",
+      "en": "Longchenpa, chariot of the teachings of the Supreme Vehicle,",
+      "en-trans": "tek chok tenpé shingta longchenpa"
+    },
+    {
+      "bo": "གངས་ཅན་ཕན་བདེའི་ཉི་མ་འཇིགས་བྲལ་གླིང་། །",
+      "en": "Jigme Lingpa, sun of benefit and well-being for this snowy land—",
+      "en-trans": "gangchen pendé nyima jikdral ling"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་དོན་གཉིས་ལྷུན་གྲུབ་ཤོག །",
+      "en": "To you I pray: spontaneously accomplish my own and others’ benefit!",
+      "en-trans": "solwa deb so dön nyi lhündrub shok"
+    }
+  ]
+}

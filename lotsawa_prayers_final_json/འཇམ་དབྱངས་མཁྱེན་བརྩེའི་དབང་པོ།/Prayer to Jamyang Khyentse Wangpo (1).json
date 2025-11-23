@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/jamgon-kongtrul/four-line-khyentse-wangpo-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོའི་གསོལ་བ་འདེབས།",
+    "en": "Prayer to Jamyang Khyentse Wangpo"
+  },
+  "text": [
+    {
+      "bo": "འཇམ་དཔལ་བྱིན་རླབས་བི་མའི་རྣམ་པར་འཕྲུལ། །",
+      "en": "The blessing of Mañjuśrī appearing as an emanation of Vimalamitra,",
+      "en-trans": "jampal jinlab bimé nampar trul"
+    },
+    {
+      "bo": "རྒྱལ་སྲས་ལྷ་རྗེའི་ཡང་སྲིད་བཅུ་གསུམ་པ། །",
+      "en": "The thirteenth rebirth of Gyalsé Lharjé,",
+      "en-trans": "gyalsé lharjé yangsi chusumpa"
+    },
+    {
+      "bo": "བཀའ་བབས་བདུན་ལྡན་པདྨ་མདོ་སྔགས་གླིང་། །",
+      "en": "Pema Dongak Lingpa, holder of the seven special forms of transmission,1",
+      "en-trans": "kabab dünden pema do ngak ling"
+    },
+    {
+      "bo": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོར་གསོལ་བ་འདེབས། །",
+      "en": "Jamyang Khyentse Wangpo, to you I pray.",
+      "en-trans": "jamyang khyentsé wangpor solwa deb"
+    }
+  ]
+}

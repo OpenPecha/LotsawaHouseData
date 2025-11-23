@@ -1,0 +1,436 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/drime-osal-lingpa/seeds-faith-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །རིག་འཛིན་གཏེར་ཆེན་ལས་རབ་གླིང་པའི་གསོལ་འདེབས་དད་པའི་ས་བོན།",
+    "en": "A Prayer to the Vidyādhara and Great Tertön Lerab Lingpa"
+  },
+  "text": [
+    {
+      "bo": "ཨེ་མ་ཧོ།",
+      "en": "Emaho: O Wonder!",
+      "en-trans": "emaho"
+    },
+    {
+      "bo": "གངས་ལྗོངས་ལྷ་གཅིག་མངའ་བདག་ཁྲི་སྲོང་རྗེའི། །",
+      "en": "The sovereign and ‘sole deity’ of the Land of Snows was Lord Tri Songdetsen:",
+      "en-trans": "gang jong lha chik ngadak trisong jéi"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་བློན་པོ་སྣ་ནམ་རིགས་སུ་འཁྲུངས། །",
+      "en": "You were his Dharma minister, born into the Nanam clan,",
+      "en-trans": "chökyi lönpo nanam rik su trung"
+    },
+    {
+      "bo": "སྐྱེ་མང་ཨོ་རྒྱེན་པད་མས་རྗེས་སུ་བཟུངས། །",
+      "en": "Always cared for by Orgyen Padma, throughout your many lives,",
+      "en-trans": "kyé mang orgyen pemé jé su zung"
+    },
+    {
+      "bo": "སྔགས་འཆང་རྡོ་རྗེ་བདུད་འཇོམས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Master of mantras, Dorje Dudjom—to you we pray!",
+      "en-trans": "ngak chang dorjé düdjom la solwa dep"
+    },
+    {
+      "bo": "ཁྱོད་ཉིད་རྒྱལ་བའི་ས་མཆོག་གྲུབ་བརྙེས་ཀྱང་། །",
+      "en": "You attained the supreme realization of buddhahood,",
+      "en-trans": "khyö nyi gyalwé sa chok drup nyé kyang"
+    },
+    {
+      "bo": "གདུལ་བྱ་ཡལ་བ་མི་འདོར་རྗེས་བཟུང་ཕྱིར། །",
+      "en": "Yet, so as not to abandon, but care for, beings needing to be tamed,",
+      "en-trans": "dulja yelwa mi dor jé zung chir"
+    },
+    {
+      "bo": "དངོས་གྲུབ་རྒྱལ་མཚན་ལེགས་ལྡན་པད་ཕྲིན་སོགས། །",
+      "en": "You returned as Ngödrup Gyaltsen,1Lekden Je,2Pema Trinle3and so on—",
+      "en-trans": "ngödrup gyaltsen lekden pé trin sok"
+    },
+    {
+      "bo": "བསྟན་འགྲོའི་དཔལ་མགོན་བྱོན་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you, the succession of glorious protectors of the teachings and beings, we pray!",
+      "en-trans": "tendröi pal gön jön la solwa dep"
+    },
+    {
+      "bo": "སྦས་ཡུལ་ཀོ་ས་ལ་ཡི་དབུ་རྩེའི་ཆར། །",
+      "en": "Close by the peak of Kosala’s hidden land,",
+      "en-trans": "béyul kosala yi u tséi char"
+    },
+    {
+      "bo": "རབ་བྱུང་བཅུ་བཞི་མེ་ཕོ་འབྲུག་གི་ལོར། །",
+      "en": "In the male fire dragon year of the fourteenth cycle,4",
+      "en-trans": "rabjung chu zhi mé po druk gi lor"
+    },
+    {
+      "bo": "སྤྲ་རིགས་ཞི་པའི་ཁྱིམ་དུ་སྐུ་སྐྱེ་བཞེས། །",
+      "en": "You took birth in the household of Shyipa, in the family of Tra,",
+      "en-trans": "tra rig zhipé khyim du ku kyé zhé"
+    },
+    {
+      "bo": "སྤྲུལ་སྐུ་བསོད་ནམས་རྒྱལ་པོར་གསོལ་བ་འདེབས། །",
+      "en": "Nirmanakāya Sönam Gyalpo, ‘king of merit’—to you we pray!",
+      "en-trans": "trulku sönam gyalpor solwa dep"
+    },
+    {
+      "bo": "བསྟན་པའི་སྒོར་ཞུགས་ཀློགས་བྲིས་ཐོགས་མེད་མཁྱེན། །",
+      "en": "Entering into the teachings, you mastered reading and writing unhindered, and then",
+      "en-trans": "tenpé gor zhuk lok dri tokmé khyen"
+    },
+    {
+      "bo": "དབེན་པའི་རི་ལ་གཟིམ་པའི་མནལ་ལམ་དུ། །",
+      "en": "On an isolated mountainside, in your sleep you dreamt that then",
+      "en-trans": "wenpé ri la zimpé nal lam du"
+    },
+    {
+      "bo": "སྔགས་བདག་རལ་གཅིག་མ་ཡི་ཞལ་བསྟན་ནས། །",
+      "en": "Mistress of Mantra, Ekajaṭī, showed you her face",
+      "en-trans": "ngak dak ral chik ma yi zhal ten né"
+    },
+    {
+      "bo": "ཚེམ་དཀར་སྙིང་ལ་བཙུག་པའི་རྐྱེན་གྱིས་སྔངས། །",
+      "en": "And plunged her white fang into your heart. Startled and shaken,",
+      "en-trans": "tsem kar nying la tsukpé kyen gyi ngang"
+    },
+    {
+      "bo": "སྐུ་ལ་བསྙུན་ཕོག་ཕ་ཁྱིམ་ཡུལ་སྤང་ནས། །",
+      "en": "You were stricken with sickness, and turned your back on parents and home.",
+      "en-trans": "ku la nyun pok pa khyim yul pang né"
+    },
+    {
+      "bo": "གྲུབ་དབང་འཇའ་ལུས་པ་ཡི་ཆོས་སྒར་ཕེབས། །",
+      "en": "Going to the Dharma camp of the powerful siddha Nyala Padma Düdul, who attained the rainbow body,",
+      "en-trans": "drubwang jalüpa yi chö gar peb"
+    },
+    {
+      "bo": "རྗེ་བཙུན་བཅོམ་ལྡན་རྡོ་རྗེའི་རྗེས་སུ་བཟུང་། །",
+      "en": "You studied with Jetsün Chomden Dorje—Lama Sönam Taye,5",
+      "en-trans": "jetsün chomden dorjéi jé su zung"
+    },
+    {
+      "bo": "གདམས་པས་ཐུགས་རྒྱུད་གྲོལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "And through the oral instructions, liberated the stream of your wisdom mind—to you we pray!",
+      "en-trans": "dampé tuk gyü drol la solwa dep"
+    },
+    {
+      "bo": "སྔོན་གྱིས་རིགས་སད་གཏེར་གྱི་སྲུང་མ་ཡིས། །",
+      "en": "Your karmic predisposition from before awakened and the guardian of the termas",
+      "en-trans": "ngön gyi rig sé ter gyi sungma yi"
+    },
+    {
+      "bo": "གཏེར་སྒྲོམ་དངོས་སུ་ཕུལ་ཞིང་ཀཿཐོག་བྱོན། །",
+      "en": "Placed the treasure casket in your hands. You went to Kathok,",
+      "en-trans": "ter drom ngö su pul zhing katok jön"
+    },
+    {
+      "bo": "གྲོ་ལོད་དངོས་སྣང་བསྟན་པའི་རྒྱལ་མཚན་སོགས། །",
+      "en": "Where from Tenpe Gyaltsen6—Shyingkyong Gönpo—who was Dorje Drolö in person, and from",
+      "en-trans": "drolö ngö nang tenpé gyaltsen sok"
+    },
+    {
+      "bo": "སློབ་དཔོན་མང་བརྟེན་སྨིན་གྲོལ་དཔག་མེད་གསན། །",
+      "en": "Many other teachers, you received immeasurable empowerments and instructions,",
+      "en-trans": "lobpön mang ten mindrol pakmé sen"
+    },
+    {
+      "bo": "ཤོག་སེར་ངོས་ལས་བརྡ་འབེབས་དཔག་མེད་གནང་། །",
+      "en": "From the ḍākinīs’ code script, you deciphered immeasurable teachings,",
+      "en-trans": "shok ser ngö lé da bep pakmé nang"
+    },
+    {
+      "bo": "གསང་བའི་རྒྱས་ཐབས་རང་ཉམས་རྩེ་གཅིག་བླང་། །",
+      "en": "Which you kept secret, reserving them solely for your own practice.",
+      "en-trans": "sangwé gyé tap rang nyam tsechik lang"
+    },
+    {
+      "bo": "གྲུབ་པའི་རྟགས་ཐོན་ལྷ་དང་གཉིས་སུ་མེད། །",
+      "en": "As the sign of accomplishment, you became inseparable from the deities;",
+      "en-trans": "drubpé tak tön lha dang nyisu mé"
+    },
+    {
+      "bo": "གྲུབ་པའི་དབང་ཕྱུག་ཁྱེད་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Lord of siddhas—to you we pray!",
+      "en-trans": "drub pé wang chuk khyé la solwa dep"
+    },
+    {
+      "bo": "ཛཿཀར་ཕེབ་སྟེ་མཆོག་སྤྲུལ་རིན་པོ་ཆེར། །",
+      "en": "Going to Dzahka, from Dzahka Choktrul Rinpoche7",
+      "en-trans": "dzakar peb té choktrul rinpocher"
+    },
+    {
+      "bo": "རྡོ་རྗེ་སྙིང་པོའི་ཟབ་ཁྲིད་རྒྱས་པ་གསན། །",
+      "en": "You received the detailed profound instruction on the ‘Vajra Essence’, and",
+      "en-trans": "dorjé nyingpö zab tri gyépa sen"
+    },
+    {
+      "bo": "ལུང་རྟོགས་བསྟན་པའི་ཉི་མའི་ཞབས་ལ་གཏུག །",
+      "en": "At the feet of Nyoshul Lungtok Tenpe Nyima,",
+      "en-trans": "lungtok tenpé nyimé zhap la tuk"
+    },
+    {
+      "bo": "གདམས་པའི་བདུད་རྩི་བཞེས་ནས་མཁྱེན་རབ་རྫོགས། །",
+      "en": "You received the nectar of the instructions, and perfected total understanding and knowledge.",
+      "en-trans": "dampé düdtsi zhé né khyen rap dzok"
+    },
+    {
+      "bo": "འཇམ་དབྱངས་མཁྱེན་བརྩེ་བློ་གྲོས་མཐའ་ཡས་དང་། །",
+      "en": "From Jamyang Khyentse, Jamgön Kongtrul Lodrö Taye,",
+      "en-trans": "jamyang khyentsé lodrö tayé dang"
+    },
+    {
+      "bo": "འཇམ་དཔལ་རྡོ་རྗེ་ལ་སོགས་མཁས་གྲུབ་ལས། །",
+      "en": "Mipham Jampal Dorje and the like, learned and accomplished masters,",
+      "en-trans": "jampal dorjé la sok khédrup lé"
+    },
+    {
+      "bo": "སྨིན་གྲོལ་མཐའ་ཡས་གསན་བསམ་མཐར་ཕྱིན་མཛད། །",
+      "en": "You received, contemplated on and brought to fruition limitless empowerments and instructions.",
+      "en-trans": "mindrol tayé sen sam tar chin dzé"
+    },
+    {
+      "bo": "མཁས་པའི་ཁྱུ་མཆོག་ཁྱོད་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Supreme chief among the learned—to you we pray!",
+      "en-trans": "khépé khyu chok khyö la solwa dep"
+    },
+    {
+      "bo": "བོད་དང་བོད་ཆེན་ལྗོངས་དང་རྒྱ་སོགས་ཡུལ། །",
+      "en": "In the lands of Tibet and Greater Tibet, China and the like,",
+      "en-trans": "bö dang bö chen jong dang gya sok yul"
+    },
+    {
+      "bo": "གནས་ཆེན་ཀུན་བྱོན་ལྷ་རྟེན་ཐམས་ཅད་ལ། །",
+      "en": "You travelled to all the sacred places, and before all the holy images,",
+      "en-trans": "né chen kun jön lha ten tamché la"
+    },
+    {
+      "bo": "སྒྲུབ་དང་མཆོད་པ་ཕྱག་སྐོར་དུ་མ་མཛད། །",
+      "en": "You practised and made countless offerings, prostrations and circumambulations.",
+      "en-trans": "drup dang chöpa chak kor duma dzé"
+    },
+    {
+      "bo": "ཟབ་གཏེར་མང་བཞེས་ཕྱོགས་མེད་སྐལ་ལྡན་ལ། །",
+      "en": "You received many profound termas, and to fortunate disciples from everywhere",
+      "en-trans": "zap ter mang zhé chok mé kalden la"
+    },
+    {
+      "bo": "སྨིན་གྲོལ་དཔག་མེད་གནང་ཞིང་ཐར་ལམ་བཀོད། །",
+      "en": "You granted empowerments and instructions, and set them on the path to liberation.",
+      "en-trans": "min drol pakmé nang zhing tarlam kö"
+    },
+    {
+      "bo": "བསྟན་དང་འགྲོ་ལ་སྨིན་པའི་མཛད་བཟང་གིས། །",
+      "en": "In this sublime activity of ripening, for the benefit of Dharma and beings,",
+      "en-trans": "ten dang dro la minpé dzé zang gi"
+    },
+    {
+      "bo": "སྐུ་ཚེ་སྟོད་སྨད་ཀུན་ཏུ་འདའ་བར་མཛད། །",
+      "en": "You spent your entire life, from beginning to end.",
+      "en-trans": "kutsé tö mé kuntu dawar dzé"
+    },
+    {
+      "bo": "རྨད་བྱུང་ཐུགས་རྗེ་ཅན་ལ་གསོལ་བ་འདེབས། །",
+      "en": "To you who possess wondrous compassion, we pray!",
+      "en-trans": "méjung tukjé chen la solwa dep"
+    },
+    {
+      "bo": "རྩེ་གཅིག་ཕྱོགས་མེད་དབེན་རིར་བཞུགས་ནས་སུ། །",
+      "en": "Single-mindedly, in various places, you lived on remote, deserted mountains,",
+      "en-trans": "tse chik chok mé wen rir shuk né su"
+    },
+    {
+      "bo": "ནང་གི་ཉམས་ལེན་དག་ལ་གཅིག་ཏུ་དྲིལ། །",
+      "en": "Concentrating all your innermost practice into one—",
+      "en-trans": "nang gi nyam len dak la chik tu dril"
+    },
+    {
+      "bo": "གཞན་གནོད་གཞི་དང་བཅས་པ་ཡང་སྤང་ཤིང་། །",
+      "en": "Abandoning harm towards others, along with the states of mind behind it,",
+      "en-trans": "zhen nö zhi dang chepa yang pang shing"
+    },
+    {
+      "bo": "གཞན་ཕན་གང་འདུལ་ཐབས་མཁས་རྒྱུན་ཆད་མེད། །",
+      "en": "And continuously using skilful means to benefit others, in whatever way they needed,",
+      "en-trans": "zhen pen gang dul tap khé gyün ché mé"
+    },
+    {
+      "bo": "རིས་མེད་བསྟན་ལ་གུས་ཤིང་དག་སྣང་ཤར། །",
+      "en": "A devotion to the non-partisan teaching, and pure perception dawned.",
+      "en-trans": "rimé ten la gü shing dak nang shar"
+    },
+    {
+      "bo": "ཤེས་ལྡན་དག་ལ་ཕྱི་ནང་ཆོས་ཀུན་གྱི། །",
+      "en": "Speaking to the learned, in precise detail, about all of the outer and inner Dharma,",
+      "en-trans": "shé den dak la chi nang chö kun gyi"
+    },
+    {
+      "bo": "སྒྲོ་གླེང་ཞིབ་མོའི་བསྟན་པའི་གསལ་བྱེད་སྦར། །",
+      "en": "You ignited the torch of the teachings.",
+      "en-trans": "dro leng zhipmöi tenpé sal je bar"
+    },
+    {
+      "bo": "རྒྱལ་བའི་བསྟན་འཛིན་མཆོག་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Supreme holder of the teaching of the buddhas—to you I pray!",
+      "en-trans": "gyalwé tendzin chok la solwa dep"
+    },
+    {
+      "bo": "འཆད་རྩོད་རྩོམ་ལ་ཆགས་ཐོགས་སྒྲིབ་པ་བྲལ། །",
+      "en": "Unobscured by any hindrance in explaining, debating or composing—",
+      "en-trans": "ché tsö tsom la chak tok dribpa dral"
+    },
+    {
+      "bo": "བར་མེད་ཉིན་མཚན་འོད་གསལ་འཁོར་ཡུག་འདྲེས། །",
+      "en": "Without a break, day and night, you were merged continuously with luminosity.",
+      "en-trans": "barmé nyin tsen ösel khor yuk dré"
+    },
+    {
+      "bo": "གྲུབ་པའི་རྟགས་སུ་མར་མེ་རང་འབར་དང་། །",
+      "en": "As signs of your accomplishment, the butter lamps lit themselves,",
+      "en-trans": "drubpé tak su marmé rang bar dang"
+    },
+    {
+      "bo": "སྒྲུབ་གཏོར་ལྷ་ཕུར་བདུད་རྩིའི་ཆར་ཆེན་གཡོ། །",
+      "en": "From the practice torma—the deity phurba—flowed a great flood of nectar,",
+      "en-trans": "drup tor lha pur dudtsii char chen yo"
+    },
+    {
+      "bo": "རིང་བའི་ས་གནད་ཏིང་འཛིན་མཐུ་ཡིས་གསོལ། །",
+      "en": "Through the power of your samādhi, you reconsecrated sacred sites very far away, and",
+      "en-trans": "ring wé sa né ting dzin tu yi sol"
+    },
+    {
+      "bo": "ཟབ་གཏེར་སྦས་འདོན་སྲུང་མར་བཅོལ་བས་གྲུབ། །",
+      "en": "At your command, the guardians themselves removed profound hidden termas.",
+      "en-trans": "zab ter bé dön sung mar cholwé drup"
+    },
+    {
+      "bo": "གཞན་སེམས་ཤེས་སོགས་མངོན་པ་བཀྲ་ནའང་། །",
+      "en": "Though it was obvious that you could read the minds of others and the like,",
+      "en-trans": "zhen sem shé sok ngön pa tra na ang"
+    },
+    {
+      "bo": "ཡོན་ཏན་ངོམ་མེད་སྦས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "You never vaunted your qualities. Hidden yogin—to you we pray!",
+      "en-trans": "yönten ngom mé bé la solwa dep"
+    },
+    {
+      "bo": "སྐུ་ཚེ་རིལ་པོར་བསྟན་འགྲོའི་དོན་ལ་བརྩོན། །",
+      "en": "Your whole life long, striving for the benefit of the teachings and beings,",
+      "en-trans": "kutsé ril por tendröi dön la tsön"
+    },
+    {
+      "bo": "རྒྱལ་བའི་སྐུ་གསུང་ཐུགས་རྟེན་དཔག་མེད་བཀྲུན། །",
+      "en": "You created countless supports for the body, speech, and mind of the buddhas,",
+      "en-trans": "gyalwé ku sung tuk ten pakmé trun"
+    },
+    {
+      "bo": "གང་འདུལ་ཐབས་ཀྱི་རོལ་རྩེད་སྣ་ཚོགས་སྟོན། །",
+      "en": "Manifesting the play of skilful means to tame each according to their needs,",
+      "en-trans": "gang dul tap kyi rol tsé natsok tön"
+    },
+    {
+      "bo": "དག་པའི་སྣང་བས་ལྷ་དང་བླ་མ་མཇལ། །",
+      "en": "Through your pure perception you met the deities and masters,",
+      "en-trans": "dakpé nangwé lha dang lama jal"
+    },
+    {
+      "bo": "སྙེན་རྒྱུད་སྨིན་གྲོལ་དག་སྣང་མང་པོ་ཐོབ། །",
+      "en": "In many pure visions you obtained empowerments and instructions of the oral lineage,",
+      "en-trans": "nyen gyü mindrol daknang mangpo tob"
+    },
+    {
+      "bo": "ས་གཏེར་དགོངས་གཏེར་ཆོས་ཀྱི་སྒོ་ཆེན་ཕྱེས། །",
+      "en": "You opened the great Dharma door of earth treasures and mind treasures,",
+      "en-trans": "sa ter gong ter chö kyi go chen ché"
+    },
+    {
+      "bo": "མཛད་ཕྲིན་ནམ་མཁའ་མཉམ་པའི་ཕྲིན་ལས་བརྡལ། །",
+      "en": "Your enlightened activity spread everywhere, your actions equal to space,",
+      "en-trans": "dzé trin namkha nyampé trinlé dal"
+    },
+    {
+      "bo": "ཕྲིན་ལས་འགྲོ་འདུལ་རྩལ་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Trinle Drodul Tsal—to you we pray!",
+      "en-trans": "trinlé drodul tsal la solwa dep"
+    },
+    {
+      "bo": "དེ་ལྟར་ནམ་མཁའ་མཉམ་པའི་ཕྲིན་ལས་བཅས། །",
+      "en": "With your activity, like this, equalling the sky,",
+      "en-trans": "dé tar namkha nyampé trinlé ché"
+    },
+    {
+      "bo": "རྟག་འཛིན་ཅན་རྣམས་ཆོས་ལ་བསྐུལ་བའི་སླད། །",
+      "en": "So as to spur to the Dharma those who grasped at permanence,",
+      "en-trans": "tak dzin chen nam chö la kulwé lé"
+    },
+    {
+      "bo": "རབ་བྱུང་བཅོ་ལྔ་མེ་སྟག་ཟླ་ཚེས་ལ། །",
+      "en": "In the fifteenth cycle, on the tenth day of the first month of the fire tiger year,",
+      "en-trans": "rabjung cho nga mé tak da tse la"
+    },
+    {
+      "bo": "སྐུ་ལུས་དྲང་པོར་བཞུགས་བཞིན་གཞན་དོན་གཤེགས། །",
+      "en": "You straightened your body, and in a manner that brought benefit to others, you departed.",
+      "en-trans": "ku lü drangpor zhuk zhin zhen dön shek"
+    },
+    {
+      "bo": "སྐུ་ལས་གདུང་རིགས་ལྔ་བྱོན་རྫོགས་སངས་རྒྱས། །",
+      "en": "From your body came relics of the five families, and you attained complete enlightenment.",
+      "en-trans": "ku lé dung rig nga jön dzok sangyé"
+    },
+    {
+      "bo": "སྲིད་པའི་འགྲོ་ཀུན་ཐུགས་རྗེས་མི་གཏོང་བའི། །",
+      "en": "In your compassion, you did not forsake all the beings in samsaric existence,",
+      "en-trans": "sipé dro kun tukjé mi tongwé"
+    },
+    {
+      "bo": "ཡང་སྲིད་ཟུང་ཅིག་འབྱོན་པའི་བཀའ་ལུང་གསལ། །",
+      "en": "But were reborn, returning in two incarnations, as made clear in the prophecies.",
+      "en-trans": "yang si zung chik jönpé ka lung sal"
+    },
+    {
+      "bo": "མངོན་རྫོགས་སྟོན་པ་མཆོག་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Supreme and completely perfect teacher—to you we pray!",
+      "en-trans": "ngön dzok tönpa chok la solwa dep"
+    },
+    {
+      "bo": "དེ་ལྟར་གསོལ་བ་བཏབ་པའི་མཐུ་བྱིན་གྱིས། །",
+      "en": "Through the power and blessing of this prayer:",
+      "en-trans": "détar solwa tap pé tu jin gyi"
+    },
+    {
+      "bo": "ཡང་སའི་རྒྱལ་ཁམས་བསྟན་འགྲོ་མི་ཉམས་འཕེལ། །",
+      "en": "Throughout the whole world, may the benefit for the teachings and beings never fail but grow,",
+      "en-trans": "yang sé gyal kham tendro mi nyam pel"
+    },
+    {
+      "bo": "བདག་དང་མར་གྱུར་འགྲོ་བ་རིས་མེད་པའི། །",
+      "en": "May I and beings who are my mothers, all together",
+      "en-trans": "dak dang mar gyur drowa rimé pé"
+    },
+    {
+      "bo": "ལས་སྒྲིབ་ཀུན་བྱང་རྗེ་བཙུན་ཁྱེད་ཉིད་དང་། །",
+      "en": "Purify all karma and obscurations, and never be parted from you, our noble teacher.",
+      "en-trans": "lé drip kun jang jetsün khyé nyi dang"
+    },
+    {
+      "bo": "ནམ་ཡང་འབྲལ་མེད་གདམས་པའི་སྣོད་གྱུར་ཏེ། །",
+      "en": "May we be worthy to receive your instructions:",
+      "en-trans": "nam yang dralmé dampé nö gyur té"
+    },
+    {
+      "bo": "རྗེས་སུ་འཛིན་ཅིང་བྱིན་གྱིས་རླབས་དུ་གསོལ། །",
+      "en": "Care for us, and grant us your blessings—we pray!",
+      "en-trans": "jé su dzin ching chin gyi lap tu sol"
+    },
+    {
+      "bo": "ལྷ་གཅིག་ཁྱེད་དང་དབྱེར་མེད་གྱུར་ནས་སུ། །",
+      "en": "Having become inseparable from you, as our one and only deity,",
+      "en-trans": "lha chik khyé dang yermé gyur né su"
+    },
+    {
+      "bo": "ནམ་མཁའ་མཉམ་པའི་འགྲོ་རྣམས་སྒྲོལ་ནུས་ཤོག །",
+      "en": "May all beings, equal to the sky, be able to find liberation!",
+      "en-trans": "namkha nyampé dro nam drol nü shok"
+    }
+  ]
+}

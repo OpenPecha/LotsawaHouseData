@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:5549BE1C-C146-11F0-A3C3-34C16E1F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས། – LotsawaHouse</text>
+  </docTitle>
+  <docAuthor>
+    <text>མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ།, འཇམ་མགོན་ཨ་མྱེས་ཞབས་ངག་དབང་ཀུན་དགའ་བསོད་ནམས།, འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།, མྱང་རལ་ཉི་མ་འོད་ཟེར།, དཔལ་སྤྲུལ་རིན་པོ་ཆེ།, ཀློང་ཆེན་རབ་འབྱམས།, གར་དབང་ཆོས་ཀྱི་རྒྱལ་མཚན།, གོང་ས་སྐྱབས་མགོན་ཆེན་པོ་མཆོག, ངག་དབང་བློ་བཟང་རྒྱ་མཚོ།, དཔའ་བོ་ལས་རབ་རྩལ།, དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།, བདུད་འཇོམས་གླིང་པ།, བདུད་འཇོམས་རིན་པོ་ཆེ།, མཁན་ཆེན་ངག་དབང་དཔལ་བཟང་།, མགོན་པོ་ཚེ་བརྟན་རིན་པོ་ཆེ།, མཆོག་གྱུར་བདེ་ཆེན་གླིང་པ།, སངས་རྒྱས་གླིང་པ།, མི་ཕམ་རིན་པོ་ཆེ།, ཞེ་ཆེན་རབ་འབྱམས་རིན་པོ་ཆེ།, ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།, འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས།, འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ།, འཇིགས་མེད་གླིང་པ།, རང་རིག་རྡོ་རྗེ།, རཏྣ་གླིང་པ།, རྡོ་གྲུབ་ཆེན་འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར།, རྡོ་གྲུབ་ཆེན་འཇིགས་མེད་བསྟན་པའི་ཉི་མ།, རྫོང་གཏེར་ཀུན་བཟང་ཉི་མ།, སྤྲུལ་སྐུ་བ་མཁལ་སྨུག་པོ།, སྤྲུལ་སྐུ་བཟང་པོ་གྲགས་པ།, སྨན་ལུང་པ་མི་བསྐྱོད་རྡོ་རྗེ།, སྨིན་གླིང་གཅུང་རིན་པོ་ཆེ།, ཨ་ལགས་གཟན་དཀར་པདྨ་དངོས་གྲུབ་རོལ་བའི་རྡོ་རྗེ།</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch2" playOrder="1">
+      <navLabel>
+        <text>བར་ཆད་ལམ་སེལ་ཤིན་ཏུ་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+    <navPoint id="ch4" playOrder="2">
+      <navLabel>
+        <text>བསམ་ལྷུན་བསྡུས་པ་ཐུགས་རྗེའི་གློག་ཞགས།</text>
+      </navLabel>
+      <content src="head1.html" />
+    </navPoint>
+    <navPoint id="ch6" playOrder="3">
+      <navLabel>
+        <text>སློབ་དཔོན་པདྨའི་གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།</text>
+      </navLabel>
+      <content src="head2.html" />
+    </navPoint>
+    <navPoint id="ch8" playOrder="4">
+      <navLabel>
+        <text>གུ་རུ་རིན་པོ་ཆེའི་ཚེས་བཅུའི་རྣམ་ཐར་གསོལ་འདེབས་བྱིན་རླབས་ཐིག་ལེ།</text>
+      </navLabel>
+      <content src="head3.html" />
+    </navPoint>
+    <navPoint id="ch10" playOrder="5">
+      <navLabel>
+        <text>སློབ་དཔོན་རིན་པོ་ཆེ་པདྨ་འབྱུང་གནས་ཀྱི་རྣམ་ཐར་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head4.html" />
+    </navPoint>
+    <navPoint id="ch12" playOrder="6">
+      <navLabel>
+        <text>གསོལ་འདེབས་ལེའུ་བདུན་མ་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head5.html" />
+    </navPoint>
+    <navPoint id="ch14" playOrder="7">
+      <navLabel>
+        <text>བསམ་པ་མྱུར་འགྲུབ་ཀྱིས་ས་བཅད།</text>
+      </navLabel>
+      <content src="head6.html" />
+    </navPoint>
+    <navPoint id="ch16" playOrder="8">
+      <navLabel>
+        <text>གུ་རུའི་གསོལ་འདེབས་བསམ་པ་མྱུར་འགྲུབ་མ།</text>
+      </navLabel>
+      <content src="head7.html" />
+    </navPoint>
+    <navPoint id="ch18" playOrder="9">
+      <navLabel>
+        <text>ཡང་གསང་བདེ་འདུས་ལས༔ གསོལ་འདེབས་བསམ་པ་ལྷུན་འགྲུབ་མ༔</text>
+      </navLabel>
+      <content src="head8.html" />
+    </navPoint>
+    <navPoint id="ch20" playOrder="10">
+      <navLabel>
+        <text>སློབ་དཔོན་ཐུགས་རྗེ་ཅན་གྱི་ཐུགས་དམ་གནད་ནས་བསྐུལ་བའི་གདུང་དབྱངས་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head9.html" />
+    </navPoint>
+    <navPoint id="ch22" playOrder="11">
+      <navLabel>
+        <text>གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཕུང་།</text>
+      </navLabel>
+      <content src="head10.html" />
+    </navPoint>
+    <navPoint id="ch24" playOrder="12">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་ཐུགས་དམ་རྒྱུད་སྐུལ།</text>
+      </navLabel>
+      <content src="head11.html" />
+    </navPoint>
+    <navPoint id="ch26" playOrder="13">
+      <navLabel>
+        <text>གུ་རུའི་གསོལ་འདེབས་རྡོ་རྗེའི་ཚིག་ཕྲེང་།</text>
+      </navLabel>
+      <content src="head12.html" />
+    </navPoint>
+    <navPoint id="ch28" playOrder="14">
+      <navLabel>
+        <text>ཨོ་རྒྱན་མ་ཧཱ་གུ་རུའི་གསོལ་འདེབས་ལེའུ་བརྒྱད་པ་འདོད་དོན་མྱུར་འགྲུབ།</text>
+      </navLabel>
+      <content src="head13.html" />
+    </navPoint>
+    <navPoint id="ch30" playOrder="15">
+      <navLabel>
+        <text>གསོལ་འདེབས་འདོད་དོན་མྱུར་འགྲུབ།</text>
+      </navLabel>
+      <content src="head14.html" />
+    </navPoint>
+    <navPoint id="ch32" playOrder="16">
+      <navLabel>
+        <text>ཆོས་བཞིའི་གསོལ་འདེབས་རིན་ཆེན་སྙིང་པོ།</text>
+      </navLabel>
+      <content src="head15.html" />
+    </navPoint>
+    <navPoint id="ch34" playOrder="17">
+      <navLabel>
+        <text>པདྨ་འབྱུང་གནས་ལ་གསོལ་འདེབས༔</text>
+      </navLabel>
+      <content src="head16.html" />
+    </navPoint>
+    <navPoint id="ch36" playOrder="18">
+      <navLabel>
+        <text>ཟངས་མདོག་དཔལ་རིར་བགྲོད་པའི་སྨོན་ལམ་སྐལ་བཟང་དགའ་བའི་ཤིང་རྟ།</text>
+      </navLabel>
+      <content src="head17.html" />
+    </navPoint>
+    <navPoint id="ch38" playOrder="19">
+      <navLabel>
+        <text>ཟངས་མདོག་དཔལ་རིའི་སྨོན་ལམ།</text>
+      </navLabel>
+      <content src="head18.html" />
+    </navPoint>
+    <navPoint id="ch40" playOrder="20">
+      <navLabel>
+        <text>མཁན་སློབ་ཆོས་གསུམ་གྱི་གསོལ་འདེབས་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head19.html" />
+    </navPoint>
+    <navPoint id="ch42" playOrder="21">
+      <navLabel>
+        <text>གདུང་འབོད་གསོལ་འདེབས་འཆི་མེད་རྡོ་རྗེའི་རྔ་སྒྲ།</text>
+      </navLabel>
+      <content src="head20.html" />
+    </navPoint>
+    <navPoint id="ch44" playOrder="22">
+      <navLabel>
+        <text>གསོལ་འདེབས་རྡོ་རྗེའི་ཚིག་རྐང་གི་རྣམ་བཤད་པདྨའི་དགོངས་རྒྱན།</text>
+      </navLabel>
+      <content src="head21.html" />
+    </navPoint>
+    <navPoint id="ch46" playOrder="23">
+      <navLabel>
+        <text>གུ་རུའི་གསོལ་འདེབས་བར་ཆད་ཀུན་སེལ་བསམ་དོན་མྱུར་འགྲུབ།</text>
+      </navLabel>
+      <content src="head22.html" />
+    </navPoint>
+    <navPoint id="ch48" playOrder="24">
+      <navLabel>
+        <text>པདྨ་ཐོད་ཕྲེང་རྩལ་ལ་གསོལ་བ་འདེབས་པ།</text>
+      </navLabel>
+      <content src="head23.html" />
+    </navPoint>
+    <navPoint id="ch50" playOrder="25">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་ཐུགས་དམ་རྒྱུད་བསྐུལ།</text>
+      </navLabel>
+      <content src="head24.html" />
+    </navPoint>
+    <navPoint id="ch52" playOrder="26">
+      <navLabel>
+        <text>རྨི་ལམ་ལ་བསྩལ་པའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head25.html" />
+    </navPoint>
+    <navPoint id="ch54" playOrder="27">
+      <navLabel>
+        <text>ཟངས་མདོག་དཔལ་རིའི་སྨོན་ལམ།</text>
+      </navLabel>
+      <content src="head26.html" />
+    </navPoint>
+    <navPoint id="ch56" playOrder="28">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head27.html" />
+    </navPoint>
+    <navPoint id="ch58" playOrder="29">
+      <navLabel>
+        <text>དད་པའི་ཤིང་རྟ།</text>
+      </navLabel>
+      <content src="head28.html" />
+    </navPoint>
+    <navPoint id="ch60" playOrder="30">
+      <navLabel>
+        <text>ཀུན་འདུས་གུ་རུ་རྗེ་ལ་གསོལ་འདེབས་བྱིན་རླབས་མུ་ཏིག་ཟེགས་མ།</text>
+      </navLabel>
+      <content src="head29.html" />
+    </navPoint>
+    <navPoint id="ch62" playOrder="31">
+      <navLabel>
+        <text>སྔགས་འཆང་བེ་ཅུ་བུ་རིང་གིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head30.html" />
+    </navPoint>
+    <navPoint id="ch64" playOrder="32">
+      <navLabel>
+        <text>ཀརྨ་ཚུལ་ཁྲིམས་རབ་བརྟན་གྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head31.html" />
+    </navPoint>
+    <navPoint id="ch66" playOrder="33">
+      <navLabel>
+        <text>ཀུན་བཟང་ཀློང་ཡངས་ཀྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head32.html" />
+    </navPoint>
+    <navPoint id="ch68" playOrder="34">
+      <navLabel>
+        <text>ངག་དབང་རིན་ཆེན་གྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head33.html" />
+    </navPoint>
+    <navPoint id="ch70" playOrder="35">
+      <navLabel>
+        <text>ཉིན་རྫོང་དགེ་བཤེས་ཀྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head34.html" />
+    </navPoint>
+    <navPoint id="ch72" playOrder="36">
+      <navLabel>
+        <text>པདྨ་མགོན་པོས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head35.html" />
+    </navPoint>
+    <navPoint id="ch74" playOrder="37">
+      <navLabel>
+        <text>པདྨ་ས་བཅུས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head36.html" />
+    </navPoint>
+    <navPoint id="ch76" playOrder="38">
+      <navLabel>
+        <text>བསོད་ནམས་རིན་ཆེན་གྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head37.html" />
+    </navPoint>
+    <navPoint id="ch78" playOrder="39">
+      <navLabel>
+        <text>དད་ལྡན་གྱིས་བསྐུལ་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head38.html" />
+    </navPoint>
+    <navPoint id="ch80" playOrder="40">
+      <navLabel>
+        <text>གུ་རུ་རིན་པོ་ཆེའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head39.html" />
+    </navPoint>
+    <navPoint id="ch82" playOrder="41">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head40.html" />
+    </navPoint>
+    <navPoint id="ch84" playOrder="42">
+      <navLabel>
+        <text>པདྨ་བཛྲའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head41.html" />
+    </navPoint>
+    <navPoint id="ch86" playOrder="43">
+      <navLabel>
+        <text>པདྨ་ཐོད་ཕྲེང་ལ་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head42.html" />
+    </navPoint>
+    <navPoint id="ch88" playOrder="44">
+      <navLabel>
+        <text>མ་རིག་གཉིད་སྐྲོག</text>
+      </navLabel>
+      <content src="head43.html" />
+    </navPoint>
+    <navPoint id="ch90" playOrder="45">
+      <navLabel>
+        <text>གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།</text>
+      </navLabel>
+      <content src="head44.html" />
+    </navPoint>
+    <navPoint id="ch92" playOrder="46">
+      <navLabel>
+        <text>རྡོ་རྗེ་ཚིག་རྐང་དྲུག་གི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head45.html" />
+    </navPoint>
+    <navPoint id="ch94" playOrder="47">
+      <navLabel>
+        <text>བླ་མའི་ཐུགས་སྒྲུབ་ཡིད་བཞིན་ནོར་བུ་ལས༔ གསོལ་འདེབས་བསམ་པ་ལྷུན་གྲུབ༔</text>
+      </navLabel>
+      <content src="head46.html" />
+    </navPoint>
+    <navPoint id="ch96" playOrder="48">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་ཞལ་ཆེམས་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head47.html" />
+    </navPoint>
+    <navPoint id="ch98" playOrder="49">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རྣམ་ཐར་དཔག་བསམ་ལྗོན་ཤིང་༔</text>
+      </navLabel>
+      <content src="head48.html" />
+    </navPoint>
+    <navPoint id="ch100" playOrder="50">
+      <navLabel>
+        <text>ཟངས་མདོག་དཔལ་རི་རྒྱུ་ལམ་འབྲས་བུ་གསུམ་གྱི་སྨོན་ལམ།</text>
+      </navLabel>
+      <content src="head49.html" />
+    </navPoint>
+    <navPoint id="ch102" playOrder="51">
+      <navLabel>
+        <text>ལྷ་ལྕམ་མནྡ་ར་བའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head50.html" />
+    </navPoint>
+    <navPoint id="ch104" playOrder="52">
+      <navLabel>
+        <text>བསམ་ལྷུན་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head51.html" />
+    </navPoint>
+    <navPoint id="ch106" playOrder="53">
+      <navLabel>
+        <text>ཚེས་བཅུའི་མཛད་པ་རྗེས་དྲན།</text>
+      </navLabel>
+      <content src="head52.html" />
+    </navPoint>
+    <navPoint id="ch108" playOrder="54">
+      <navLabel>
+        <text>གསོལ་འདེབས་དངོས་གྲུབ་ཀུན་འབྱུང་།</text>
+      </navLabel>
+      <content src="head53.html" />
+    </navPoint>
+    <navPoint id="ch110" playOrder="55">
+      <navLabel>
+        <text>དཔལ་རིའི་སྨོནལམ་ཡེ་ཤེས་གསང་ལམ།</text>
+      </navLabel>
+      <content src="head54.html" />
+    </navPoint>
+    <navPoint id="ch112" playOrder="56">
+      <navLabel>
+        <text>གསོལ་འདེབས་རྡོ་རྗེའི་རྔ་སྒྲ།</text>
+      </navLabel>
+      <content src="head55.html" />
+    </navPoint>
+    <navPoint id="ch114" playOrder="57">
+      <navLabel>
+        <text>པདྨ་འབྱུང་གནས་ལ་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head56.html" />
+    </navPoint>
+    <navPoint id="ch116" playOrder="58">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རྡོ་རྗེ་འཆང་གི་གསོལ་འདེབས། །</text>
+      </navLabel>
+      <content src="head57.html" />
+    </navPoint>
+    <navPoint id="ch118" playOrder="59">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རྡོ་རྗེ་འཆང་གི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head58.html" />
+    </navPoint>
+    <navPoint id="ch120" playOrder="60">
+      <navLabel>
+        <text>དཔལ་རིའི་སྨོན་ལམ།</text>
+      </navLabel>
+      <content src="head59.html" />
+    </navPoint>
+    <navPoint id="ch122" playOrder="61">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རྡོ་རྗེ་འཆང་གི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head60.html" />
+    </navPoint>
+    <navPoint id="ch124" playOrder="62">
+      <navLabel>
+        <text>གུ་རུ་པདྨའི་གསོལ་སྨོན༌།</text>
+      </navLabel>
+      <content src="head61.html" />
+    </navPoint>
+    <navPoint id="ch126" playOrder="63">
+      <navLabel>
+        <text>ཨོ་རྒྱན་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཕུང་།</text>
+      </navLabel>
+      <content src="head62.html" />
+    </navPoint>
+    <navPoint id="ch128" playOrder="64">
+      <navLabel>
+        <text>གུ་རུ་བདེ་བ་ཆེན་པོ་ལ་གསོལ་འདེབས་འཁྲུལ་སྣང་ཀུན་སེལ།</text>
+      </navLabel>
+      <content src="head63.html" />
+    </navPoint>
+    <navPoint id="ch130" playOrder="65">
+      <navLabel>
+        <text>ངོ་བོ་བློ་འདས་སྤྲོས་པ་བྲལ་བའི་དབྱིངས།</text>
+      </navLabel>
+      <content src="head64.html" />
+    </navPoint>
+    <navPoint id="ch132" playOrder="66">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head65.html" />
+    </navPoint>
+    <navPoint id="ch134" playOrder="67">
+      <navLabel>
+        <text>རྩ་གསུམ་ཀུན་འདུས་རྒྱལ་དབང་པདྨ་འབྱུང༌།</text>
+      </navLabel>
+      <content src="head66.html" />
+    </navPoint>
+    <navPoint id="ch136" playOrder="68">
+      <navLabel>
+        <text>མ་ཧཱ་གུ་རུ་ཡབ་ཡུམ་ལ་གསོལ་འདེབས་བྱིན་རླབས་བཅུད་འབེབ།</text>
+      </navLabel>
+      <content src="head67.html" />
+    </navPoint>
+    <navPoint id="ch138" playOrder="69">
+      <navLabel>
+        <text>སློབ་དཔོན་གསོལ་འདེབས་བསམ་དོན་རེ་སྐོང་།</text>
+      </navLabel>
+      <content src="head68.html" />
+    </navPoint>
+    <navPoint id="ch140" playOrder="70">
+      <navLabel>
+        <text>སྐྱབས་ཀུན་འདུས་པའི་བདག་ཉིད་ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་འདེབས་གྲུབ་གཉིས་མཆོག་སྩོལ།</text>
+      </navLabel>
+      <content src="head69.html" />
+    </navPoint>
+    <navPoint id="ch142" playOrder="71">
+      <navLabel>
+        <text>དཔལ་ཨོ་རྒྱན་ཆོས་ཀྱི་རྒྱལ་པོ་ལ་གསོལ་འདེབས་བསམ་དོན་མྱུར་འགྲུབ།</text>
+      </navLabel>
+      <content src="head70.html" />
+    </navPoint>
+    <navPoint id="ch144" playOrder="72">
+      <navLabel>
+        <text>གུ་རུའི་གསོལ་འདེབས་དུས་གསུམ་སངས་རྒྱས་ཀྱི་འགྲེལ་པ་རྡོ་རྗེའི་ཚིག་གི་སྦས་འབྱེད།</text>
+      </navLabel>
+      <content src="head71.html" />
+    </navPoint>
+    <navPoint id="ch146" playOrder="73">
+      <navLabel>
+        <text>བསླུ་མེད་སྐྱབས་ཀྱི་སྙིང་པོ་པདྨ་འབྱུང༌།</text>
+      </navLabel>
+      <content src="head72.html" />
+    </navPoint>
+    <navPoint id="ch148" playOrder="74">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་བ་འདེབས་པ་དུས་ངན་སྙིགས་མའི་རྐྱེན་བཟློག</text>
+      </navLabel>
+      <content src="head73.html" />
+    </navPoint>
+    <navPoint id="ch150" playOrder="75">
+      <navLabel>
+        <text>ཨོ་རྒྱན་གུ་རུ་རིན་པོ་ཆེའི་རྣམ་ཐར་བཀའི་ཐང་ཡིག་གི་དོན་བསྡུས་གསོལ་འདེབས་ངོ་མཚར་ཨུ་དུམྦ་རའི་ཕྲེང་མཛེས།</text>
+      </navLabel>
+      <content src="head74.html" />
+    </navPoint>
+    <navPoint id="ch152" playOrder="76">
+      <navLabel>
+        <text>སློབ་དཔོན་རིན་པོ་ཆེ་པདྨ་འབྱུང་གནས་ལ་གསོལ་འདེབས་པ་བསམ་དོན་མྱུར་གྲུབ།</text>
+      </navLabel>
+      <content src="head75.html" />
+    </navPoint>
+    <navPoint id="ch154" playOrder="77">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་སྤྱིའི་རྟེན་བསྐྱེད།</text>
+      </navLabel>
+      <content src="head76.html" />
+    </navPoint>
+    <navPoint id="ch156" playOrder="78">
+      <navLabel>
+        <text>པདྨ་འོད་དུ་བགྲོད་པའི་སྨོན་ལམ་རིག་པ་འཛིན་པའི་ཤིང་རྟ།</text>
+      </navLabel>
+      <content src="head77.html" />
+    </navPoint>
+    <navPoint id="ch158" playOrder="79">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རྗེ་འབངས་ཉེར་ལྔ་འཁོར་བཅས་ལ་གསོལ་བ་འདེབས་པ་མདོར་བསྡུས་བྱིན་རླབས་སྙིང་པོ།</text>
+      </navLabel>
+      <content src="head78.html" />
+    </navPoint>
+    <navPoint id="ch160" playOrder="80">
+      <navLabel>
+        <text>སྐྱབས་གནས་ཀུན་འདུས་ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་འདེབས་བར་ཆད་རྐྱེན་བཟློག</text>
+      </navLabel>
+      <content src="head79.html" />
+    </navPoint>
+    <navPoint id="ch162" playOrder="81">
+      <navLabel>
+        <text>བླ་མ་ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་འདེབས་སྨོན་ལམ་དུ་བྱ་བ་དངོས་གྲུབ་འདོད་འཇོའི་དགའ་སྟོན།</text>
+      </navLabel>
+      <content src="head80.html" />
+    </navPoint>
+    <navPoint id="ch164" playOrder="82">
+      <navLabel>
+        <text>ཚེས་བཅུའི་ཕན་ཡོན་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head81.html" />
+    </navPoint>
+    <navPoint id="ch166" playOrder="83">
+      <navLabel>
+        <text>དུས་གསུམ་སངས་རྒྱས་ཀུན་གྱི་ཐུགས་རྗེའི་གཏེར།</text>
+      </navLabel>
+      <content src="head82.html" />
+    </navPoint>
+    <navPoint id="ch168" playOrder="84">
+      <navLabel>
+        <text>ཟངས་མདོག་དཔལ་རིའི་སྨོན་ལམ་དཔལ་རིའི་གསང་ལམ༔</text>
+      </navLabel>
+      <content src="head83.html" />
+    </navPoint>
+    <navPoint id="ch170" playOrder="85">
+      <navLabel>
+        <text>སྐུ་གསུམ་ཞིང་ཁམས་སྦྱོང་བའི་གསོལ་འདེབས་སྨོན་ལམ།</text>
+      </navLabel>
+      <content src="head84.html" />
+    </navPoint>
+    <navPoint id="ch172" playOrder="86">
+      <navLabel>
+        <text>བར་ཆད་ལམ་སེལ་ཤིན་ཏུ་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head85.html" />
+    </navPoint>
+    <navPoint id="ch174" playOrder="87">
+      <navLabel>
+        <text>བསམ་ལྷུན་ཤིན་ཏུ་བསྡུས་པ།</text>
+      </navLabel>
+      <content src="head86.html" />
+    </navPoint>
+    <navPoint id="ch176" playOrder="88">
+      <navLabel>
+        <text>བར་ཆད་ཀུན་སེལ་ཟབ་འདུས་ཀུན་ཚིག་བདུན་མ།</text>
+      </navLabel>
+      <content src="head87.html" />
+    </navPoint>
+    <navPoint id="ch178" playOrder="89">
+      <navLabel>
+        <text>ཨོ་རྒྱན་ཆེན་པོའི་ཐུགས་དམ་བསྐུལ་བྱེད་གསོལ་འདེབས་འདོད་དོན་ལྷུན་གྲུབ།</text>
+      </navLabel>
+      <content src="head88.html" />
+    </navPoint>
+    <navPoint id="ch180" playOrder="90">
+      <navLabel>
+        <text>རིགས་འདུས་བླ་མ་མཚོ་སྐྱེས་རྡོ་རྗེའི། གསོལ་འདེབས་དཔག་བསམ་ལྗོན་ཤིང་བཞུགས།</text>
+      </navLabel>
+      <content src="head89.html" />
+    </navPoint>
+    <navPoint id="ch182" playOrder="91">
+      <navLabel>
+        <text>གུ་རུ་རིན་པོ་ཆེའི་ཐུགས་རྒྱུད་བསྐུལ་བྱེད་བསམ་པ་མྱུར་འགྲུབ་འཕྲིན་ལས་འགོགས་མེད་ཕྱོགས་ལས་རྣམ་རྒྱལ།</text>
+      </navLabel>
+      <content src="head90.html" />
+    </navPoint>
+    <navPoint id="ch184" playOrder="92">
+      <navLabel>
+        <text>པདྨ་འབྱུང་གནས་ལ་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head91.html" />
+    </navPoint>
+    <navPoint id="ch186" playOrder="93">
+      <navLabel>
+        <text>ཨུ་རྒྱན་རིན་པོ་ཆེའི་རྣམ་ཐར་མཛད་པ་བཅུ་གཅིག་གི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཕུང་།</text>
+      </navLabel>
+      <content src="head92.html" />
+    </navPoint>
+    <navPoint id="ch188" playOrder="94">
+      <navLabel>
+        <text>ཨོ་རྒྱན་ཚེས་བཅུའི་བསྐུལ་ཐབས༔</text>
+      </navLabel>
+      <content src="head93.html" />
+    </navPoint>
+    <navPoint id="ch190" playOrder="95">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེར་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head94.html" />
+    </navPoint>
+    <navPoint id="ch192" playOrder="96">
+      <navLabel>
+        <text>པདྨ་འབྱུང་གནས་སོགས་ཀྱི་གསོལ་གདེབས།</text>
+      </navLabel>
+      <content src="head95.html" />
+    </navPoint>
+    <navPoint id="ch194" playOrder="97">
+      <navLabel>
+        <text>རྒྱལ་དབང་པདྨ་ཀཱ་རའི་ཐུགས་དམ་ཟབ་བསྐུལ་མཐའ་དམག་ཟློག་བྱེད་རྡོ་རྗེའི་འཁྲུལ་འཁོར།</text>
+      </navLabel>
+      <content src="head96.html" />
+    </navPoint>
+    <navPoint id="ch196" playOrder="98">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་བསམ་པ་ལྷུན་འགྲུབ་མ༔</text>
+      </navLabel>
+      <content src="head97.html" />
+    </navPoint>
+    <navPoint id="ch198" playOrder="99">
+      <navLabel>
+        <text>གསོལ་འདེབས་བར་ཆད་ལམ་སེལ།</text>
+      </navLabel>
+      <content src="head98.html" />
+    </navPoint>
+    <navPoint id="ch200" playOrder="100">
+      <navLabel>
+        <text>ཨོ་རྒྱན་རིན་པོ་ཆེའི་གསོལ་འདེབས་བསམ་པ་ལྷུན་གྲུབ་བཞུགས།</text>
+      </navLabel>
+      <content src="head99.html" />
+    </navPoint>
+    <navPoint id="ch202" playOrder="101">
+      <navLabel>
+        <text>གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ།</text>
+      </navLabel>
+      <content src="head100.html" />
+    </navPoint>
+    <navPoint id="ch204" playOrder="102">
+      <navLabel>
+        <text>སངས་རྒྱས་དངོས་བྱོན་ཨོ་རྒྱན་རིན་པོ་ཆེ།</text>
+      </navLabel>
+      <content src="head101.html" />
+    </navPoint>
+    <navPoint id="ch206" playOrder="103">
+      <navLabel>
+        <text>བཀའ་བསྡུས།</text>
+      </navLabel>
+      <content src="head102.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,451 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/mipham/great-perfection-manjushri",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཇམ་དཔལ་རྫོགས་པ་ཆེན་པོའི་གཞི་ལམ་འབྲས་བུ་དབྱེར་མེད་པའི་དོན་ལ་སྨོན་པ་རིག་སྟོང་རྡོ་རྗེའི་རང་གདངས་ཞེས་བྱ་བ་བཞུགས།",
+    "en": "The Self-Radiance of Indestructible Awareness and Emptiness"
+  },
+  "text": [
+    {
+      "bo": "ཕྱོགས་བཅུ་དུས་བཞིའི་བདེ་གཤེགས་སྲས་བཅས་ཀྱི། །",
+      "en": "You embody the wisdom of all the bliss-gone buddhas and their heirs",
+      "en-trans": "chok chu dü zhi deshek sé ché kyi"
+    },
+    {
+      "bo": "ཡེ་ཤེས་སྐུར་གྱུར་གཉིས་མེད་ཚུལ་འཆང་བ། །",
+      "en": "Throughout the ten directions and four times, and keep to the way of non-duality –",
+      "en-trans": "yeshe kur gyur nyimé tsul changwa"
+    },
+    {
+      "bo": "འཇམ་དཔལ་གཞོན་ནུ་མཉམ་པ་ཉིད་ཀྱི་ངང་། །",
+      "en": "Ever-youthful Mañjuśrī, ‘Gentle Splendour,’ the state of perfect equality:",
+      "en-trans": "jampel zhönnu nyampa nyi kyi ngang"
+    },
+    {
+      "bo": "བྱར་མེད་དོན་ལ་ལྷུན་གྱིས་གྲུབ་གྱུར་ཅིག །",
+      "en": "May we spontaneously perfect the real meaning of non-action!",
+      "en-trans": "char mé dön la lhun gyi drub gyur chik"
+    },
+    {
+      "bo": "གདོད་མའི་མགོན་པོ་དཔལ་ལྡན་བླ་མ་ལ། །",
+      "en": "With the devotion of viewing the primordial protector and glorious guru",
+      "en-trans": "dö mé gönpo palden lama la"
+    },
+    {
+      "bo": "མཉམ་ཉིད་ཆོས་སྐུར་ལྟ་བའི་མོས་གུས་ཀྱིས། །",
+      "en": "As the enlightened body of truth, the dharmakāya of perfect equality,",
+      "en-trans": "nyam nyi chökur tawé mögü kyi"
+    },
+    {
+      "bo": "དོན་བརྒྱུད་དགོངས་པའི་བྱིན་རླབས་སྙིང་ལ་འཕོས།  །",
+      "en": "May the inspiration of the ultimate lineage be transferred into our hearts,",
+      "en-trans": "dön gyü gongpé chinlap nying la pö"
+    },
+    {
+      "bo": "རིག་པ་རྩལ་གྱི་དབང་ཆེན་ཐོབ་པར་ཤོག །",
+      "en": "And may we gain the great empowerment of the expression of awareness!",
+      "en-trans": "rigpa tsel gyi wangchen tobpar shok"
+    },
+    {
+      "bo": "ཡེ་ནས་གནས་ཕྱིར་རྩོལ་བས་བསྒྲུབ་པ་དང་། །",
+      "en": "Primordially present and thus not forged through exertion,",
+      "en-trans": "yé né né chir tsolwé drubpa dang"
+    },
+    {
+      "bo": "དབང་པོའི་ཁྱད་པར་སོགས་ལ་མི་ལྟོས་ཀྱང་། །",
+      "en": "It does not depend on capacity or constitution;",
+      "en-trans": "wangpö khyepar sok la mi tö kyang"
+    },
+    {
+      "bo": "སླ་བས་ཡིད་མ་ཆེས་པ་སེམས་ཀྱི་གསང་། །",
+      "en": "As it is so simple, we doubt this mystery of the mind:",
+      "en-trans": "lawé yi ma chepa sem kyi sang"
+    },
+    {
+      "bo": "བླ་མའི་མན་ངག་སྟོབས་ཀྱིས་མཐོང་གྱུར་ཅིག །",
+      "en": "Let the guru’s instructions give us the strength to see!",
+      "en-trans": "lamé mengak tob kyi tong gyur chik"
+    },
+    {
+      "bo": "སྤྲོས་ཤིང་དཔྱད་པ་ཀུན་རྟོག་སྣོན་མ་སྟེ། །",
+      "en": "Elaboration and analysis are superfluities of thought,",
+      "en-trans": "trö shing chépa kün tok nönma té"
+    },
+    {
+      "bo": "བཙལ་ཞིང་སྒྲུབ་པ་རང་ཉིད་ངལ་བའི་རྒྱུ།  །",
+      "en": "While seeking and cultivating serve only to exhaust.",
+      "en-trans": "tsal zhing drubpa rang nyi ngelwé gyu"
+    },
+    {
+      "bo": "དམིགས་ཤིང་བསྒོམ་པ་ཕྱིར་ཞིང་འཆིང་བའི་གཟེབ། །",
+      "en": "Focusing and meditating are traps that merely bind –",
+      "en-trans": "mik shing gompa shir zhing chingwé zeb"
+    },
+    {
+      "bo": "ཟུག་རྔུའི་སྤྲོས་པ་ནང་ནས་ཆོད་པར་ཤོག །",
+      "en": "Let such painful complexity cease within the mind!",
+      "en-trans": "zukngü tröpa nang né chöpar shok"
+    },
+    {
+      "bo": "བསམ་བརྗོད་བྲལ་ལ་མཐོང་བ་གང་མེད་ཀྱང་། །",
+      "en": "Beyond thought and expression, there’s nothing that is seen.",
+      "en-trans": "sam jö dral la tongwa gang mé kyang"
+    },
+    {
+      "bo": "མ་མཐོང་ལྷག་མར་གྱུར་བ་གང་ཡང་མེད། །",
+      "en": "Nor is there more to it, something additional, unseen.",
+      "en-trans": "ma tong lhagmar gyurpa gang yang mé"
+    },
+    {
+      "bo": "རང་སེམས་ཁོ་ཐག་ཆོད་པ་ཟབ་མོའི་དོན། །",
+      "en": "This is the profound point for the mind to ascertain.",
+      "en-trans": "rang sem kho takchöpa zabmö dön"
+    },
+    {
+      "bo": "མཚོན་པར་དཀའ་བའི་དེ་ཉིད་རྟོགས་པར་ཤོག །",
+      "en": "May we realize this nature, so hard to point to and make plain!",
+      "en-trans": "tsönpar kawé dé nyi tokpar shok"
+    },
+    {
+      "bo": "སྤྲོས་ཀུན་ཀ་ནས་དག་ཕྱིར་ཡོད་མཐའ་སྦངས། །",
+      "en": "Always pure, without complexity, it avoids the eternalist extreme.",
+      "en-trans": "trö kun ka né dak chir yö ta pang"
+    },
+    {
+      "bo": "རིག་གདངས་ལྷུན་གྱིས་གྲུབ་པས་མེད་མཐའ་བྲལ། །",
+      "en": "Rigpa’s radiance is spontaneously present, not a nihilistic void.",
+      "en-trans": "rig dang lhün gyi drubpé mé ta dral"
+    },
+    {
+      "bo": "གཉིས་སུ་བརྗོད་ཀྱང་རྟོག་པས་འཇུག་ཚུལ་ཙམ། །",
+      "en": "Although spoken of as two, that’s for ease of comprehension:",
+      "en-trans": "nyi su jö kyang tokpé juk tsul tsam"
+    },
+    {
+      "bo": "དབྱེར་མེད་བརྗོད་བྲལ་མཉམ་པའི་དོན་མཐོང་ཤོག །",
+      "en": "May we see the meaning of equality, beyond division and description!",
+      "en-trans": "yermé jö dral nyampé dön tong shok"
+    },
+    {
+      "bo": "འདི་ན་མཛུབ་མོས་ཟླ་བ་ཇི་བཞིན་དུ། །",
+      "en": "Like a finger pointing to the moon,",
+      "en-trans": "di na tsubmö dawa ji zhin du"
+    },
+    {
+      "bo": "དང་པོར་ཡིད་དཔྱོད་ཚིག་གིས་མཚོན་བྱས་ཀྱང་། །",
+      "en": "Reasoning and words show the way at first.",
+      "en-trans": "dang por yichö tsik gi tsön ché kyang"
+    },
+    {
+      "bo": "ཆོས་ཉིད་རང་བབས་ཡིད་དཔྱོད་ཡུལ་ལས་འདས། །",
+      "en": "But the natural state is no object of thought,",
+      "en-trans": "chö nyi rang bab yichö yul lé dé"
+    },
+    {
+      "bo": "རང་གིས་རང་ལ་བླན་ཏེ་མཐོང་བར་ཤོག །",
+      "en": "So let us turn within and thereby truly see!",
+      "en-trans": "rang gi rang la len té tongwar shok"
+    },
+    {
+      "bo": "འདི་ལ་བསལ་བར་བྱ་བ་མ་མཐོང་ཞིང་། །",
+      "en": "In this, you won't find anything to be removed,",
+      "en-trans": "di la salwar chawa ma tong zhing"
+    },
+    {
+      "bo": "བཞག་སྟེ་སྒྲུབ་པར་བྱ་བ་མ་དམིགས་པས། །",
+      "en": "Nor conceive of what could be added or produced.",
+      "en-trans": "zhak té drubpar chawa ma mikpé"
+    },
+    {
+      "bo": "དགག་སྒྲུབ་རྩོལ་བས་མ་བསླད་ཆོས་ཉིད་ངང་། །",
+      "en": "Dharmatā is unstained by efforts to block or cultivate:",
+      "en-trans": "gak drup tsolwé ma lé chönyi ngang"
+    },
+    {
+      "bo": "ལྷུན་གྱིས་གནས་པའི་དོན་ལ་འཇུག་པར་ཤོག །",
+      "en": "May we arrive at the state that's spontaneously present!",
+      "en-trans": "lhun gyi népé dön la jukpar shok"
+    },
+    {
+      "bo": "ཤེས་བྱའི་གཞི་དང་བགྲོད་པར་བྱེད་པའི་ལམ། །",
+      "en": "Although we might label aground to be known,",
+      "en-trans": "shé jé zhi dang dröpar chépé lam"
+    },
+    {
+      "bo": "ཐོབ་བྱ་འབྲས་བུའི་ཆོས་སུ་བཏགས་པ་ཡང་། །",
+      "en": "Path to be followed, orfruition to be attained,",
+      "en-trans": "tobja drebü chö su takpa yang"
+    },
+    {
+      "bo": "རང་བཞིན་གཤིས་ལ་ནམ་མཁའི་གོ་རིམ་འདྲ། །",
+      "en": "In the natural state, these are like levels of space:",
+      "en-trans": "rang zhin shi la namkhé gorim dra"
+    },
+    {
+      "bo": "བྱར་མེད་དོན་ལ་ལྷུན་གྱིས་གནས་པར་ཤོག །",
+      "en": "Effortlessly, then, may we keep to true non-action!",
+      "en-trans": "char mé dön la lhun gyi népar shok"
+    },
+    {
+      "bo": "འཁྲུལ་བས་སྒྲོ་བཏགས་མ་དག་འཁོར་བའི་ཆོས། །",
+      "en": "Impure saṃsāric phenomena, conceived in delusion,",
+      "en-trans": "trulwé dro tak ma dak khorwé chö"
+    },
+    {
+      "bo": "དེ་ལས་ལོག་པ་དག་པའི་སྣང་བ་ཡང་། །",
+      "en": "And their opposites too, labelled ‘pure appearance’,",
+      "en-trans": "dé lé lokpa dakpé nangwa yang"
+    },
+    {
+      "bo": "ལྟོས་ནས་བཏགས་པ་རྣམ་པར་སྤྲོས་པའི་ཆོས། །",
+      "en": "Are dependent designations, elaborate projections:",
+      "en-trans": "tö né takpa nampar tröpé chö"
+    },
+    {
+      "bo": "སྤྲོས་མེད་གཤིས་ལ་མི་གནས་མཐོང་གྱུར་ཅིག །",
+      "en": "May we see their absence in the unelaborate condition!",
+      "en-trans": "trömé shi la mi né tong gyur chik"
+    },
+    {
+      "bo": "བློ་བྲལ་ཆོས་ཉིད་གཤིས་ཀྱི་བཞུགས་ཚུལ་ལ། །",
+      "en": "The actual nature as it is, beyond the ordinary mind,",
+      "en-trans": "lo dral chö nyi shi kyi zhuk tsul la"
+    },
+    {
+      "bo": "ལྟ་དང་སྒོམ་པས་བསླད་ཀྱིན་རྟོག་པས་སྒྲིབ། །",
+      "en": "Is obscured by tainted notions of view and meditation.",
+      "en-trans": "ta dang gompé lé kyi tokpé drip"
+    },
+    {
+      "bo": "ཐ་མལ་གཤིས་སུ་སོན་ལ་ལྟ་སྒོམ་བྲལ། །",
+      "en": "In true ordinariness there is neither theory nor practice:",
+      "en-trans": "tamal shi su sön la ta gom dral"
+    },
+    {
+      "bo": "རྣལ་མའི་དོན་ལ་བབ་ཀྱིས་གནས་གྱུར་ཅིག །",
+      "en": "May we naturally remain in the genuine condition!",
+      "en-trans": "nalmé dön la bab kyi né gyur chik"
+    },
+    {
+      "bo": "གང་ལ་དམིགས་པར་བྱ་བ་ལྟ་བའི་དུག །",
+      "en": "To focus on anything only poisons the view,",
+      "en-trans": "gang la mikpar chawa tawé duk"
+    },
+    {
+      "bo": "གང་ཞིག་རྩོལ་བས་ཟིན་པ་སྒོམ་པའི་སྐྱོན།  །",
+      "en": "Deliberate fixation is but a meditative flaw,",
+      "en-trans": "gang zhik tsolwé zinpa gompé kyön"
+    },
+    {
+      "bo": "གང་ལ་བླང་དོར་བྱ་བ་སྤྱོད་པའི་འཕྲང་། །",
+      "en": "Adopting and avoiding are perilous to action:",
+      "en-trans": "gang la langdor chawa chöpé trang"
+    },
+    {
+      "bo": "ཟུག་རྔུ་ཀུན་བྲལ་ཆོས་ཉིད་མཐོང་བར་ཤོག །",
+      "en": "May we see the nature beyond such affliction!",
+      "en-trans": "zukngu kun dral chö nyi tongwar shok"
+    },
+    {
+      "bo": "སྤྲོས་པའི་གཟེབ་ཏུ་མ་ཚུད་རིག་པའི་གདངས། །",
+      "en": "Directly seeing what transcends the ordinary mind:",
+      "en-trans": "tröpé zeb tu ma tsü rigpé dang"
+    },
+    {
+      "bo": "བློ་བྲལ་མངོན་སུམ་མཐོང་ལ་ཡིད་དཔྱོད་ཀྱི། །",
+      "en": "Rigpa’s radiance that’s not conceptually confined,",
+      "en-trans": "lo dral ngönsum tong la yichö kyi"
+    },
+    {
+      "bo": "ཞགས་པས་མཁའ་ལ་མདུད་པ་མི་འདོར་བར། །",
+      "en": "Without binding the sky in the rope of conjecture,",
+      "en-trans": "zhakpé kha la düpa mi dorwar"
+    },
+    {
+      "bo": "རང་བཞག་རྣལ་མའི་དོན་ལ་མཁས་གྱུར་ཅིག །",
+      "en": "Let us master the genuine state of natural rest!",
+      "en-trans": "rangzhak nalmé dön la khé gyur chik"
+    },
+    {
+      "bo": "དེ་ཚེ་རང་རིག་གཞོན་ནུ་བུམ་པ་སྐུའི། །",
+      "en": "The Gentle Voiced — Mañjughoṣa — of natural luminosity",
+      "en-trans": "dé tsé rang rig zhön nu bumpa kü"
+    },
+    {
+      "bo": "མཁྱེན་ཆ་རང་འོད་གསལ་བ་འཇམ་པའི་དབྱངས། །",
+      "en": "Is the cognizance of self-awareness, the youthful vase body:",
+      "en-trans": "khyen cha rang ösalwa jampé yang"
+    },
+    {
+      "bo": "ཤེས་རབ་རང་བྱུང་སྒྲོན་མའི་སྣང་བ་ཡིས། །",
+      "en": "May the brilliant lamp of naturally arisen insight",
+      "en-trans": "sherab rang jung drönmé nangwa yi"
+    },
+    {
+      "bo": "སྒྲིབ་པའི་མུན་པ་འཐིབ་པོ་འཇོམས་གྱུར་ཅིག །",
+      "en": "Banish the dense darkness of mind’s obscurations!",
+      "en-trans": "dribpé münpa tibpo jom gyur chik"
+    },
+    {
+      "bo": "མ་བཅོས་འདུས་མ་བྱས་པའི་ཆོས་ཉིད་ལ། །",
+      "en": "In the nature, which is uncompounded and uncontrived,",
+      "en-trans": "ma chö dü ma chépé chönyi la"
+    },
+    {
+      "bo": "བཅོས་མའི་ལམ་གྱིས་གསར་དུ་བསྒྲུབ་མེད་པས། །",
+      "en": "Nothing can be generated anew through fabricated paths,",
+      "en-trans": "chömé lam gyi sar du drup mépé"
+    },
+    {
+      "bo": "རྒྱུ་ལས་མ་བྱུང་མཐར་ཐུག་འབྲས་བུའི་དོན། །",
+      "en": "Which is why the ultimate fruit does not arise from a cause.",
+      "en-trans": "gyu lé ma jung tartuk drébüi dön"
+    },
+    {
+      "bo": "རང་ལ་ཡེ་ནས་གནས་པ་མཐོང་བར་ཤོག །",
+      "en": "May we come to see what is, and always has been, within!",
+      "en-trans": "rang la yé né nepa tongwar shok"
+    },
+    {
+      "bo": "ཡིད་དཔྱོད་ཚིག་གི་སྦུན་པ་འཁྲུལ་བའི་ལམ། །",
+      "en": "Husk-like words of speculative ideas lead only to delusion:",
+      "en-trans": "yichö tsik gi punpa trulwé lam"
+    },
+    {
+      "bo": "ཇི་ལྟར་བརྗོད་ཀྱང་རྟོག་པའི་དྲྭ་བ་སྟེ། །",
+      "en": "However they’re expressed, they entangle us in thought.",
+      "en-trans": "jitar jö kyang tokpé drawa té"
+    },
+    {
+      "bo": "ལུང་ལས་མ་བྱུང་རང་གིས་རིག་བྱ་བའི། །",
+      "en": "Let us practise instead the heart’s profound instructions,",
+      "en-trans": "lung lé ma jung rang gi rig chawé"
+    },
+    {
+      "bo": "མན་ངག་ཟབ་མོ་སྙིང་ལ་བསྒོམ་པར་ཤོག  །",
+      "en": "Which arise not from scripture, but are intuitively known!",
+      "en-trans": "mengak zabmo nying la gompar shok"
+    },
+    {
+      "bo": "གཟུང་འཛིན་སེམས་ནི་ངོ་བོ་ཉིད་ཀྱིས་འཁྲུལ། །",
+      "en": "The mind of perceiver and perceived is essentially deluded.",
+      "en-trans": "zung dzin sem ni ngowo nyi kyi trul"
+    },
+    {
+      "bo": "གང་ལྟར་དམིགས་པ་དེ་བཞིན་ཉིད་དུ་མིན། །",
+      "en": "No matter what its focus, it never accords with how things are.",
+      "en-trans": "gang tar mikpa dé zhin nyi du min"
+    },
+    {
+      "bo": "སེམས་ལས་མ་བྱུང་རང་བྱུང་ཡེ་ཤེས་སྐུ། །",
+      "en": "May we attain the buddhahood of definitive reality –",
+      "en-trans": "sem lé ma jung rangjung yeshé ku"
+    },
+    {
+      "bo": "ངེས་པ་དོན་གྱི་སངས་རྒྱས་འགྲུབ་པར་ཤོག །",
+      "en": "The natural wisdom-kāya that does not derive from mind!",
+      "en-trans": "ngepa dön gyi sangyé drubpar shok"
+    },
+    {
+      "bo": "རིག་སྟོང་རིག་པའི་དབྱིངས་སུ་ཆོས་ཐམས་ཅད། །",
+      "en": "Within the all-pervading space of rigpa, empty and aware,",
+      "en-trans": "rigtong rigpé ying su chö tamché"
+    },
+    {
+      "bo": "མཉམ་པ་ཉིད་གྱུར་ཐིག་ལེ་ཉག་གཅིག་ལ། །",
+      "en": "All things are equal, and, in this single, perfect sphere,",
+      "en-trans": "nyampa nyi gyur tiklé nyak chik la"
+    },
+    {
+      "bo": "འཁོར་འདས་རེ་དོགས་ཞིག་པའི་ངང་ཚུལ་དུ། །",
+      "en": "There are no longings or fears for saṃsāra or nirvāṇa:",
+      "en-trans": "khordé ré dok zhikpé ngang tsul du"
+    },
+    {
+      "bo": "མི་གནས་ཆོས་སྐུའི་གཏན་སྲིད་ཟིན་པར་ཤོག །",
+      "en": "May we capture this stronghold of unlocated dharmakāya!",
+      "en-trans": "mi né chökü tensi zinpar shok"
+    },
+    {
+      "bo": "འདི་ལྟར་ལུས་དང་ཡུལ་དུ་སྣང་བ་ཡང་། །",
+      "en": "Whatever we perceive, as the body or as objects of the senses,",
+      "en-trans": "di tar lü dang yul du nangwa yang"
+    },
+    {
+      "bo": "རབ་རིབ་བཞིན་དུ་རྟོག་པའི་དབང་གིས་སྣང་། །",
+      "en": "Is like defective vision, apparent through the force of thought alone —",
+      "en-trans": "rab rib zhin du tokpé wang gi nang"
+    },
+    {
+      "bo": "མི་རྟོག་ཡེ་ཤེས་ཆེན་པོའི་རང་གདངས་ཀྱིས། །",
+      "en": "By means of the natural radiance of great, non-conceptual wisdom,",
+      "en-trans": "mi tok yeshé chenpö rang dang kyi"
+    },
+    {
+      "bo": "ཆོས་ཟད་གདོད་མའི་དབྱིངས་སུ་སྦྱངས་གྱུར་ཅིག །",
+      "en": "May all be purified into the original space of phenomenal exhaustion!",
+      "en-trans": "chö zé dömé ying su jang gyur chik"
+    },
+    {
+      "bo": "དེ་ཚེ་མཁའ་དང་མཉམ་པའི་ཡེ་ཤེས་སྐུ། །",
+      "en": "At that time, may we gain the ultimate, unobstructed fruition,",
+      "en-trans": "dé tsé kha dang nyampé yeshé ku"
+    },
+    {
+      "bo": "ཕྱོགས་དུས་མུ་མཐའ་སྲིད་དུ་འགྲོ་ཀུན་གྱི། །",
+      "en": "And, with a wisdom buddha-form as vast and limitless as the sky,",
+      "en-trans": "chok dü muta si du dro kun gyi"
+    },
+    {
+      "bo": "ཕན་བདེའི་དོན་ཀུན་འཇོ་བའི་ཡིད་བཞིན་ནོར། །",
+      "en": "Become wish-granting jewels, providing benefit and happiness",
+      "en-trans": "pendé dön kun jowé yizhin nor"
+    },
+    {
+      "bo": "སྒྲིབ་བྲལ་འབྲས་བུའི་མཐར་ཐུག་ཐོབ་པར་ཤོག །",
+      "en": "To beings everywhere, throughout the whole infinity of space and time!",
+      "en-trans": "dripdral drébü tartuk tobpar shok"
+    },
+    {
+      "bo": "ཐོས་པ་ཙམ་གྱིས་ངེས་པར་གྲོལ་འགྱུར་ཞེས། །",
+      "en": "‘Merely hearing this is sure to bring liberation’ —",
+      "en-trans": "töpa tsam gyi ngepar drol gyur zhé"
+    },
+    {
+      "bo": "རྡོ་རྗེ་འཆང་གིས་བསྔགས་པ་ལམ་གྱི་མཆོག །",
+      "en": "Thus, Vajradhara praised the supreme of paths.",
+      "en-trans": "dorje chang gi ngakpa lam gyi chok"
+    },
+    {
+      "bo": "འདི་ཚུལ་སེམས་པར་བྱེད་པ་སྨོས་ཅི་འཚལ། །",
+      "en": "What need is there to mention holding it in mind?",
+      "en-trans": "di tsul sempar chépa mö chi tsal"
+    },
+    {
+      "bo": "ཆོས་ཉིད་བདེན་པས་མྱུར་དུ་གྲོལ་བར་འགྱུར། །",
+      "en": "May the truth of dharmatā swiftly bring liberation!",
+      "en-trans": "chönyi denpé nyur du drolwar gyur"
+    },
+    {
+      "bo": "རྩོལ་བཅས་ཐེག་པས་གདུལ་བར་དཀའ་བའི་ཚེ། །",
+      "en": "‘When it’s difficult for students to follow effort-based vehicles,",
+      "en-trans": "tsol ché tekpé dulwar kawé tsé"
+    },
+    {
+      "bo": "ཀུན་བཟང་ཐུགས་ཀྱི་བསྟན་པ་འབྱུང་ཞེས་སུ། །",
+      "en": "The teachings of Samantabhadra’s wisdom-mind will arise’—",
+      "en-trans": "kunzang tuk kyi tenpa jung zhé su"
+    },
+    {
+      "bo": "བསྔགས་པའི་ལུང་བཞིན་སྙིང་པོའི་བསྟན་པ་ཡིས། །",
+      "en": "May these essential teachings, praised in such statements,",
+      "en-trans": "ngakpé lung zhing nyingpö tenpa yi"
+    },
+    {
+      "bo": "འཇིག་རྟེན་ཀུན་ཏུ་ཁྱབ་ཅིང་རྒྱས་གྱུར་ཅིག །",
+      "en": "Pervade the whole universe, spreading everywhere, far and wide!",
+      "en-trans": "jikten kuntu khyab ching gyé gyur chik"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/mipham/ngagyur-nyingma-aspiration-words-to-delight-sovereigns-of-dharma",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །སྔ་འགྱུར་བསྟན་པ་རྒྱས་པའི་སྨོན་ལམ་ཆོས་རྒྱལ་དགྱེས་པའི་ཞལ་ལུང་ཞེས་བྱ་བ་བཞུགས་སོ། །",
+    "en": "A Prayer of Aspiration for the Flourishing and Spread of the Ancient Translation Tradition"
+  },
+  "text": [
+    {
+      "bo": "ན་མོ། ཕྱོགས་བཅུའི་བདེ་བར་གཤེགས་པ་སྲས་དང་བཅས། །",
+      "en": "Homage to you, sugatas in every direction, along with all your heirs,",
+      "en-trans": "namo, chok chü dewar shekpa sé dangché"
+    },
+    {
+      "bo": "ཁྱད་པར་མཉམ་མེད་ཤཱཀྱའི་རྒྱལ་པོ་དང༌། །",
+      "en": "And especially to you, the one and only King of the Śākyas,",
+      "en-trans": "khyepar nyammé shakyé gyalpo dang"
+    },
+    {
+      "bo": "རྒྱལ་སྲས་བརྒྱད་དང་གནས་བརྟན་འཕགས་པའི་ཚོགས། །",
+      "en": "With the Eight Great Bodhisattvas and the exalted assembly of arhats.",
+      "en-trans": "gyalsé gyé dang neten pakpé tsok"
+    },
+    {
+      "bo": "མཁྱེན་བརྩེའི་བདག་ཉིད་མཆོག་རྣམས་དགོངས་སུ་གསོལ། །",
+      "en": "Sublime embodiments all of wisdom and compassion: turn your loving gaze toward us!",
+      "en-trans": "khyentsé daknyi chok nam gong su sol"
+    },
+    {
+      "bo": "ཕན་བདེའི་འབྱུང་གནས་བསྟན་པ་རིན་པོ་ཆེ། །",
+      "en": "This precious teaching, source of all benefit, happiness and bliss,",
+      "en-trans": "pendé jungné tenpa rinpoche"
+    },
+    {
+      "bo": "སྟོན་དང་སེམས་དཔའ་འཕགས་པ་མཆོག་རྣམས་ཀྱིས། །",
+      "en": "Is the truth for which our teacher, Lord Buddha, and all the supreme bodhisattvas",
+      "en-trans": "tön dang sempa pakpa chok nam kyi"
+    },
+    {
+      "bo": "ཡང་ཡང་དཀའ་བས་བཙལ་ཞིང་བརྣག་པའི་དོན། །",
+      "en": "Searched and strove, again and again, through hardship of every kind:",
+      "en-trans": "yangyang kawé tsal zhing nakpé dön"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "So may this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "མཁན་སློབ་ཆོས་རྒྱལ་སྤྲུལ་པའི་ལོ་པཎ་དང༌། །",
+      "en": "Khenpo Śāntarakṣita, great master Padmasambhava, Dharma king Tri Songdetsen, incarnate translators and paṇḍitas,",
+      "en-trans": "khen lob chögyal trulpé lo pen dang"
+    },
+    {
+      "bo": "བཀའ་གཏེར་རིག་འཛིན་བརྒྱུད་པ་ཡི་དམ་ལྷ། །",
+      "en": "Vidyādharas who hold kama and terma lineages, yidam deities,",
+      "en-trans": "kater rigdzin gyüpa yidam lha"
+    },
+    {
+      "bo": "མ་མགོན་གཟའ་རྡོར་རྒྱུད་གསུམ་དྲེགས་པའི་ཚོགས། །",
+      "en": "Ekajaṭī, Mahākāla, Za Rāhula, Dorje Lekpa and the proud protectors, male, female and diverse:",
+      "en-trans": "magön za dor gyü sum drekpé tsok"
+    },
+    {
+      "bo": "སྔ་འགྱུར་རྩ་གསུམ་ལྷ་ཚོགས་དགོངས་སུ་གསོལ། །",
+      "en": "All of you sources of blessing, attainment and activity in the Early Translations, turn your minds toward us!",
+      "en-trans": "ngagyur tsa sum lhatsok gong su sol"
+    },
+    {
+      "bo": "ཐུབ་བསྟན་མདོ་དང་སྔགས་ཀྱི་ཚུལ་མཐའ་དག །",
+      "en": "You were the ones who, with all of your love and care,",
+      "en-trans": "tubten do dang ngak kyi tsul tadak"
+    },
+    {
+      "bo": "གངས་ཅན་ལྗོངས་སུ་བརྩེ་བས་དྲངས་གྱུར་པ། །",
+      "en": "Brought the Buddha’s teaching and its countless Dharma systems of sūtra and tantra to the Land of Snows.",
+      "en-trans": "gangchen jong su tsewé drang gyurpa"
+    },
+    {
+      "bo": "ཆེས་ཆེར་སྤེལ་བའི་རྡོ་རྗེའི་དམ་དགོངས་ནས། །",
+      "en": "So now remember your vajra promise to make them grow from strength to strength,",
+      "en-trans": "ché cher pelwé dorjé dam gong né"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "And let this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ཕྱོགས་དུས་རྒྱལ་བའི་སྐུ་གསུང་ཐུགས་རྡོ་རྗེ། །",
+      "en": "The vajra body, speech and mind of buddhas throughout all of space and time,",
+      "en-trans": "chok dü gyalwé ku sung tuk dorjé"
+    },
+    {
+      "bo": "རིགས་གསུམ་སེམས་དཔའི་སྒྱུ་འཕྲུལ་རོལ་མོ་ཡིས། །",
+      "en": "Emanated as forms of Avalokiteśvara, Vajrapāṇi, and Mañjuśrī, whose magical display",
+      "en-trans": "rik sum sempé gyutrul rolmo yi"
+    },
+    {
+      "bo": "གངས་ཅན་ཕན་བདེའི་ཉི་མ་གསལ་བར་མཛད། །",
+      "en": "Caused a sun of happiness to fill the Land of Snows with light.",
+      "en-trans": "gangchen pendé nyima salwar dzé"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "This teaching of the lotus-born buddha: may it flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྒྱལ་དང་རྒྱལ་སྲས་འཕགས་པ་ཆེན་པོའི་ཚོགས། །",
+      "en": "Then buddhas and sublime great bodhisattvas chose",
+      "en-trans": "gyal dang gyalsé pakpa chenpö tsok"
+    },
+    {
+      "bo": "བསམ་བཞིན་སྤྲུལ་པའི་ཟློས་གར་ཉེར་བཟུང་ནས། །",
+      "en": "To emanate and be born there as lotsawas and scholars,",
+      "en-trans": "samzhin trulpé dögar nyer zung né"
+    },
+    {
+      "bo": "དྲི་མེད་རྒྱལ་བསྟན་ནོར་བུའི་རྒྱལ་མཚན་སྒྲེང༌། །",
+      "en": "To raise high the victory-banner with its jewel, the untarnished teachings of Buddha:",
+      "en-trans": "drimé gyalten norbü gyaltsen dreng"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "So may this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ཐུན་མོང་ཐུན་མིན་གཞུང་ཀུན་རང་དབང་གིས། །",
+      "en": "It was they alone who translated, without error, the common sciences and all the extraordinary scriptures,",
+      "en-trans": "tünmong tünmin zhung kün rangwang gi"
+    },
+    {
+      "bo": "མ་ནོར་བསྒྱུར་ཞུས་གཏན་ལ་ཕབ་པ་ཡིས། །",
+      "en": "They who checked them and finalized them,",
+      "en-trans": "manor gyur zhü ten la pabpa yi"
+    },
+    {
+      "bo": "གངས་ལྗོངས་སྣང་བའི་སྒོ་ཆེན་ཐོག་མར་ཕྱེས། །",
+      "en": "So for the first time a great door was flung open, flooding the Land of Snows with the light of Dharma.",
+      "en-trans": "gangjong nangwé go chen tokmar ché"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "སྐལ་བཟང་གདུལ་བྱས་མདོ་དང་སྔགས་ཀྱི་ཚུལ། །",
+      "en": "Fortunate disciples taking up the practice of",
+      "en-trans": "kalzang duljé do dang ngak kyi tsul"
+    },
+    {
+      "bo": "ཉམས་སུ་ལེན་ལ་གཞན་དྲིང་མི་འཇོག་པར། །",
+      "en": "The sūtras and tantras have no need to look elsewhere,",
+      "en-trans": "nyam su len la zhen dring mijokpar"
+    },
+    {
+      "bo": "བཀའ་དང་དགོངས་པ་འགྲེལ་བའི་གཞུང་ཀུན་རྫོགས། །",
+      "en": "For within the Buddha’s words and the commentaries on his vision, everything is complete.",
+      "en-trans": "ka dang gongpa drelwé zhung kün dzok"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "These teachings of the lotus-born buddha: may they flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "བདེན་གསུང་བཀའ་ཡི་རྒྱ་མཚོ་ཆེན་པོ་ལ། །",
+      "en": "The truth the Buddha taught—the kama transmission is vast and immeasurable,",
+      "en-trans": "den sung ka yi gyatso chenpo la"
+    },
+    {
+      "bo": "ཟབ་མོའི་ཆོས་གཏེར་ནོར་བུས་མངོན་པར་མཛེས། །",
+      "en": "Its full beauty brought out by the jewels of the profound termas",
+      "en-trans": "zabmö chö ter norbü ngönpar dzé"
+    },
+    {
+      "bo": "མདོ་དང་སྔགས་ཀྱི་ལམ་བཟང་ཟུང་དུ་འབྲེལ། །",
+      "en": "To form a sublime path that unites both sūtra and mantra.",
+      "en-trans": "do dang ngak kyi lam zang zung du drel"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྨད་བྱུང་ཟ་ཧོར་མཁན་པོའི་སྤྱོད་པ་དང༌། །",
+      "en": "The action of Śāntarakṣita, exquisite scholar of Zahor,",
+      "en-trans": "mejung zahor khenpö chöpa dang"
+    },
+    {
+      "bo": "མཚུངས་མེད་དཔལ་ལྡན་ཀླུ་ཡི་ལྟ་བ་གཉིས། །",
+      "en": "And the view of the unequalled, glorious Nāgārjuna",
+      "en-trans": "tsungmé palden lu yi tawa nyi"
+    },
+    {
+      "bo": "ཟུང་འབྲེལ་བརྒྱུད་པའི་བཀའ་སྲོལ་ཕྱག་རྒྱས་བཏབ། །",
+      "en": "Integrated as one, seal the tradition of this lineage:",
+      "en-trans": "zung drel gyüpé ka sol chakgyé tab"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ཟབ་མོའི་ནང་རྒྱུད་སྡེ་གསུམ་དགོངས་པའི་བཅུད། །",
+      "en": "The quintessence of the three profound inner tantras lies in",
+      "en-trans": "zabmö nanggyü dé sum gongpé chü"
+    },
+    {
+      "bo": "ཐུན་མིན་མན་ངག་གསང་བའི་ལམ་མཆོག་ནས། །",
+      "en": "The uncommon pith instructions; their supreme and secret path leads",
+      "en-trans": "tünmin mengak sangwé lamchok né"
+    },
+    {
+      "bo": "འཇའ་ལུས་ཆོས་སྐུར་གཤེགས་པའི་ངོ་མཚར་འབར། །",
+      "en": "To the radiant wonder of entering the dharmakāya in a body of rainbow light:",
+      "en-trans": "jalü chökur shekpé ngotsar bar"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རབ་འབྱམས་ཞི་ཁྲོའི་ཁྱབ་བདག་སྒྲུབ་སྡེ་བརྒྱད། །",
+      "en": "The eight sādhanas of the infinite peaceful and wrathful deities",
+      "en-trans": "rabjam zhitrö khyabdak drubdé gyé"
+    },
+    {
+      "bo": "བཀའ་བབ་རིག་འཛིན་སོ་སོའི་དགོངས་བཅུད་དང༌། །",
+      "en": "Were transmitted to each of the eight vidyādharas. The essence of their realization",
+      "en-trans": "kabab rigdzin sosö gong chü dang"
+    },
+    {
+      "bo": "ཀུན་འདུས་པདྨའི་བཀའ་སྲོལ་གཅིག་ཏུ་འཁྱིལ། །",
+      "en": "And Padmasambhava’s tradition which combines them all are woven into one",
+      "en-trans": "kündü pemé kasol chik tu khyil"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "In this teaching of the lotus-born buddha: may it flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྒྱུ་དང་འབྲས་བུ་གསང་སྔགས་ཐེག་པ་ཆེ། །",
+      "en": "The great causal vehicle and resultant secret mantra vehicle,",
+      "en-trans": "gyu dang drebu sang ngak tekpa ché"
+    },
+    {
+      "bo": "ཚང་ལ་མ་ནོར་རིག་འཛིན་བརྒྱུད་པའི་ལུང༌། །",
+      "en": "Complete and unmistaken, with the original words of the vidyādhara lineage masters",
+      "en-trans": "tsang la manor rigdzin gyüpé lung"
+    },
+    {
+      "bo": "ཌཱཀྐིའི་ཞལ་གྱི་དྲོད་རླངས་ཐོ་ལེ་བ། །",
+      "en": "And the hot breath of the ḍākinīs, straight from their lips —",
+      "en-trans": "daki zhal gyi drö lang tolewa"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "Such is the teaching of the lotus-born Buddha: may it flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྡོ་རྗེ་འཆང་གི་དགོངས་དོན་བདུད་རྩིའི་བཅུད། །",
+      "en": "Vajradhara’s wisdom mind, its quintessential nectar,",
+      "en-trans": "dorjé chang gi gongdön dütsi chü"
+    },
+    {
+      "bo": "མཁས་གྲུབ་བྱེ་བའི་ཞལ་ནས་སྙན་དུ་བརྒྱུད། །",
+      "en": "Is transmitted from mouth to ear by millions of learned and realized beings,",
+      "en-trans": "khedrub jewé zhal né nyen du gyü"
+    },
+    {
+      "bo": "རྟོག་གེ་ངན་པའི་རང་བཟོས་མ་བསླད་པར། །",
+      "en": "Untainted by the inventions of wrong-headed intellectuals:",
+      "en-trans": "tokgé ngenpé rang zö malepar"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "གསེར་ཞིང་ནོར་བུའི་སྤྲས་པའི་ཡོན་གྱིས་ཀྱང༌། །",
+      "en": "Even by offering continents made of gold, covered with jewels,",
+      "en-trans": "ser zhing norbü trepé yön gyi kyang"
+    },
+    {
+      "bo": "མི་འགུགས་དབྱིངས་ཀྱི་མཁའ་འགྲོའི་ཐུགས་མཛོད་ཆོས། །",
+      "en": "Teachings from the space ḍākinīs’ wisdom mind treasury can never be acquired,",
+      "en-trans": "miguk ying kyi khandrö tuk dzö chö"
+    },
+    {
+      "bo": "བརྩེ་བས་རྗེས་འཇུག་སྐལ་པ་ཁོ་ནར་བཀྲམ། །",
+      "en": "For they are bestowed only out of love, and to worthy, fortunate disciples:",
+      "en-trans": "tsewé jejuk kalpa khonar tram"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ངོ་བོ་ཀ་ནས་དག་པའི་ཡེ་ཤེས་ལ། །",
+      "en": "In the wisdom of the essence, primordially pure,",
+      "en-trans": "ngowo kané dakpé yeshe la"
+    },
+    {
+      "bo": "རང་བཞིན་ལྷུན་གྱིས་གྲུབ་པའི་གདངས་ཤར་བས། །",
+      "en": "The radiance of its nature spontaneously shines out.",
+      "en-trans": "rangzhin lhün gyi drubpé dang sharwé"
+    },
+    {
+      "bo": "བླུན་སྒོམ་སེམས་ལས་འདས་པའི་རྫོགས་པ་ཆེ། །",
+      "en": "So Great Perfection is utterly beyond the conceptual minds of dull meditators:",
+      "en-trans": "lün gom sem lé depé dzokpa ché"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ཡོད་མེད་ཕྱོགས་རེར་ཞེན་པའི་དམིགས་གཏད་ཞིག །",
+      "en": "Where rigid concepts clinging to one side or another, existence or non-existence, naturally collapse,",
+      "en-trans": "yömé chokrer zhenpé mikté zhik"
+    },
+    {
+      "bo": "མཐར་འཛིན་ལྟ་བའི་འཛིན་སྟངས་དྲུང་ནས་ཕྱུང༌། །",
+      "en": "And habitual grasping to extreme views is uprooted,",
+      "en-trans": "tardzin tawé dzintang drung né chung"
+    },
+    {
+      "bo": "གཞི་ལམ་འབྲས་བུ་སྣང་སྟོང་ཟུང་དུ་འཇུག །",
+      "en": "Ground, Path and Fruition are the union of appearance and emptiness:",
+      "en-trans": "zhi lam drebu nangtong zung du juk"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "དུས་གསུམ་རྒྱལ་བའི་དགོངས་པ་མཐར་ཐུག་དོན། །",
+      "en": "The final meaning of all buddhas’ realization, past, present and future,",
+      "en-trans": "dü sum gyalwé gongpa tartuk dön"
+    },
+    {
+      "bo": "ཟབ་ཞི་སྤྲོས་བྲལ་འོད་གསལ་འདུས་མ་བྱས། །",
+      "en": "“Profound, peace, natural simplicity, clear light, uncompounded”,",
+      "en-trans": "zab zhi trödral ösal dümajé"
+    },
+    {
+      "bo": "རིག་སྟོང་མི་ཤིགས་རྡོ་རྗེ་གྲུབ་པའི་མཐའ། །",
+      "en": "Is the indestructible vajra viewpoint of inseparable awareness and emptiness:",
+      "en-trans": "riktong mishik dorjé drubpé ta"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "མང་དུ་ཐོས་པ་ལུང་གི་སྤྲིན་འཁྲིགས་ཤིང༌། །",
+      "en": "Anyone who has studied many teachings can draw on a teeming cloud of scriptural sources,",
+      "en-trans": "mangdu töpa lung gi trin trik shing"
+    },
+    {
+      "bo": "ཕ་རོལ་རྒོལ་འཇོམས་རིག་པའི་གློག་ཕྲེང་འབར། །",
+      "en": "And so defeat opponents with a reasoning that scorches like bolts of lightning,",
+      "en-trans": "parol gol jom rigpé lok treng bar"
+    },
+    {
+      "bo": "མན་ངག་གནད་ཀྱི་བདུད་རྩི་སྙིང་ལ་སིམ། །",
+      "en": "While the nectar of the crucial points of the experiential pith-instructions seeps into their hearts:",
+      "en-trans": "mengak né kyi dütsi nying la sim"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྨད་བྱུང་ཨ་ཏི་ཡོ་གའི་གསེང་ལམ་ནས། །",
+      "en": "By following this swift and secret path, the sublime Atiyoga,",
+      "en-trans": "mejung atiyogé seng lam né"
+    },
+    {
+      "bo": "མ་ལུས་རྒྱལ་བ་ཀུན་གྱི་ཡེ་ཤེས་སྐུ། །",
+      "en": "The wisdom body of all of the buddhas,",
+      "en-trans": "malü gyalwa kün gyi yeshe ku"
+    },
+    {
+      "bo": "ཁྱབ་བདག་འཇམ་དཔལ་རྡོ་རྗེར་རབ་བསྒྲུབས་པ། །",
+      "en": "The universal lord, Mañjuśrī the Indestructible, is actually and perfectly realized:",
+      "en-trans": "khyabdak jampal dorjer rab drubpa"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "ཡང་དག་ཚད་མ་གསུམ་གྱི་ང་རོ་ཡིས། །",
+      "en": "The lion’s roar, the three authentic teachings of scripture, reasoning and pith instruction,",
+      "en-trans": "yangdak tsema sum gyi ngaro yi"
+    },
+    {
+      "bo": "ལྟ་དམན་རི་དྭགས་ཚོགས་རྣམས་སྐྲག་མཛད་པ། །",
+      "en": "Strikes terror among all other animals, the holders of lesser views.",
+      "en-trans": "ta men ridak tsok nam trakdzepa"
+    },
+    {
+      "bo": "ཐེག་མཆོག་སེང་གེའི་སྒྲ་དབྱངས་ས་གསུམ་ཁྱབ། །",
+      "en": "Just like the call of the lion, so too may the sound of Atiyoga, the supreme vehicle, fill the entire earth, above, below and in between,",
+      "en-trans": "tek chok sengé drayang sa sum khyab"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "And this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "རྒྱལ་བསྟན་ཡོངས་སུ་རྫོགས་པའི་གོས་བཟང་རྩེར། །",
+      "en": "The Buddha’s teachings, so complete, are like the folds of exquisite silk in a banner of victory,",
+      "en-trans": "gyalten yongsu dzokpé gö zang tser"
+    },
+    {
+      "bo": "འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་ཏོག་མཛེས་པ། །",
+      "en": "And the Clear Light Vajra Essence of Dzogpachenpo, akin to the beautiful crowning jewel at its tip.",
+      "en-trans": "ösal dorjé nyingpö tok dzepa"
+    },
+    {
+      "bo": "ཕྱོགས་ལས་རྣམ་པར་རྒྱལ་བའི་རྒྱལ་མཚན་མཐོ། །",
+      "en": "So raise this all-conquering banner high into the sky",
+      "en-trans": "chok lé nampar gyalwé gyaltsen to"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "And let this teaching of the lotus-born buddha flourish and spread for ages to come!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "བདག་སོགས་དེང་ནས་འགྲོ་བ་ཇི་སྲིད་དུ། །",
+      "en": "From this day on, and as long as living beings remain,",
+      "en-trans": "dak sok deng né drowa jisi du"
+    },
+    {
+      "bo": "བསྟན་དང་བསྟན་པའི་སྙིང་པོ་ཡོངས་རྫོགས་པ། །",
+      "en": "I and others will hold, protect and spread the teachings of Buddha in their entirety, and especially their Heart Essence,",
+      "en-trans": "ten dang tenpé nyingpo yongdzokpa"
+    },
+    {
+      "bo": "མཁའ་ཁྱབ་ཞིང་དུ་འཛིན་སྐྱོང་སྤེལ་བ་ཡིས། །",
+      "en": "In buddha realms reaching through the whole of space,",
+      "en-trans": "khakhyab zhing du dzin kyong pelwa yi"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "And so let us cause this teaching of the lotus-born buddha to flourish and to spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "མདོར་ན་མཁས་བཙུན་གྲུབ་པའི་རྣམ་ཐར་གྱིས། །",
+      "en": "Finally, by emulating the learned, disciplined and realized practitioners,",
+      "en-trans": "dorna khé tsün drubpé namtar gyi"
+    },
+    {
+      "bo": "རྒྱལ་བསྟན་སྤེལ་བའི་ཕྲིན་ལས་མཁའ་ཁྱབ་པའི། །",
+      "en": "Let true holders of the teachings spread the Buddhadharma, and their enlightening actions stretch throughout the universe.",
+      "en-trans": "gyalten pelwé trinlé khakhyabpé"
+    },
+    {
+      "bo": "བསྟན་འཛིན་དམ་པས་ས་སྟེང་ཡོངས་གང་ནས། །",
+      "en": "Let them appear everywhere on Earth, and thereby",
+      "en-trans": "tendzin dampé sateng yong gang né"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "May this teaching of the lotus-born buddha flourish and spread!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    },
+    {
+      "bo": "དཔལ་ལྡན་བླ་མའི་སྐུ་ཚེ་རབ་བརྟན་ཅིང༌། །",
+      "en": "Let the lives of the glorious masters be forever secure and firm,",
+      "en-trans": "palden lamé kutsé rabten ching"
+    },
+    {
+      "bo": "བསྟན་པའི་སྦྱིན་བདག་མངའ་ཐང་དར་བ་ཡིས། །",
+      "en": "Let the prosperity, power and standing of the sponsors of the teachings grow,",
+      "en-trans": "tenpé jindak ngatang darwa yi"
+    },
+    {
+      "bo": "ཆོས་སྲིད་མི་ནུབ་ནོར་བུའི་རྒྱལ་མཚན་བསྒྲེངས། །",
+      "en": "Let the resources of the Dharma and of our world never wane, and may this jewelled victory banner fly forever,",
+      "en-trans": "chösi minub norbü gyaltsen dreng"
+    },
+    {
+      "bo": "མཚོ་སྐྱེས་རྒྱལ་བའི་བསྟན་པ་རྒྱས་གྱུར་ཅིག །",
+      "en": "So the teaching of the lotus-born buddha spreads far and wide, and remains for ages to come!",
+      "en-trans": "tsokyé gyalwé tenpa gyé gyur chik"
+    }
+  ]
+}

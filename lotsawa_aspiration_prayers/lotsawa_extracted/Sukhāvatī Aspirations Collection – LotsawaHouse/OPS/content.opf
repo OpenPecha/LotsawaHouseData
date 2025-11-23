@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="BookId">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sukhāvatī Aspirations Collection – LotsawaHouse</dc:title>
+    <dc:creator opf:role="aut">Dezhung Tulku Ajam, Dodrupchen Jigme Tenpe Nyima, Dorje Dradul, Dudjom Lingpa, Fifteenth Karmapa, Fourteenth Karmapa, Gatön Ngawang Lekpa, Gorampa Sonam Senge, Gyalse Shenpen Thaye, Jamyang Khyentse Chökyi Lodrö, Jigme Lingpa, Katok Situ Chökyi Gyatso, Mipham Rinpoche, Palyul Choktrul Jampal Gyepe Dorje, Shamar Chökyi Wangchuk, Situ Pema Nyinjé Wangpo, Tertön Mingyur Dorje</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:publisher>LotsawaHouse (www.lotsawahouse.org)</dc:publisher>
+    <dc:rights>This work is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License.</dc:rights>
+    <meta name="cover" content="img1" />
+    <dc:identifier id="BookId">urn:uuid:E3D4256E-C0B0-11F0-BC00-1E346E1F928D</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="img1" href="cover.jpg" media-type="image/jpeg" />
+    <item id="ch1" href="cover.html" media-type="application/xhtml+xml" />
+    <item id="ch2" href="head0.html" media-type="application/xhtml+xml" />
+    <item id="ch3" href="text0.html" media-type="application/xhtml+xml" />
+    <item id="ch4" href="head1.html" media-type="application/xhtml+xml" />
+    <item id="ch5" href="text1.html" media-type="application/xhtml+xml" />
+    <item id="ch6" href="head2.html" media-type="application/xhtml+xml" />
+    <item id="ch7" href="text2.html" media-type="application/xhtml+xml" />
+    <item id="ch8" href="head3.html" media-type="application/xhtml+xml" />
+    <item id="ch9" href="text3.html" media-type="application/xhtml+xml" />
+    <item id="ch10" href="head4.html" media-type="application/xhtml+xml" />
+    <item id="ch11" href="text4.html" media-type="application/xhtml+xml" />
+    <item id="ch12" href="head5.html" media-type="application/xhtml+xml" />
+    <item id="ch13" href="text5.html" media-type="application/xhtml+xml" />
+    <item id="ch14" href="head6.html" media-type="application/xhtml+xml" />
+    <item id="ch15" href="text6.html" media-type="application/xhtml+xml" />
+    <item id="ch16" href="head7.html" media-type="application/xhtml+xml" />
+    <item id="ch17" href="text7.html" media-type="application/xhtml+xml" />
+    <item id="ch18" href="head8.html" media-type="application/xhtml+xml" />
+    <item id="ch19" href="text8.html" media-type="application/xhtml+xml" />
+    <item id="ch20" href="head9.html" media-type="application/xhtml+xml" />
+    <item id="ch21" href="text9.html" media-type="application/xhtml+xml" />
+    <item id="ch22" href="head10.html" media-type="application/xhtml+xml" />
+    <item id="ch23" href="text10.html" media-type="application/xhtml+xml" />
+    <item id="ch24" href="head11.html" media-type="application/xhtml+xml" />
+    <item id="ch25" href="text11.html" media-type="application/xhtml+xml" />
+    <item id="ch26" href="head12.html" media-type="application/xhtml+xml" />
+    <item id="ch27" href="text12.html" media-type="application/xhtml+xml" />
+    <item id="ch28" href="head13.html" media-type="application/xhtml+xml" />
+    <item id="ch29" href="text13.html" media-type="application/xhtml+xml" />
+    <item id="ch30" href="head14.html" media-type="application/xhtml+xml" />
+    <item id="ch31" href="text14.html" media-type="application/xhtml+xml" />
+    <item id="ch32" href="head15.html" media-type="application/xhtml+xml" />
+    <item id="ch33" href="text15.html" media-type="application/xhtml+xml" />
+    <item id="ch34" href="head16.html" media-type="application/xhtml+xml" />
+    <item id="ch35" href="text16.html" media-type="application/xhtml+xml" />
+    <item id="ch36" href="head17.html" media-type="application/xhtml+xml" />
+    <item id="ch37" href="text17.html" media-type="application/xhtml+xml" />
+    <item id="ch38" href="head18.html" media-type="application/xhtml+xml" />
+    <item id="ch39" href="text18.html" media-type="application/xhtml+xml" />
+    <item id="ch40" href="head19.html" media-type="application/xhtml+xml" />
+    <item id="ch41" href="text19.html" media-type="application/xhtml+xml" />
+    <item id="ch42" href="head20.html" media-type="application/xhtml+xml" />
+    <item id="ch43" href="text20.html" media-type="application/xhtml+xml" />
+    <item id="id1" href="logo-inv.png" media-type="image/png" />
+    <item id="id2" href="cc-by-nc4.png" media-type="image/png" />
+    <item id="css1" href="epub.css" media-type="text/css" />
+    <item id="css2" href="epub-tib.css" media-type="text/css" />
+    <item id="id3" href="ddc_uchen-webfont.ttf" media-type="application/x-font-ttf" />
+    <item id="ch44" href="footer.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ch1" />
+    <itemref idref="ch2" />
+    <itemref idref="ch3" />
+    <itemref idref="ch4" />
+    <itemref idref="ch5" />
+    <itemref idref="ch6" />
+    <itemref idref="ch7" />
+    <itemref idref="ch8" />
+    <itemref idref="ch9" />
+    <itemref idref="ch10" />
+    <itemref idref="ch11" />
+    <itemref idref="ch12" />
+    <itemref idref="ch13" />
+    <itemref idref="ch14" />
+    <itemref idref="ch15" />
+    <itemref idref="ch16" />
+    <itemref idref="ch17" />
+    <itemref idref="ch18" />
+    <itemref idref="ch19" />
+    <itemref idref="ch20" />
+    <itemref idref="ch21" />
+    <itemref idref="ch22" />
+    <itemref idref="ch23" />
+    <itemref idref="ch24" />
+    <itemref idref="ch25" />
+    <itemref idref="ch26" />
+    <itemref idref="ch27" />
+    <itemref idref="ch28" />
+    <itemref idref="ch29" />
+    <itemref idref="ch30" />
+    <itemref idref="ch31" />
+    <itemref idref="ch32" />
+    <itemref idref="ch33" />
+    <itemref idref="ch34" />
+    <itemref idref="ch35" />
+    <itemref idref="ch36" />
+    <itemref idref="ch37" />
+    <itemref idref="ch38" />
+    <itemref idref="ch39" />
+    <itemref idref="ch40" />
+    <itemref idref="ch41" />
+    <itemref idref="ch42" />
+    <itemref idref="ch43" />
+    <itemref idref="ch44" />
+  </spine>
+</package>

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'DDC_Uchen';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./ddc_uchen-webfont.ttf') format('truetype');
+}
+
+p.tib-verse, p.tib-mantra, p.tib-note, h1.tib, h2.tib, h3.tib, h4.tib, h5.tib, h6.tib {
+	font-family:'DDC_Uchen';
+	line-height:1.7em;
+	font-style:normal;
+	font-weight:normal;
+	font-size:110%;
+}
+
+p.tib-note {
+	font-size: small;
+	color:#004a4a;
+}
+p.tib-verse {
+	color:#800000;
+	margin-bottom: 0em; 
+	padding: 0em; 
+}
+p.tib-mantra {
+	color:#800000;
+	margin-bottom: 0em;
+	padding: 0em;
+	page-break-inside: avoid;
+}
+p.tib-verse em, p.tib-mantra em, .tib em, p.pho-verse em.yichung {
+	font-size: 70%;
+	font-style: normal;
+	color:#004a4a;
+}
+
+.nobreak > p.tib-verse { margin-top: 18pt }
+
+/* these handle bits of tibetan within MD files */
+.TibetanVerse { font-family:DDC_Uchen; font-size:16pt; line-height:24pt;  margin-bottom:3pt; margin-top:0cm; font-style:normal; }
+.TibetanInlineEnglish { font-family:DDC_Uchen; font-size:10pt; line-height:1.6em;}
+
+/* Within Tibetan, <em> is yigchung, <strong> is red text, <h2> is a heading  */
+.TibetanVerse em { font-size:12pt; line-height:2em; vertical-align:baseline; position:relative; top:-3pt; font-style:normal }
+.TibetanVerse strong { font-weight:normal; color: #d00 }
+.TibetanVerse h2, .TibetanVerse h1, .TibetanVerse h3 { font-size:16pt; line-height:1.5em; margin-bottom:4pt; margin-top:0cm; font-weight:normal }
+.TibetanVerse p { margin-bottom: 1pt }
+
+/* epub cover & header pages */
+p.title_title_tib { font-family:DDC_Uchen; font-size:18pt; text-align:center }
+p.cover_title_tib { font-family:DDC_Uchen; font-size:24pt; text-align:center }
+
+

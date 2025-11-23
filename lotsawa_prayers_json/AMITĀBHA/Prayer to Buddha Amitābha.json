@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/dodrupchen-III/amitabha-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འོད་དཔག་མེད་ཀྱི་གསོལ་འདེབས། །",
+    "en": "Prayer to Buddha Amitābha"
+  },
+  "text": [
+    {
+      "bo": "རྒྱལ་བ་འོད་དཔག་མེད་མགོན་ལ། །",
+      "en": "O Victorious One and Protector Amitābha,",
+      "en-trans": "gyalwa öpakmé gön la"
+    },
+    {
+      "bo": "གསོལ་བ་འདེབས་སོ་བྱིན་གྱིས་རློབས། །",
+      "en": "To you I pray: inspire me with your blessing.",
+      "en-trans": "solwa deb so jingyi lob"
+    },
+    {
+      "bo": "ཚེ་འདི་འཕོས་མ་ཐག་པ་རུ། །",
+      "en": "As soon as it is time to leave this life behind,",
+      "en-trans": "tsé di pö matak pa ru"
+    },
+    {
+      "bo": "བདེ་བ་ཅན་དུ་དྲང་དུ་གསོལ། །",
+      "en": "Guide me, I pray, to the realm of Sukhāvatī!",
+      "en-trans": "dewachen du drang du sol"
+    }
+  ]
+}

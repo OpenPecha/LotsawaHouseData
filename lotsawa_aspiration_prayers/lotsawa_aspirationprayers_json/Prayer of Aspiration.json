@@ -1,0 +1,31 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/shechen-gyaltsab/four-line-aspiration-prayer",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །སྨོན་ལམ་བཞུགས།",
+    "en": "A Prayer of Aspiration"
+  },
+  "text": [
+    {
+      "bo": "རྡོ་རྗེ་སློབ་དཔོན་ཞབས་པད་བསྐལ་བརྒྱར་བརྟན། །",
+      "en": "May the lotus feet of vajra masters remain for hundreds of aeons,",
+      "en-trans": "dorjé lobpön zhabpé kal gyar ten"
+    },
+    {
+      "bo": "རྡོ་རྗེའི་མཆེད་ལྕམ་དམ་ཚིག་རྣམ་པར་དག །",
+      "en": "May the samaya vows of vajra brothers and sisters remain completely pure,",
+      "en-trans": "dorjé checham damtsik nampar dak"
+    },
+    {
+      "bo": "རྡོ་རྗེ་གསུམ་གྱི་ཉམས་ལེན་མཐར་ཕྱིན་ནས། །",
+      "en": "May the practices of the three vajras be perfected,",
+      "en-trans": "dorjé sum gyi nyamlen tarchin né"
+    },
+    {
+      "bo": "རྡོ་རྗེའི་གསང་མཆོག་ཚེ་འདིར་འགྲུབ་གྱུར་ཆིག །",
+      "en": "And may we attain the supremely secret vajra in this very life!",
+      "en-trans": "dorjé sang chok tsé dir drub gyur chik"
+    }
+  ]
+}

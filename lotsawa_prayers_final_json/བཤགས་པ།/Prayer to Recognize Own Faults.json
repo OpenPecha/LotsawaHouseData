@@ -1,0 +1,615 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/dudjom-rinpoche/prayer-to-recognize-own-faults",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །རང་སྐྱོན་ངོ་ཤེས་སྐྱབས་རྗེས་དྲན་གྱི་གསོལ་འདེབས་ནོངས་བཤགས་སྨོན་ལམ་ཡང་དག་བླང་དོར་གསལ་འདེབས་ཞེས་བྱ་བ་བཞུགས་སོ།།",
+    "en": "A Prayer to Recognize My Own Faults and Keep in Mind the Objects of Refuge"
+  },
+  "text": [
+    {
+      "bo": "ན་མོ་གུ་རུ་ཝེ།",
+      "en": "I pay homage to the guru!"
+    },
+    {
+      "bo": "བསྐལ་བཟང་ཞིང་གི་འདྲེན་མཆོག་ཤཱཀྱའི་རྒྱལ། །",
+      "en": "Śākyamuni, Victorious One, Supreme Guide of the realm for this fortunate aeon,",
+      "en-trans": "kalzang zhing gi dren chok shakyé gyal"
+    },
+    {
+      "bo": "རྒྱལ་སྲས་བྱང་སེམས་འགྲོ་འདུལ་འཕགས་པའི་ཚོགས། །",
+      "en": "Sons of the Victorious one, assembly of noble bodhisattvas who tame sentient beings,",
+      "en-trans": "gyalsé changsem drodul pakpé tsok"
+    },
+    {
+      "bo": "སྙིགས་འགྲོའི་སྐྱོབ་པ་མཚུངས་མེད་གུ་རུ་རྗེ། །",
+      "en": "Lord guru, matchless saviour of beings in the dark age,",
+      "en-trans": "nyik drö kyobpa tsungmé guru jé"
+    },
+    {
+      "bo": "རྩ་གསུམ་ཆོས་སྐྱོང་དམ་ཅན་ཚོགས་བཅས་ལ། །",
+      "en": "The three roots and oath-bound dharma guardians—",
+      "en-trans": "tsa sum chökyong damchen tsok ché la"
+    },
+    {
+      "bo": "རྩེ་གཅིག་སྙིང་ནས་དྲན་པའི་གདུང་ཡུས་ཀྱིས། །",
+      "en": "Again and again, I ask from my heart, recalling you with longing and one-pointed mind—",
+      "en-trans": "tsechik nying né drenpé dung yü kyi"
+    },
+    {
+      "bo": "ཡང་ཡང་གསོལ་འདེབས་ཐུགས་དམ་བསྐུལ་ལགས་ན། །",
+      "en": "Please turn your attention toward me.",
+      "en-trans": "yangyang soldeb tukdam kul lak na"
+    },
+    {
+      "bo": "བརྩེ་བས་རྗེས་བཟུང་ཐོགས་མེད་ཐུགས་རྗེའི་མཐུས། །",
+      "en": "Take hold of me with your loving-kindness and with the power of your unhindered compassion",
+      "en-trans": "tsewé jezung tokmé tukjé tü"
+    },
+    {
+      "bo": "བསམ་དོན་ཆོས་བཞིན་འགྲུབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessings that my thoughts and aims be carried out in accord with Dharma.",
+      "en-trans": "samdön chö zhin drubpar jingyi lob"
+    },
+    {
+      "bo": "སྔོན་ལས་མ་ཞན་མི་ལུས་རིན་ཆེན་ཐོབ། །",
+      "en": "Through past acts, not without merit, I have obtained this precious human birth.",
+      "en-trans": "ngön lé ma zhen milü rinchen tob"
+    },
+    {
+      "bo": "བསོད་ནམས་མ་ཆུང་དམ་པའི་ཆོས་དང་མཇལ། །",
+      "en": "Through past merit, not slight, I have met the sublime Dharma.",
+      "en-trans": "sönam ma chung dampé chö dang jal"
+    },
+    {
+      "bo": "བླ་མས་རྗེས་བཟུང་དབང་བྱིན་གདམས་ངག་ཐོབ། །",
+      "en": "Accepted by the guru, I was able to obtain empowerments, blessings, and the essential instructions—",
+      "en-trans": "lamé jezung wang jin damngak tob"
+    },
+    {
+      "bo": "ནོར་བུ་རང་ལག་རྙེད་པའི་དུས་བྱུང་ཡང་། །",
+      "en": "All this wealth I now hold in my hands.",
+      "en-trans": "norbu rang lak nyepé dü jung yang"
+    },
+    {
+      "bo": "ཅོལ་ཆུང་སྤྲེའུ་འདྲ་བའི་རང་སེམས་འདི། །",
+      "en": "But my mind, like a babbling monkey, falls under the sway",
+      "en-trans": "chol chung pé'u drawé rangsem di"
+    },
+    {
+      "bo": "རྣམ་གཡེང་བསླུ་བྲིད་འགོང་པོའི་དབང་སོང་ནས། །",
+      "en": "Of the enticing, deceptive demon of distraction",
+      "en-trans": "namyeng lu dri gongpö wang song né"
+    },
+    {
+      "bo": "རང་ནོར་རང་བདག་ཉམས་ལེན་མ་ནུས་ཏེ། །",
+      "en": "And I can not take advantage of the wealth that is my own.",
+      "en-trans": "rang nor rang dak nyamlen manü té"
+    },
+    {
+      "bo": "དལ་འབྱོར་གདམས་ངག་ཆབ་གཅིག་ཆུད་ཟོས་ཤོར། །",
+      "en": "Thus, this free, well-favoured human birth and the lama’s teaching are both wasted.",
+      "en-trans": "daljor damngak chab chik chüzö shor"
+    },
+    {
+      "bo": "ད་ལྟ་དོན་ཆེན་འགག་ལ་ཐུག་ཉེ་དུས། །",
+      "en": "Now I am at a turning point:",
+      "en-trans": "danta dön chen gak la tuk nyé dü"
+    },
+    {
+      "bo": "ཞུས་ཚད་ཐོབ་ཚད་གནའ་བོའི་སྒྲུང་གཏམ་འདྲ། །",
+      "en": "All the teachings that I have asked for, all I have received, are like a myth.",
+      "en-trans": "zhü tsé tob tsé nawö drung tam dra"
+    },
+    {
+      "bo": "ལུས་འདི་ཆོས་གཟུགས་ཆོས་པ་ཡིན་རློམ་ཡང་། །",
+      "en": "My body has the appearance of a practitioner, and I have a practitioner’s conceit;",
+      "en-trans": "lü di chö zuk chöpa yin lom yang"
+    },
+    {
+      "bo": "སེམས་འདིས་ཡང་དག་ཆོས་པའི་རྗེས་མ་ཟིན། །",
+      "en": "My mind can not fathom the true teachings.",
+      "en-trans": "sem di yangdak chöpé jema zin"
+    },
+    {
+      "bo": "ལྷ་ཆོས་ལྟ་ཅི་མི་ཆོས་དྲིས་མ་གོས། །",
+      "en": "Lacking even a trace of common Dharma, much less holy Dharma,",
+      "en-trans": "lha chö tachi mi chö dri ma gö"
+    },
+    {
+      "bo": "མི་ཆོས་གཙང་མ་བཅུ་དྲུག་གོ་ཡུལ་ཙམ། །",
+      "en": "The sixteen rules for ordinary social behaviour are just something that I have heard of.",
+      "en-trans": "mi chö tsangma chudruk goyul tsam"
+    },
+    {
+      "bo": "རང་ལྟོས་སྤྱོད་ངན་སྤྱད་ལ་ངོ་ཚ་བྲལ། །",
+      "en": "Seeing myself behave badly, I am without shame; seen by others, I am unembarrassed;",
+      "en-trans": "rang tö chö ngen ché la ngotsa dral"
+    },
+    {
+      "bo": "གཞན་ལྟོས་ཁྲེལ་གཞུང་ཕྱི་ཐག་བྲ་བའི་མཇུག །",
+      "en": "My bond to the teachings is short as a marmot’s tail.",
+      "en-trans": "zhen tö trel zhung chi tak drawé juk"
+    },
+    {
+      "bo": "ལྷ་ཆོས་དགེ་བཅུ་ཡང་དག་རྔོ་མ་ཐོགས། །",
+      "en": "Unable to practice properly true Dharma’s ten virtuous deeds,",
+      "en-trans": "lha chö gé chu yangdak ngo ma tok"
+    },
+    {
+      "bo": "སྟོན་པ་གཅིག་གི་བསྟན་ལ་ཕྱོགས་ཞན་གྱིས། །",
+      "en": "Harbouring sectarian bias toward the one Buddha’s teachings,",
+      "en-trans": "tönpa chik gi ten la chok zhen gyi"
+    },
+    {
+      "bo": "ཆོས་དང་དམ་པར་སྐུར་འདེབས་ལས་ངན་བསགས། །",
+      "en": "I slander the teachings and great beings and gather up bad karma.",
+      "en-trans": "chö dang dampar kurdeb lé ngen sak"
+    },
+    {
+      "bo": "ཆོས་ལ་བརྟེན་ནས་སྡིག་པའི་ཁུར་ཆེན་ཁྱེར། །",
+      "en": "Based on Dharma I carry a great weight of evil deeds.",
+      "en-trans": "chö la ten né dikpé khur chen khyer"
+    },
+    {
+      "bo": "ཐོས་པ་ཆེ་བཞིན་རང་མཐོང་ང་རྒྱལ་ཆེ། །",
+      "en": "The more teaching I’ve received, the more my vision of myself inflates,",
+      "en-trans": "töpa ché zhin rangtong ngagyal ché"
+    },
+    {
+      "bo": "བསམ་པས་དཔྱད་དོན་གོ་བའི་གཏིང་མ་དཔོགས། །",
+      "en": "Though intellectual analyses can not penetrate the deep meaning of the teachings.",
+      "en-trans": "sampé ché döngowé ting ma pok"
+    },
+    {
+      "bo": "སོ་ཐར་ཚུལ་ཁྲིམས་བསྲུང་བར་རློམ་ན་ཡང་། །",
+      "en": "With conceit, I think, “I keep thepratimokṣadisciplines!”",
+      "en-trans": "sotar tsultrim sungwar lom na yang"
+    },
+    {
+      "bo": "དགེ་སྦྱོང་ཆོས་བཞི་གར་སོང་ཆ་མེད་སྟོར། །",
+      "en": "But the four virtuous dharma practices1have been lost without a trace.",
+      "en-trans": "gejong chö zhi garsong chamé tor"
+    },
+    {
+      "bo": "བྱང་སེམས་བསླབ་ནོར་ལྡན་པར་རློམ་ན་ཡང་། །",
+      "en": "With conceit, I think, “I posses the precious bodhisattva training!”",
+      "en-trans": "changsem lab norden par lom na yang"
+    },
+    {
+      "bo": "ཚད་མེད་རྣམ་བཞི་རི་མོའི་མར་མེ་འདྲ། །",
+      "en": "But the four immeasurables are just like pictures of a lamp.",
+      "en-trans": "tsemé nam zhi rimö marmé dra"
+    },
+    {
+      "bo": "གསང་སྔགས་དམ་ཚིག་བསྲུང་བར་རློམ་ན་ཡང་། །",
+      "en": "With conceit, I think, “I keep the secret mantrayāna samayas!”",
+      "en-trans": "sang ngak damtsik sungwar lom na yang"
+    },
+    {
+      "bo": "རྩ་ལྟུང་དང་པོར་རྩི་མེད་སྣང་ཆུང་ཤོར། །",
+      "en": "But, not respecting the first root transgression, I become careless about all the rest.",
+      "en-trans": "tsa tung dangpor tsimé nang chung shor"
+    },
+    {
+      "bo": "བློ་ལྡོག་རྣམ་བཞི་ཁ་ནས་བཤད་ཤེས་ཀྱང་། །",
+      "en": "I can glibly explain the four thoughts that turn the mind to Dharma,",
+      "en-trans": "lo dok nam zhi kha né shé shé kyang"
+    },
+    {
+      "bo": "དོན་ལ་ལྡོག་མིན་འདིར་སྣང་ཞེན་པས་སྟོན། །",
+      "en": "But my attachment to phenomena shows that my own mind has not truly changed.",
+      "en-trans": "dön la dok min dir nang zhenpé tön"
+    },
+    {
+      "bo": "བླ་མ་བསྟེན་བཞིན་མོས་གུས་རིམ་གྱིས་བྲི། །",
+      "en": "Though I rely on a teacher, respect and devotion slowly ebb away;",
+      "en-trans": "lama ten zhin mögü rimgyi dri"
+    },
+    {
+      "bo": "དག་སྣང་ཚབས་སུ་མཉམ་འགྲོགས་ལོག་པར་མཐོང་། །",
+      "en": "Instead of having pure perception, I have wrong views, and see the guru as my equal.",
+      "en-trans": "daknang tsab su nyam drok lokpar tong"
+    },
+    {
+      "bo": "རྡོ་རྗེ་སྤུན་ལ་བརྩེ་གདུང་བཀུར་སེམས་ཞན། །",
+      "en": "Love and respect toward my vajra-friends weakens;",
+      "en-trans": "dorjé pün la tsedung kur sem zhen"
+    },
+    {
+      "bo": "ཚིག་ངན་ཙམ་ཡང་མི་ཟད་དམོད་ཆར་འབེབས། །",
+      "en": "Unable to endure a few harsh words, I complain constantly.",
+      "en-trans": "tsik ngen tsam yang mizé mö charbeb"
+    },
+    {
+      "bo": "འགྲོ་དྲུག་ཕ་མར་ཤེས་པའི་བྱམས་སྙིང་རྗེ། །",
+      "en": "Lacking thorough training in bodhicitta,",
+      "en-trans": "dro druk pamar shepé jam nyingjé"
+    },
+    {
+      "bo": "བྱང་སེམས་གཏིང་ནས་མ་འབྱོངས་ན་བུན་བཞིན། །",
+      "en": "The love and compassion that comes about from seeing all beings of the six realms as my parents disappears like mist.",
+      "en-trans": "changsem tingné ma jong nabün zhin"
+    },
+    {
+      "bo": "བསྐྱེད་རྫོགས་ལམ་ལ་ཉམས་ལེན་བྱས་ཁུལ་ཀྱང་། །",
+      "en": "Although I act as if I practice the paths of generation and completion,",
+      "en-trans": "kyedzok lam la nyamlen jé khul kyang"
+    },
+    {
+      "bo": "ཐ་མལ་འཁྲུལ་འབྱམས་འདི་ལ་གླགས་མ་རྙེད། །",
+      "en": "I cannot even cope with ordinary endless delusion.",
+      "en-trans": "tamal trul jam di la lak ma nyé"
+    },
+    {
+      "bo": "མདོ་སྔགས་ཆོས་ཕུག་སྟོང་ཉིད་ངོ་ཤེས་ཀྱང་། །",
+      "en": "I recognize that the ultimate teaching of sūtra and tantra is emptiness,",
+      "en-trans": "do ngak chö puk tongnyi ngoshé kyang"
+    },
+    {
+      "bo": "སྟོང་གོ་མ་ཆོད་རང་རྒྱུད་རྭ་ལྟར་གྱོང་། །",
+      "en": "But cannot make use of that recognition; my mind-stream stays hard as horn.",
+      "en-trans": "tong go ma chö ranggyü ra tar gyong"
+    },
+    {
+      "bo": "གནས་ལུགས་སྒོམ་གྱི་རང་ཚུགས་མ་ཟིན་པར། །",
+      "en": "When I practice remaining in mind’s true condition",
+      "en-trans": "neluk gom gyi rang tsuk mazinpar"
+    },
+    {
+      "bo": "ཁ་ཁྱེར་ལྟ་བས་རྒྱུ་འབྲས་རླུང་ལ་བསྐུར། །",
+      "en": "I am without stability, yet I mouth off about the profound view and toss cause and effect to the winds.",
+      "en-trans": "khakhyer tawé gyundré lung la kur"
+    },
+    {
+      "bo": "ཕྱི་ལྟར་ཚུལ་འཆོས་སྤྱོད་ལམ་བཟང་ན་ཡང་། །",
+      "en": "On the outside—I can give a show of good behaviour;",
+      "en-trans": "chitar tsul chö chölam zang na yang"
+    },
+    {
+      "bo": "ནང་དུ་ཆགས་སྲེད་འདོད་རྔམས་མེ་ལྟར་འབར། །",
+      "en": "On the inside—desire, attachment, greed rage like fire.",
+      "en-trans": "nang du chak sé dö ngam mé tar bar"
+    },
+    {
+      "bo": "ལུས་འདི་དབེན་པའི་རི་ལ་གནས་ཁུལ་ཀྱང་། །",
+      "en": "Though my body remains in isolated mountain retreat,",
+      "en-trans": "lü di wenpé ri la né khul kyang"
+    },
+    {
+      "bo": "སེམས་འདིས་ཉིན་མཚན་བར་མེད་གྲོང་ཡུལ་འགྲིམས། །",
+      "en": "My mind wanders into town constantly, night and day.",
+      "en-trans": "sem di nyintsen barmé drong yul drim"
+    },
+    {
+      "bo": "རང་མགོ་ཐོན་པའི་གདིང་ཚད་མ་ལོངས་བཞིན། །",
+      "en": "Without enjoying a real measure of certainty in myself,",
+      "en-trans": "rang go tönpé ding tsema long zhin"
+    },
+    {
+      "bo": "གཞན་མགོ་འདོན་པའི་བསམ་སྦྱོར་བྱིས་པའི་སྒྲུང་། །",
+      "en": "Thinking to act for others’ benefit is just a fairytale.",
+      "en-trans": "zhen go dönpé samjor jipé drung"
+    },
+    {
+      "bo": "དཀོན་མཆོག་ཐུགས་རྗེས་བསླུ་མི་སྲིད་ཀྱང་། །",
+      "en": "Although it is impossible that the Three Jewels betray me,",
+      "en-trans": "könchok tukjé lu mi si kyang"
+    },
+    {
+      "bo": "མོས་གུས་ཞན་པས་རང་གིས་རང་བསླུས་དོགས། །",
+      "en": "Due to my weak devotion, I fear I will betray myself.",
+      "en-trans": "mögü zhenpé rang gi rang lü dok"
+    },
+    {
+      "bo": "འདི་ལྟར་དམ་པའི་ཆོས་དང་བླ་མ་ལ། །",
+      "en": "Thus, although I am without the wrong view",
+      "en-trans": "ditar dampé chö dang lama la"
+    },
+    {
+      "bo": "ཡིད་མ་ཆེས་པའི་ལོག་ལྟ་མེད་མོད་ཀྱང་། །",
+      "en": "Of not believing in the guru and the sacred dharma,",
+      "en-trans": "yi machepé lokta mé mö kyang"
+    },
+    {
+      "bo": "དུས་ངན་སེམས་ཅན་ལས་ངན་ཁ་མ་གང་། །",
+      "en": "In these bad times we sentient beings are busily perfecting our bad karma,",
+      "en-trans": "dü ngen semchen lé ngen kha ma gang"
+    },
+    {
+      "bo": "གོ་བཞིན་ཤེས་བཞིན་བག་མེད་དབང་དུ་ཤོར། །",
+      "en": "Knowing, heedlessly, falling under the sway of unawareness;",
+      "en-trans": "go zhin shezhin bakmé wang du shor"
+    },
+    {
+      "bo": "དྲན་ཤེས་བྱ་ར་མ་ཐོང་གྱོང་ཆེན་བརྡབ། །",
+      "en": "Failing to maintain mindfulness, we suffer a great loss.",
+      "en-trans": "dren sheja rama tong gyong chen dab"
+    },
+    {
+      "bo": "ད་ལྟ་རང་བློས་རང་ལ་དཔྱད་ཉིན་མོ། །",
+      "en": "Right now, when I examine myself, I see",
+      "en-trans": "danta rang lö rang la ché nyinmo"
+    },
+    {
+      "bo": "བྱས་ཚད་ཐམས་ཅད་འཁྲུལ་པའི་ཁ་སྣོན་སོང་། །",
+      "en": "That everything I have done has only added on to my confusion,",
+      "en-trans": "jé tsé tamché trulpé kha nön song"
+    },
+    {
+      "bo": "བསམ་ཚད་ཐམས་ཅད་ཉོན་མོངས་འཛིན་པར་སོང་། །",
+      "en": "That all my thinking has been stained by the obscuring emotions and by grasping.",
+      "en-trans": "sam tsé tamché nyönmong dzinpar song"
+    },
+    {
+      "bo": "དགེ་བའང་སྡིག་པས་མ་བསླད་མེད་མཐོང་བས། །",
+      "en": "Not seeing that even my virtuous acts are polluted with negativities",
+      "en-trans": "gewa ang dikpé ma lemé tongwé"
+    },
+    {
+      "bo": "མཐར་ཐུག་འགྲོ་ས་ངན་སོང་ལས་གཞན་ཅི། །",
+      "en": "Where else is there to end up but in the lower realms?",
+      "en-trans": "tartuk drosa ngensong lé zhen chi"
+    },
+    {
+      "bo": "དེ་ལྟར་རང་གི་སྤྱོད་ཚུལ་བྱ་བཞག་རྣམས། །",
+      "en": "As for the way I behave and what I’ve done,",
+      "en-trans": "detar rang gi chö tsulja zhak nam"
+    },
+    {
+      "bo": "དྲན་ནས་རང་གིས་རང་ལ་ཡི་ཆད་ཅིང་། །",
+      "en": "Bringing these to mind, I am sickened.",
+      "en-trans": "dren né rang gi rang la yiché ching"
+    },
+    {
+      "bo": "གཞན་ལ་བལྟས་ཀྱང་ཡི་མུག་ཁ་སྣོན་ལས། །",
+      "en": "Looking to others, I am only more discouraged;",
+      "en-trans": "zhen la té kyang yimuk kha nön lé"
+    },
+    {
+      "bo": "ཕན་གྲོགས་བློ་བག་ཕབ་མཁན་སུ་མ་བྱུང་། །",
+      "en": "There are no friends to benefit and ease my mind.",
+      "en-trans": "pen drok lo bak pab khen su ma jung"
+    },
+    {
+      "bo": "ད་ནི་རང་མགོ་རང་གིས་མ་བཏོན་ན། །",
+      "en": "If I can not take care of myself now,",
+      "en-trans": "dani rang go rang gi ma tön na"
+    },
+    {
+      "bo": "གཤིན་རྗེའི་ཕོ་ཉའི་ལག་ཏུ་ཚུད་ཟིན་དུས། །",
+      "en": "Others can not give me refuge when hope is exhausted",
+      "en-trans": "shinjé ponyé lak tu tsü zin dü"
+    },
+    {
+      "bo": "གཞན་པ་སུས་ཀྱང་སྐྱོབ་པའི་རེ་བ་ཟད། །",
+      "en": "And I am in the hands of the messengers of the Lord of Death.",
+      "en-trans": "zhenpa sü kyang kyobpé rewa zé"
+    },
+    {
+      "bo": "རེ་སྟོང་བསྒུག་པས་བསླུས་པ་མ་ཚོར་རམ། །",
+      "en": "To wait for a rescue that can never come, is not that self-deception?",
+      "en-trans": "ré tong gukpé lüpa ma tsor ram"
+    },
+    {
+      "bo": "དེས་ན་རང་སྐྱོན་ངོས་ཟིན་གནོང་འགྱོད་ཀྱིས། །",
+      "en": "Thus, with shame and remorse recognizing my own errors,",
+      "en-trans": "dena rang kyön ngö zin nonggyö kyi"
+    },
+    {
+      "bo": "ཆོས་འགལ་ཉེས་ལྟུང་ཉམས་ཆག་ཅི་མཆིས་པ། །",
+      "en": "Whatever offences against Dharma have occurred, whatever samaya transgressions and violations,",
+      "en-trans": "chö gal nyetung nyamchak chichi pa"
+    },
+    {
+      "bo": "མི་འཆབ་མི་སྦེད་ཡེ་ཤེས་སྤྱན་ལྡན་དྲུང་། །",
+      "en": "I will not try to conceal from those with wisdom vision.",
+      "en-trans": "mi chab mi bé yeshe chenden drung"
+    },
+    {
+      "bo": "སྙིང་ནས་བཤགས་སོ་བརྩེ་བས་བཟོད་བཞེས་ལ། །",
+      "en": "From the bottom of my heart, I confess; with your compassion, please endure me.",
+      "en-trans": "nying né shak so tsewé zö zhé la"
+    },
+    {
+      "bo": "ལམ་ལོག་གཡང་སའི་འཇིགས་ལས་བསྐྱབ་ནས་ཀྱང་། །",
+      "en": "Be my refuge from the danger of the precipitous, errant path;",
+      "en-trans": "lam lok yangsé jik lé kyab né kyang"
+    },
+    {
+      "bo": "ཡང་དག་ཐར་ལམ་ཟིན་པར་དབུགས་དབྱུང་གསོལ། །",
+      "en": "Grant the deliverance of finding the perfect, liberating path.",
+      "en-trans": "yangdak tarlam zinpar ukyung sol"
+    },
+    {
+      "bo": "བྱས་བྱས་བསྒྲུབ་བསྒྲུབ་མི་ཚེ་བསྐྱལ་ན་ཡང་། །",
+      "en": "My whole life has been spent practicing this and practicing that",
+      "en-trans": "jé jé drub drub mitsé kyal na yang"
+    },
+    {
+      "bo": "དོན་སྙིང་ལག་ཏུ་ལོན་པ་གཅིག་མ་བྱུང་། །",
+      "en": "With nothing in my hands to show for it, no attainment.",
+      "en-trans": "dönnying lak tu lönpa chik ma jung"
+    },
+    {
+      "bo": "ད་ནི་ཀུན་ཤེས་གཅིག་སྡུག་ལམ་བོར་ནས། །",
+      "en": "From now on, avoiding the miserable path of knowing much,",
+      "en-trans": "dani kün shé chik duk lamwor né"
+    },
+    {
+      "bo": "གཅིག་ཤེས་ཀུན་གྲོལ་ལམ་ལ་ཅིས་མི་འཇུག །",
+      "en": "And missing the one thing I need why not go on the path of knowing the one thing that frees all?",
+      "en-trans": "chik shé kün drollam la chi mi juk"
+    },
+    {
+      "bo": "མི་བསླུ་ངེས་པའི་རེ་ལྟོས་གཅིག་ཆོག་མགོན། །",
+      "en": "Certain, unfailing hope, sole, supreme Lord upon whom I rely,",
+      "en-trans": "mi lu ngepé ré tö chikchok gön"
+    },
+    {
+      "bo": "རྩ་བའི་བླ་མ་སྐྱབས་གནས་ཀུན་འདུས་ལ། །",
+      "en": "Root guru who combines all refuges in one,",
+      "en-trans": "tsawé lama kyabné kündü la"
+    },
+    {
+      "bo": "རྩེ་གཅིག་གུས་པས་གསོལ་བ་འདེབས་ལགས་ན། །",
+      "en": "I supplicate you with devotion and one-pointed mind;",
+      "en-trans": "tsechik güpé solwa deb lak na"
+    },
+    {
+      "bo": "ཐུགས་རྗེས་གཟིགས་ཤིག་སྐྱབས་མཆོག་དྲིན་ཆེན་རྗེ། །",
+      "en": "Supreme refuge, lord of greatest kindness, take hold of me with your compassion.",
+      "en-trans": "tukjé zik shik kyab chok drinchen jé"
+    },
+    {
+      "bo": "རང་སྐྱོན་རང་གིས་མཐོང་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing that I be able to see my own faults.",
+      "en-trans": "rang kyön rang gi tongwar jingyi lob"
+    },
+    {
+      "bo": "གཞན་སྐྱོན་བལྟ་འདོད་མེད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I have no wish to see the faults of others.",
+      "en-trans": "zhen kyön ta dö mepar jingyi lob"
+    },
+    {
+      "bo": "བསམ་ངན་གདུག་རྩུབ་ཞི་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing evil, cruel, and vicious thoughts be pacified.",
+      "en-trans": "sam ngen duktsub zhiwar jingyi lob"
+    },
+    {
+      "bo": "བསམ་བཟང་ཁོངས་ནས་འཆར་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing wholesome thoughts arise deep from within.",
+      "en-trans": "sam zang khong né charwar jingyi lob"
+    },
+    {
+      "bo": "འདོད་ཆུང་ཆོག་ཤེས་ལྡན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing desire may lessen and contentment increase.",
+      "en-trans": "dö chung chok shé denpar jingyi lob"
+    },
+    {
+      "bo": "ནམ་འཆི་ཆ་མེད་དྲན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I remember the uncertainty of the time of death.",
+      "en-trans": "namchi chamé drenpar jingyi lob"
+    },
+    {
+      "bo": "འཆི་དུས་བློ་ལྷག་མེད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I be unconcerned at the time of death.",
+      "en-trans": "chi dü lo lhakmé par jingyi lob"
+    },
+    {
+      "bo": "ཆོས་ལ་ཡིད་ཆེས་སྐྱེ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I develop trust in Dharma.",
+      "en-trans": "chö la yiché kyewar jingyi lob"
+    },
+    {
+      "bo": "དག་སྣང་ཕྱོགས་མེད་འབྱོངས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I practice impartial pure perception.",
+      "en-trans": "daknang chokmé jongpar jingyi lob"
+    },
+    {
+      "bo": "བཅོས་མིན་མོས་གུས་སྐྱེ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I develop unfabricated devotion and respect.",
+      "en-trans": "chömin mögü kyewar jingyi lob"
+    },
+    {
+      "bo": "ལོངས་མེད་བློ་སྣ་ཐུང་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I persevere, seeing that I have so little time left.",
+      "en-trans": "longmé lona tungwar jingyi lob"
+    },
+    {
+      "bo": "བློ་ཕུག་ཆོས་ལ་གཏད་ནུས་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I be able to establish Dharma as my ultimate innermost goal.",
+      "en-trans": "lo puk chö la té nü jingyi lob"
+    },
+    {
+      "bo": "ཆོས་ཕུག་སྒྲུབ་ལ་བརྩོན་ནུས་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I persevere in practice, the ultimate goal of the Dharma.",
+      "en-trans": "chö puk drub la tsön nü jingyi lob"
+    },
+    {
+      "bo": "སྒྲུབ་ཕུག་རང་རྒྱུད་གྲོལ་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I free my mind-stream the innermost practice.",
+      "en-trans": "drub puk ranggyü drolwar jingyi lob"
+    },
+    {
+      "bo": "སྒྲུབ་ལ་བར་ཆད་མེད་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I have no obstacles to practice",
+      "en-trans": "drub la barché mepar jingyi lob"
+    },
+    {
+      "bo": "སྒྲུབ་འབྲས་མྱུར་དུ་སྨིན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing the fruit of my practice may ripen quickly.",
+      "en-trans": "drub dré nyurdu minpar jingyi lob"
+    },
+    {
+      "bo": "འབྲེལ་ཚད་དོན་དང་ལྡན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing all conduct with those with whom I have a karmic link may be meaningful.",
+      "en-trans": "dreltsé dön dang denpar jingyi lob"
+    },
+    {
+      "bo": "རེ་དོགས་གཉིས་འཛིན་ཞིག་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing the duality of hope and fear be extinguished.",
+      "en-trans": "redok nyidzin zhikpar jingyi lob"
+    },
+    {
+      "bo": "གཉིས་མེད་ཡེ་ཤེས་མཐོང་བར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I see non-dual wakefulness.",
+      "en-trans": "nyimé yeshe tongwar jingyi lob"
+    },
+    {
+      "bo": "ཡེ་ཤེས་རང་ངོ་ཤེས་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I recognize my own innate wakefulness.",
+      "en-trans": "yeshe rang ngoshepar jingyi lob"
+    },
+    {
+      "bo": "རང་ཐོག་བཙན་ས་ཟིན་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I hold the dharmakāya citadel.",
+      "en-trans": "rang tok tsensa zinpar jingyi lob"
+    },
+    {
+      "bo": "རྩོལ་མེད་གདིང་ཆེན་ཐོབ་པར་བྱིན་གྱིས་རློབས། །",
+      "en": "Grant your blessing I gain the great effortless certainty.",
+      "en-trans": "tsolmé ding chen tobpar jingyi lob"
+    },
+    {
+      "bo": "ཡེ་གནས་ཡེ་ཤེས་རྡོ་རྗེའི་མཚོན་ཆེན་གྱིས། །",
+      "en": "By means of the great weapon,Indestructible primordial wakeful awareness,",
+      "en-trans": "yé né yeshe dorjé tsön chen gyi"
+    },
+    {
+      "bo": "འཁོར་འདས་སྟོང་སྲོག་དུས་གཅིག་བཅད་ནས་ཀྱང་། །",
+      "en": "May the void life-force of saṃsāra and nirvāṇa both be severed, at once.",
+      "en-trans": "khordé tong sok dü chik ché né kyang"
+    },
+    {
+      "bo": "མ་འགག་བདེ་ཆེན་སྙེམས་མའི་དགའ་སྟོན་ལ། །",
+      "en": "Then, in the unending great bliss of Vajragarvā’s2feast",
+      "en-trans": "ma gak dechen nyemmé gatön la"
+    },
+    {
+      "bo": "འདུ་འབྲལ་མེད་པར་སྤྱོད་པས་རྟག་རྩེན་ཤོག །",
+      "en": "May we always enjoy the activity that is beyond joining and parting.",
+      "en-trans": "dudral mepar chöpé tak tsen shok"
+    },
+    {
+      "bo": "མཉམ་བརྡལ་ཀློང་ན་སྡུག་བསྔལ་མིང་ཙམ་མེད། །",
+      "en": "In the pervasive space of evenness, even the word “suffering” does not exist—",
+      "en-trans": "nyam dal long na dukngal ming tsammé"
+    },
+    {
+      "bo": "དེས་ན་བདེ་བ་འཚོལ་མཁན་སུ་ཞིག་མཆིས། །",
+      "en": "So who ought to be striving for happiness?",
+      "en-trans": "dena dewa tsol khen su zhik chi"
+    },
+    {
+      "bo": "བདེ་སྡུག་རོ་མཉམ་འཛིན་མེད་རང་གྲོལ་གྱི། །",
+      "en": "In the kingdom of Samantabhadra happiness and suffering are of one taste; without grasping, they liberate of themselves.",
+      "en-trans": "deduk ronyam dzinmé rangdrol gyi"
+    },
+    {
+      "bo": "ཀུན་བཟང་རྒྱལ་སྲིད་ཚེ་འདིར་ཐོབ་པར་ཤོག །",
+      "en": "May I attain Samantabhadra’s kingdom in this very life!",
+      "en-trans": "kunzang gyalsi tsé dir tobpar shok"
+    }
+  ]
+}

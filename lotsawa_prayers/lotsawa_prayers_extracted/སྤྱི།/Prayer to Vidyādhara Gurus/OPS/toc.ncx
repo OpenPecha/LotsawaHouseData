@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:F0BEDAC2-C145-11F0-99B3-74C06E1F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Prayer to Vidyādhara Gurus</text>
+  </docTitle>
+  <docAuthor>
+    <text>མཆོག་གྱུར་བདེ་ཆེན་གླིང་པ།</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch1" playOrder="1">
+      <navLabel>
+        <text>རིག་འཛིན་བླ་མའི་གསོལ་འདེབས།</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+  </navMap>
+</ncx>

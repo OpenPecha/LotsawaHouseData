@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:FD7167E6-C193-11F0-A0AC-45036F1F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Guru Rinpoche Prayers Collection – LotsawaHouse</text>
+  </docTitle>
+  <docAuthor>
+    <text>Alak Zenkar Pema Ngödrup Rolwe Dorje, Chokgyur Dechen Lingpa, Dilgo Khyentse Rinpoche, Do Khyentse Yeshe Dorje, Dodrupchen Jigme Tenpe Nyima, Dodrupchen Jigme Trinle Özer, Dudjom Lingpa, Dudjom Rinpoche, Dzongter Kunzang Nyima, Fifth Dalai Lama, Fourteenth Dalai Lama, Garwang Chökyi Gyaltsen, Gönpo Tseten Rinpoche, Jamgön Amnye Zhab Ngawang Kunga Sönam, Jamgön Kongtrul Lodrö Thaye, Jamyang Khyentse Chökyi Lodrö, Jamyang Khyentse Wangpo, Jigme Lingpa, Khenchen Ngawang Palzang, Longchen Rabjam, Sangye Lingpa, Menlungpa Mikyö Dorje, Minling Chung Rinpoche, Mipham Rinpoche, Nyangral Nyima Özer, Patrul Rinpoche, Pawo Lerab Tsal, Rangrik Dorje, Ratna Lingpa, Shechen Gyaltsab Gyurme Pema Namgyal, Shechen Rabjam Rinpoche, Tulku Bakhal Mukpo, Tulku Zangpo Drakpa</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch2" playOrder="1">
+      <navLabel>
+        <text>Guru Padmasambhava’s Life</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+    <navPoint id="ch4" playOrder="2">
+      <navLabel>
+        <text>A Prayer Bestowed in a Dream</text>
+      </navLabel>
+      <content src="head1.html" />
+    </navPoint>
+    <navPoint id="ch6" playOrder="3">
+      <navLabel>
+        <text>Zangdokpalri Mönlam</text>
+      </navLabel>
+      <content src="head2.html" />
+    </navPoint>
+    <navPoint id="ch8" playOrder="4">
+      <navLabel>
+        <text>A Prayer to the Guru of Uḍḍiyāna</text>
+      </navLabel>
+      <content src="head3.html" />
+    </navPoint>
+    <navPoint id="ch10" playOrder="5">
+      <navLabel>
+        <text>Chariot of Faith</text>
+      </navLabel>
+      <content src="head4.html" />
+    </navPoint>
+    <navPoint id="ch12" playOrder="6">
+      <navLabel>
+        <text>Pearl Droplets of Blessings</text>
+      </navLabel>
+      <content src="head5.html" />
+    </navPoint>
+    <navPoint id="ch14" playOrder="7">
+      <navLabel>
+        <text>Prayer for Bechu Buring</text>
+      </navLabel>
+      <content src="head6.html" />
+    </navPoint>
+    <navPoint id="ch16" playOrder="8">
+      <navLabel>
+        <text>Prayer for Karma Tsultrim Rabten</text>
+      </navLabel>
+      <content src="head7.html" />
+    </navPoint>
+    <navPoint id="ch18" playOrder="9">
+      <navLabel>
+        <text>Prayer for Kunzang Longyang</text>
+      </navLabel>
+      <content src="head8.html" />
+    </navPoint>
+    <navPoint id="ch20" playOrder="10">
+      <navLabel>
+        <text>Prayer for Ngawang Rinchen</text>
+      </navLabel>
+      <content src="head9.html" />
+    </navPoint>
+    <navPoint id="ch22" playOrder="11">
+      <navLabel>
+        <text>Prayer for Nyindzong Geshe</text>
+      </navLabel>
+      <content src="head10.html" />
+    </navPoint>
+    <navPoint id="ch24" playOrder="12">
+      <navLabel>
+        <text>Prayer for Pema Gönpo</text>
+      </navLabel>
+      <content src="head11.html" />
+    </navPoint>
+    <navPoint id="ch26" playOrder="13">
+      <navLabel>
+        <text>Prayer for Pema Sachu</text>
+      </navLabel>
+      <content src="head12.html" />
+    </navPoint>
+    <navPoint id="ch28" playOrder="14">
+      <navLabel>
+        <text>Prayer for Sönam Rinchen</text>
+      </navLabel>
+      <content src="head13.html" />
+    </navPoint>
+    <navPoint id="ch30" playOrder="15">
+      <navLabel>
+        <text>Prayer for the Faithful</text>
+      </navLabel>
+      <content src="head14.html" />
+    </navPoint>
+    <navPoint id="ch32" playOrder="16">
+      <navLabel>
+        <text>Prayer to Guru Rinpoche</text>
+      </navLabel>
+      <content src="head15.html" />
+    </navPoint>
+    <navPoint id="ch34" playOrder="17">
+      <navLabel>
+        <text>Prayer to Orgyen Rinpoche</text>
+      </navLabel>
+      <content src="head16.html" />
+    </navPoint>
+    <navPoint id="ch36" playOrder="18">
+      <navLabel>
+        <text>Prayer to Padma-Vajra</text>
+      </navLabel>
+      <content src="head17.html" />
+    </navPoint>
+    <navPoint id="ch38" playOrder="19">
+      <navLabel>
+        <text>Prayer to Pema Tötreng</text>
+      </navLabel>
+      <content src="head18.html" />
+    </navPoint>
+    <navPoint id="ch40" playOrder="20">
+      <navLabel>
+        <text>Rousing from the Sleep of Ignorance</text>
+      </navLabel>
+      <content src="head19.html" />
+    </navPoint>
+    <navPoint id="ch42" playOrder="21">
+      <navLabel>
+        <text>Barche Lamsel</text>
+      </navLabel>
+      <content src="head20.html" />
+    </navPoint>
+    <navPoint id="ch44" playOrder="22">
+      <navLabel>
+        <text>Six Vajra Lines</text>
+      </navLabel>
+      <content src="head21.html" />
+    </navPoint>
+    <navPoint id="ch46" playOrder="23">
+      <navLabel>
+        <text>Sampa Lhundrupma (Chokling version)</text>
+      </navLabel>
+      <content src="head22.html" />
+    </navPoint>
+    <navPoint id="ch48" playOrder="24">
+      <navLabel>
+        <text>Testament Prayer</text>
+      </navLabel>
+      <content src="head23.html" />
+    </navPoint>
+    <navPoint id="ch50" playOrder="25">
+      <navLabel>
+        <text>The Wish-Fulfilling Tree</text>
+      </navLabel>
+      <content src="head24.html" />
+    </navPoint>
+    <navPoint id="ch52" playOrder="26">
+      <navLabel>
+        <text>Threefold Zangdok Palri Mönlam</text>
+      </navLabel>
+      <content src="head25.html" />
+    </navPoint>
+    <navPoint id="ch54" playOrder="27">
+      <navLabel>
+        <text>Garland of Vajra Words</text>
+      </navLabel>
+      <content src="head26.html" />
+    </navPoint>
+    <navPoint id="ch56" playOrder="28">
+      <navLabel>
+        <text>Eight-Chapter Prayer to the Mahāguru</text>
+      </navLabel>
+      <content src="head27.html" />
+    </navPoint>
+    <navPoint id="ch58" playOrder="29">
+      <navLabel>
+        <text>Prayer to Swiftly Fulfil All Wishes</text>
+      </navLabel>
+      <content src="head28.html" />
+    </navPoint>
+    <navPoint id="ch60" playOrder="30">
+      <navLabel>
+        <text>Four Dharmas Prayer</text>
+      </navLabel>
+      <content src="head29.html" />
+    </navPoint>
+    <navPoint id="ch62" playOrder="31">
+      <navLabel>
+        <text>A Very Brief Barche Lamsel</text>
+      </navLabel>
+      <content src="head30.html" />
+    </navPoint>
+    <navPoint id="ch64" playOrder="32">
+      <navLabel>
+        <text>Prayer that Spontaneously Fulfils All Wishes</text>
+      </navLabel>
+      <content src="head31.html" />
+    </navPoint>
+    <navPoint id="ch66" playOrder="33">
+      <navLabel>
+        <text>Prayer for Śrī Ben</text>
+      </navLabel>
+      <content src="head32.html" />
+    </navPoint>
+    <navPoint id="ch68" playOrder="34">
+      <navLabel>
+        <text>The Adamantine Magical Wheel</text>
+      </navLabel>
+      <content src="head33.html" />
+    </navPoint>
+    <navPoint id="ch70" playOrder="35">
+      <navLabel>
+        <text>The Prayer to Guru Rinpoche for Attainments</text>
+      </navLabel>
+      <content src="head34.html" />
+    </navPoint>
+    <navPoint id="ch72" playOrder="36">
+      <navLabel>
+        <text>Prayer to Padmasambhava</text>
+      </navLabel>
+      <content src="head35.html" />
+    </navPoint>
+    <navPoint id="ch74" playOrder="37">
+      <navLabel>
+        <text>Joyful Chariot for the Fortunate</text>
+      </navLabel>
+      <content src="head36.html" />
+    </navPoint>
+    <navPoint id="ch76" playOrder="38">
+      <navLabel>
+        <text>Zangdokpalri Mönlam</text>
+      </navLabel>
+      <content src="head37.html" />
+    </navPoint>
+    <navPoint id="ch78" playOrder="39">
+      <navLabel>
+        <text>Short Prayer to Abbot, Master and King</text>
+      </navLabel>
+      <content src="head38.html" />
+    </navPoint>
+    <navPoint id="ch80" playOrder="40">
+      <navLabel>
+        <text>Drumbeat of the Deathless Vajra</text>
+      </navLabel>
+      <content src="head39.html" />
+    </navPoint>
+    <navPoint id="ch82" playOrder="41">
+      <navLabel>
+        <text>Vajra Verses Commentary</text>
+      </navLabel>
+      <content src="head40.html" />
+    </navPoint>
+    <navPoint id="ch84" playOrder="42">
+      <navLabel>
+        <text>Prayer to Guru Rinpoche</text>
+      </navLabel>
+      <content src="head41.html" />
+    </navPoint>
+    <navPoint id="ch86" playOrder="43">
+      <navLabel>
+        <text>Sampa Lhundrupma</text>
+      </navLabel>
+      <content src="head42.html" />
+    </navPoint>
+    <navPoint id="ch88" playOrder="44">
+      <navLabel>
+        <text>Cloud Banks of Blessings</text>
+      </navLabel>
+      <content src="head43.html" />
+    </navPoint>
+    <navPoint id="ch90" playOrder="45">
+      <navLabel>
+        <text>Yearning Song of Prayer</text>
+      </navLabel>
+      <content src="head44.html" />
+    </navPoint>
+    <navPoint id="ch92" playOrder="46">
+      <navLabel>
+        <text>Prayer That Spontaneously Fulfils All Wishes</text>
+      </navLabel>
+      <content src="head45.html" />
+    </navPoint>
+    <navPoint id="ch94" playOrder="47">
+      <navLabel>
+        <text>Prayer to Orgyen Rinpoche</text>
+      </navLabel>
+      <content src="head46.html" />
+    </navPoint>
+    <navPoint id="ch96" playOrder="48">
+      <navLabel>
+        <text>Sampa Nyur Drupma</text>
+      </navLabel>
+      <content src="head47.html" />
+    </navPoint>
+    <navPoint id="ch98" playOrder="49">
+      <navLabel>
+        <text>The Nucleus of Blessings</text>
+      </navLabel>
+      <content src="head48.html" />
+    </navPoint>
+    <navPoint id="ch100" playOrder="50">
+      <navLabel>
+        <text>A Heart Prayer</text>
+      </navLabel>
+      <content src="head49.html" />
+    </navPoint>
+    <navPoint id="ch102" playOrder="51">
+      <navLabel>
+        <text>Aspiration for the Mountain of Glory</text>
+      </navLabel>
+      <content src="head50.html" />
+    </navPoint>
+    <navPoint id="ch104" playOrder="52">
+      <navLabel>
+        <text>Prayer to Orgyen Dorje Chang</text>
+      </navLabel>
+      <content src="head51.html" />
+    </navPoint>
+    <navPoint id="ch106" playOrder="53">
+      <navLabel>
+        <text>A Yearning Plea to the Precious Guru</text>
+      </navLabel>
+      <content src="head52.html" />
+    </navPoint>
+    <navPoint id="ch108" playOrder="54">
+      <navLabel>
+        <text>Cloud Banks of Blessings</text>
+      </navLabel>
+      <content src="head53.html" />
+    </navPoint>
+    <navPoint id="ch110" playOrder="55">
+      <navLabel>
+        <text>Prayer to Guru Dewa Chenpo</text>
+      </navLabel>
+      <content src="head54.html" />
+    </navPoint>
+    <navPoint id="ch112" playOrder="56">
+      <navLabel>
+        <text>Prayer of the Wisdom Mind</text>
+      </navLabel>
+      <content src="head55.html" />
+    </navPoint>
+    <navPoint id="ch114" playOrder="57">
+      <navLabel>
+        <text>Prayer to Orgyen Rinpoche</text>
+      </navLabel>
+      <content src="head56.html" />
+    </navPoint>
+    <navPoint id="ch116" playOrder="58">
+      <navLabel>
+        <text>Spontaneous Fulfilment of Wishes</text>
+      </navLabel>
+      <content src="head57.html" />
+    </navPoint>
+    <navPoint id="ch118" playOrder="59">
+      <navLabel>
+        <text>The Falling Elixir of Blessing</text>
+      </navLabel>
+      <content src="head58.html" />
+    </navPoint>
+    <navPoint id="ch120" playOrder="60">
+      <navLabel>
+        <text>Prayer to Ācārya Padmasambhava</text>
+      </navLabel>
+      <content src="head59.html" />
+    </navPoint>
+    <navPoint id="ch122" playOrder="61">
+      <navLabel>
+        <text>Supreme Bestowal of Twofold Attainment</text>
+      </navLabel>
+      <content src="head60.html" />
+    </navPoint>
+    <navPoint id="ch124" playOrder="62">
+      <navLabel>
+        <text>The Swift Fulfilment of Aspirations</text>
+      </navLabel>
+      <content src="head61.html" />
+    </navPoint>
+    <navPoint id="ch126" playOrder="63">
+      <navLabel>
+        <text>Düsum Sangyé Commentary</text>
+      </navLabel>
+      <content src="head62.html" />
+    </navPoint>
+    <navPoint id="ch128" playOrder="64">
+      <navLabel>
+        <text>To Fulfil All Wishes</text>
+      </navLabel>
+      <content src="head63.html" />
+    </navPoint>
+    <navPoint id="ch130" playOrder="65">
+      <navLabel>
+        <text>Turning Back the Misfortunes of the Age of Degeneration</text>
+      </navLabel>
+      <content src="head64.html" />
+    </navPoint>
+    <navPoint id="ch132" playOrder="66">
+      <navLabel>
+        <text>A Beautiful and Wondrous Uḍumbara Garland</text>
+      </navLabel>
+      <content src="head65.html" />
+    </navPoint>
+    <navPoint id="ch134" playOrder="67">
+      <navLabel>
+        <text>Brief Prayer to Padmākara</text>
+      </navLabel>
+      <content src="head66.html" />
+    </navPoint>
+    <navPoint id="ch136" playOrder="68">
+      <navLabel>
+        <text>Guru Rinpoche Visualization</text>
+      </navLabel>
+      <content src="head67.html" />
+    </navPoint>
+    <navPoint id="ch138" playOrder="69">
+      <navLabel>
+        <text>The Chariot of the Vidyādharas</text>
+      </navLabel>
+      <content src="head68.html" />
+    </navPoint>
+    <navPoint id="ch140" playOrder="70">
+      <navLabel>
+        <text>The Heart of Blessings</text>
+      </navLabel>
+      <content src="head69.html" />
+    </navPoint>
+    <navPoint id="ch142" playOrder="71">
+      <navLabel>
+        <text>Turning Back Obstacles and Adverse Circumstances</text>
+      </navLabel>
+      <content src="head70.html" />
+    </navPoint>
+    <navPoint id="ch144" playOrder="72">
+      <navLabel>
+        <text>Wish-Fulfilling Feast of Siddhis</text>
+      </navLabel>
+      <content src="head71.html" />
+    </navPoint>
+    <navPoint id="ch146" playOrder="73">
+      <navLabel>
+        <text>Benefits of the Tenth Day</text>
+      </navLabel>
+      <content src="head72.html" />
+    </navPoint>
+    <navPoint id="ch148" playOrder="74">
+      <navLabel>
+        <text>To Make the Tears Fall</text>
+      </navLabel>
+      <content src="head73.html" />
+    </navPoint>
+    <navPoint id="ch150" playOrder="75">
+      <navLabel>
+        <text>Secret Path to the Mountain of Glory</text>
+      </navLabel>
+      <content src="head74.html" />
+    </navPoint>
+    <navPoint id="ch152" playOrder="76">
+      <navLabel>
+        <text>Training in Pure Realms</text>
+      </navLabel>
+      <content src="head75.html" />
+    </navPoint>
+    <navPoint id="ch154" playOrder="77">
+      <navLabel>
+        <text>Prayer to Pema Tötreng Tsal</text>
+      </navLabel>
+      <content src="head76.html" />
+    </navPoint>
+    <navPoint id="ch156" playOrder="78">
+      <navLabel>
+        <text>Sampa Nyur Drupma</text>
+      </navLabel>
+      <content src="head77.html" />
+    </navPoint>
+    <navPoint id="ch158" playOrder="79">
+      <navLabel>
+        <text>Princess Mandāravā’s Prayer</text>
+      </navLabel>
+      <content src="head78.html" />
+    </navPoint>
+    <navPoint id="ch160" playOrder="80">
+      <navLabel>
+        <text>Prayer to Padmasambhava</text>
+      </navLabel>
+      <content src="head79.html" />
+    </navPoint>
+    <navPoint id="ch162" playOrder="81">
+      <navLabel>
+        <text>A Plaintive Prayer to Guru Rinpoche</text>
+      </navLabel>
+      <content src="head80.html" />
+    </navPoint>
+    <navPoint id="ch164" playOrder="82">
+      <navLabel>
+        <text>A Brief Prayer for the Spontaneous Fulfilment of Aspirations</text>
+      </navLabel>
+      <content src="head81.html" />
+    </navPoint>
+    <navPoint id="ch166" playOrder="83">
+      <navLabel>
+        <text>Deeds of The Tenth Days</text>
+      </navLabel>
+      <content src="head82.html" />
+    </navPoint>
+    <navPoint id="ch168" playOrder="84">
+      <navLabel>
+        <text>The Prayer which is the Source of All True Realization</text>
+      </navLabel>
+      <content src="head83.html" />
+    </navPoint>
+    <navPoint id="ch170" playOrder="85">
+      <navLabel>
+        <text>The Secret Path of Wisdom</text>
+      </navLabel>
+      <content src="head84.html" />
+    </navPoint>
+    <navPoint id="ch172" playOrder="86">
+      <navLabel>
+        <text>Prayer Recalling the Life and Liberation</text>
+      </navLabel>
+      <content src="head85.html" />
+    </navPoint>
+    <navPoint id="ch174" playOrder="87">
+      <navLabel>
+        <text>Abbreviated Le’u Dünma</text>
+      </navLabel>
+      <content src="head86.html" />
+    </navPoint>
+    <navPoint id="ch176" playOrder="88">
+      <navLabel>
+        <text>Sampa Nyur Drupma Outline</text>
+      </navLabel>
+      <content src="head87.html" />
+    </navPoint>
+    <navPoint id="ch178" playOrder="89">
+      <navLabel>
+        <text>Prayer to Orgyen Rinpoche</text>
+      </navLabel>
+      <content src="head88.html" />
+    </navPoint>
+    <navPoint id="ch180" playOrder="90">
+      <navLabel>
+        <text>Extremely Concise Barché Lamsel</text>
+      </navLabel>
+      <content src="head89.html" />
+    </navPoint>
+    <navPoint id="ch182" playOrder="91">
+      <navLabel>
+        <text>Extremely Concise Sampa Lhundrup</text>
+      </navLabel>
+      <content src="head90.html" />
+    </navPoint>
+    <navPoint id="ch184" playOrder="92">
+      <navLabel>
+        <text>The Seven Lines</text>
+      </navLabel>
+      <content src="head91.html" />
+    </navPoint>
+    <navPoint id="ch186" playOrder="93">
+      <navLabel>
+        <text>Spontaneous Fulfilment of All Wishes</text>
+      </navLabel>
+      <content src="head92.html" />
+    </navPoint>
+    <navPoint id="ch188" playOrder="94">
+      <navLabel>
+        <text>The Wish-Fulfilling Tree</text>
+      </navLabel>
+      <content src="head93.html" />
+    </navPoint>
+    <navPoint id="ch190" playOrder="95">
+      <navLabel>
+        <text>Victory Over All Adversity</text>
+      </navLabel>
+      <content src="head94.html" />
+    </navPoint>
+    <navPoint id="ch192" playOrder="96">
+      <navLabel>
+        <text>Prayer to Padmasambhava</text>
+      </navLabel>
+      <content src="head95.html" />
+    </navPoint>
+    <navPoint id="ch194" playOrder="97">
+      <navLabel>
+        <text>Cloud Banks of Blessings</text>
+      </navLabel>
+      <content src="head96.html" />
+    </navPoint>
+    <navPoint id="ch196" playOrder="98">
+      <navLabel>
+        <text>Tenth Day Invocation</text>
+      </navLabel>
+      <content src="head97.html" />
+    </navPoint>
+    <navPoint id="ch198" playOrder="99">
+      <navLabel>
+        <text>Prayer To Padmasambhava</text>
+      </navLabel>
+      <content src="head98.html" />
+    </navPoint>
+    <navPoint id="ch200" playOrder="100">
+      <navLabel>
+        <text>Prayer to the Vajradhara of Oḍḍiyāna</text>
+      </navLabel>
+      <content src="head99.html" />
+    </navPoint>
+    <navPoint id="ch202" playOrder="101">
+      <navLabel>
+        <text>Beat of the Vajra Drum</text>
+      </navLabel>
+      <content src="head100.html" />
+    </navPoint>
+    <navPoint id="ch204" playOrder="102">
+      <navLabel>
+        <text>Barche Lamsel</text>
+      </navLabel>
+      <content src="head101.html" />
+    </navPoint>
+    <navPoint id="ch206" playOrder="103">
+      <navLabel>
+        <text>Sampa Lhundrupma (Compendium of Sādhanas version)</text>
+      </navLabel>
+      <content src="head102.html" />
+    </navPoint>
+  </navMap>
+</ncx>
