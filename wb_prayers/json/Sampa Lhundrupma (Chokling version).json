@@ -1,0 +1,641 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/chokgyur-dechen-lingpa/sampa-lhundrupma",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༁ྃ༔ ༔བླ་མའི་ཐུགས་སྒྲུབ་ཡིད་བཞིན་ནོར་བུ་ལས༔ གསོལ་འདེབས་བསམ་པ་ལྷུན་གྲུབ་བཞུགས་སོ༔",
+    "en": "FromThe Guru’s Heart Practice: The Wish-Fulfilling Jewel"
+  },
+  "text": [
+    {
+      "bo": "ཨེ་མ་ཧོ༔ ནུབ་ཕྱོགས་བདེ་བ་ཅན་གྱི་ཞིང་ཁམས་སུ༔",
+      "en": "Emaho! In Dewachen, ‘Blissful’ pure realm of the west,",
+      "en-trans": "emaho, nubchok dewachen gyi zhingkham su"
+    },
+    {
+      "bo": "སྣང་བ་མཐའ་ཡས་ཐུགས་རྗེའི་བྱིན་རླབས་གཡོས༔",
+      "en": "Amitābha’s compassionate blessing was aroused,",
+      "en-trans": "nangwa tayé tukjé jinlab yö"
+    },
+    {
+      "bo": "སྤྲུལ་སྐུ་པདྨ་འབྱུང་གནས་བྱིན་བརླབས་ཏེ༔",
+      "en": "And he blessed his emanation, Padmasambhava,",
+      "en-trans": "tulku pemajungné jinlab té"
+    },
+    {
+      "bo": "འཛམ་བུའི་གླིང་དུ་འགྲོ་བའི་དོན་ལ་བྱོན༔",
+      "en": "To come into this world to bring benefit to all beings.",
+      "en-trans": "dzambüling du drowé dön la jön"
+    },
+    {
+      "bo": "འགྲོ་དོན་རྒྱུན་ཆད་མེད་པའི་ཐུགས་རྗེ་ཅན༔",
+      "en": "Compassionate one, you never cease to bring us help and well-being:",
+      "en-trans": "dro dön gyün ché mepé tukjé chen"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "རྒྱལ་པོ་ཁྲི་སྲོང་ལྡེའུ་བཙན་མན་ཆད་ནས༔",
+      "en": "All the Dharma Kings, from Tri Songdetsen",
+      "en-trans": "gyalpo trisong detsen menché né"
+    },
+    {
+      "bo": "ཆོས་རྒྱལ་གདུང་བརྒྱུད་མཐའ་ལ་མ་སྟོངས་བར༔",
+      "en": "Down to the very end of the royal line,",
+      "en-trans": "chögyal dung gyü ta la matongwar"
+    },
+    {
+      "bo": "དུས་གསུམ་རྒྱུན་ཆད་མེད་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Throughout past, present, and future, know your constant blessing.",
+      "en-trans": "dü sum gyün ché mepar jingyi lob"
+    },
+    {
+      "bo": "བོད་ཀྱི་ཆོས་སྐྱོང་རྒྱལ་པོའི་གཉེན་གཅིག་པུ༔",
+      "en": "One and only friend of Tibet’s Dharma Kings,",
+      "en-trans": "bö kyi chökyong gyalpö nyen chikpu"
+    },
+    {
+      "bo": "རྒྱལ་པོ་ཆོས་སྤྱོད་སྐྱོང་བའི་ཐུགས་རྗེ་ཅན༔",
+      "en": "Compassionate one, you safeguard the lands that practise Dharma:",
+      "en-trans": "gyalpo chöchö kyongwé tukjé chen"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "སྐུ་ནི་ལྷོ་ནུབ་སྲིན་པོའི་ཁ་གནོན་མཛད༔",
+      "en": "While your wisdom body subjugates the rakṣasas in the south-west,",
+      "en-trans": "ku ni lhonub sinpö kha nön dzé"
+    },
+    {
+      "bo": "ཐུགས་རྗེས་བོད་ཀྱི་སེམས་ཅན་ཡོངས་ལ་གཟིགས༔",
+      "en": "You look on sentient beings everywhere with compassion,",
+      "en-trans": "tukjé bö kyi semchen yong la zik"
+    },
+    {
+      "bo": "མ་རིག་ལོག་པའི་སེམས་ཅན་འདྲེན་པའི་དཔལ༔",
+      "en": "Magnificent guide for sentient beings led astray by ignorance,",
+      "en-trans": "marik lokpé semchen drenpé pal"
+    },
+    {
+      "bo": "ཉོན་མོངས་གདུལ་དཀའི་སེམས་ཅན་ཐབས་ཀྱིས་འདུལ༔",
+      "en": "Skilfully you teach them, with their emotions so difficult to tame.",
+      "en-trans": "nyönmong dul ké semchen tab kyi dul"
+    },
+    {
+      "bo": "བརྩེ་གདུང་རྒྱུན་ཆད་མེད་པའི་ཐུགས་རྗེ་ཅན༔",
+      "en": "Compassionate one, your love is constant in its kindness and care:",
+      "en-trans": "tsé dung gyün ché mepé tukjé chen"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "དུས་ངན་སྙིགས་མའི་མཐའ་ལ་ཐུག་པའི་ཚེ༔",
+      "en": "Now, when this degenerate dark age reaches its final depths,",
+      "en-trans": "dü ngen nyikmé ta la tukpé tsé"
+    },
+    {
+      "bo": "ནངས་རེ་དགོངས་རེ་བོད་ཀྱི་དོན་ལ་བྱོན༔",
+      "en": "At dawn and at dusk you come, for those who have devotion,",
+      "en-trans": "nang ré gong ré bö kyi dön la jön"
+    },
+    {
+      "bo": "ཉི་ཟེར་འཆར་སྡུད་མདངས་ལ་ཆིབས་ཏེ་བྱོན༔",
+      "en": "Riding on the rays of the rising and the setting sun,",
+      "en-trans": "nyizer char dü dang la chib té jön"
+    },
+    {
+      "bo": "ཡར་ངོ་ཚེས་བཅུ་དག་ལ་དངོས་སུ་བྱོན༔",
+      "en": "And on every tenth day of the waxing moon, you come in person.",
+      "en-trans": "yarngo tsé chü dak la ngö su jön"
+    },
+    {
+      "bo": "འགྲོ་དོན་སྟོབས་ཆེན་མཛད་པའི་ཐུགས་རྗེ་ཅན༔",
+      "en": "Compassionate one, you act with vast power to help beings:",
+      "en-trans": "dro dön tobchen dzepé tukjé chen"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ལྔ་བརྒྱའི་ཐ་མ་རྩོད་དུས་སྙིགས་མ་ལ༔",
+      "en": "Now in this dark age, the age of conflict, the final era of five hundred years,",
+      "en-trans": "ngabgyé tama tsödü nyikma la"
+    },
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་ཉོན་མོངས་དུག་ལྔ་རགས༔",
+      "en": "The five poisons of the negative emotions grow more violent in all sentient beings—",
+      "en-trans": "semchen tamché nyönmong duk nga rak"
+    },
+    {
+      "bo": "ཉོན་མོངས་དུག་ལྔ་རང་རྒྱུད་སྤྱོད་པའི་ཚེ༔",
+      "en": "Recklessly we indulge in destructive emotions, and let the poisons dominate our minds.",
+      "en-trans": "nyönmong duk nga rang gyü chö pé tsé"
+    },
+    {
+      "bo": "དེ་འདྲའི་དུས་ན་བདག་འདྲའི་ཐུགས་རྗེས་སྐྱོབས༔",
+      "en": "At a time like this, let your compassion be our refuge and protection.",
+      "en-trans": "dendré dü na dak dré tukjé kyob"
+    },
+    {
+      "bo": "དད་ལྡན་མཐོ་རིས་འདྲེན་པའི་ཐུགས་རྗེ་ཅན༔",
+      "en": "Compassionate one, you lead those with devotion to the higher realms:",
+      "en-trans": "deden tori drenpé tukjé chen"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ཧོར་སོག་འཇིགས་པའི་དམག་གིས་མཐའ་བསྐོར་ནས༔",
+      "en": "When terrifying armies of oppression encircle us,",
+      "en-trans": "hor sok jikpé mak gi ta kor né"
+    },
+    {
+      "bo": "ཆོས་འཁོར་གཉན་པོ་འཇིག་ལ་ཐུག་པའི་ཚེ༔",
+      "en": "Menacing the great centres of the Dharma with destruction,",
+      "en-trans": "chökhor nyenpo jik la tukpé tsé"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་ལྷ་སྲིན་སྡེ་བརྒྱད་འཁོར་དང་བཅས༔",
+      "en": "O Guru Rinpoche, with your retinue of eight classes of gods and demons,",
+      "en-trans": "guru lhasin dé gyé khor dang ché"
+    },
+    {
+      "bo": "ཧོར་སོག་དམག་དཔུང་བཟློག་པར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will repel aggressors and their armies—of this we have no doubt!",
+      "en-trans": "hor sok makpung dokpar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "སེམས་ཅན་སྒྱུ་ལུས་འཇིག་པའི་ནད་བྱུང་ཚེ༔",
+      "en": "When sickness strikes, to destroy the fragile bodies of sentient beings,",
+      "en-trans": "semchen gyulü jikpé né jung tsé"
+    },
+    {
+      "bo": "མི་བཟོད་སྡུག་བསྔལ་ནད་ཀྱིས་ཉེན་པ་ན༔",
+      "en": "When diseases plunge us into unbearable suffering and agony,",
+      "en-trans": "mi zö dukngal né kyi nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་སྨན་གྱི་བླ་དང་དབྱེར་མེད་པས༔",
+      "en": "O Guru Rinpoche, embodiment of the Buddha of Medicine,",
+      "en-trans": "guru men gyi la dang yermé bé"
+    },
+    {
+      "bo": "ཚེ་ཟད་མ་ཡིན་བར་ཆད་ངེས་པར་སེལ༔",
+      "en": "You will remove the obstacles that bring untimely death!",
+      "en-trans": "tsé zé mayin barché ngepar sel"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "འབྱུང་བ་དགྲར་ལངས་ས་བཅུད་ཉམས་པའི་ཚེ༔",
+      "en": "When nature turns against us, and earth’s resources fail;",
+      "en-trans": "jungwa drar lang sachü nyampé tsé"
+    },
+    {
+      "bo": "སེམས་ཅན་མུ་གེའི་ནད་ཀྱིས་ཉེན་པ་ན༔",
+      "en": "When sentient beings are tormented by the plague of famine,",
+      "en-trans": "semchen mugé né kyi nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་མཁའ་འགྲོ་ནོར་ལྷའི་ཚོགས་དང་བཅས༔",
+      "en": "O Guru Rinpoche, with all your ḍākinīs and deities of prosperity,",
+      "en-trans": "guru khandro norlhé tsok dangché"
+    },
+    {
+      "bo": "དབུལ་ཕོངས་བཀྲེས་སྐོམ་སེལ་བར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will dispel all poverty, all hunger and thirst—of this we have no doubt.",
+      "en-trans": "ulpong trekom selwar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ལས་ཅན་འགྲོ་བའི་དོན་དུ་གཏེར་འདོན་ན༔",
+      "en": "When the destined revealers retrieve hidden treasures for the benefit of beings,",
+      "en-trans": "lechen drowé döndu ter dön na"
+    },
+    {
+      "bo": "དམ་ཚིག་ཟོལ་ཟོག་མེད་པའི་དཔའ་གདིང་གིས༔",
+      "en": "In the courage and confidence of a samaya free of all pretence,",
+      "en-trans": "damtsik zolzok mepé pading gi"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་ཡི་དམ་ལྷ་དང་དབྱེར་མེད་པས༔",
+      "en": "O Guru Rinpoche, inseparable from our yidam deity,",
+      "en-trans": "guru yidam lha dang yermé pé"
+    },
+    {
+      "bo": "ཕ་ནོར་བུ་ཡིས་ལོན་པར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will ensure the true heirs receive their father’s treasure—of this we have no doubt.",
+      "en-trans": "pa nor bu yi lönpar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "སྦས་ཡུལ་ནགས་ཁྲོད་དབེན་ས་སྙོགས་པའི་ཚེ༔",
+      "en": "When travelling through hidden lands, forests and deserted places,",
+      "en-trans": "bé yul naktrö wen sa nyokpé tsé"
+    },
+    {
+      "bo": "ཁ་ཆར་བུ་ཡུག་འཚུབས་ཤིང་ལམ་འགགས་ན༔",
+      "en": "When our way is blocked and we are cut off by storms, by rain and snow,",
+      "en-trans": "khachar buyuk tsub shing lam gak na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་གཞི་བདག་གཉན་པོའི་འཁོར་དང་བཅས༔",
+      "en": "O Guru Rinpoche, surrounded by mighty local spirits,",
+      "en-trans": "guru zhidak nyenpö khor dang ché"
+    },
+    {
+      "bo": "ཆོས་མཛད་ལམ་སྣ་འདྲེན་པར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will lead us practitioners to the right path—of this we have no doubt!",
+      "en-trans": "chödzé lam na drenpar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "སྟག་གཟིག་དོམ་དྲེད་དུག་སྦྲུལ་མཆེ་བ་ཅན༔",
+      "en": "When vicious wild animals menace us—tigers, leopards, bears and poisonous snakes,",
+      "en-trans": "tak zik dom dré dukdrul chewachen"
+    },
+    {
+      "bo": "འབྲོག་ཆེན་འཇིགས་པའི་འཕྲང་ལ་འགྲིམ་པའི་ཚེ༔",
+      "en": "On our way through terrifying passes, wild and desolate places,",
+      "en-trans": "drok chen jikpé trang la drimpé tsé"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་དཔའ་བོ་གིང་དང་སྲུང་མར་བཅས༔",
+      "en": "O Guru Rinpoche, along with your gings, warriors and protectors,",
+      "en-trans": "guru pawo ging dang sungmar ché"
+    },
+    {
+      "bo": "གདུག་པའི་སེམས་ཅན་སྐྲོད་པར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will drive off these ferocious creatures—of this we have no doubt!",
+      "en-trans": "dukpé semchen tröpar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ས་ཆུ་མེ་རླུང་འབྱུང་བའི་བར་ཆད་ཀྱིས༔",
+      "en": "When obstacles arise in earth, water, fire and air",
+      "en-trans": "sa chu mé lung jungwé barché kyi"
+    },
+    {
+      "bo": "སྒྱུ་ལུས་གཡར་པོ་འཇིག་ལ་ཐུག་པའི་ཚེ༔",
+      "en": "To threaten these illusory bodies of ours with destruction,",
+      "en-trans": "gyulü yarpo jik la thukpé tsé"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་འབྱུང་བ་བཞི་ཡི་ལྷ་མོར་བཅས༔",
+      "en": "O Guru Rinpoche, with the goddesses of the four elements,",
+      "en-trans": "guru jungwa zhi yi lhamor ché"
+    },
+    {
+      "bo": "འབྱུང་བ་རང་སར་ཞི་བར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will harmonize the elements into their natural state—of this we have no doubt!",
+      "en-trans": "jungwa rang sar zhiwar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ལམ་སྲང་འཇིགས་པའི་འཕྲང་ལ་འགྲིམ་པའི་ཚེ༔",
+      "en": "When travelling on dangerous routes,",
+      "en-trans": "lamsang jikpé trang la drimpé tsé"
+    },
+    {
+      "bo": "བསད་ཁྱེར་ཇག་པ་ཆོམ་པོས་ཉེན་པ་ན༔",
+      "en": "If murderous bandits and robbers attack us,",
+      "en-trans": "sé khyer jakpa chompö nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་ཕྱག་རྒྱ་བཞི་ཡི་དགོངས་པར་ལྡན༔",
+      "en": "O Guru Rinpoche, through your realization of the four mudrās,",
+      "en-trans": "guru chakgya zhi yi gongpar den"
+    },
+    {
+      "bo": "ཙཽ་ར་མི་རྒོད་རྔམ་སེམས་བརླག་པར་བྱེད༔",
+      "en": "You will dispel the terror of all brutality and greed.",
+      "en-trans": "tsau ra migö ngam sem lakpar jé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "གང་ཞིག་གཤེད་མའི་དམག་གིས་མཐའ་བསྐོར་ནས༔",
+      "en": "When faced by killers on all sides,",
+      "en-trans": "gangzhik shemé mak gi ta kor né"
+    },
+    {
+      "bo": "མཚོན་ཆ་རྣོན་པོས་འདེབས་ཤིང་ཉེན་པ་ན༔",
+      "en": "Who threaten us with lethal weapons,",
+      "en-trans": "tsöncha nönpö deb shing nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་རྡོ་རྗེའི་གུར་དང་ལྡན་པ་ཡིས༔",
+      "en": "O Guru Rinpoche, the protection of your vajra tent",
+      "en-trans": "guru dorjé gur dang denpa yi"
+    },
+    {
+      "bo": "གཤེད་མ་བྲེད་ཅིང་མཚོན་ཆ་འཐོར་བར་འགྱུར༔",
+      "en": "Will cause killers to panic and weapons to be scattered.",
+      "en-trans": "shema dré ching tsöncha torwar gyur"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "ནམ་ཞིག་ཚེ་ཟད་འཆི་བའི་དུས་བྱུང་ཚེ༔",
+      "en": "When this lifespan is exhausted, and we come to die,",
+      "en-trans": "namzhik tsé zé chiwé dü jung tsé"
+    },
+    {
+      "bo": "གནད་གཅོད་སྡུག་བསྔལ་འདུ་འཕྲོད་ཉེན་པ་ན༔",
+      "en": "If we are racked by the intense anguish and pain of dying,",
+      "en-trans": "né chö dukngal dü trö nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་སྣང་བ་མཐའ་ཡས་སྤྲུལ་པ་སྟེ༔",
+      "en": "O Guru Rinpoche, as you are the emanation of Buddha Amitābha,",
+      "en-trans": "guru nangwa tayé trulpa té"
+    },
+    {
+      "bo": "བདེ་བ་ཅན་གྱི་ཞིང་དུ་ངེས་པར་སྐྱེ༔",
+      "en": "It is certain we will be born in ‘The Blissful’ pure realm of Dewachen:",
+      "en-trans": "dewachen gyi zhing du ngepar kyé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "སྒྱུ་ལུས་གཡར་པོ་ཞིག་པའི་བར་དོ་རུ༔",
+      "en": "Once this borrowed and illusory body is destroyed",
+      "en-trans": "gyulü yarpo zhikpé bardo ru"
+    },
+    {
+      "bo": "འཁྲུལ་སྣང་ཉིང་འཁྲུལ་སྡུག་བསྔལ་ཉེན་པ་ན༔",
+      "en": "In the bardo state when our deluded experiences, and our further delusions, arise to make us suffer,",
+      "en-trans": "trulnang nying trul dukngal nyenpa na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་དུས་གསུམ་མཁྱེན་པའི་ཐུགས་རྗེ་ཡིས༔",
+      "en": "O Guru Rinpoche, you who know past, present and future, through your compassion,",
+      "en-trans": "guru dü sum khyenpé tukjé yi"
+    },
+    {
+      "bo": "འཁྲུལ་སྣང་རང་སར་གྲོལ་བར་ཐེ་ཚོམ་མེད༔",
+      "en": "You will let all delusion be self-liberated—of this we have no doubt!",
+      "en-trans": "trulnang rang sar drolwar tetsom mé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "གཞན་ཡང་ལས་དང་རྐྱེན་གྱི་དབང་གྱུར་ཏེ༔",
+      "en": "When we are overwhelmed by karma and circumstance,",
+      "en-trans": "zhenyang lé dang kyen gyi wang gyur té"
+    },
+    {
+      "bo": "འཁྲུལ་སྣང་དངོས་པོར་ཞེན་ཅིང་སྡུག་བསྔལ་ན༔",
+      "en": "And suffer through grasping at delusion as real,",
+      "en-trans": "trulnang ngöpor zhen ching dukngal na"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་བདེ་ཆེན་རྒྱལ་པོའི་ངོ་བོ་སྟེ༔",
+      "en": "O Guru Rinpoche, King of Great Bliss,",
+      "en-trans": "guru dechen gyalpö ngowo té"
+    },
+    {
+      "bo": "སྡུག་བསྔལ་འཁྲུལ་པ་རྩད་ནས་གཞིག་པར་བྱེད༔",
+      "en": "You will utterly destroy the delusions that bring suffering.",
+      "en-trans": "dukngal trulpa tsené zhikpar jé"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    },
+    {
+      "bo": "འགྲོ་དྲུག་སྡུག་བསྔལ་ཆེན་པོས་ཉེན་པ་དང་༔",
+      "en": "When beings of all six realms are tormented by immense pain,",
+      "en-trans": "dro druk dukngal chenpö nyenpa dang"
+    },
+    {
+      "bo": "ཁྱད་པར་བོད་ཀྱི་རྗེ་འབངས་སྡུག་བསྔལ་ན༔",
+      "en": "And especially when our leaders and people are engulfed in suffering,",
+      "en-trans": "khyepar bö kyi jebang dukngal na"
+    },
+    {
+      "bo": "དད་གུས་མོས་པའི་གདུང་ཤུགས་དྲག་པོ་ཡིས༔",
+      "en": "With intense longing and devotion, from the depths of our hearts,",
+      "en-trans": "dé gü möpé dungshuk drakpo yi"
+    },
+    {
+      "bo": "ཡིད་གཉིས་ཐེ་ཚོམ་མེད་པར་གསོལ་བ་འདེབས༔",
+      "en": "With no trace of doubt or hesitation we pray:",
+      "en-trans": "yinyi tetsom mepar solwa deb"
+    },
+    {
+      "bo": "གུ་རུ་ཐུགས་རྗེས་འཕོ་འགྱུར་མེད་པར་གཟིགས༔",
+      "en": "O Guru Rinpoche, with your unchanging, unwavering compassion—watch over us!",
+      "en-trans": "guru tukjé pogyur mepar zik"
+    },
+    {
+      "bo": "ཨོ་རྒྱན་པདྨ་འབྱུང་གནས་ལ་གསོལ་བ་འདེབས༔",
+      "en": "To the Lotus-born Guru of Orgyen, we pray!",
+      "en-trans": "orgyen pemajungné la solwa deb"
+    },
+    {
+      "bo": "བསམ་པ་ལྷུན་གྱིས་འགྲུབ་པར་བྱིན་གྱིས་རློབས༔",
+      "en": "Grant your blessing, so all our wishes be spontaneously fulfilled!",
+      "en-trans": "sampa lhün gyi drubpar jingyi lob"
+    }
+  ]
+}

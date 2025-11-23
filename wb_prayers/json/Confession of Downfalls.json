@@ -1,0 +1,326 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/words-of-the-buddha/confession-of-downfalls-nyingma",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པ།",
+    "en": "The Bodhisattva’s Confession of Downfalls1"
+  },
+  "text": [
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་རྟག་པར་བླ་མ་ལ་སྐྱབས་སུ་མཆིའོ། །",
+      "en": "All sentient beings always take refuge in the Guru;",
+      "en-trans": "semchen tamché takpar lama la kyab su chi o"
+    },
+    {
+      "bo": "སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ། །",
+      "en": "Take refuge in the Buddha;",
+      "en-trans": "sangye la kyab su chi o"
+    },
+    {
+      "bo": "ཆོས་ལ་སྐྱབས་སུ་མཆིའོ། །",
+      "en": "Take refuge in the Dharma; and",
+      "en-trans": "chö la kyab su chi o"
+    },
+    {
+      "bo": "དགེ་འདུན་ལ་སྐྱབས་སུ་མཆིའོ། །",
+      "en": "Take refuge in the Saṅgha.",
+      "en-trans": "gendün la kyab su chi o"
+    },
+    {
+      "bo": "བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to the blessed one, the tathāgata, the arhat, the complete and perfect Buddha, Śākyamuni!",
+      "en-trans": "chomdendé dezhin shekpa drachompa yangdakpar dzokpé sangye shakya tubpa la chaktsal lo"
+    },
+    {
+      "bo": "རྡོ་རྗེའི་སྙིང་པོ་རབ་ཏུ་འཇོམས་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Vajra Conqueror;2",
+      "en-trans": "dorjé nyingpo rabtu jompa la chaktsal lo"
+    },
+    {
+      "bo": "རིན་ཆེན་འོད་འཕྲོ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Blazing Jewel;3",
+      "en-trans": "rinchen ötro la chaktsal lo"
+    },
+    {
+      "bo": "ཀླུ་དབང་གི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Sovereign King of Nāgas;4",
+      "en-trans": "luwang gi gyalpo la chaktsal lo"
+    },
+    {
+      "bo": "དཔའ་བོའི་སྡེ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Leader of Heroes;5",
+      "en-trans": "pawö dé la chaktsal lo"
+    },
+    {
+      "bo": "དཔལ་དགྱེས་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Joy;6",
+      "en-trans": "palgyé la chaktsal lo"
+    },
+    {
+      "bo": "རིན་ཆེན་མེ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Flaming Jewel;7",
+      "en-trans": "rinchen mé la chaktsal lo"
+    },
+    {
+      "bo": "རིན་ཆེན་ཟླ་འོད་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Exquisite Moonlight;8",
+      "en-trans": "rinchen da ö la chaktsal lo"
+    },
+    {
+      "bo": "མཐོང་བ་དོན་ཡོད་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Meaningful To Behold;9",
+      "en-trans": "tongwa dönyö la chaktsal lo"
+    },
+    {
+      "bo": "རིན་ཆེན་ཟླ་བ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Jewel Moon;10",
+      "en-trans": "rinchen dawa la chaktsal lo"
+    },
+    {
+      "bo": "དྲི་མ་མེད་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Stainless Glory;11",
+      "en-trans": "drima mepa la chaktsal lo"
+    },
+    {
+      "bo": "དཔལ་བྱིན་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Benefactor;12",
+      "en-trans": "paljin la chaktsal lo"
+    },
+    {
+      "bo": "ཚངས་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Brahmaṇa;",
+      "en-trans": "tsangpa la chaktsal lo"
+    },
+    {
+      "bo": "ཚངས་པས་བྱིན་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Gift of Brahmā;13",
+      "en-trans": "tsangpé jin la chaktsal lo"
+    },
+    {
+      "bo": "ཆུ་ལྷ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Water Deity;14",
+      "en-trans": "chulha la chaktsal lo"
+    },
+    {
+      "bo": "ཆུ་ལྷའི་ལྷ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to God of the Water Deities;15",
+      "en-trans": "chulhé lha la chaktsal lo"
+    },
+    {
+      "bo": "དཔལ་བཟང་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Goodness;16",
+      "en-trans": "palzang la chaktsal lo"
+    },
+    {
+      "bo": "ཙནྡན་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Sandalwood;17",
+      "en-trans": "tsenden pal la chaktsal lo"
+    },
+    {
+      "bo": "གཟི་བརྗིད་མཐའ་ཡས་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Infinite Majesty;18",
+      "en-trans": "ziji tayé la chaktsal lo"
+    },
+    {
+      "bo": "འོད་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Splendour;19",
+      "en-trans": "öpal la chaktsal lo"
+    },
+    {
+      "bo": "མྱ་ངན་མེད་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glory Without Sorrow;20",
+      "en-trans": "nyangen mepé pal la chaktsal lo"
+    },
+    {
+      "bo": "སྲེད་མེད་ཀྱི་བུ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Son Without Craving;21",
+      "en-trans": "semé kyi bu la chaktsal lo"
+    },
+    {
+      "bo": "མེ་ཏོག་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Flowers;22",
+      "en-trans": "metok pal la chaktsal lo"
+    },
+    {
+      "bo": "དེ་བཞིན་གཤེགས་པ་ཚངས་པའི་འོད་ཟེར་རྣམ་པར་རོལ་པ་མངོན་པར་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to the tathāgata, Splendour of Brahmā, True Knowing;23",
+      "en-trans": "dezhin shekpa tsangpé özer nampar rolpa ngönpar khyenpa la chaktsal lo"
+    },
+    {
+      "bo": "དེ་བཞིན་གཤེགས་པ་པདྨའི་འོད་ཟེར་རྣམ་པར་རོལ་པ་མངོན་པར་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to the tathāgata, Splendorous Lotus, True Knowing;24",
+      "en-trans": "dezhin shekpa pemé özer nampar rolpa ngönpar khyenpa la chaktsal lo"
+    },
+    {
+      "bo": "ནོར་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Wealth;25",
+      "en-trans": "norpal la chaktsal lo"
+    },
+    {
+      "bo": "དྲན་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Mindfulness;26",
+      "en-trans": "drenpé pal la chaktsal lo"
+    },
+    {
+      "bo": "མཚན་དཔལ་ཤིན་ཏུ་ཡོངས་བསྒྲགས་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Renowned Glory;27",
+      "en-trans": "tsenpal shintu yongdrak la chaktsal lo"
+    },
+    {
+      "bo": "དབང་པོའི་ཏོག་གི་རྒྱལ་མཚན་གྱི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Victory over King Indra’s Banner;28",
+      "en-trans": "wangpö tok gi gyaltsen gyi gyalpo la chaktsal lo"
+    },
+    {
+      "bo": "ཤིན་ཏུ་རྣམ་པར་གནོན་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious Hero;29",
+      "en-trans": "shintu nampar nönpé pal la chaktsal lo"
+    },
+    {
+      "bo": "གཡུལ་ལས་ཤིན་ཏུ་རྣམ་པར་རྒྱལ་བ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Perfect Victor in Battle;30",
+      "en-trans": "yul lé shintu nampar gyalwa la chaktsal lo"
+    },
+    {
+      "bo": "རྣམ་པར་གནོན་པས་གཤེགས་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Transcendent Victory;31",
+      "en-trans": "nampar nönpé shekpé pal la chaktsal lo"
+    },
+    {
+      "bo": "ཀུན་ནས་སྣང་བ་བཀོད་པའི་དཔལ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Glorious One Appearing to All;32",
+      "en-trans": "künné nangwa köpé pal la chaktsal lo"
+    },
+    {
+      "bo": "རིན་ཆེན་པདྨས་རྣམ་པར་གནོན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to Courageous Lotus Jewel;33",
+      "en-trans": "rinchen pemé nampar nönpa la chaktsal lo"
+    },
+    {
+      "bo": "དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིན་པོ་ཆེ་དང་པདྨའི་གདན་ལ་རབ་ཏུ་བཞུགས་པ་རི་དབང་གི་རྒྱལ་པོ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to the tathāgata, the arhat, the complete and perfect buddha, Lotus Jewel Steadfast like the King of Mountains.34",
+      "en-trans": "dezhin shekpa drachompa yangdakpar dzokpé sangye rinpoche dang pemé den la rabtu zhukpa riwang gi gyalpo la chaktsal lo"
+    },
+    {
+      "bo": "དེ་དག་ལ་སོགས་པ་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཐམས་ཅད་ན་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་གང་ཇི་སྙེད་ཅིག་བཞུགས་ཏེ་འཚོ་ཞིང་གཞེས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཐམས་ཅད་བདག་ལ་དགོངས་སུ་གསོལ།",
+      "en": "May you, and however many other blessed ones, tathāgatas, arhats, complete and perfect buddhas there are living and dwelling in all the world systems in all directions—all you blessed buddhas—please pay attention to me!",
+      "en-trans": "dedak lasokpa chok chü jikten gyi kham tamché na dezhin shekpa drachompa yangdakpar dzokpé sangye chomdendé gang jinyé chik zhuk té tso zhing zhepé sangye chomdendé dedak tamché dak la gong su sol"
+    },
+    {
+      "bo": "བདག་གིས་སྐྱེ་བ་འདི་དང༌། སྐྱེ་བ་ཐོག་མ་དང་མཐའ་མ་མ་མཆིས་པ་ནས། འཁོར་བ་ན་འཁོར་བའི་སྐྱེ་གནས་ཐམས་ཅད་དུ་སྡིག་པའི་ལས་བགྱིས་པ་དང༌། བགྱིད་དུ་སྩལ་བ་དང༌། བགྱིས་པ་ལ་རྗེས་སུ་ཡི་རང་བའམ།",
+      "en": "In this life and all my other lives circling from one form of saṃsāric existence to the next throughout beginningless time—whatever wrongs I may have done, or caused other to do, or have rejoiced in;",
+      "en-trans": "dak gi kyewa di dang kyewa tokma dang tama machipa né khorwa na khorwé kyené tamché du dikpé lé gyipa dang gyi du tsalwa dang gyipa la jesu yirangwa am"
+    },
+    {
+      "bo": "མཆོད་རྟེན་གྱི་དཀོར་རམ། དགེ་འདུན་གྱི་དཀོར་རམ། ཕྱོགས་བཅུའི་དགེ་འདུན་གྱི་དཀོར་ཕྲོགས་པ་དང༌། འཕྲོག་ཏུ་སྩལ་བ་དང༌། འཕྲོག་པ་ལ་རྗེས་སུ་ཡི་རང་བའམ།",
+      "en": "Whatever possessions of stūpas, possessions of the Saṅgha, or possessions of saṅghas dwelling in all directions, I may have appropriated, caused others to appropriate, or rejoiced in the appropriation of;",
+      "en-trans": "chörten gyi kor ram gendün gyi kor ram chok chü gendün gyi kor trokpa dang trok tu tsalwa dang trokpa la jesu yirangwa am"
+    },
+    {
+      "bo": "མཚམས་མ་མཆིས་པ་ལྔའི་ལས་བགྱིས་པ་དང༌། བགྱིད་དུ་སྩལ་བ་དང༌། བགྱིས་པ་ལ་རྗེས་སུ་ཡི་རང་བའམ།",
+      "en": "Whichever of the five actions of immediate retribution I may have committed, caused others to commit, or rejoiced in;",
+      "en-trans": "tsam machipa ngé lé gyipa dang gyi du tsalwa dang gyipa la jesu yirangwa am"
+    },
+    {
+      "bo": "མི་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་ཡང་དག་པར་བླངས་པ་ལ་ཞུགས་པ་དང༌། འཇུག་ཏུ་སྩལ་བ་དང༌། ཞུགས་པ་ལ་རྗེས་སུ་ཡི་རང་བའམ།",
+      "en": "Whichever path of the ten unwholesome actions I may have embarked upon or am currently residing on, incited others to enter, or rejoiced in;",
+      "en-trans": "migewa chü lé kyi lam yangdakpar langpa la zhukpa dang juk tu tsalwa dang zhukpa la jesu yirangwa am"
+    },
+    {
+      "bo": "ལས་ཀྱི་སྒྲིབ་པ་གང་གིས་བསྒྲིབས་ནས་བདག་སེམས་ཅན་དམྱལ་བར་མཆི་བའམ། དུད་འགྲོའི་སྐྱེ་གནས་སུ་མཆི་བའམ། ཡི་དྭགས་ཀྱི་ཡུལ་དུ་མཆི་བའམ། ཡུལ་མཐའ་འཁོབ་ཏུ་སྐྱེ་བའམ། ཀླ་ཀློར་སྐྱེ་བའམ། ལྷ་ཚེ་རིང་པོ་རྣམས་སུ་སྐྱེ་བའམ། དབང་པོ་མ་ཚང་བར་འགྱུར་བའམ། ལྟ་བ་ལོག་པར་འཛིན་པར་འགྱུར་བའམ། སངས་རྒྱས་འབྱུང་བ་ལ་མཉེས་པར་མི་བགྱིད་པར་འགྱུར་བའི་ལས་ཀྱི་སྒྲིབ་པ་གང་ལགས་པ་དེ་དག་ཐམས་ཅད་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཡེ་ཤེས་སུ་གྱུར་པ།",
+      "en": "Whatever karmic veils I may have developed that would lead to the hells, or to the animal realm, or to the land of the pretas, or to birth in border regions, or amongst barbarians, or amongst the long-lived gods, or that would lead to incomplete sense faculties, or holding wrong views, or to not rejoicing at the advent of a Buddha—",
+      "en-trans": "lé kyi dribpa gang gi drib né dak semchen nyalwar chiwa am düdrö kyené su chiwa am yidak kyi yul du chiwa am yul takhob tu kyewa am lalor kyewa am lha tseringpo nam su kyewa am wangpo matsangwar gyurwa am tawa lokpar dzinpar gyurwa am sangye jungwa la nyepar mi gyipar gyurwé lé kyi dribpa gang lakpa dedak tamché sangye chomdendé yeshe su gyurpa"
+    },
+    {
+      "bo": "སྤྱན་དུ་གྱུར་པ། དཔང་དུ་གྱུར་པ། ཚད་མར་གྱུར་པ། མཁྱེན་པས་གཟིགས་པ། དེ་དག་གི་སྤྱན་སྔར་མཐོལ་ལོ་འཆགས་སོ། །མི་འཆབ་བོ། །མི་སྦེད་དོ། །སླན་ཆད་ཀྱང་གཅོད་ཅིང་སྡོམ་པ་བགྱིད་ལགས་སོ། །",
+      "en": "All of these I confess in the presence of the blessed buddhas, who are aware, who observe, who are witnesses, who are authorities, who know and see. I admit them and do not conceal them, and I make a vow to refrain from them henceforth!",
+      "en-trans": "chen du gyurpa pang du gyurpa tsemar gyurpa khyenpé zikpa dedak gi chen ngar tol lo chak so mi chabwo mi bé do lenché kyang chö ching dompa gyi lak so"
+    },
+    {
+      "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་དག་ཐམས་ཅད་བདག་ལ་དགོངས་སུ་གསོལ།",
+      "en": "All you blessed buddhas, please pay attention to me!",
+      "en-trans": "sangye chomdendé dedak tamché dak la gong su sol"
+    },
+    {
+      "bo": "བདག་གིས་སྐྱེ་བ་འདི་དང་སྐྱེ་བ་ཐོག་མ་དང་མཐའ་མ་མཆིས་པ་ནས། འཁོར་བ་ན་འཁོར་བའི་སྐྱེ་གནས་གཞན་དག་ཏུ་སྦྱིན་པ་ཐ་ན་དུད་འགྲོའི་སྐྱེ་གནས་སུ་སྐྱེས་པ་ལ་ཟས་ཁམ་གཅིག་ཙམ་བསྩལ་བའི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དང༌།",
+      "en": "Over the course of this life and all other lives in saṃsāra without beginning or end—whatever wholesomeness there may be from having given gifts to others, even as little as a mouthful of food to a being born as an animal;",
+      "en-trans": "dak gi kyewa di dang kyewa tokma dang tama chipa né khorwa na khorwé kyené zhendak tu jinpa tana düdrö kyené su kyepa la zé kham chik tsam tsalwé gewé tsawa gang lakpa dang"
+    },
+    {
+      "bo": "བདག་གིས་ཚུལ་ཁྲིམས་བསྲུངས་པའི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དང༌།",
+      "en": "Whatever wholesomeness there may be in having preserved discipline;",
+      "en-trans": "dak gi tsultrim sungpé gewé tsawa gang lakpa dang"
+    },
+    {
+      "bo": "བདག་གིས་ཚངས་པར་སྤྱོད་པ་ལ་གནས་པའི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དང༌།",
+      "en": "Whatever wholesomeness there may be in having maintained chaste behavior;",
+      "en-trans": "dak gi tsangpar chöpa la nepé gewé tsawa gang lakpa dang"
+    },
+    {
+      "bo": "བདག་གིས་སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བགྱིས་པའི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དང༌།",
+      "en": "Whatever wholesomeness there may be in having caused sentient beings to mature;",
+      "en-trans": "dak gi semchen yongsu minpar gyipé gewé tsawa gang lakpa dang"
+    },
+    {
+      "bo": "བདག་གིས་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་པའི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དང༌།",
+      "en": "Whatever wholesomeness there may be in having roused a mind set on supreme awakening;",
+      "en-trans": "dak gi changchub chok tu semkyepé gewé tsawa gang lakpa dang"
+    },
+    {
+      "bo": "བདག་གིས་བླ་ན་མེད་པ་ཡེ་ཤེས་ཀྱི་དགེ་བའི་རྩ་བ་གང་ལགས་པ་དེ་དག་ཐམས་ཅད་གཅིག་ཏུ་བསྡུས་ཤིང་བཟླུམས་ཏེ།",
+      "en": "Whatever wholesomeness there may be in unsurpassable wisdom—",
+      "en-trans": "dak gi lanamepa yeshe kyi gewé tsawa gang lakpa dedak tamché chik tu dü shing dum té"
+    },
+    {
+      "bo": "བསྡོམས་ནས་བླ་ན་མ་མཆིས་པ་དང༌། གོང་ན་མ་མཆིས་པ་དང༌། གོང་མའི་གོང་མ་། བླ་མའི་བླ་མར་ཡོངས་སུ་སྔོ་བས།བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །",
+      "en": "Combining, gathering, and collecting all of this together, I dedicate it to the unexcelled, unsurpassed, most exalted, the most excellent; I dedicate it to unsurpassable, complete and perfect awakening.",
+      "en-trans": "dom né lana machipa dang gong nama chipa dang gongmé gongma lamé lamar yongsu ngowé lanamepa yangdakpar dzokpé changchub tu yongsu ngowar gyi o"
+    },
+    {
+      "bo": "ཇི་ལྟར་འདས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཡོངས་སུ་བསྔོས་པ་དང་། ཇི་ལྟར་མ་བྱོན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཡོངས་སུ་བསྔོ་བར་འགྱུར་བ་དང༌། ཇི་ལྟར་ད་ལྟར་བཞུག་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱིས་ཡོངས་སུ་སྔོ་བར་མཛད་པ་དེ་བཞིན་དུ་བདག་གིས་ཀྱང་ཡོངས་སུ་བསྔོ་བར་བགྱིའོ། །",
+      "en": "Just as past blessed buddhas have dedicated, and just as future buddhas, blessed ones, will dedicate, and just as the buddhas, blessed ones of the present in all directions, are dedicating now, I also fully dedicate in the very same way.",
+      "en-trans": "jitar depé sangye chomdendé nam kyi yongsu ngöpa dang jitar majönpé sangye chomdendé nam kyi yongsu ngowar gyurwa dang jitar dantar zhukpé sangye chomdendé nam kyi yongsu ngowar dzepa dezhindu dak gi kyang yongsu ngowar gyi o"
+    },
+    {
+      "bo": "སྡིག་པ་ཐམས་ཅད་ནི་སོ་སོར་བཤགས་སོ། །",
+      "en": "I confess each and every misdeed.",
+      "en-trans": "dikpa tamché ni sosor shak so"
+    },
+    {
+      "bo": "བསོད་ནམས་ཐམས་ཅད་ལ་ནི་རྗེས་སུ་ཡི་རང་ངོ༌། །",
+      "en": "I rejoice in all goodness.",
+      "en-trans": "sönam tamché la ni jesu yi rang ngo"
+    },
+    {
+      "bo": "སངས་རྒྱས་ཐམས་ཅད་ལ་ནི་བསྐུལ་ཞིང་གསོལ་བ་འདེབས་སོ། །",
+      "en": "I request and pray to all the buddhas to teach and remain in saṃsāra.",
+      "en-trans": "sangye tamché la ni kul zhing solwa deb so"
+    },
+    {
+      "bo": "བདག་གིས་བླ་ན་མེད་པ་ཡེ་ཤེས་ཀྱི་མཆོག་དམ་པ་ཐོབ་པར་གྱུར་ཅིག །",
+      "en": "May I attain sublime, supreme, unsurpassed wisdom!",
+      "en-trans": "dak gi lanamepa yeshe kyi chok dampa tobpar gyur chik"
+    },
+    {
+      "bo": "མི་མཆོག་རྒྱལ་བ་གང་དག་ད་ལྟར་བཞུགས་པ་དང༌། །",
+      "en": "Supreme among humans, Victors now present,",
+      "en-trans": "michok gyalwa gangdak dantar zhukpa dang"
+    },
+    {
+      "bo": "གང་དག་འདས་པ་དག་དང་དེ་བཞིན་གང་མ་བྱོན། །",
+      "en": "Those of the past, and those yet to come,",
+      "en-trans": "gangdak depa dak dang dezhin gang majön"
+    },
+    {
+      "bo": "ཡོན་ཏན་བསྔགས་པ་མཐའ་ཡས་རྒྱ་མཚོ་འདྲ་ཀུན་ལ། །",
+      "en": "Your praiseworthy qualities are boundless like the ocean—",
+      "en-trans": "yönten ngakpa tayé gyatso dra kün la"
+    },
+    {
+      "bo": "ཐལ་མོ་སྦྱར་བར་བགྱིས་ཏེ་སྐྱབས་སུ་ཉེ་བར་མཆིའོ། །",
+      "en": "With folded palms, I take refuge in you!",
+      "en-trans": "talmo jarwar gyi té kyab su nyewar chi o"
+    }
+  ]
+}

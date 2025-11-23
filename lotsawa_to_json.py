@@ -5,8 +5,8 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 # Directories
-INPUT_DIR = "lotsawa_prayers_extracted"
-OUTPUT_DIR = "lotsawa_prayers_final_json"
+INPUT_DIR = "wb_prayers/extracted"
+OUTPUT_DIR = "wb_prayers/json"
 
 
 def extract_footer_data(footer_path):

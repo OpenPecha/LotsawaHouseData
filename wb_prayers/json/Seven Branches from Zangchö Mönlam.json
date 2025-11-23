@@ -1,0 +1,251 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/words-of-the-buddha/seven-branch-zangcho-monlam",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཕགས་པ་བཟང་སྤྱོད་སྨོན་ལམ་གྱི་ཡན་ལག་བདུན་པ།",
+    "en": "The Seven Preliminaries for Purifying the Mind"
+  },
+  "text": [
+    {
+      "bo": "ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །",
+      "en": "To all the buddhas, the lions of the human race,",
+      "en-trans": "jinyé su dak chok chü jikten na"
+    },
+    {
+      "bo": "དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེང་གེ་ཀུན། །",
+      "en": "In all directions of the universe, through past and present and future:",
+      "en-trans": "dü sum shekpa mi yi sengé kün"
+    },
+    {
+      "bo": "བདག་གིས་མ་ལུས་དེ་དག་ཐམས་ཅད་ལ། །",
+      "en": "To every single one of you, I bow in homage;",
+      "en-trans": "dak gi malü dedak tamché la"
+    },
+    {
+      "bo": "ལུས་དང་ངག་ཡིད་དང་བས་ཕྱག་བགྱིའོ། །",
+      "en": "Devotion fills my body, speech and mind.",
+      "en-trans": "lü dang ngak yi dangwé chak gyi o"
+    },
+    {
+      "bo": "བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས། །",
+      "en": "Through the power of this prayer, aspiring to Good Action,",
+      "en-trans": "zangpo chöpé mönlam tob dak gi"
+    },
+    {
+      "bo": "རྒྱལ་བ་ཐམས་ཅད་ཡིད་ཀྱིས་མངོན་སུམ་དུ། །",
+      "en": "All the victorious ones appear, vivid here before my mind",
+      "en-trans": "gyalwa tamché yi kyi ngönsum du"
+    },
+    {
+      "bo": "ཞིང་གི་རྡུལ་སྙེད་ལུས་རབ་བཏུད་པ་ཡིས། །",
+      "en": "And I multiply my body as many times as atoms in the universe,",
+      "en-trans": "zhing gi dul nyé lü rab tüpa yi"
+    },
+    {
+      "bo": "རྒྱལ་བ་ཀུན་ལ་རབ་ཏུ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Each one bowing in prostration to all the buddhas.",
+      "en-trans": "gyalwa kün la rabtu chaktsal lo"
+    },
+    {
+      "bo": "རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས། །",
+      "en": "In every atom preside as many buddhas as there are atoms,",
+      "en-trans": "dul chik teng na dul nyé sangye nam"
+    },
+    {
+      "bo": "སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་དག །",
+      "en": "And around them, all their bodhisattva heirs:",
+      "en-trans": "sangye sé kyi ü na zhukpa dak"
+    },
+    {
+      "bo": "དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་རྣམས་མ་ལུས་པ། །",
+      "en": "And so I imagine them filling",
+      "en-trans": "detar chö kyi ying nam malüpa"
+    },
+    {
+      "bo": "ཐམས་ཅད་རྒྱལ་བ་དག་གིས་གང་བར་མོས། །",
+      "en": "Completely the entire space of reality.",
+      "en-trans": "tamché gyalwa dak gi gangwar mö"
+    },
+    {
+      "bo": "དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས། །",
+      "en": "Saluting them with an endless ocean of praise,",
+      "en-trans": "dedak ngakpa mizé gyatso nam"
+    },
+    {
+      "bo": "དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས། །",
+      "en": "With the sounds of an ocean of different melodies",
+      "en-trans": "yang kyi yenlak gyatsö dra kün gyi"
+    },
+    {
+      "bo": "རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང་། །",
+      "en": "I sing of the buddhas’ noble qualities,",
+      "en-trans": "gyalwa kün gyi yönten rab jö ching"
+    },
+    {
+      "bo": "བདེ་བར་གཤེགས་པ་ཐམས་ཅད་བདག་གིས་བསྟོད། །",
+      "en": "And praise all those who have gone to perfect bliss.",
+      "en-trans": "dewar shekpa tamché dak gi tö"
+    },
+    {
+      "bo": "མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང་། །",
+      "en": "To every buddha, I make offerings:",
+      "en-trans": "metok dampa trengwa dampa dang"
+    },
+    {
+      "bo": "སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང་། །",
+      "en": "Of the loveliest flowers, of beautiful garlands,",
+      "en-trans": "silnyen nam dang jukpa duk chok dang"
+    },
+    {
+      "bo": "མར་མེ་མཆོག་དང་བདུག་སྤོས་དམ་པ་ཡིས། །",
+      "en": "Of music and perfumed ointments, the best of parasols,",
+      "en-trans": "marmé chok dang dukpö dampa yi"
+    },
+    {
+      "bo": "རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། །",
+      "en": "The brightest lamps and finest incense.",
+      "en-trans": "gyalwa dedak la ni chöpar gyi"
+    },
+    {
+      "bo": "ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང་། །",
+      "en": "To every buddha, I make offerings:",
+      "en-trans": "naza dampa nam dang dri chok dang"
+    },
+    {
+      "bo": "ཕྱེ་མ་ཕུར་མ་རི་རབ་མཉམ་པ་དང་། །",
+      "en": "Exquisite garments and the most fragrant scents,",
+      "en-trans": "chema purma rirab nyampa dang"
+    },
+    {
+      "bo": "བཀོད་པ་ཁྱད་པར་འཕགས་པའི་མཆོག་ཀུན་གྱིས། །",
+      "en": "Powdered incense, heaped as high as Mount Meru,",
+      "en-trans": "köpa khyepar pakpé chok kün gyi"
+    },
+    {
+      "bo": "རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། །",
+      "en": "Arranged in perfect symmetry.",
+      "en-trans": "gyalwa dedak la ni chöpar gyi"
+    },
+    {
+      "bo": "མཆོད་པ་གང་རྣམས་བླ་མེད་རྒྱ་ཆེ་བ། །",
+      "en": "Then the vast and unsurpassable offerings—",
+      "en-trans": "chöpa gang nam lamé gya chewa"
+    },
+    {
+      "bo": "དེ་དག་རྒྱལ་བ་ཐམས་ཅད་ལ་ཡང་མོས། །",
+      "en": "Inspired by my devotion to all the buddhas, and",
+      "en-trans": "dedak gyalwa tamché la yang mö"
+    },
+    {
+      "bo": "བཟང་པོ་སྤྱོད་ལ་དད་པའི་སྟོབས་དག་གིས། །",
+      "en": "Moved by the power of my faith in Good Actions—",
+      "en-trans": "zangpo chö la depé tob dak gi"
+    },
+    {
+      "bo": "རྒྱལ་བ་ཀུན་ལ་ཕྱག་འཚལ་མཆོད་པར་བགྱི། །",
+      "en": "I prostrate and offer to all you victorious ones.",
+      "en-trans": "gyalwa kün la chaktsal chöpar gyi"
+    },
+    {
+      "bo": "འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དབང་གིས་ནི། །",
+      "en": "Whatever negative acts I have committed,",
+      "en-trans": "döchak zhedang timuk wang gi ni"
+    },
+    {
+      "bo": "ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང་། །",
+      "en": "While driven by desire, hatred and ignorance,",
+      "en-trans": "lü dang ngak dang dezhin yi kyi kyang"
+    },
+    {
+      "bo": "སྡིག་པ་བདག་གིས་བགྱིས་པ་ཅི་མཆིས་པ། །",
+      "en": "With my body, my speech and also with my mind,",
+      "en-trans": "dikpa dak gi gyipa chi chipa"
+    },
+    {
+      "bo": "དེ་དག་ཐམས་ཅད་བདག་གིས་སོ་སོར་བཤགས། །",
+      "en": "Before you, I confess and purify each and every one.",
+      "en-trans": "dedak tamché dak gi sosor shak"
+    },
+    {
+      "bo": "ཕྱོགས་བཅུའི་རྒྱལ་བ་ཀུན་དང་སངས་རྒྱས་སྲས། །",
+      "en": "With a heart full of delight, I rejoice at all the merits",
+      "en-trans": "chok chü gyalwa kün dang sangye sé"
+    },
+    {
+      "bo": "རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང་། །",
+      "en": "Of buddhas and bodhisattvas,",
+      "en-trans": "ranggyal nam dang lob dang mi lob dang"
+    },
+    {
+      "bo": "འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང་། །",
+      "en": "Pratyekabuddhas, those in training and the arhats beyond training,",
+      "en-trans": "drowa kün gyi sönam gangla yang"
+    },
+    {
+      "bo": "དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང་། །",
+      "en": "And every living being, throughout the entire universe.",
+      "en-trans": "dedak kün gyi jesu dak yi rang"
+    },
+    {
+      "bo": "གང་རྣམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་སྒྲོན་མ་རྣམས། །",
+      "en": "You who are like beacons of light shining through the worlds,",
+      "en-trans": "gang nam chok chü jikten drönma nam"
+    },
+    {
+      "bo": "བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་མ་ཆགས་བརྙེས། །",
+      "en": "Who passed through the stages of enlightenment, to attain buddhahood, freedom from all attachment,",
+      "en-trans": "changchub rimpar sangye machak nyé"
+    },
+    {
+      "bo": "མགོན་པོ་དེ་དག་བདག་གིས་ཐམས་ཅད་ལ། །",
+      "en": "I exhort you: all of you protectors,",
+      "en-trans": "gönpo dedak dak gi tamché la"
+    },
+    {
+      "bo": "འཁོར་ལོ་བླ་ན་མེད་པར་བསྐོར་བར་བསྐུལ། །",
+      "en": "Turn the unsurpassable wheel of Dharma.",
+      "en-trans": "khorlo lanamepar korwar kul"
+    },
+    {
+      "bo": "མྱ་ངན་འདའ་སྟོན་གང་བཞེད་དེ་དག་ལ། །",
+      "en": "Joining my palms together, I pray",
+      "en-trans": "nya ngen da tön gang zhé dedak la"
+    },
+    {
+      "bo": "འགྲོ་བ་ཀུན་ལ་ཕན་ཞིང་བདེ་བའི་ཕྱིར། །",
+      "en": "To you who intend to pass into nirvāṇa,",
+      "en-trans": "drowa kün la pen zhing dewé chir"
+    },
+    {
+      "bo": "བསྐལ་པ་ཞིང་གི་རྡུལ་སྙེད་བཞུགས་པར་ཡང་། །",
+      "en": "Remain, for aeons as many as the atoms in this world,",
+      "en-trans": "kalpa zhing gi dul nyé zhukpar yang"
+    },
+    {
+      "bo": "བདག་གིས་ཐལ་མོ་རབ་སྦྱར་གསོལ་བར་བགྱི། །",
+      "en": "And bring well-being and happiness to all living beings.",
+      "en-trans": "dak gi talmo rab jar solwar gyi"
+    },
+    {
+      "bo": "ཕྱག་འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང་། །",
+      "en": "What little virtue I have gathered through my homage,",
+      "en-trans": "chaktsalwa dang chö ching shakpa dang"
+    },
+    {
+      "bo": "རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བ་ཡི། །",
+      "en": "Through offering, confession, and rejoicing,",
+      "en-trans": "jesu yi rang kul zhing solwa yi"
+    },
+    {
+      "bo": "དགེ་བ་ཅུང་ཟད་བདག་གིས་ཅི་བསགས་པ། །",
+      "en": "Through exhortation and prayer—all of it",
+      "en-trans": "gewa chungzé dak gi chi sakpa"
+    },
+    {
+      "bo": "ཐམས་ཅད་བདག་གིས་བྱང་ཆུབ་ཕྱིར་བསྔོའོ། །",
+      "en": "I dedicate to the enlightenment of all beings!",
+      "en-trans": "tamché dak gi changchub chir ngo o"
+    }
+  ]
+}

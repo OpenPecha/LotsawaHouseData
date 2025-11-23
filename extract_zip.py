@@ -4,8 +4,8 @@ import zipfile
 from pathlib import Path
 
 # Directories
-INPUT_DIR = "lotsawa_prayers_zip"
-OUTPUT_DIR = "lotsawa_prayers_extracted"
+INPUT_DIR = "wb_prayers/zips"
+OUTPUT_DIR = "wb_prayers/extracted"
 
 def main():
     input_path = Path(INPUT_DIR)

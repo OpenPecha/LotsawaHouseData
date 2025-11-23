@@ -1,0 +1,529 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/words-of-the-buddha/maitreyas-aspiration",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །བྱམས་པའི་སྨོན་ལམ།",
+    "en": "Maitreya's Aspiration"
+  },
+  "text": [
+    {
+      "bo": "རྒྱ་གར་སྐད་དུ། ཨཱརྻ་མཻ་ཏྲཱི་པྲ་ཎི་དྷཱ་ན་རཱ་ཛ།",
+      "en": "In the language of India:ārya-maitrī-praṇidhānarāja",
+      "en-trans": "gyagar ké du arya maitri pranidhana radza"
+    },
+    {
+      "bo": "བོད་སྐད་དུ། འཕགས་པ་བྱམས་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ།",
+      "en": "In the language of Tibet:pakpa champé mönlam gyi gyalpo",
+      "en-trans": "böké du pakpa jampé mönlam gyi gyalpo"
+    },
+    {
+      "en": "In the English language:The Noble Maitreya’s King of Aspirations"
+    },
+    {
+      "bo": "སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to all buddhas and bodhisattvas!",
+      "en-trans": "sangye dang changchub sempa tamché la chaktsal lo"
+    },
+    {
+      "bo": "སངས་རྒྱས་ཀུན་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to all buddhas!",
+      "en-trans": "sangye kün la chaktsal lo"
+    },
+    {
+      "bo": "དྲང་སྲོང་ལྷ་མིག་ལྡན་པ་ཡི། །",
+      "en": "Homage to the bodhisattvas",
+      "en-trans": "drangsong lha mik denpa yi"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའ་རྣམས་དང་ཡང༌། །",
+      "en": "Who possess the divine vision of seers,",
+      "en-trans": "changchub sempa nam dang yang"
+    },
+    {
+      "bo": "ཉན་ཐོས་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "And homage to the hearers as well.",
+      "en-trans": "nyentö nam la chaktsal lo"
+    },
+    {
+      "bo": "ངན་འགྲོ་ལས་ནི་བཟློག་བགྱིད་ཅིང༌། །",
+      "en": "Homage to bodhicitta, the heart of awakening,",
+      "en-trans": "ngendro lé ni dok gyi ching"
+    },
+    {
+      "bo": "མཐོ་རིས་ལམ་ནི་རབ་སྟོན་ལ། །",
+      "en": "That keeps the lower realms at bay,",
+      "en-trans": "tori lam ni rab tön la"
+    },
+    {
+      "bo": "རྒ་ཤི་མེད་པར་འདྲེན་བགྱིད་པ། །",
+      "en": "That shows us the way to the higher realms,",
+      "en-trans": "gashi mepar dren gyipa"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "And leads us to a state beyond ageing and death.",
+      "en-trans": "changchub sem la chaktsal lo"
+    },
+    {
+      "bo": "སེམས་ཀྱི་དབང་དུ་གྱུར་པས་ན། །",
+      "en": "I go before the awakened ones",
+      "en-trans": "sem kyi wang du gyurpé na"
+    },
+    {
+      "bo": "བདག་གིས་སྡིག་པ་ཅི་བགྱིས་པ། །",
+      "en": "To confess any and all misdeeds",
+      "en-trans": "dak gi dikpa chigyi pa"
+    },
+    {
+      "bo": "སངས་རྒྱས་སྤྱན་སྔར་མཆིས་ནས་སུ། །",
+      "en": "That I may have committed",
+      "en-trans": "sangye chen ngar chi né su"
+    },
+    {
+      "bo": "བདག་གིས་དེ་དག་བཤགས་པར་བགྱི། །",
+      "en": "While under the sway of mind.",
+      "en-trans": "dak gi dedak shakpar gyi"
+    },
+    {
+      "bo": "གང་ལས་རྣམ་པ་གསུམ་གང་གིས། །",
+      "en": "May all merit accrued",
+      "en-trans": "ganglé nampa sum gang gi"
+    },
+    {
+      "bo": "བསོད་ནམས་ཚོགས་ནི་བསྐྱེད་པ་དེ། །",
+      "en": "Through the three kinds of actions",
+      "en-trans": "sönam tsok ni kyepa dé"
+    },
+    {
+      "bo": "བདག་གི་ཀུན་མཁྱེན་ས་བོན་ཏེ། །",
+      "en": "Become a seed for my omniscience",
+      "en-trans": "dak gi künkhyen sabön té"
+    },
+    {
+      "bo": "བདག་གི་བྱང་ཆུབ་མི་ཟད་ཤོག །",
+      "en": "And inexhaustible awakening.",
+      "en-trans": "dak gi changchub mizé shok"
+    },
+    {
+      "bo": "ཕྱོགས་བཅུ་དག་གི་ཞིང་ཁམས་སུ། །",
+      "en": "The buddhas are aware and rejoice in any offering",
+      "en-trans": "chok chu dak gi zhingkham su"
+    },
+    {
+      "bo": "སངས་རྒྱས་མཆོད་པ་གང་བྱུང་བ། །",
+      "en": "Made to the awakened ones",
+      "en-trans": "sangye chöpa gang jungwa"
+    },
+    {
+      "bo": "སངས་རྒྱས་མཁྱེན་པས་ཡི་རང་བ། །",
+      "en": "Throughout the buddhafields of the ten directions,",
+      "en-trans": "sangye khyenpé yirangwa"
+    },
+    {
+      "bo": "དེ་ལ་བདག་ནི་ཡི་རང་ངོ༌། །",
+      "en": "And so do I too rejoice.",
+      "en-trans": "dela dak ni yi rang ngo"
+    },
+    {
+      "bo": "སྡིག་པ་ཐམས་ཅད་བཤགས་པར་བགྱི། །",
+      "en": "I hereby confess all negative actions.",
+      "en-trans": "dikpa tamché shakpar gyi"
+    },
+    {
+      "bo": "བསོད་ནམས་ཀུན་ལ་ཡི་རང་ངོ༌། །",
+      "en": "I hereby rejoice in everything meritorious.",
+      "en-trans": "sönam kün la yi rang ngo"
+    },
+    {
+      "bo": "སངས་རྒྱས་ཀུན་ལ་ཕྱག་འཚལ་ལ། །",
+      "en": "I hereby pay homage to all buddhas.",
+      "en-trans": "sangye kün la chaktsal la"
+    },
+    {
+      "bo": "བདག་ནི་ཡེ་ཤེས་མཆོག་ཐོབ་ཤོག །",
+      "en": "May I attain the supreme wisdom state.",
+      "en-trans": "dak ni yeshe chok tob shok"
+    },
+    {
+      "bo": "ཕྱོགས་བཅུ་དག་གི་ཕྱོགས་རྣམས་ན། །",
+      "en": "I exhort each and every bodhisattva",
+      "en-trans": "chok chu dak gi chok nam na"
+    },
+    {
+      "bo": "ས་བཅུ་དག་ལ་གནས་པ་ཡི། །",
+      "en": "Dwelling in the ten directions",
+      "en-trans": "sa chu dak la nepa yi"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའ་བྱང་ཆུབ་མཆོག །",
+      "en": "And upon the ten bodhisattva levels",
+      "en-trans": "changchub sempa changchub chok"
+    },
+    {
+      "bo": "འཚང་རྒྱ་བགྱིད་པར་བསྐུལ་མ་འདེབས། །",
+      "en": "To awaken now to supreme enlightenment.",
+      "en-trans": "tsanggya gyipar kulma deb"
+    },
+    {
+      "bo": "བྱང་ཆུབ་དམ་པར་སངས་རྒྱས་ཤིང༌། །",
+      "en": "And, as they awaken to sublime enlightenment,",
+      "en-trans": "changchub dampar sangyé shing"
+    },
+    {
+      "bo": "སྡེ་དང་བཅས་པའི་བདུད་བཏུལ་ནས། །",
+      "en": "May they turn the wheel of Dharma",
+      "en-trans": "dé dang chepé dü tul né"
+    },
+    {
+      "bo": "སྲོག་ཆགས་ཀུན་ལ་སྨན་སླད་དུ། །",
+      "en": "So as to tame the demons and all their hordes,",
+      "en-trans": "sokchak kün la men ledu"
+    },
+    {
+      "bo": "ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་གྱུར་ཅིག །",
+      "en": "And bring benefit to every living being.",
+      "en-trans": "chö kyi khorlo kor gyur chik"
+    },
+    {
+      "bo": "ཆོས་རྔ་ཆེན་པོའི་སྒྲ་ཡིས་ནི། །",
+      "en": "May the beat of the great drum of Dharma",
+      "en-trans": "chö nga chenpö dra yi ni"
+    },
+    {
+      "bo": "སྡུག་བསྔལ་སེམས་ཅན་ཐར་བགྱིད་ཤོག །",
+      "en": "Free beings from their suffering.",
+      "en-trans": "dukngal semchen tar gyi shok"
+    },
+    {
+      "bo": "བསྐལ་པ་བྱེ་བ་བསམ་ཡས་སུ། །",
+      "en": "For unimaginable billions of eons,",
+      "en-trans": "kalpa jewa samyé su"
+    },
+    {
+      "bo": "ཆོས་སྟོན་མཛད་ཅིང་བཞུགས་གྱུར་ཅིག །",
+      "en": "May the awakened ones teach Dharma and remain.",
+      "en-trans": "chö tön dzé ching zhuk gyur chik"
+    },
+    {
+      "bo": "འདོད་པའི་འདམ་དུ་བྱིང་གྱུར་ཅིང༌། །",
+      "en": "I beg you, best of humans,",
+      "en-trans": "döpé dam du jing gyur ching"
+    },
+    {
+      "bo": "སྲེད་པའི་སྲད་བུས་དམ་བཅིངས་པ། །",
+      "en": "Look upon us drowning in the mud of desires,",
+      "en-trans": "sepé sebü dam chingpa"
+    },
+    {
+      "bo": "འཆིང་བ་ཀུན་གྱིས་བཅིངས་བདག་ལ། །",
+      "en": "Bound by the ropes of craving,",
+      "en-trans": "chingwa kün gyi ching dak la"
+    },
+    {
+      "bo": "རྐང་གཉིས་མཆོག་རྣམས་གཟིགས་སུ་གསོལ། །",
+      "en": "And in other ways absolutely trapped.",
+      "en-trans": "kang nyi chok nam zik su sol"
+    },
+    {
+      "bo": "སེམས་ཀྱི་དྲི་མར་གྱུར་པ་ལ། །",
+      "en": "May the buddhas not level criticism",
+      "en-trans": "sem kyi drimar gyurpa la"
+    },
+    {
+      "bo": "སངས་རྒྱས་རྣམས་ནི་སྨོད་མི་མཛད། །",
+      "en": "Against those of impure minds.",
+      "en-trans": "sangye nam ni mö mi dzé"
+    },
+    {
+      "bo": "སེམས་ཅན་རྣམས་ལ་བྱམས་ཐུགས་ལྡན། །",
+      "en": "Instead, may they give love to beings",
+      "en-trans": "semchen nam la jam tukden"
+    },
+    {
+      "bo": "སྲིད་པའི་མཚོ་ལས་སྒྲོལ་བར་ཤོག །",
+      "en": "And free them from the ocean of existence!",
+      "en-trans": "sipé tso lé drolwar shok"
+    },
+    {
+      "bo": "རྫོགས་པའི་སངས་རྒྱས་གང་བཞུགས་དང༌། །",
+      "en": "May I train in the likeness",
+      "en-trans": "dzokpé sangye gang zhuk dang"
+    },
+    {
+      "bo": "གང་དག་འདས་དང་མ་བྱོན་པ། །",
+      "en": "Of the perfectly awakened buddhas",
+      "en-trans": "gangdak dé dang majönpa"
+    },
+    {
+      "bo": "དེ་དག་རྗེས་སུ་བདག་སློབ་ཅིང༌། །",
+      "en": "Of the present, past, and future,",
+      "en-trans": "dedak jesu dak lob ching"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སྤྱད་པ་སྤྱོད་གྱུར་ཅིག །",
+      "en": "And uphold the bodhisattva conduct.",
+      "en-trans": "changchub chepa chö gyur chik"
+    },
+    {
+      "bo": "ཕ་རོལ་ཕྱིན་དྲུག་རྫོགས་བགྱིས་ནས། །",
+      "en": "May I bring to completion the six perfections",
+      "en-trans": "parol chin druk dzok gyi né"
+    },
+    {
+      "bo": "འགྲོ་དྲུག་སེམས་ཅན་མཐར་བགྱིད་ཤོག །",
+      "en": "And lead, to the end, the six classes of beings.",
+      "en-trans": "dro druk semchen tar gyi shok"
+    },
+    {
+      "bo": "མངོན་ཤེས་དྲུག་པོ་མངོན་བགྱིས་ནས། །",
+      "en": "May I manifest at last the six super-knowledges",
+      "en-trans": "ngönshé drukpo ngön gyi né"
+    },
+    {
+      "bo": "བླ་མེད་བྱང་ཆུབ་རེག་གྱུར་ཅིག །",
+      "en": "And reach the unsurpassed state of awakening.",
+      "en-trans": "lamé changchub rek gyur chik"
+    },
+    {
+      "bo": "མ་སྐྱེས་པ་དང་མི་འབྱུང་དང༌། །",
+      "en": "May I realize the truth of emptiness",
+      "en-trans": "makyepa dang minjung dang"
+    },
+    {
+      "bo": "རང་བཞིན་མ་མཆིས་གནས་མ་མཆིས། །",
+      "en": "In which all is birthless and non-arising,",
+      "en-trans": "rangzhin ma chi né ma chi"
+    },
+    {
+      "bo": "རྣམ་རིག་མ་མཆིས་དངོས་མ་མཆིས། །",
+      "en": "Without intrinsic nature, without location,",
+      "en-trans": "namrik ma chi ngö ma chi"
+    },
+    {
+      "bo": "སྟོང་པའི་ཆོས་ནི་རྟོགས་པར་ཤོག །",
+      "en": "With neither mental process nor substance.",
+      "en-trans": "tongpé chö ni tokpar shok"
+    },
+    {
+      "bo": "སངས་རྒྱས་དྲང་སྲོང་ཆེན་པོ་ལྟར། །",
+      "en": "Just like the great sage, the Buddha himself,",
+      "en-trans": "sangye drangsong chenpo tar"
+    },
+    {
+      "bo": "སེམས་ཅན་མ་མཆིས་སྲོག་མ་མཆིས། །",
+      "en": "May I realize the truth of selflessness",
+      "en-trans": "semchen ma chi sok ma chi"
+    },
+    {
+      "bo": "གང་ཟག་མ་མཆིས་གསོ་མ་མཆིས། །",
+      "en": "In which beings do not exist, nor any living things,",
+      "en-trans": "gangzak ma chi so ma chi"
+    },
+    {
+      "bo": "བདག་མ་མཆིས་པའི་ཆོས་རྟོག་ཤོག །",
+      "en": "Nor an individual, nor any kind of person.",
+      "en-trans": "dak machipé chö tok shok"
+    },
+    {
+      "bo": "བདག་འཛིན་བདག་གིར་འཛིན་པ་ཡི། །",
+      "en": "May I practice generosity free from stinginess",
+      "en-trans": "dakdzin dakgir dzinpa yi"
+    },
+    {
+      "bo": "དངོས་པོ་ཀུན་ལ་མི་གནས་པར། །",
+      "en": "Without entertaining any notion of substantiality,",
+      "en-trans": "ngöpo kün la mi nepar"
+    },
+    {
+      "bo": "སེམས་ཅན་ཀུན་ལ་ཕན་སླད་དུ། །",
+      "en": "Nor any belief in the self nor egoistical clinging,",
+      "en-trans": "semchen kün la pen ledu"
+    },
+    {
+      "bo": "སེར་སྣ་མ་མཆིས་སྦྱིན་གཏོང་ཤོག །",
+      "en": "So that the benefit may reach all beings.",
+      "en-trans": "serna ma chi jin tong shok"
+    },
+    {
+      "bo": "དངོས་པོ་དངོས་པོར་མ་མཆིས་པས། །",
+      "en": "Since material things do not exist concretely,",
+      "en-trans": "ngöpo ngöpor machipé"
+    },
+    {
+      "bo": "བདག་གི་ལོངས་སྤྱོད་ལྷུན་གྲུབ་ཤོག །",
+      "en": "May all my needs be spontaneously met.",
+      "en-trans": "dak gi longchö lhündrub shok"
+    },
+    {
+      "bo": "དངོས་པོ་ཐམས་ཅད་རྣམ་འཇིག་པའི། །",
+      "en": "Since all material things are subject to decay,",
+      "en-trans": "ngöpo tamché nam jikpé"
+    },
+    {
+      "bo": "སྦྱིན་པའི་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I master the perfection of generosity.",
+      "en-trans": "jinpé parol chin dzok shok"
+    },
+    {
+      "bo": "ཁྲིམས་ཀྱི་ཚུལ་ཁྲིམས་སྐྱོན་མེད་ཅིང༌། །",
+      "en": "With discipline completely flawless,",
+      "en-trans": "trim kyi tsultrim kyönmé ching"
+    },
+    {
+      "bo": "ཚུལ་ཁྲིམས་རྣམ་པར་དག་དང་ལྡན། །",
+      "en": "Discipline that is perfectly pure,",
+      "en-trans": "tsultrim nampar dak dangden"
+    },
+    {
+      "bo": "རློམ་སེམས་མེད་པའི་ཚུལ་ཁྲིམས་ཀྱིས། །",
+      "en": "And discipline devoid of arrogance,",
+      "en-trans": "lomsem mepé tsultrim kyi"
+    },
+    {
+      "bo": "ཚུལ་ཁྲིམས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I master the perfection of discipline.",
+      "en-trans": "tsultrim parol chin dzok shok"
+    },
+    {
+      "bo": "སའམ་ཡང་ན་ཆུའམ་མེ། །",
+      "en": "With absence of anger—in other words, with patience,",
+      "en-trans": "sa am yangna chu am mé"
+    },
+    {
+      "bo": "རླུང་གི་ཁམས་ལྟར་མི་གནས་ཤིང༌། །",
+      "en": "Akin to how the earth, water, and fire elements,",
+      "en-trans": "lung gi kham tar mi né shing"
+    },
+    {
+      "bo": "བཟོད་པའམ་ཁྲོ་བ་མ་མཆིས་པར། །",
+      "en": "And the wind element as well, dwell not anywhere,",
+      "en-trans": "zöpa am trowa ma chipar"
+    },
+    {
+      "bo": "བཟོད་པའི་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I complete the perfection of patience.",
+      "en-trans": "zöpé parol chin dzok shok"
+    },
+    {
+      "bo": "བརྩོན་འགྲུས་བརྩམས་པའི་བརྩོན་འགྲུས་ཀྱིས། །",
+      "en": "With persistent application of diligence",
+      "en-trans": "tsöndrü tsampé tsöndrü kyi"
+    },
+    {
+      "bo": "བརྟན་སྤྲོ་ལེ་ལོ་མ་མཆིས་ཤིང༌། །",
+      "en": "May I be ever joyful and free from laziness,",
+      "en-trans": "ten tro lelo ma chi shing"
+    },
+    {
+      "bo": "སྟོབས་དང་ལྡན་པའི་ལུས་སེམས་ཀྱིས། །",
+      "en": "And with strength in both body and mind",
+      "en-trans": "tob dang denpé lü sem kyi"
+    },
+    {
+      "bo": "བརྩོན་འགྲུས་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I complete the perfection of diligence.",
+      "en-trans": "tsöndrü parol chin dzok shok"
+    },
+    {
+      "bo": "སྒྱུ་མ་ལྟ་བུའི་ཏིང་འཛིན་དང༌། །",
+      "en": "With illusion-like meditative concentration,",
+      "en-trans": "gyuma tabü tingdzin dang"
+    },
+    {
+      "bo": "དཔའ་བར་འགྲོ་བའི་ཏིང་འཛིན་དང༌། །",
+      "en": "And bravery-inspiring meditative concentration,",
+      "en-trans": "pawar drowé tingdzin dang"
+    },
+    {
+      "bo": "རྡོ་རྗེ་ལྟ་བུའི་ཏིང་འཛིན་གྱིས། །",
+      "en": "And vajra-like meditative concentration,",
+      "en-trans": "dorjé tabü tingdzin gyi"
+    },
+    {
+      "bo": "བསམ་གཏན་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I master the perfection of meditation.",
+      "en-trans": "samten parol chin dzok shok"
+    },
+    {
+      "bo": "རྣམ་པར་ཐར་པའི་སྒོ་གསུམ་དང༌། །",
+      "en": "Acting with the three gates of liberation,",
+      "en-trans": "nampar tarpé go sum dang"
+    },
+    {
+      "bo": "དུས་གསུམ་མཉམ་པ་ཉིད་དང་ཡང༌། །",
+      "en": "With the equality of the three times,",
+      "en-trans": "dü sum nyampa nyi dang yang"
+    },
+    {
+      "bo": "རིག་གསུམ་མངོན་སུམ་བགྱིས་པ་ཡིས། །",
+      "en": "And the threefold knowledge,",
+      "en-trans": "rik sum ngönsum gyipa yi"
+    },
+    {
+      "bo": "ཤེས་རབ་ཕ་རོལ་ཕྱིན་རྫོགས་ཤོག །",
+      "en": "May I master the perfection of wisdom.",
+      "en-trans": "sherab parol chin dzok shok"
+    },
+    {
+      "bo": "སངས་རྒྱས་ཀུན་གྱིས་བསྔགས་པ་དང༌། །",
+      "en": "May I be praised by all buddhas",
+      "en-trans": "sangye kün gyi ngakpa dang"
+    },
+    {
+      "bo": "འོད་དང་གཟི་བརྗིད་འབར་བ་དང༌། །",
+      "en": "As I beam with light and splendour,",
+      "en-trans": "ö dang ziji barwa dang"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་བརྩོན་འགྲུས་ཀྱིས། །",
+      "en": "And with the diligence of a bodhisattva",
+      "en-trans": "changchub sempé tsöndrü kyi"
+    },
+    {
+      "bo": "བདག་གི་བསམ་པ་རྫོགས་གྱུར་ཅིག །",
+      "en": "May all my aims be accomplished.",
+      "en-trans": "dak gi sampa dzok gyur chik"
+    },
+    {
+      "bo": "དེ་ལྟར་སྤྱད་པ་སྤྱོད་བྱེད་ཅིང༌། །",
+      "en": "As I engage in this very conduct,",
+      "en-trans": "detar chepa chö jé ching"
+    },
+    {
+      "bo": "བྱམས་པ་གྲགས་དང་ལྡན་པ་ཡིས། །",
+      "en": "May I, the one known as Maitreya,",
+      "en-trans": "jampa drak dang denpa yi"
+    },
+    {
+      "bo": "ཕ་རོལ་ཕྱིན་དྲུག་རྫོགས་བགྱིས་ནས། །",
+      "en": "Bring to completion the six perfections",
+      "en-trans": "parol chin druk dzok gyi né"
+    },
+    {
+      "bo": "ས་བཅུ་པོ་ལ་རབ་ཏུ་གནས། །",
+      "en": "And reach the ten bodhisattva levels.",
+      "en-trans": "sa chupo la rabtu né"
+    },
+    {
+      "bo": "འདི་ནས་ཤི་འཕོས་གྱུར་མ་ཐག །",
+      "en": "At the very moment I pass away,",
+      "en-trans": "di né shi pö gyur ma tak"
+    },
+    {
+      "bo": "དགའ་ལྡན་སྐྱེས་ནས་ཡིད་དགའ་བར། །",
+      "en": "May I joyfully take rebirth in Tuṣita Heaven",
+      "en-trans": "ganden kyé né yiga bar"
+    },
+    {
+      "bo": "མྱུར་དུ་བྱམས་མགོན་མཉེས་བྱས་ནས། །",
+      "en": "And, swiftly delighting the Lord Maitreya,",
+      "en-trans": "nyurdu jam gön nyé jé né"
+    },
+    {
+      "bo": "བྱང་ཆུབ་ལུང་བསྟན་ཐོབ་པར་ཤོག །",
+      "en": "Receive his prophecy of my awakening.",
+      "en-trans": "changchub lungten tobpar shok"
+    }
+  ]
+}

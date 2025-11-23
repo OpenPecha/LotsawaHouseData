@@ -1,0 +1,391 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/words-of-the-buddha/sutra-recalling-three-jewels",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །འཕགས་པ་དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པ་ཞེས་བྱ་བའི་མདོ་བཞུགས་སོ།།",
+    "en": "The Noble Sūtra of Recalling the Three Jewels"
+  },
+  "text": [
+    {
+      "bo": "ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །",
+      "en": "Homage to the omniscient one!",
+      "en-trans": "tamché khyenpa la chaktsal lo"
+    },
+    {
+      "bo": "འདི་ལྟར་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།",
+      "en": "Thus the Buddha, the transcendent, accomplished conqueror, the tathāgata who has attained suchness, the arhat who has conquered all foes, is a perfectly and completely enlightened buddha, endowed with insight and worthy of reverence,",
+      "en-trans": "ditar sangye chomdendé dezhin shekpa drachompa yangdakpar dzokpé sangye rigpa dang zhab su denpa"
+    },
+    {
+      "bo": "བདེ་བར་གཤེགས་པ།",
+      "en": "The sugata who has reached the state of bliss,",
+      "en-trans": "dewar shekpa"
+    },
+    {
+      "bo": "འཇིག་རྟེན་མཁྱེན་པ།",
+      "en": "The knower of the entire world,",
+      "en-trans": "jikten khyenpa"
+    },
+    {
+      "bo": "སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ།",
+      "en": "The guide and tamer of beings,",
+      "en-trans": "kyebu dulwé khalo gyurwa"
+    },
+    {
+      "bo": "བླ་ན་མེད་པ།",
+      "en": "The unsurpassable one,",
+      "en-trans": "lanamepa"
+    },
+    {
+      "bo": "ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་",
+      "en": "The teacher of gods and humans,",
+      "en-trans": "lha dang mi nam kyi tönpa"
+    },
+    {
+      "bo": "སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཏེ།",
+      "en": "The Buddha Bhagavat.",
+      "en-trans": "sangye chomdendé té"
+    },
+    {
+      "bo": "དེ་བཞིན་གཤེགས་པ་དེ་ནི་བསོད་ནམས་དག་གི་རྒྱུ་མཐུན་པ།",
+      "en": "The tathāgata is in harmony with all merit.",
+      "en-trans": "dezhin shekpa dé ni sönam dak gi gyu tünpa"
+    },
+    {
+      "bo": "དགེ་བའི་རྩ་བ་རྣམས་ཆུད་མི་ཟ་བ།",
+      "en": "He does not waste the sources of virtue.",
+      "en-trans": "gewé tsawa nam chü mi zawa"
+    },
+    {
+      "bo": "བཟོད་པས་རབ་ཏུ་བརྒྱན་པ།",
+      "en": "He is fully adorned with patience.",
+      "en-trans": "zöpé rabtu gyenpa"
+    },
+    {
+      "bo": "བསོད་ནམས་ཀྱི་གཏེར་རྣམས་ཀྱི་གཞི།",
+      "en": "He is the foundation of the treasures of merit.",
+      "en-trans": "sönam kyi ter nam kyi zhi"
+    },
+    {
+      "bo": "དཔེ་བྱད་བཟང་པོ་རྣམས་ཀྱི་སྤྲས་པ།",
+      "en": "He is ornamented with the excellent minor marks.",
+      "en-trans": "pejé zangpo nam kyi trepa"
+    },
+    {
+      "bo": "མཚན་རྣམས་ཀྱི་མེ་ཏོག་རྒྱས་པ།",
+      "en": "He is the full blossoming of the major marks.",
+      "en-trans": "tsen nam kyi metok gyepa"
+    },
+    {
+      "bo": "སྤྱོད་ཡུལ་རན་པར་མཐུན་པ།",
+      "en": "His activity is timely and fitting.",
+      "en-trans": "chöyul renpar tünpa"
+    },
+    {
+      "bo": "མཐོང་ན་མི་མཐུན་པ་མེད་པ།",
+      "en": "Seeing him, there is nothing displeasing.",
+      "en-trans": "tong na mitünpa mepa"
+    },
+    {
+      "bo": "དད་པས་མོས་པ་རྣམས་ལ་མངོན་པར་དགའ་བ།",
+      "en": "He brings true joy to those who have faith.",
+      "en-trans": "depé möpa nam la ngönpar gawa"
+    },
+    {
+      "bo": "ཤེས་རབ་ཟིལ་གྱིས་མི་གནོན་པ།",
+      "en": "His insight overwhelms all in its splendour.",
+      "en-trans": "sherab zil gyi mi nönpa"
+    },
+    {
+      "bo": "སྟོབས་རྣམས་ལ་བརྫི་བ་མེད་པ།",
+      "en": "His powers are invincible.",
+      "en-trans": "tob nam la dziwa mepa"
+    },
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་ཀྱི་སྟོན་པ།",
+      "en": "He is the teacher of all sentient beings.",
+      "en-trans": "semchen tamché kyi tönpa"
+    },
+    {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ཀྱི་ཡབ།",
+      "en": "He is the father of all bodhisattvas.",
+      "en-trans": "changchub sempa nam kyi yab"
+    },
+    {
+      "bo": "འཕགས་པའི་གང་ཟག་རྣམས་ཀྱི་རྒྱལ་པོ།",
+      "en": "He is the sovereign of all the noble ones.",
+      "en-trans": "pakpé gangzak nam kyi gyalpo"
+    },
+    {
+      "bo": "མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར་དུ་འགྲོ་བ་རྣམས་ཀྱི་དེད་དཔོན།",
+      "en": "He is the guide who leads beings to the city of nirvāṇa.",
+      "en-trans": "nya ngen lé depé drongkhyer du drowa nam kyi depön"
+    },
+    {
+      "bo": "ཡེ་ཤེས་དཔག་ཏུ་མེད་པ།",
+      "en": "He has measureless wisdom.",
+      "en-trans": "yeshe paktu mepa"
+    },
+    {
+      "bo": "སྤོབས་པ་བསམ་གྱིས་མི་ཁྱབ་པ།",
+      "en": "He possesses inconceivable fearlessness.",
+      "en-trans": "pobpa sam gyi mi khyabpa"
+    },
+    {
+      "bo": "གསུང་རྣམ་པར་དག་པ།",
+      "en": "His speech is utterly pure.",
+      "en-trans": "sung nampar dakpa"
+    },
+    {
+      "bo": "དབྱངས་སྙན་པ།",
+      "en": "Its tones are melodious.",
+      "en-trans": "yang nyenpa"
+    },
+    {
+      "bo": "སྐུ་བྱད་བལྟ་བས་ཆོག་མི་ཤེས་པ།",
+      "en": "One can never have enough of looking at him.",
+      "en-trans": "ku jé tawé chok mishepa"
+    },
+    {
+      "bo": "སྐུ་མཚུངས་པ་མེད་པ།",
+      "en": "His form is without comparison.",
+      "en-trans": "ku tsungpa mepa"
+    },
+    {
+      "bo": "འདོད་པ་དག་གིས་མ་གོས་པ།",
+      "en": "He is unsullied by the realm of desire.",
+      "en-trans": "döpa dak gi magöpa"
+    },
+    {
+      "bo": "གཟུགས་དག་གིས་ཉེ་བར་མ་གོས་པ།",
+      "en": "He is quite unsullied by the realm of form.",
+      "en-trans": "zuk dak gi nyewar magöpa"
+    },
+    {
+      "bo": "གཟུགས་མེད་པ་དག་དང་མ་འདྲེས་པ།",
+      "en": "He is not caught up in the formless realm.",
+      "en-trans": "zuk mépa dak dang madrepa"
+    },
+    {
+      "bo": "སྡུག་བསྔལ་དག་ལས་རྣམ་པར་གྲོལ་བ།",
+      "en": "He is completely liberated from suffering.",
+      "en-trans": "dukngal dak lé nampar drolwa"
+    },
+    {
+      "bo": "ཕུང་པོ་དག་ལས་རབ་ཏུ་རྣམ་པར་གྲོལ་བ།",
+      "en": "He is totally liberated from the aggregates.",
+      "en-trans": "pungpo dak le rabtu nampar drolwa"
+    },
+    {
+      "bo": "ཁམས་རྣམས་དང་མི་ལྡན་པ།",
+      "en": "He is not possessed with the constituents of ordinary experience.",
+      "en-trans": "kham nam dang mi denpa"
+    },
+    {
+      "bo": "སྐྱེ་མཆེད་རྣམས་བསྡམས་པ།",
+      "en": "He is in control of the sense fields.",
+      "en-trans": "kyemché nam dampa"
+    },
+    {
+      "bo": "མདུད་པ་རྣམས་ཤིན་ཏུ་བཅད་པ།",
+      "en": "He has cut right through the knots.",
+      "en-trans": "düpa nam shintu chepa"
+    },
+    {
+      "bo": "ཡོངས་སུ་གདུང་བ་དག་ལས་རྣམ་པར་སྒྲོལ་བ།",
+      "en": "He is completely liberated from torment.",
+      "en-trans": "yongsu dungwa dak lé nampar drolwa"
+    },
+    {
+      "bo": "སྲེད་པ་ལས་གྲོལ་བ།",
+      "en": "He is freed from craving.",
+      "en-trans": "sepa lé drolwa"
+    },
+    {
+      "bo": "ཆུ་བོ་ལས་བརྒལ་བ།",
+      "en": "He has crossed over the river.",
+      "en-trans": "chuwo lé galwa"
+    },
+    {
+      "bo": "ཡེ་ཤེས་ཡོངས་སུ་རྫོགས་པ།",
+      "en": "He is perfected in all the wisdoms.",
+      "en-trans": "yeshe yongsu dzokpa"
+    },
+    {
+      "bo": "འདས་པ་དང༌། མ་བྱོན་པ་དང༌། ད་ལྟར་བྱུང་བའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་ཡེ་ཤེས་ལ་གནས་པ།",
+      "en": "He abides in the wisdom of all the buddhas of past, present and future.",
+      "en-trans": "depa dang majönpa dang dantar jungwé sangye chomdendé nam kyi yeshe la nepa"
+    },
+    {
+      "bo": "མྱ་ངན་ལས་འདས་པ་ལ་མི་གནས་པ།",
+      "en": "He does not dwell in nirvana.",
+      "en-trans": "nya ngen lé depa la mi nepa"
+    },
+    {
+      "bo": "ཡང་དག་པ་ཉིད་ཀྱི་མཐའ་ལ་གནས་པ།",
+      "en": "He abides in perfect finality.",
+      "en-trans": "yangdakpa nyi kyi ta la nepa"
+    },
+    {
+      "bo": "སེམས་ཅན་ཐམས་ཅད་ལ་གཟིགས་པའི་ས་ལ་བཞུགས་པ་སྟེ།",
+      "en": "He remains on the level where he sees all sentient beings.",
+      "en-trans": "semchen tamché la zikpé sa la zhukpa té"
+    },
+    {
+      "bo": "འདི་དག་ནི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཀྱི་སྐུ་ཆེ་བའི་ཡོན་ཏན་ཡང་དག་པ་རྣམས་སོ། །",
+      "en": "All these are the authentic and supreme qualities of the embodiment of the Buddha.",
+      "en-trans": "didak ni sangye chomdendé nam kyi ku chewé yönten yangdakpa nam so"
+    },
+    {
+      "bo": "དམ་པའི་ཆོས་ནི་ཐོག་མར་དགེ་བ། བར་དུ་དགེ་བ། མཐའ་མར་དགེ་བ།",
+      "en": "The sacred Dharma is good at the beginning, good in the middle and good at the end.",
+      "en-trans": "dampé chö ni tokmar gewa bardu gewa tamar gewa"
+    },
+    {
+      "bo": "དོན་བཟང་པོ།",
+      "en": "It is excellent in meaning,",
+      "en-trans": "dön zangpo"
+    },
+    {
+      "bo": "ཚིག་འབྲུ་བཟང་པོ།",
+      "en": "Excellent in words and syllables.",
+      "en-trans": "tsikdru zangpo"
+    },
+    {
+      "bo": "མ་འདྲེས་པ།",
+      "en": "It is distinctive.",
+      "en-trans": "madrepa"
+    },
+    {
+      "bo": "ཡོངས་སུ་རྫོགས་པ།",
+      "en": "It is totally complete.",
+      "en-trans": "yongsu dzokpa"
+    },
+    {
+      "bo": "ཡོངས་སུ་དག་པ།",
+      "en": "It is utterly pure.",
+      "en-trans": "yongsu dakpa"
+    },
+    {
+      "bo": "ཡོངས་སུ་བྱང་བ།",
+      "en": "It completely purifies.",
+      "en-trans": "yongsu jangwa"
+    },
+    {
+      "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་ཆོས་ལེགས་པར་གསུངས་པ།",
+      "en": "The Buddha teaches the Dharma perfectly.",
+      "en-trans": "chomdendé kyi chö lekpar sungpa"
+    },
+    {
+      "bo": "ཡང་དག་པར་མཐོང་བ།",
+      "en": "It brings unerring vision.",
+      "en-trans": "yangdakpar tongwa"
+    },
+    {
+      "bo": "ནད་མེད་པ།",
+      "en": "It is without affliction.",
+      "en-trans": "né mepa"
+    },
+    {
+      "bo": "དུས་ཆད་པ་མེད་པ།",
+      "en": "It is constant and always timely.",
+      "en-trans": "dü chepa mepa"
+    },
+    {
+      "bo": "ཉེ་བར་གཏོད་པ།",
+      "en": "It is trustworthy when applied.",
+      "en-trans": "nyewar töpa"
+    },
+    {
+      "bo": "འདི་མཐོང་བ་ལ་དོན་ཡོད་པ།",
+      "en": "Seeing it fulfils one’s purpose.",
+      "en-trans": "di tongwa la dön yöpa"
+    },
+    {
+      "bo": "མཁས་པ་རྣམས་ཀྱིས་སོ་སོ་རང་གིས་རིག་པར་བྱ་བ།",
+      "en": "The wise can validate it through their own awareness.",
+      "en-trans": "khepa nam kyi soso rang gi rigpar jawa"
+    },
+    {
+      "bo": "བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་ལེགས་པར་བརྟེན་པ།",
+      "en": "The Dharma taught by the buddha relies entirely on training the mind.",
+      "en-trans": "chomdendé kyi sungpé chö dulwa la lekpar tenpa"
+    },
+    {
+      "bo": "ངེས་པར་འབྱུང་བ།",
+      "en": "It is truly delivering.",
+      "en-trans": "ngepar jungwa"
+    },
+    {
+      "bo": "རྫོགས་པའི་བྱང་ཆུབ་ཏུ་འགྲོ་བར་བྱེད་པ།",
+      "en": "It causes one to arrive at perfect enlightenment.",
+      "en-trans": "dzokpé changchub tu drowar jepa"
+    },
+    {
+      "bo": "མི་མཐུན་པ་མེད་ཅིང་འདུས་པ་དང་ལྡན་པ།",
+      "en": "It is without contradiction. It is all-embracing.",
+      "en-trans": "mitünpa mé ching düpa dang denpa"
+    },
+    {
+      "bo": "བརྟེན་པ་ཡོད་པ།",
+      "en": "It is constant.",
+      "en-trans": "tenpa yöpa"
+    },
+    {
+      "bo": "རྒྱུ་བ་བཅད་པའོ། །",
+      "en": "It is the cessation of all uncertainty.",
+      "en-trans": "gyuwa chepa o"
+    },
+    {
+      "bo": "ཐེག་པ་ཆེན་པོའི་དགེ་འདུན་ནི་ལེགས་པར་ཞུགས་པ།",
+      "en": "As for the Sangha of the Great vehicle, they enter thoroughly.",
+      "en-trans": "tekpa chenpö gendün ni lekpar zhukpa"
+    },
+    {
+      "bo": "རིགས་པར་ཞུགས་པ།",
+      "en": "They enter with awareness.",
+      "en-trans": "rikpar zhukpa"
+    },
+    {
+      "bo": "དྲང་པོར་ཞུགས་པ།",
+      "en": "They enter straightforwardly.",
+      "en-trans": "drangpor zhukpa"
+    },
+    {
+      "bo": "མཐུན་པར་ཞུགས་པ།",
+      "en": "They enter harmoniously.",
+      "en-trans": "tünpar zhukpa"
+    },
+    {
+      "bo": "ཐལ་མོ་སྦྱར་བའི་འོས་སུ་གྱུར་པ།",
+      "en": "They are worthy of veneration with palms joined together.",
+      "en-trans": "talmo jarwé ö su gyurpa"
+    },
+    {
+      "bo": "ཕྱག་བྱ་བའི་འོས་སུ་གྱུར་པ།",
+      "en": "They are worthy of receiving prostrations.",
+      "en-trans": "chak jawé ö su gyurpa"
+    },
+    {
+      "bo": "བསོད་ནམས་ཀྱི་དཔལ་གྱི་ཞིང༌།",
+      "en": "They are a glorious field of merit.",
+      "en-trans": "sönam kyi pal gyi zhing"
+    },
+    {
+      "bo": "ཡོན་ཡོངས་སུ་སྦྱོང་བ་ཆེན་པོ།",
+      "en": "Offering to them brings great purification.",
+      "en-trans": "yön yongsu jongwa chenpo"
+    },
+    {
+      "bo": "སྦྱིན་པའི་གནས་སུ་གྱུར་པ།",
+      "en": "They are an object of generosity.",
+      "en-trans": "jinpé né su gyurpa"
+    },
+    {
+      "bo": "ཀུན་ཏུ་ཡང་སྦྱིན་པའི་གནས་སུ་གྱུར་པ་ཆེན་པོའོ།",
+      "en": "They are in every way the greatest object of generosity.",
+      "en-trans": "küntu yang jinpé né su gyurpa chenpo o"
+    }
+  ]
+}

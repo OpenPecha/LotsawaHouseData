@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:D4022660-C833-11F0-840F-A6BC351F928D" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>Seven-Line Prayer Collection – LotsawaHouse</text>
+  </docTitle>
+  <docAuthor>
+    <text>Jamyang Khyentse Chökyi Lodrö, Dilgo Khyentse Rinpoche, Mipham Rinpoche, Shakya Shri, Guru Chökyi Wangchuk, Dudjom Rinpoche, Dodrupchen Jigme Tenpe Nyima</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="ch2" playOrder="1">
+      <navLabel>
+        <text>Dedicatory Colophon Verses for Shower of Blessings</text>
+      </navLabel>
+      <content src="head0.html" />
+    </navPoint>
+    <navPoint id="ch4" playOrder="2">
+      <navLabel>
+        <text>Dedicatory Colophon Verses</text>
+      </navLabel>
+      <content src="head1.html" />
+    </navPoint>
+    <navPoint id="ch6" playOrder="3">
+      <navLabel>
+        <text>Guide to A Shower of Blessings</text>
+      </navLabel>
+      <content src="head2.html" />
+    </navPoint>
+    <navPoint id="ch8" playOrder="4">
+      <navLabel>
+        <text>A Shower of Blessings</text>
+      </navLabel>
+      <content src="head3.html" />
+    </navPoint>
+    <navPoint id="ch10" playOrder="5">
+      <navLabel>
+        <text>Shower of Blessings Addendum</text>
+      </navLabel>
+      <content src="head4.html" />
+    </navPoint>
+    <navPoint id="ch12" playOrder="6">
+      <navLabel>
+        <text>The Seven-Line Prayer</text>
+      </navLabel>
+      <content src="head5.html" />
+    </navPoint>
+    <navPoint id="ch14" playOrder="7">
+      <navLabel>
+        <text>Remainder Torma Offering</text>
+      </navLabel>
+      <content src="head6.html" />
+    </navPoint>
+    <navPoint id="ch16" playOrder="8">
+      <navLabel>
+        <text>Excellent Vase of Splendour</text>
+      </navLabel>
+      <content src="head7.html" />
+    </navPoint>
+    <navPoint id="ch18" playOrder="9">
+      <navLabel>
+        <text>Visualization for Seven-Line Prayer</text>
+      </navLabel>
+      <content src="head8.html" />
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,36 @@
+{
+  "source": "lotsawahouse",
+  "source_url": "https://www.lotsawahouse.org/tibetan-masters/tsongkhapa/prayer-to-rendawa-shonnu-lodro",
+  "copyright": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "title": {
+    "bo": "༄༅། །རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས་ཀྱི་གསོལ་འདེབས།",
+    "en": "Prayer to Rendawa Zhönnu Lodrö"
+  },
+  "text": [
+    {
+      "bo": "དམིགས་མེད་བརྩེ་བའི་གཏེར་ཆེན་སྤྱན་རས་གཟིགས། །",
+      "en": "You are the great treasury of non-referential compassion, Avalokiteśvara;",
+      "en-trans": "mikmé tsewé terchen chenrézik"
+    },
+    {
+      "bo": "དྲི་མེད་མཁྱེན་པའི་དབང་པོ་འཇམ་དཔལ་དབྱངས། །",
+      "en": "The powerful lord of flawless wisdom, Mañjuśrī;",
+      "en-trans": "drimé khyenpé wangpo jampal yang"
+    },
+    {
+      "bo": "བདུད་དཔུང་མ་ལུས་འཇོམས་མཛད་གསང་བའི་བདག །",
+      "en": "And the destroyer of all demonic forces, Guhyapati (Vajrapāṇi);",
+      "en-trans": "düpung malü jomdzé sangwé dak"
+    },
+    {
+      "bo": "གངས་ཅན་མཁས་པའི་གཙུག་རྒྱན་རེད་མདའ་བ། །",
+      "en": "The crowning glory of all the learned masters of this Land of Snows—",
+      "en-trans": "khangchen khépé tsukgyen rendawa"
+    },
+    {
+      "bo": "གཞོན་ནུ་བློ་གྲོས་ཞབས་ལ་གསོལ་བ་འདེབས། །",
+      "en": "Rendawa Zhönnu Lodrö, at your feet I pray!",
+      "en-trans": "zhönnu lodrö zhap la solwa dep"
+    }
+  ]
+}

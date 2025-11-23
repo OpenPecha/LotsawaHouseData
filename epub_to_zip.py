@@ -4,8 +4,8 @@ import shutil
 from pathlib import Path
 
 # Directory containing EPUB files
-INPUT_DIR = "lotsawahouse_prayers"
-OUTPUT_DIR = "lotsawa_prayers_zip"
+INPUT_DIR = "wb_prayers/epubs"
+OUTPUT_DIR = "wb_prayers/zips"
 
 def main():
     input_dir = Path(INPUT_DIR)
